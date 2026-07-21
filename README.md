@@ -40,7 +40,6 @@ Interactive map of European higher-education institutions offering programmes in
 | `verificationLevel` | 1-3 | Data-confidence level (see below). |
 | `website` | string | Institution homepage. |
 | `lastChecked` | string \| null | ISO date the record's programme/fee data was last verified against source. `null` = not yet verified in this provenance system. |
-| `x`, `y` | number | **Legacy.** Percentage positions used by the previous image-based map; retained for provenance and no longer used by the app. |
 
 ### `geoSource` (coordinate provenance)
 
