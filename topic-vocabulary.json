@@ -1,0 +1,57 @@
+{
+  "name": "Construction-Computing Education Topic Vocabulary",
+  "version": "2.0.0",
+  "description": "Controlled vocabulary for the `topics` field, organised into two facets: computing/digital topics (the subject of this map) and domains/disciplines (the built-environment context in which they are taught). Each record's `topics` are also split into `computingTopics` and `domains`. New dataset entries should use these controlled terms only.",
+  "facets": {
+    "computingTopics": {
+      "definition": "Digital and computational methods, tools, standards and technologies for the built environment — the core subject of this map.",
+      "terms": [
+        "BIM",
+        "BIM Software",
+        "openBIM & IFC",
+        "ISO 19650",
+        "nD BIM",
+        "Infrastructure BIM",
+        "Heritage BIM",
+        "Digital Construction",
+        "Construction Informatics",
+        "Digital Twins",
+        "AI & Machine Learning",
+        "Parametric & Generative Design",
+        "GIS & BIM Integration",
+        "Data Management",
+        "VR/AR",
+        "3D Modeling & Scanning",
+        "Digital Fabrication",
+        "Robotics & Automation",
+        "CAD/CAM",
+        "Digital Design",
+        "Programming",
+        "IoT",
+        "Collaborative Workflows",
+        "Energy Performance",
+        "Smart Cities & Buildings"
+      ]
+    },
+    "domains": {
+      "definition": "Built-environment disciplines, application domains and management areas that provide the context for the computing topics.",
+      "terms": [
+        "Architecture",
+        "Civil Engineering",
+        "Structural Engineering",
+        "Construction Engineering",
+        "Infrastructure Engineering",
+        "Construction Management",
+        "Project Management",
+        "Facility & Asset Management",
+        "Procurement & Contracts",
+        "Risk & Safety Management",
+        "Lean & Integrated Delivery",
+        "Sustainability",
+        "Timber Construction",
+        "Prefabrication & Modular Construction",
+        "Innovation & Entrepreneurship"
+      ]
+    }
+  }
+}

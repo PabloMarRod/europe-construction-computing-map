@@ -1,0 +1,151 @@
+{
+  "name": "European Construction-Computing Education Map",
+  "description": "Dataset of European higher-education institutions offering programmes in digital construction, BIM, and construction informatics, with programme, cost, accreditation, delivery, and geographic detail.",
+  "version": "1.0.0",
+  "generated": "2026-07-20",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "citation": "European Construction-Computing Education Map (v1.0.0). CC BY 4.0. <add author / DOI on deposit>.",
+  "maintainerContact": "<add maintainer email or ORCID>",
+  "repository": "https://github.com/PabloMarRod/europe-construction-computing-map",
+  "coverage": {
+    "institutions": 309,
+    "countries": 42,
+    "countryList": [
+      "Albania",
+      "Austria",
+      "Belarus",
+      "Belgium",
+      "Bosnia and Herzegovina",
+      "Bulgaria",
+      "Croatia",
+      "Cyprus",
+      "Czech Republic",
+      "Denmark",
+      "Estonia",
+      "Finland",
+      "France",
+      "Germany",
+      "Greece",
+      "Hungary",
+      "Iceland",
+      "Ireland",
+      "Italy",
+      "Kosovo",
+      "Latvia",
+      "Lithuania",
+      "Luxembourg",
+      "Malta",
+      "Moldova",
+      "Montenegro",
+      "Netherlands",
+      "North Macedonia",
+      "Norway",
+      "Poland",
+      "Portugal",
+      "Romania",
+      "Russia",
+      "Serbia",
+      "Slovakia",
+      "Slovenia",
+      "Spain",
+      "Sweden",
+      "Switzerland",
+      "Turkey",
+      "Ukraine",
+      "United Kingdom"
+    ],
+    "distinctTopics": 40
+  },
+  "sourcesOfRecord": {
+    "note": "Primary per-record sources are the institution homepage (`website`) and the programme pages (`programLinks`). No third-party aggregator is treated as authoritative.",
+    "basemap": "© OpenStreetMap contributors"
+  },
+  "methodology": {
+    "coordinates": {
+      "method": "Geocoded with OpenStreetMap Nominatim, then a precision-audit pass that re-queried city-centroid fallbacks with a 25 km distance gate, plus manual verification of unresolved cases. Per-record method recorded in `geoSource`.",
+      "derived": "2026-07-20",
+      "geoSourceLegend": {
+        "nominatim:name+city": "resolved to the named institution in its city (campus-level)",
+        "nominatim:name": "resolved to the named institution (institution-level)",
+        "nominatim:name (audited)": "upgraded from city centroid during the audit pass (campus-level)",
+        "nominatim:name+city (manual)": "hand-verified coordinates",
+        "nominatim:city": "city centroid only — approximate, not the campus location"
+      },
+      "geoSourceCounts": {
+        "nominatim:name+city": 144,
+        "nominatim:name (audited)": 88,
+        "nominatim:city": 66,
+        "nominatim:name": 7,
+        "nominatim:name+city (manual)": 4
+      },
+      "campusLevel": 243,
+      "cityCentroidOnly": 66
+    },
+    "graduatesPerYear": {
+      "nature": "Values are annual-graduate estimates, expressed as ranges. They are indicative, not official institutional statistics.",
+      "imputation": "Records originally lacking a figure were imputed from the median of peer institutions in this dataset (same country and institution type where n>=3, widening to type, then to all). Imputed records carry `graduatesEstimated: true` and a `graduatesEstimateBasis` string.",
+      "imputedCount": 51
+    },
+    "cost": {
+      "unit": "indicative tuition, EUR per year; ranges typically span EU/EEA to non-EU or cheapest-to-priciest relevant programme",
+      "note": "12 records previously marked 'Variable' were reviewed on 2026-07-20; 10 were replaced with figures verified against national fee frameworks or institutional pages, and 2 (an alternance/employer-funded Mastère Spécialisé and a short certificate course) were retained as 'Variable' as genuinely programme-/funding-dependent.",
+      "numericRecords": 307,
+      "variableRecords": 2
+    },
+    "verificationLevel": {
+      "legend": {
+        "1": "recently collected, not yet validated against sources",
+        "2": "cross-referenced with publicly available university sources",
+        "3": "confirmed directly by the institution"
+      },
+      "counts": {
+        "1": 8,
+        "2": 294,
+        "3": 7
+      }
+    },
+    "topics": {
+      "controlledVocabulary": "topic-vocabulary.json (40 terms in two facets)",
+      "note": "The topics field uses a controlled vocabulary split into two facets: computingTopics (the digital subject matter) and domains (built-environment context). Each record carries computingTopics and domains as derived subsets of topics.",
+      "facetCounts": {
+        "computingTerms": 25,
+        "domainTerms": 15
+      },
+      "recordsWithComputingTopic": 308,
+      "recordsWithDomain": 272,
+      "tagging": {
+        "rubric": "tagging-rubric.md",
+        "rule": "Tag a topic only where the institution's own pages show a named course/module or an explicit programme learning outcome; applied uniformly to all institutions.",
+        "interpretation": "Tags are confirmed curriculum presence (a floor), not an exhaustive measure; absence = not confirmed from public sources. Documentation bias is a stated limitation."
+      }
+    }
+  },
+  "provenanceFields": {
+    "geoSource": "coordinate provenance (see geoSourceLegend)",
+    "graduatesEstimated": "true where graduatesPerYear was peer-imputed",
+    "graduatesEstimateBasis": "peer group and sample size for imputed graduate figures",
+    "verificationLevel": "1-3 data-confidence scale",
+    "lastChecked": "ISO date a record's programme/fee data was last verified against source; null = not yet verified in this provenance system"
+  },
+  "knownLimitations": [
+    "66 institutions are pinned to a city centroid rather than the exact campus (see geoSource='nominatim:city').",
+    "51 graduatesPerYear values are peer-imputed estimates (graduatesEstimated=true); the remaining figures are also indicative estimates rather than official statistics.",
+    "2 cost values remain 'Variable' (funding-/programme-dependent).",
+    "Most records sit at verificationLevel 2 (cross-referenced); only 7 are institution-confirmed. lastChecked is null pending a verification pass.",
+    "Cost figures are current-year rates and will drift; re-verify against source before citing."
+  ],
+  "validation": {
+    "method": "Stratified random sample (seed=42, region-stratified), each institution checked against its own programme pages under tagging-rubric.md.",
+    "sampleSize": 25,
+    "verifiedInSample": 23,
+    "unverifiable": 1,
+    "excluded": 1,
+    "underTagged": 12,
+    "overTagged": 0,
+    "underTaggedRate": "52% of verified (100% of single-tag records)",
+    "mostCommonlyOmitted": "AI & Machine Learning",
+    "recordsVerifiedToDate": 49,
+    "censusStatus": "In progress (38/309 verified). Sample rate (>50% under-tagged) warrants full verification; CESI campuses corrected via shared national-programme evidence. Priority: <=2-tag population. Records verified under the rubric carry lastChecked."
+  }
+}
