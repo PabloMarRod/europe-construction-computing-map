@@ -16,24 +16,6 @@ Interactive map of European higher-education institutions offering programmes in
 | `tagging-rubric.md` | The rule governing how topics are assigned and verified (named course/module or explicit learning outcome; applied uniformly), plus the interpretation of tags as a confirmed-presence floor. Governs the ongoing verification census. |
 | `ec3_logo.jpg` | EC3 branding used in the header. |
 
-## Running locally
-
-The dataset is embedded directly in `index.html`, so there is **no `fetch`, no separate data file to load, and no folder structure to preserve.** You can open `index.html` by double-clicking it, or publish it as-is.
-
-```bash
-# from the repository root
-python -m http.server 8000
-# then open http://localhost:8000 in a browser
-```
-
-The only runtime dependency is an internet connection (Leaflet from CDN, map tiles from OpenStreetMap).
-
-## Deployment
-
-**Upload the single file `index.html` to your repository** (drag it into the GitHub web uploader — no folders involved), then Settings -> Pages -> deploy from the `main` branch, root. That is the whole deployment. `data.json` can be uploaded alongside it for citation/reuse, but the map does not depend on it.
-
-To update the map after editing `data.json`, run `python3 build_site.py` to regenerate `index.html`, then re-upload that one file.
-
 ## Data schema
 
 `data.json` is an array of institution objects. Fields:
