@@ -3,8 +3,6 @@
     "name": "Northumbria University",
     "country": "United Kingdom",
     "city": "Newcastle upon Tyne",
-    "x": 26.6,
-    "y": 45.7,
     "programs": [
       "MSc Construction Project Management with BIM",
       "MSc Construction Project Management with BIM (Advanced Practice)",
@@ -53,8 +51,6 @@
     "name": "Reykjavík University",
     "country": "Iceland",
     "city": "Reykjavík",
-    "x": 8.5,
-    "y": 13.3,
     "programs": [
       "BSc Architectural Technology and Construction Management (BIM integrated throughout)"
     ],
@@ -100,8 +96,6 @@
     "name": "University of Iceland (Háskóli Íslands)",
     "country": "Iceland",
     "city": "Reykjavík",
-    "x": 8,
-    "y": 13.3,
     "programs": [
       "BSc Civil and Environmental Engineering (with BIM module)",
       "MSc Civil and Environmental Engineering",
@@ -152,8 +146,6 @@
     "name": "TU Dublin",
     "country": "Ireland",
     "city": "Dublin",
-    "x": 17.8,
-    "y": 48.6,
     "programs": [
       "BSc (Hons) BIM (Digital Construction)",
       "MSc in Applied Building Information Modelling & Management",
@@ -201,8 +193,6 @@
     "name": "Ulster University",
     "country": "United Kingdom",
     "city": "Belfast",
-    "x": 19.3,
-    "y": 44.9,
     "programs": [
       "MSc Digital Construction Analytics and BIM",
       "PhD in Architecture, Built Environment and Planning"
@@ -248,8 +238,6 @@
     "name": "Belfast Metropolitan College",
     "country": "United Kingdom",
     "city": "Belfast",
-    "x": 19.5,
-    "y": 44.7,
     "programs": [
       "FdEng Civil Engineering",
       "FdEng Architectural Technology (BIM Applications module)",
@@ -294,8 +282,6 @@
     "name": "University of Galway",
     "country": "Ireland",
     "city": "Galway",
-    "x": 13.4,
-    "y": 47.4,
     "programs": [
       "MSc Construction Innovation",
       "Postgraduate Diploma in Construction Innovation",
@@ -345,8 +331,6 @@
     "name": "University of Limerick",
     "country": "Ireland",
     "city": "Limerick",
-    "x": 14.1,
-    "y": 49.2,
     "programs": [
       "BSc Construction Management and Engineering",
       "PhD Civil Engineering and Materials Science"
@@ -388,8 +372,6 @@
     "name": "University College Dublin (UCD)",
     "country": "Ireland",
     "city": "Dublin",
-    "x": 18,
-    "y": 48.8,
     "programs": [
       "BSc Architecture",
       "BSc Civil Engineering",
@@ -444,8 +426,6 @@
     "name": "Trinity College Dublin (TCD)",
     "country": "Ireland",
     "city": "Dublin",
-    "x": 17.6,
-    "y": 48.5,
     "programs": [
       "BAI/MAI Engineering (Civil, Structural & Environmental specialisation)",
       "MSc Civil, Structural and Environmental Engineering",
@@ -497,8 +477,6 @@
     "name": "University College Cork (UCC)",
     "country": "Ireland",
     "city": "Cork",
-    "x": 14.4,
-    "y": 51.3,
     "programs": [
       "BE/ME Civil, Structural and Environmental Engineering",
       "BE/ME Process and Chemical Engineering",
@@ -548,8 +526,6 @@
     "name": "Atlantic Technological University (ATU)",
     "country": "Ireland",
     "city": "Sligo",
-    "x": 14.3,
-    "y": 45.5,
     "programs": [
       "MSc Building Information Modelling and Digital Leadership",
       "Postgraduate Certificate BIM and Lean Construction Management"
@@ -598,8 +574,6 @@
     "name": "Munster Technological University (MTU)",
     "country": "Ireland",
     "city": "Cork",
-    "x": 14.2,
-    "y": 51.5,
     "programs": [
       "BSc (Hons) Building Information Modelling",
       "MSc BIM and Digital AEC",
@@ -654,8 +628,6 @@
     "name": "Technological University of the Shannon (TUS)",
     "country": "Ireland",
     "city": "Athlone",
-    "x": 15.2,
-    "y": 47.6,
     "programs": [
       "BSc (Hons) Construction Management"
     ],
@@ -702,8 +674,6 @@
     "name": "South East Technological University (SETU)",
     "country": "Ireland",
     "city": "Waterford",
-    "x": 16.5,
-    "y": 51,
     "programs": [
       "BSc (Hons) Construction Management with BIM"
     ],
@@ -748,8 +718,6 @@
     "name": "University of Strathclyde",
     "country": "United Kingdom",
     "city": "Glasgow",
-    "x": 22.8,
-    "y": 43.7,
     "programs": [
       "MSc Advanced Construction Technologies & BIM",
       "PhD in Digital Construction"
@@ -793,8 +761,6 @@
     "name": "Robert Gordon University",
     "country": "United Kingdom",
     "city": "Aberdeen",
-    "x": 26.3,
-    "y": 39.2,
     "programs": [
       "MSc Construction Project Management",
       "PhD in Architecture and Built Environment"
@@ -840,8 +806,6 @@
     "name": "University of Edinburgh",
     "country": "United Kingdom",
     "city": "Edinburgh",
-    "x": 24.9,
-    "y": 42.2,
     "programs": [
       "BEng Civil Engineering",
       "MEng Civil Engineering",
@@ -893,8 +857,6 @@
     "name": "Edinburgh Napier University",
     "country": "United Kingdom",
     "city": "Edinburgh",
-    "x": 24.7,
-    "y": 42.4,
     "programs": [
       "MSc Construction Project Management",
       "MSc Architectural Technology & Building Performance",
@@ -945,8 +907,6 @@
     "name": "Cardiff University",
     "country": "United Kingdom",
     "city": "Cardiff",
-    "x": 22.2,
-    "y": 54,
     "programs": [
       "MSc Building and Infrastructure Information Modelling (BIM) for Smart Engineering",
       "MPhil/PhD in Engineering (BIM specialization)"
@@ -1000,8 +960,6 @@
     "name": "University of South Wales",
     "country": "United Kingdom",
     "city": "Newport",
-    "x": 23,
-    "y": 53.8,
     "programs": [
       "MSc Construction Project Management"
     ],
@@ -1046,8 +1004,6 @@
     "name": "NTNU (Norwegian University of Science and Technology)",
     "country": "Norway",
     "city": "Trondheim/Gjøvik",
-    "x": 41.9,
-    "y": 25.5,
     "programs": [
       "MSc Civil and Environmental Engineering (Digital Building Processes specialization)",
       "PhD Civil and Environmental Engineering"
@@ -1092,8 +1048,6 @@
     "name": "Oslo Metropolitan University",
     "country": "Norway",
     "city": "Oslo",
-    "x": 44.9,
-    "y": 33.6,
     "programs": [
       "MSc Civil Engineering - Building Technology",
       "PhD in Engineering Science (Built Environment)"
@@ -1139,8 +1093,6 @@
     "name": "University of Stavanger (UiS)",
     "country": "Norway",
     "city": "Stavanger",
-    "x": 38.8,
-    "y": 37.5,
     "programs": [
       "MSc Structural and Mechanical Engineering",
       "BIM Project Management course (BYG230)"
@@ -1186,8 +1138,6 @@
     "name": "Jönköping University",
     "country": "Sweden",
     "city": "Jönköping",
-    "x": 50.2,
-    "y": 39.3,
     "programs": [
       "MSc Sustainable Building Information Management",
       "PhD (BIM / Digital Built Environment research)"
@@ -1235,8 +1185,6 @@
     "name": "KTH Royal Institute of Technology",
     "country": "Sweden",
     "city": "Stockholm",
-    "x": 55.2,
-    "y": 34.3,
     "programs": [
       "MSc Civil and Architectural Engineering",
       "PhD Engineering"
@@ -1280,8 +1228,6 @@
     "name": "Chalmers University of Technology",
     "country": "Sweden",
     "city": "Gothenburg",
-    "x": 47.2,
-    "y": 39.7,
     "programs": [
       "MSc Design and Construction Project Management",
       "PhD Built Environment"
@@ -1325,8 +1271,6 @@
     "name": "Technical University of Denmark (DTU)",
     "country": "Denmark",
     "city": "Copenhagen/Lyngby",
-    "x": 48.2,
-    "y": 44.9,
     "programs": [
       "MSc Architectural Engineering",
       "MSc Civil Engineering",
@@ -1370,8 +1314,6 @@
     "name": "University of Southern Denmark (SDU)",
     "country": "Denmark",
     "city": "Odense/Sønderborg",
-    "x": 45.8,
-    "y": 46.5,
     "programs": [
       "MSc Civil and Architectural Engineering (CREATE specialization)",
       "BSc Civil Engineering",
@@ -1419,8 +1361,6 @@
     "name": "Aalborg University",
     "country": "Denmark",
     "city": "Aalborg",
-    "x": 44,
-    "y": 41.5,
     "programs": [
       "MSc Construction Management and Building Informatics",
       "PhD in Built Environment / Construction Computing"
@@ -1466,8 +1406,6 @@
     "name": "VIA University College",
     "country": "Denmark",
     "city": "Horsens",
-    "x": 44.1,
-    "y": 45,
     "programs": [
       "Full-time programmes (Civil/Construction)"
     ],
@@ -1511,8 +1449,6 @@
     "name": "Luleå University of Technology",
     "country": "Sweden",
     "city": "Luleå",
-    "x": 58.8,
-    "y": 16.5,
     "programs": [
       "BSc Architectural Engineering (with Construction Technology focus)",
       "BSc Civil Engineering (with Construction Technology focus)",
@@ -1560,8 +1496,6 @@
     "name": "Lund University (LTH - Faculty of Engineering)",
     "country": "Sweden",
     "city": "Lund",
-    "x": 49.3,
-    "y": 44.8,
     "programs": [
       "MSc Architecture",
       "Course catalogue (programmes)"
@@ -1610,8 +1544,6 @@
     "name": "Metropolia University of Applied Sciences",
     "country": "Finland",
     "city": "Helsinki",
-    "x": 63.5,
-    "y": 31.1,
     "programs": [
       "MEng Computing in Construction",
       "BEng Construction Information Technology"
@@ -1663,8 +1595,6 @@
     "name": "Aalto University",
     "country": "Finland",
     "city": "Espoo",
-    "x": 62.5,
-    "y": 30.8,
     "programs": [
       "MSc in Building Technology",
       "DiCtion / Doctoral programme"
@@ -1717,8 +1647,6 @@
     "name": "Tampere University",
     "country": "Finland",
     "city": "Tampere",
-    "x": 62,
-    "y": 27.5,
     "programs": [
       "MSc Civil Engineering",
       "Faculty of Built Environment",
@@ -1768,8 +1696,6 @@
     "name": "University of Oulu",
     "country": "Finland",
     "city": "Oulu",
-    "x": 63.2,
-    "y": 17.8,
     "programs": [
       "MSc Architecture",
       "Civil and Construction Engineering",
@@ -1817,8 +1743,6 @@
     "name": "Tallinn University of Technology (TalTech)",
     "country": "Estonia",
     "city": "Tallinn",
-    "x": 64.5,
-    "y": 32.8,
     "programs": [
       "PhD Building and Civil Engineering and Architecture"
     ],
@@ -1862,8 +1786,6 @@
     "name": "Estonian University of Life Sciences (EMÜ)",
     "country": "Estonia",
     "city": "Tartu",
-    "x": 68.25,
-    "y": 35.65,
     "programs": [
       "MSc Civil Engineering (Rural Building)",
       "BSc Civil Engineering"
@@ -1907,8 +1829,6 @@
     "name": "Estonian Academy of Arts (EKA)",
     "country": "Estonia",
     "city": "Tallinn",
-    "x": 65,
-    "y": 33.1,
     "programs": [
       "MA Architecture and Urban Design",
       "MA Interior Architecture"
@@ -1952,8 +1872,6 @@
     "name": "Kaunas University of Technology (KTU)",
     "country": "Lithuania",
     "city": "Kaunas",
-    "x": 65.6,
-    "y": 45.1,
     "programs": [
       "MSc Construction Management (with BIM focus)",
       "PhD (Civil Engineering)"
@@ -2001,8 +1919,6 @@
     "name": "Vilnius Gediminas Technical University (VILNIUS TECH)",
     "country": "Lithuania",
     "city": "Vilnius",
-    "x": 67.8,
-    "y": 45.7,
     "programs": [
       "BEng Civil Engineering",
       "BEng Construction and Real Estate Management",
@@ -2056,8 +1972,6 @@
     "name": "Riga Technical University (RTU)",
     "country": "Latvia",
     "city": "Riga",
-    "x": 64.4,
-    "y": 39.7,
     "programs": [
       "BSc Civil Engineering",
       "MSc Civil Engineering",
@@ -2103,8 +2017,6 @@
     "name": "Latvia University of Life Sciences and Technologies (LBTU)",
     "country": "Latvia",
     "city": "Jelgava",
-    "x": 64.16,
-    "y": 40.43,
     "programs": [
       "MSc Civil Engineering",
       "Professional Master Landscape Architecture and Planning",
@@ -2150,8 +2062,6 @@
     "name": "Warsaw University of Technology",
     "country": "Poland",
     "city": "Warsaw",
-    "x": 62.7,
-    "y": 52.2,
     "programs": [
       "MSc Civil Engineering",
       "PhD in Civil Engineering / Architecture"
@@ -2189,8 +2099,6 @@
     "name": "Krakow University of Technology",
     "country": "Poland",
     "city": "Krakow",
-    "x": 61.8,
-    "y": 58.7,
     "programs": [
       "BSc Civil Engineering",
       "MSc Civil Engineering (BIM Specialization)",
@@ -2246,8 +2154,6 @@
     "name": "AGH University of Science and Technology",
     "country": "Poland",
     "city": "Krakow",
-    "x": 62.1,
-    "y": 59,
     "programs": [
       "Postgraduate BIM Coordinator",
       "PhD (Civil Engineering & Resource Management)"
@@ -2290,8 +2196,6 @@
     "name": "Wroclaw University of Science and Technology",
     "country": "Poland",
     "city": "Wroclaw",
-    "x": 56.2,
-    "y": 56.3,
     "programs": [
       "MSc Civil Engineering",
       "PhD in Civil Engineering"
@@ -2334,8 +2238,6 @@
     "name": "Gdańsk University of Technology (Gdańsk Tech)",
     "country": "Poland",
     "city": "Gdańsk",
-    "x": 57.63,
-    "y": 46.93,
     "programs": [
       "MSc Civil Engineering",
       "MSc Environmental Engineering",
@@ -2381,8 +2283,6 @@
     "name": "Silesian University of Technology (Politechnika Śląska)",
     "country": "Poland",
     "city": "Gliwice",
-    "x": 59.45,
-    "y": 58.25,
     "programs": [
       "MSc Civil Engineering (Civil and Industrial Structures, Bridges, Geotechnics)",
       "MSc Architecture"
@@ -2426,8 +2326,6 @@
     "name": "Lodz University of Technology (TUL)",
     "country": "Poland",
     "city": "Łódź",
-    "x": 60.18,
-    "y": 53.98,
     "programs": [
       "BSc/MSc BIM — Modelling and Coordination",
       "MSc Civil Engineering",
@@ -2475,8 +2373,6 @@
     "name": "Delft University of Technology (TU Delft)",
     "country": "Netherlands",
     "city": "Delft",
-    "x": 34.8,
-    "y": 54.9,
     "programs": [
       "MSc Construction Management and Engineering (4TU joint program)",
       "MSc Architecture, Urbanism & Building Sciences",
@@ -2530,8 +2426,6 @@
     "name": "Eindhoven University of Technology (TU/e)",
     "country": "Netherlands",
     "city": "Eindhoven",
-    "x": 36.7,
-    "y": 56.4,
     "programs": [
       "MSc Construction Management and Engineering (4TU joint program)",
       "PhD in Built Environment"
@@ -2578,8 +2472,6 @@
     "name": "University of Twente",
     "country": "Netherlands",
     "city": "Enschede",
-    "x": 39,
-    "y": 54,
     "programs": [
       "MSc Construction Management & Engineering (4TU joint program)",
       "MSc Civil Engineering & Management (with CME specialisation)",
@@ -2631,8 +2523,6 @@
     "name": "Saxion University of Applied Sciences",
     "country": "Netherlands",
     "city": "Enschede",
-    "x": 39.1,
-    "y": 54.1,
     "programs": [
       "BSc Civil Engineering"
     ],
@@ -2674,8 +2564,6 @@
     "name": "Hogeschool Rotterdam (Rotterdam University of Applied Sciences)",
     "country": "Netherlands",
     "city": "Rotterdam",
-    "x": 35,
-    "y": 55,
     "programs": [
       "BSc Bouwkunde (voltijd)",
       "AD Built Environment",
@@ -2727,8 +2615,6 @@
     "name": "Hogeschool Utrecht (HU University of Applied Sciences Utrecht)",
     "country": "Netherlands",
     "city": "Utrecht",
-    "x": 36.1,
-    "y": 54.6,
     "programs": [
       "BSc Built Environment (voltijd)",
       "BSc Built Environment (deeltijd)",
@@ -2778,8 +2664,6 @@
     "name": "Avans University of Applied Sciences",
     "country": "Netherlands",
     "city": "Breda",
-    "x": 35.5,
-    "y": 55.9,
     "programs": [
       "BSc Bouwkunde voltijd",
       "BSc Bouwkunde duaal"
@@ -2827,8 +2711,6 @@
     "name": "Hogeschool van Amsterdam (Amsterdam University of Applied Sciences)",
     "country": "Netherlands",
     "city": "Amsterdam",
-    "x": 35.8,
-    "y": 53.8,
     "programs": [
       "BSc Built Environment"
     ],
@@ -2872,8 +2754,6 @@
     "name": "HAN University of Applied Sciences (Hogeschool van Arnhem en Nijmegen)",
     "country": "Netherlands",
     "city": "Arnhem",
-    "x": 37.4,
-    "y": 54.8,
     "programs": [
       "BSc Bouwkunde voltijd",
       "BSc Civiele Techniek voltijd",
@@ -2921,8 +2801,6 @@
     "name": "Hanze University of Applied Sciences Groningen",
     "country": "Netherlands",
     "city": "Groningen",
-    "x": 38.6,
-    "y": 51.5,
     "programs": [
       "BSc Built Environment (voltijd)"
     ],
@@ -2966,8 +2844,6 @@
     "name": "Windesheim University of Applied Sciences",
     "country": "Netherlands",
     "city": "Zwolle",
-    "x": 37.7,
-    "y": 53.4,
     "programs": [
       "BSc Bouwkunde voltijd Zwolle",
       "BSc Bouwkunde voltijd Almere",
@@ -3015,8 +2891,6 @@
     "name": "KU Leuven",
     "country": "Belgium",
     "city": "Leuven",
-    "x": 35.2,
-    "y": 57.9,
     "programs": [
       "Master of Architectural Engineering",
       "Master of Architecture",
@@ -3067,8 +2941,6 @@
     "name": "Vrije Universiteit Brussel (VUB)",
     "country": "Belgium",
     "city": "Brussels",
-    "x": 34.7,
-    "y": 57.7,
     "programs": [
       "MSc Architectural Engineering",
       "MSc Civil Engineering",
@@ -3114,8 +2986,6 @@
     "name": "Ghent University",
     "country": "Belgium",
     "city": "Ghent",
-    "x": 33.8,
-    "y": 57.2,
     "programs": [
       "MSc Civil Engineering",
       "MSc Civil Engineering Technology",
@@ -3166,8 +3036,6 @@
     "name": "Université de Liège (ULiège)",
     "country": "Belgium",
     "city": "Liège",
-    "x": 36.7,
-    "y": 58.3,
     "programs": [
       "Faculty of Applied Sciences (Architecture/Engineering)",
       "University Certificate in BIM"
@@ -3215,8 +3083,6 @@
     "name": "Université Catholique de Louvain (UCLouvain)",
     "country": "Belgium",
     "city": "Louvain-la-Neuve",
-    "x": 35.5,
-    "y": 58.5,
     "programs": [
       "Certificat universitaire en BIM Management",
       "Attestation BIM"
@@ -3264,8 +3130,6 @@
     "name": "Université Libre de Bruxelles (ULB)",
     "country": "Belgium",
     "city": "Brussels",
-    "x": 35,
-    "y": 58,
     "programs": [
       "Université Libre de Bruxelles (programmes)",
       "DATA4BIM joint course (UMons/ULB/UCLouvain)"
@@ -3311,8 +3175,6 @@
     "name": "University of Antwerp (UAntwerpen)",
     "country": "Belgium",
     "city": "Antwerp",
-    "x": 34.8,
-    "y": 56.9,
     "programs": [
       "Master Civil Engineering Technology"
     ],
@@ -3356,8 +3218,6 @@
     "name": "Université de Mons (UMons)",
     "country": "Belgium",
     "city": "Mons",
-    "x": 34,
-    "y": 58.9,
     "programs": [
       "Certificate DATA4BIM (English)",
       "Certificat UX4BIM (French)",
@@ -3410,8 +3270,6 @@
     "name": "University of Luxembourg",
     "country": "Luxembourg",
     "city": "Luxembourg City",
-    "x": 37.4,
-    "y": 61,
     "programs": [
       "Master in Civil Engineering Sciences – Megastructure Engineering with Sustainable Resources",
       "BEng European Construction Management (tri-national)",
@@ -3463,8 +3321,6 @@
     "name": "University College London (UCL)",
     "country": "United Kingdom",
     "city": "London",
-    "x": 26.8,
-    "y": 54.9,
     "programs": [
       "MSc Geospatial Sciences (Building Information Modelling and Surveying)",
       "MPhil/PhD in Sustainable Construction (BIM specialization)"
@@ -3513,8 +3369,6 @@
     "name": "University of Salford",
     "country": "United Kingdom",
     "city": "Manchester",
-    "x": 24.6,
-    "y": 49.1,
     "programs": [
       "MSc BIM and Digital Built Environments",
       "PhD in Built Environment / BIM"
@@ -3560,8 +3414,6 @@
     "name": "University of Manchester",
     "country": "United Kingdom",
     "city": "Manchester",
-    "x": 24.6,
-    "y": 49.1,
     "programs": [
       "MSc Construction Project Management",
       "MSc International Construction Management and Engineering"
@@ -3607,8 +3459,6 @@
     "name": "Manchester Metropolitan University",
     "country": "United Kingdom",
     "city": "Manchester",
-    "x": 24.6,
-    "y": 49.1,
     "programs": [
       "MSc Engineering Project Management",
       "PhD in Architecture / Digital Construction"
@@ -3650,8 +3500,6 @@
     "name": "Birmingham City University",
     "country": "United Kingdom",
     "city": "Birmingham",
-    "x": 24.6,
-    "y": 51.7,
     "programs": [
       "MSc Building Information Modelling and Digital Construction",
       "MRes/PhD in Built Environment"
@@ -3699,8 +3547,6 @@
     "name": "Middlesex University London",
     "country": "United Kingdom",
     "city": "London",
-    "x": 27.1,
-    "y": 55.2,
     "programs": [
       "MSc Building Information Modelling Management and Sustainable Digital Delivery",
       "MSc Building Information Modelling & Construction Technologies",
@@ -3754,8 +3600,6 @@
     "name": "University of Liverpool",
     "country": "United Kingdom",
     "city": "Liverpool",
-    "x": 23.5,
-    "y": 49.2,
     "programs": [
       "MSc Building Information Modelling and Digital Transformation"
     ],
@@ -3801,8 +3645,6 @@
     "name": "Liverpool John Moores University",
     "country": "United Kingdom",
     "city": "Liverpool",
-    "x": 23.5,
-    "y": 49.2,
     "programs": [
       "BSc Architectural Technology",
       "MSc Construction Project Management",
@@ -3850,8 +3692,6 @@
     "name": "University of Nottingham",
     "country": "United Kingdom",
     "city": "Nottingham",
-    "x": 25.8,
-    "y": 51.5,
     "programs": [
       "MSc Civil Engineering - Digital Construction",
       "MSc Structural Engineering - Digital Construction",
@@ -3899,8 +3739,6 @@
     "name": "Loughborough University",
     "country": "United Kingdom",
     "city": "Loughborough",
-    "x": 25.7,
-    "y": 51.2,
     "programs": [
       "BSc Construction Engineering Management",
       "MSc Construction Project Management",
@@ -3952,8 +3790,6 @@
     "name": "Nottingham Trent University",
     "country": "United Kingdom",
     "city": "Nottingham",
-    "x": 26.1,
-    "y": 51.8,
     "programs": [
       "MSc Digital Architecture and Construction",
       "MSc Civil Engineering",
@@ -4002,8 +3838,6 @@
     "name": "Oxford Brookes University",
     "country": "United Kingdom",
     "city": "Oxford",
-    "x": 25.4,
-    "y": 53.5,
     "programs": [
       "MSc Building Information Modelling and Management",
       "MSc Construction Project Management",
@@ -4058,8 +3892,6 @@
     "name": "University of Cambridge",
     "country": "United Kingdom",
     "city": "Cambridge",
-    "x": 27.7,
-    "y": 52.7,
     "programs": [
       "MSt Construction Engineering (2-year part-time leadership program)",
       "PhD in Engineering (Civil Engineering Division)"
@@ -4107,8 +3939,6 @@
     "name": "Queen's University Belfast",
     "country": "United Kingdom",
     "city": "Belfast",
-    "x": 19,
-    "y": 45.2,
     "programs": [
       "MSc Building Information Modelling Project Management",
       "MSc Applied Digital Construction Management",
@@ -4161,8 +3991,6 @@
     "name": "University of Leeds",
     "country": "United Kingdom",
     "city": "Leeds",
-    "x": 26,
-    "y": 47.8,
     "programs": [
       "MSc International Construction Management and Engineering",
       "MSc Engineering Project Management",
@@ -4214,8 +4042,6 @@
     "name": "University of Bristol",
     "country": "United Kingdom",
     "city": "Bristol",
-    "x": 23.2,
-    "y": 54.3,
     "programs": [
       "MSc Structural Engineering (Asset Management & Digital Transformation pathway)",
       "MPhil/PhD in Engineering"
@@ -4264,8 +4090,6 @@
     "name": "Keele University",
     "country": "United Kingdom",
     "city": "Stoke-on-Trent",
-    "x": 24.1,
-    "y": 50.2,
     "programs": [
       "BEng Civil Engineering",
       "MEng Civil Engineering with Integrated Master's"
@@ -4311,8 +4135,6 @@
     "name": "Aarhus University",
     "country": "Denmark",
     "city": "Aarhus",
-    "x": 44.6,
-    "y": 43.8,
     "programs": [
       "MSc Civil and Architectural Engineering",
       "PhD in Civil & Architectural Engineering"
@@ -4358,8 +4180,6 @@
     "name": "University of Dundee",
     "country": "United Kingdom",
     "city": "Dundee",
-    "x": 25.6,
-    "y": 39.8,
     "programs": [
       "MSc Civil Engineering with Future Construction Technologies"
     ],
@@ -4399,8 +4219,6 @@
     "name": "University of the West of England (UWE Bristol)",
     "country": "United Kingdom",
     "city": "Bristol",
-    "x": 23.1,
-    "y": 54.4,
     "programs": [
       "MSc Building Information Modelling (BIM) in Design, Construction and Operations",
       "MSc Construction Project Management"
@@ -4451,8 +4269,6 @@
     "name": "University of Portsmouth",
     "country": "United Kingdom",
     "city": "Portsmouth",
-    "x": 25.1,
-    "y": 56.3,
     "programs": [
       "MSc Building Information Management"
     ],
@@ -4504,8 +4320,6 @@
     "name": "Heriot-Watt University",
     "country": "United Kingdom",
     "city": "Edinburgh",
-    "x": 24.5,
-    "y": 42.3,
     "programs": [
       "MSc Construction Project Management",
       "MSc Civil Engineering and Construction Management",
@@ -4554,8 +4368,6 @@
     "name": "University of Reading",
     "country": "United Kingdom",
     "city": "Reading",
-    "x": 25.6,
-    "y": 54.7,
     "programs": [
       "MSc Construction Management",
       "MSc Construction Management with Industry Placement",
@@ -4618,8 +4430,6 @@
     "name": "Coventry University",
     "country": "United Kingdom",
     "city": "Coventry",
-    "x": 25.2,
-    "y": 52,
     "programs": [
       "MSc Construction Management with BIM"
     ],
@@ -4667,8 +4477,6 @@
     "name": "University of Westminster",
     "country": "United Kingdom",
     "city": "London",
-    "x": 26.6,
-    "y": 54.6,
     "programs": [
       "MSc Building Information Management",
       "MSc Construction Project Management"
@@ -4717,8 +4525,6 @@
     "name": "University of Wolverhampton",
     "country": "United Kingdom",
     "city": "Wolverhampton",
-    "x": 24.4,
-    "y": 51.4,
     "programs": [
       "MSc Civil Engineering",
       "MSc Construction Project Management",
@@ -4772,8 +4578,6 @@
     "name": "University of Greenwich",
     "country": "United Kingdom",
     "city": "London",
-    "x": 27.2,
-    "y": 55,
     "programs": [
       "MSc Construction Project Management",
       "MSc Construction Project Management with Industrial Placement"
@@ -4818,8 +4622,6 @@
     "name": "Sheffield Hallam University",
     "country": "United Kingdom",
     "city": "Sheffield",
-    "x": 25.8,
-    "y": 49.4,
     "programs": [
       "MSc Construction Project Management (Full-time)",
       "MSc Construction Project Management (Work Experience)",
@@ -4870,8 +4672,6 @@
     "name": "Glasgow Caledonian University",
     "country": "United Kingdom",
     "city": "Glasgow",
-    "x": 22.9,
-    "y": 42.1,
     "programs": [
       "MSc International Construction Project Management"
     ],
@@ -4914,8 +4714,6 @@
     "name": "Kingston University London",
     "country": "United Kingdom",
     "city": "London",
-    "x": 26.5,
-    "y": 55.2,
     "programs": [
       "MSc Management in Construction",
       "MSc Management in Construction (Civil Engineering)",
@@ -4974,8 +4772,6 @@
     "name": "Anglia Ruskin University (ARU)",
     "country": "United Kingdom",
     "city": "Chelmsford",
-    "x": 28,
-    "y": 54.2,
     "programs": [
       "BSc (Hons) Construction Management"
     ],
@@ -5020,8 +4816,6 @@
     "name": "Buckinghamshire New University (BNU)",
     "country": "United Kingdom",
     "city": "High Wycombe",
-    "x": 26,
-    "y": 54.2,
     "programs": [
       "MSc Construction Project Management"
     ],
@@ -5067,8 +4861,6 @@
     "name": "London South Bank University (LSBU)",
     "country": "United Kingdom",
     "city": "London",
-    "x": 27,
-    "y": 55,
     "programs": [
       "MSc Construction Project Management",
       "MSc Building Surveying"
@@ -5119,8 +4911,6 @@
     "name": "University of Huddersfield",
     "country": "United Kingdom",
     "city": "Huddersfield",
-    "x": 25.5,
-    "y": 48.7,
     "programs": [
       "MSc Advanced Project Management in Construction"
     ],
@@ -5164,8 +4954,6 @@
     "name": "University of Lincoln",
     "country": "United Kingdom",
     "city": "Lincoln",
-    "x": 27.2,
-    "y": 50,
     "programs": [
       "MSc Construction Science and Management"
     ],
@@ -5209,8 +4997,6 @@
     "name": "Solent University",
     "country": "United Kingdom",
     "city": "Southampton",
-    "x": 24.6,
-    "y": 56,
     "programs": [
       "MSc Sustainable Building Design"
     ],
@@ -5256,8 +5042,6 @@
     "name": "Teesside University",
     "country": "United Kingdom",
     "city": "Middlesbrough",
-    "x": 26.8,
-    "y": 46.3,
     "programs": [
       "MSc Project Management",
       "MSc Civil and Structural Engineering (with Advanced Practice)"
@@ -5304,8 +5088,6 @@
     "name": "University of Brighton",
     "country": "United Kingdom",
     "city": "Brighton",
-    "x": 26.6,
-    "y": 56.5,
     "programs": [
       "MSc Construction Project Management",
       "MSc Project Management for Construction",
@@ -5355,8 +5137,6 @@
     "name": "Aston University",
     "country": "United Kingdom",
     "city": "Birmingham",
-    "x": 24.7,
-    "y": 51.8,
     "programs": [
       "MSc Construction Management and Engineering",
       "MSc Civil Infrastructure Engineering"
@@ -5404,8 +5184,6 @@
     "name": "University of the Built Environment (UBE)",
     "country": "United Kingdom",
     "city": "Reading",
-    "x": 25.6,
-    "y": 54.7,
     "programs": [
       "MSc Construction Management",
       "MSc Quantity Surveying"
@@ -5456,8 +5234,6 @@
     "name": "Czech Technical University in Prague (CTU)",
     "country": "Czech Republic",
     "city": "Prague",
-    "x": 52.2,
-    "y": 60.2,
     "programs": [
       "BSc Civil Engineering",
       "MSc Civil Engineering",
@@ -5511,8 +5287,6 @@
     "name": "Brno University of Technology (VUT)",
     "country": "Czech Republic",
     "city": "Brno",
-    "x": 56.3,
-    "y": 61.7,
     "programs": [
       "BSc Civil Engineering",
       "MSc Civil Engineering",
@@ -5558,8 +5332,6 @@
     "name": "VSB — Technical University of Ostrava",
     "country": "Czech Republic",
     "city": "Ostrava",
-    "x": 58.97,
-    "y": 59.64,
     "programs": [
       "MSc Civil Engineering — BIM Engineering",
       "MSc Civil Engineering (Building Structures, Municipal, Geotechnics, Underground)"
@@ -5603,8 +5375,6 @@
     "name": "Slovak University of Technology in Bratislava (STU)",
     "country": "Slovakia",
     "city": "Bratislava",
-    "x": 58,
-    "y": 64.6,
     "programs": [
       "BSc Civil Engineering",
       "MSc Civil Engineering",
@@ -5643,8 +5413,6 @@
     "name": "Technical University of Košice (TUKE)",
     "country": "Slovakia",
     "city": "Košice",
-    "x": 64.3,
-    "y": 61.9,
     "programs": [
       "BSc Civil Engineering",
       "MSc Civil Engineering",
@@ -5688,8 +5456,6 @@
     "name": "University of Žilina (UNIZA) — Faculty of Civil Engineering",
     "country": "Slovakia",
     "city": "Žilina",
-    "x": 60.06,
-    "y": 60.78,
     "programs": [
       "MSc Civil Engineering — Structures",
       "MSc Civil Engineering — Building Construction",
@@ -5737,8 +5503,6 @@
     "name": "Budapest University of Technology and Economics (BME)",
     "country": "Hungary",
     "city": "Budapest",
-    "x": 61.4,
-    "y": 66.3,
     "programs": [
       "BSc Civil Engineering",
       "MSc Construction Information Technology Engineering",
@@ -5789,8 +5553,6 @@
     "name": "Széchenyi István University",
     "country": "Hungary",
     "city": "Győr",
-    "x": 58.4,
-    "y": 66.2,
     "programs": [
       "BSc Civil Engineering",
       "MSc Infrastructure - Civil Engineering",
@@ -5832,8 +5594,6 @@
     "name": "University of Pécs (UP) — Faculty of Engineering and IT (PTE MIK)",
     "country": "Hungary",
     "city": "Pécs",
-    "x": 60.34,
-    "y": 71.24,
     "programs": [
       "MSc Architecture (OTM)",
       "MSc Architectural Engineering",
@@ -5882,8 +5642,6 @@
     "name": "University of Debrecen (UD) — Faculty of Engineering",
     "country": "Hungary",
     "city": "Debrecen",
-    "x": 65.37,
-    "y": 65.69,
     "programs": [
       "BSc Civil Engineering",
       "MSc Urban Systems Engineering",
@@ -5929,8 +5687,6 @@
     "name": "Óbuda University — Ybl Miklós Faculty of Architecture and Civil Engineering",
     "country": "Hungary",
     "city": "Budapest",
-    "x": 61.7,
-    "y": 66.7,
     "programs": [
       "MSc Architecture",
       "BSc Architecture",
@@ -5978,8 +5734,6 @@
     "name": "TU Wien (Vienna University of Technology)",
     "country": "Austria",
     "city": "Vienna",
-    "x": 56.2,
-    "y": 65.2,
     "programs": [
       "MSc Digital Civil Engineering Science (DiCES)",
       "MSc Building Science and Environment",
@@ -6025,8 +5779,6 @@
     "name": "TU Graz (Graz University of Technology)",
     "country": "Austria",
     "city": "Graz",
-    "x": 54.8,
-    "y": 67.5,
     "programs": [
       "MSc Civil Engineering",
       "Lean Construction Management",
@@ -6072,8 +5824,6 @@
     "name": "ETH Zurich",
     "country": "Switzerland",
     "city": "Zurich",
-    "x": 42.3,
-    "y": 67.6,
     "programs": [
       "BA Architecture",
       "MA Architecture",
@@ -6123,8 +5873,6 @@
     "name": "EPFL (École Polytechnique Fédérale de Lausanne)",
     "country": "Switzerland",
     "city": "Lausanne",
-    "x": 38,
-    "y": 69.7,
     "programs": [
       "MSc Civil Engineering",
       "MSc Architecture",
@@ -6175,8 +5923,6 @@
     "name": "University of Applied Sciences and Arts Northwestern Switzerland (FHNW)",
     "country": "Switzerland",
     "city": "Basel",
-    "x": 39,
-    "y": 67.1,
     "programs": [
       "MSc Virtual Design and Construction (VDC)",
       "MAS Digitales Bauen (Continuing Education)"
@@ -6222,8 +5968,6 @@
     "name": "FH Campus Wien",
     "country": "Austria",
     "city": "Vienna",
-    "x": 56.4,
-    "y": 65.4,
     "programs": [
       "BSc Civil Engineering and Construction Management",
       "MSc Civil Engineering and Construction Management"
@@ -6267,8 +6011,6 @@
     "name": "FH Joanneum",
     "country": "Austria",
     "city": "Graz",
-    "x": 55,
-    "y": 67.7,
     "programs": [
       "BSc Construction Design and Economics",
       "MSc Construction Management",
@@ -6314,8 +6056,6 @@
     "name": "Salzburg University of Applied Sciences",
     "country": "Austria",
     "city": "Salzburg",
-    "x": 50.3,
-    "y": 65.5,
     "programs": [
       "BSc Green Building – Design & Engineering",
       "MSc Smart Buildings in Smart Cities"
@@ -6360,8 +6100,6 @@
     "name": "University of Innsbruck",
     "country": "Austria",
     "city": "Innsbruck",
-    "x": 47.3,
-    "y": 67.3,
     "programs": [
       "BSc Architecture",
       "BSc Civil Engineering",
@@ -6409,8 +6147,6 @@
     "name": "BOKU University of Natural Resources and Life Sciences",
     "country": "Austria",
     "city": "Vienna",
-    "x": 56.8,
-    "y": 64.7,
     "programs": [
       "MSc Green Building Engineering",
       "MSc Civil Engineering and Water Management"
@@ -6454,8 +6190,6 @@
     "name": "FH Kärnten (Carinthia University of Applied Sciences)",
     "country": "Austria",
     "city": "Spittal an der Drau",
-    "x": 50.84,
-    "y": 68.32,
     "programs": [
       "Master Digital Construction Management (Joint Degree with HS Bochum)",
       "Master Bauingenieurwesen",
@@ -6503,8 +6237,6 @@
     "name": "M/O/T — School of Management, Organizational Development and Technology",
     "country": "Austria",
     "city": "Klagenfurt",
-    "x": 52.57,
-    "y": 68.68,
     "programs": [
       "Zertifikatslehrgang Building Information Modeling (BIM) — buildingSMART Austria certified"
     ],
@@ -6543,8 +6275,6 @@
     "name": "MCI — The Entrepreneurial School",
     "country": "Austria",
     "city": "Innsbruck",
-    "x": 47.6,
-    "y": 67.6,
     "programs": [
       "Master Digital Business & Software Engineering",
       "Bachelor Smart Building Technologies"
@@ -6585,8 +6315,6 @@
     "name": "FH Oberösterreich (Campus Wels)",
     "country": "Austria",
     "city": "Wels",
-    "x": 51.59,
-    "y": 65.27,
     "programs": [
       "Master Bauingenieurwesen im Hochbau",
       "Bachelor Bauingenieurwesen im Hochbau"
@@ -6630,8 +6358,6 @@
     "name": "Bern University of Applied Sciences (BFH)",
     "country": "Switzerland",
     "city": "Bern",
-    "x": 39.9,
-    "y": 68.3,
     "programs": [
       "BSc Architecture",
       "BSc Civil Engineering",
@@ -6683,8 +6409,6 @@
     "name": "Università della Svizzera Italiana (USI)",
     "country": "Switzerland",
     "city": "Mendrisio",
-    "x": 42.4,
-    "y": 70.5,
     "programs": [
       "BSc Architecture",
       "MSc Architecture"
@@ -6723,8 +6447,6 @@
     "name": "Eastern Switzerland University of Applied Sciences (OST)",
     "country": "Switzerland",
     "city": "Rapperswil-Jona",
-    "x": 42.8,
-    "y": 67.2,
     "programs": [
       "BSc Architecture (St.Gallen campus)",
       "BSc Civil Engineering",
@@ -6779,8 +6501,6 @@
     "name": "ZHAW (Zurich University of Applied Sciences)",
     "country": "Switzerland",
     "city": "Winterthur",
-    "x": 43.1,
-    "y": 67.7,
     "programs": [
       "BA Architecture",
       "BSc Civil Engineering",
@@ -6821,8 +6541,6 @@
     "name": "Hochschule Luzern (HSLU)",
     "country": "Switzerland",
     "city": "Lucerne",
-    "x": 41.4,
-    "y": 68.7,
     "programs": [
       "BA Digital Construction (Architecture)",
       "BSc Digital Construction (Structural Engineering and Building Technology)"
@@ -6875,8 +6593,6 @@
     "name": "SUPSI (Scuola universitaria professionale della Svizzera italiana)",
     "country": "Switzerland",
     "city": "Lugano",
-    "x": 42.7,
-    "y": 70,
     "programs": [
       "Bachelor of Science in Civil Engineering",
       "Master of Science in Engineering — Civil Engineering Profile"
@@ -6920,8 +6636,6 @@
     "name": "HEIA-FR (Haute École d'Ingénierie et d'Architecture de Fribourg)",
     "country": "Switzerland",
     "city": "Fribourg",
-    "x": 38.9,
-    "y": 68.9,
     "programs": [
       "Bachelor of Science HES-SO en Génie Civil",
       "Master of Science in Engineering — Génie Civil"
@@ -6965,8 +6679,6 @@
     "name": "HEPIA (Haute École du Paysage, d'Ingénierie et d'Architecture de Genève)",
     "country": "Switzerland",
     "city": "Geneva",
-    "x": 36.5,
-    "y": 70.26,
     "programs": [
       "Bachelor of Science HES-SO en Génie Civil",
       "Master of Science in Engineering — Génie Civil",
@@ -7014,8 +6726,6 @@
     "name": "HEIG-VD (Haute École d'Ingénierie et de Gestion du Canton de Vaud)",
     "country": "Switzerland",
     "city": "Yverdon-les-Bains",
-    "x": 37.75,
-    "y": 69.03,
     "programs": [
       "Bachelor HES en Génie Territorial — Option Infrastructures et enjeux climatiques",
       "Master of Science HES-SO en Ingénierie (MSE) — Orientation Civil Engineering"
@@ -7059,8 +6769,6 @@
     "name": "TU Dresden",
     "country": "Germany",
     "city": "Dresden",
-    "x": 51.2,
-    "y": 56.7,
     "programs": [
       "BSc Civil Engineering",
       "Diplom Civil Engineering",
@@ -7104,8 +6812,6 @@
     "name": "TU Munich (TUM)",
     "country": "Germany",
     "city": "Munich",
-    "x": 47.6,
-    "y": 65.1,
     "programs": [
       "BSc Civil Engineering (Bauingenieurwesen)",
       "MSc Civil Engineering (Bauingenieurwesen)",
@@ -7163,8 +6869,6 @@
     "name": "RWTH Aachen",
     "country": "Germany",
     "city": "Aachen",
-    "x": 37.8,
-    "y": 57.7,
     "programs": [
       "BSc Civil Engineering",
       "MSc Civil Engineering",
@@ -7212,8 +6916,6 @@
     "name": "Karlsruhe Institute of Technology (KIT)",
     "country": "Germany",
     "city": "Karlsruhe",
-    "x": 41.7,
-    "y": 62.8,
     "programs": [
       "BSc Civil Engineering",
       "MSc Civil Engineering",
@@ -7257,8 +6959,6 @@
     "name": "University of Stuttgart",
     "country": "Germany",
     "city": "Stuttgart",
-    "x": 43.1,
-    "y": 63.4,
     "programs": [
       "BSc Civil Engineering",
       "MSc Civil Engineering",
@@ -7303,8 +7003,6 @@
     "name": "Leibniz University Hannover",
     "country": "Germany",
     "city": "Hannover",
-    "x": 43.5,
-    "y": 54,
     "programs": [
       "BSc Civil and Environmental Engineering",
       "MSc Civil Engineering",
@@ -7356,8 +7054,6 @@
     "name": "TU Darmstadt",
     "country": "Germany",
     "city": "Darmstadt",
-    "x": 41.8,
-    "y": 60.1,
     "programs": [
       "BSc Civil and Environmental Engineering",
       "MSc Civil Engineering",
@@ -7400,8 +7096,6 @@
     "name": "Bauhaus University Weimar",
     "country": "Germany",
     "city": "Weimar",
-    "x": 46.7,
-    "y": 57.2,
     "programs": [
       "BSc Civil Engineering",
       "MSc Civil Engineering (Structural Engineering)",
@@ -7412,7 +7106,7 @@
       "https://www.uni-weimar.de/en/civil-engineering/degree-programmes/bachelor-of-science-civil-engineering/",
       "https://www.uni-weimar.de/en/civil-engineering/studies/master-degree-programmes/",
       "https://www.uni-weimar.de/en/civil-and-environmental-engineering/studies/master-degree-programmes/digital-engineering/",
-      "https://www.uni-weimar.de/en/civil-and-environmental-engineering/research/graduationpostdoctoral-lecture-qualification/"
+      "https://www.uni-weimar.de/en/university/research/doctoral-studies/"
     ],
     "accreditation": [
       "ASIIN"
@@ -7442,8 +7136,6 @@
     "name": "TU Braunschweig",
     "country": "Germany",
     "city": "Braunschweig",
-    "x": 45.4,
-    "y": 55.1,
     "programs": [
       "BSc Civil Engineering",
       "MSc Civil Engineering",
@@ -7487,8 +7179,6 @@
     "name": "TU Berlin",
     "country": "Germany",
     "city": "Berlin",
-    "x": 50.1,
-    "y": 53,
     "programs": [
       "BSc Civil Engineering",
       "MSc Civil Engineering",
@@ -7534,8 +7224,6 @@
     "name": "FH Münster (Münster University of Applied Sciences)",
     "country": "Germany",
     "city": "Münster",
-    "x": 40.5,
-    "y": 54.8,
     "programs": [
       "BSc Civil Engineering",
       "MSc Civil Engineering",
@@ -7576,8 +7264,6 @@
     "name": "Hochschule Bochum",
     "country": "Germany",
     "city": "Bochum",
-    "x": 39.5,
-    "y": 57.2,
     "programs": [
       "BSc Bauingenieurwesen",
       "MSc Bauingenieurwesen",
@@ -7619,8 +7305,6 @@
     "name": "TU Dortmund",
     "country": "Germany",
     "city": "Dortmund",
-    "x": 40,
-    "y": 57.7,
     "programs": [
       "BSc Civil Engineering",
       "MSc Civil Engineering",
@@ -7662,8 +7346,6 @@
     "name": "Hamburg University of Technology (TUHH)",
     "country": "Germany",
     "city": "Hamburg",
-    "x": 44.1,
-    "y": 50.8,
     "programs": [
       "BSc Civil and Environmental Engineering",
       "MSc Civil Engineering",
@@ -7709,8 +7391,6 @@
     "name": "HafenCity University Hamburg (HCU)",
     "country": "Germany",
     "city": "Hamburg",
-    "x": 44.3,
-    "y": 51,
     "programs": [
       "BSc Architecture",
       "MSc Architecture",
@@ -7760,8 +7440,6 @@
     "name": "RPTU Kaiserslautern-Landau",
     "country": "Germany",
     "city": "Kaiserslautern",
-    "x": 40.1,
-    "y": 61.8,
     "programs": [
       "BSc Civil Engineering",
       "MSc Civil Engineering (Structural Engineering)",
@@ -7805,8 +7483,6 @@
     "name": "University of Duisburg-Essen",
     "country": "Germany",
     "city": "Essen",
-    "x": 39,
-    "y": 57.7,
     "programs": [
       "BSc Civil Engineering",
       "MSc Civil Engineering",
@@ -7848,8 +7524,6 @@
     "name": "HTW Berlin",
     "country": "Germany",
     "city": "Berlin",
-    "x": 50.3,
-    "y": 53.2,
     "programs": [
       "BSc Bauingenieurwesen",
       "MSc Bauingenieurwesen"
@@ -7889,8 +7563,6 @@
     "name": "TH Köln (University of Applied Sciences)",
     "country": "Germany",
     "city": "Cologne",
-    "x": 39.7,
-    "y": 58.2,
     "programs": [
       "BSc Architecture",
       "MSc Architecture",
@@ -7936,8 +7608,6 @@
     "name": "Hochschule München",
     "country": "Germany",
     "city": "Munich",
-    "x": 47.8,
-    "y": 65.3,
     "programs": [
       "BSc Bauingenieurwesen (Civil Engineering)",
       "MSc Bauingenieurwesen (Civil Engineering)"
@@ -7978,8 +7648,6 @@
     "name": "Frankfurt University of Applied Sciences",
     "country": "Germany",
     "city": "Frankfurt",
-    "x": 41.3,
-    "y": 59.9,
     "programs": [
       "BSc Architecture",
       "MSc Advanced Architecture"
@@ -8019,8 +7687,6 @@
     "name": "Darmstadt University of Applied Sciences (h_da)",
     "country": "Germany",
     "city": "Darmstadt",
-    "x": 42,
-    "y": 60.3,
     "programs": [
       "BSc Architecture",
       "MSc Architecture"
@@ -8062,8 +7728,6 @@
     "name": "HS RheinMain",
     "country": "Germany",
     "city": "Mainz",
-    "x": 40.8,
-    "y": 60.2,
     "programs": [
       "BSc Architecture",
       "MSc Architecture"
@@ -8103,8 +7767,6 @@
     "name": "OTH Regensburg",
     "country": "Germany",
     "city": "Regensburg",
-    "x": 48.1,
-    "y": 63.2,
     "programs": [
       "B.Eng. Civil Engineering",
       "M.Eng. Civil Engineering"
@@ -8147,8 +7809,6 @@
     "name": "TH Nürnberg (Technische Hochschule Nürnberg)",
     "country": "Germany",
     "city": "Nuremberg",
-    "x": 46.9,
-    "y": 61.4,
     "programs": [
       "B.Eng. Civil Engineering",
       "M.Eng. Civil Engineering"
@@ -8189,8 +7849,6 @@
     "name": "Technische Hochschule Augsburg",
     "country": "Germany",
     "city": "Augsburg",
-    "x": 46.6,
-    "y": 64.7,
     "programs": [
       "BEng Energy Efficient Planning and Building",
       "BEng Civil Engineering",
@@ -8251,8 +7909,6 @@
     "name": "TH Ostwestfalen-Lippe",
     "country": "Germany",
     "city": "Detmold",
-    "x": 41.8,
-    "y": 55.1,
     "programs": [
       "BSc Architecture",
       "MSc Architecture"
@@ -8296,8 +7952,6 @@
     "name": "Biberach University of Applied Sciences",
     "country": "Germany",
     "city": "Biberach",
-    "x": 44.1,
-    "y": 65.3,
     "programs": [
       "BSc Architecture",
       "MSc Architecture"
@@ -8341,8 +7995,6 @@
     "name": "Hochschule Bremen",
     "country": "Germany",
     "city": "Bremen",
-    "x": 42.3,
-    "y": 51.4,
     "programs": [
       "BSc Architecture",
       "MSc Architecture"
@@ -8386,8 +8038,6 @@
     "name": "TH Ingolstadt",
     "country": "Germany",
     "city": "Ingolstadt",
-    "x": 47,
-    "y": 63.1,
     "programs": [
       "BSc Bauingenieurwesen",
       "MSc Bauingenieurwesen"
@@ -8427,8 +8077,6 @@
     "name": "Hochschule Rosenheim",
     "country": "Germany",
     "city": "Rosenheim",
-    "x": 47.6,
-    "y": 66.1,
     "programs": [
       "BSc Civil Engineering (Bauingenieurwesen)",
       "MSc Civil Engineering (Bauingenieurwesen)",
@@ -8476,8 +8124,6 @@
     "name": "Hochschule Konstanz (HTWG)",
     "country": "Germany",
     "city": "Konstanz",
-    "x": 42.8,
-    "y": 67,
     "programs": [
       "BSc Architecture",
       "MSc Architecture"
@@ -8521,8 +8167,6 @@
     "name": "Instituto Superior Técnico (IST), University of Lisbon",
     "country": "Portugal",
     "city": "Lisbon",
-    "x": 3.8,
-    "y": 85.7,
     "programs": [
       "MSc Civil Engineering (5 specializations: Construction, Structures, Geotechnics, Hydraulics, Urbanism/Transport)",
       "PhD in Civil Engineering (CERIS)"
@@ -8573,8 +8217,6 @@
     "name": "University of Porto (FEUP)",
     "country": "Portugal",
     "city": "Porto",
-    "x": 6.2,
-    "y": 80,
     "programs": [
       "MBUILD - Erasmus Mundus Master in Sustainable Design, Construction and Management of Built Environments (joint with U. Cantabria, THM Germany)",
       "MSc Integrated Building Design and Construction (MPRINCE - IPD-focused, BIM integration)",
@@ -8623,8 +8265,6 @@
     "name": "University of Minho",
     "country": "Portugal",
     "city": "Braga/Guimarães",
-    "x": 7.8,
-    "y": 78.9,
     "programs": [
       "BIM A+ European Master in Building Information Modelling (joint with University of Ljubljana and Politecnico di Milano - Erasmus Mundus)",
       "MSc Civil Engineering",
@@ -8674,8 +8314,6 @@
     "name": "University of Coimbra",
     "country": "Portugal",
     "city": "Coimbra",
-    "x": 5.5,
-    "y": 82.6,
     "programs": [
       "MSc Timber Construction",
       "PhD in Civil Engineering"
@@ -8719,8 +8357,6 @@
     "name": "Polytechnic of Leiria",
     "country": "Portugal",
     "city": "Leiria",
-    "x": 5.1,
-    "y": 83.9,
     "programs": [
       "MSc Civil Engineering - Building Construction"
     ],
@@ -8761,8 +8397,6 @@
     "name": "NOVA FCT (Faculdade de Ciências e Tecnologia, Universidade NOVA de Lisboa)",
     "country": "Portugal",
     "city": "Caparica (Lisbon)",
-    "x": 3.4,
-    "y": 86.1,
     "programs": [
       "Mestrado Integrado em Engenharia Civil",
       "Mestrado em Engenharia Civil — Estruturas e Geotecnia",
@@ -8811,8 +8445,6 @@
     "name": "Universidade da Beira Interior (UBI)",
     "country": "Portugal",
     "city": "Covilhã",
-    "x": 5.95,
-    "y": 83.37,
     "programs": [
       "Mestrado Integrado em Engenharia Civil",
       "Mestrado Integrado em Arquitetura",
@@ -8859,8 +8491,6 @@
     "name": "Universidade de Aveiro (DECivil)",
     "country": "Portugal",
     "city": "Aveiro",
-    "x": 6.12,
-    "y": 81.29,
     "programs": [
       "Mestrado Integrado em Engenharia Civil",
       "Mestrado em Projeto de Estruturas",
@@ -8905,8 +8535,6 @@
     "name": "ISEP — Instituto Superior de Engenharia do Porto (Politécnico do Porto)",
     "country": "Portugal",
     "city": "Porto",
-    "x": 6.79,
-    "y": 79.86,
     "programs": [
       "Mestrado em Engenharia Civil (4 ramos: Gestão da Construção, Estruturas, Construções, Infraestruturas)",
       "Licenciatura em Engenharia Civil",
@@ -8951,8 +8579,6 @@
     "name": "Instituto Politécnico de Setúbal (IPS) — ESTBarreiro",
     "country": "Portugal",
     "city": "Barreiro (Setúbal)",
-    "x": 4,
-    "y": 86,
     "programs": [
       "Mestrado em Engenharia Civil",
       "Licenciatura em Engenharia Civil"
@@ -8995,8 +8621,6 @@
     "name": "Universidad Politécnica de Madrid (UPM)",
     "country": "Spain",
     "city": "Madrid",
-    "x": 15.3,
-    "y": 84.4,
     "programs": [
       "Professional Master (P.MSc) Metodología y Gestión BIM de Proyectos, Construcción y Activos Inmobiliarios",
       "PhD Ingeniería de Estructuras, Cimentaciones y Materiales (Structures, Foundations and Materials Engineering)"
@@ -9041,8 +8665,6 @@
     "name": "Universitat Politècnica de Catalunya (UPC)",
     "country": "Spain",
     "city": "Barcelona",
-    "x": 28.1,
-    "y": 82.5,
     "programs": [
       "Professional Master (P.MSc) BIM Management - Digital Transformation and New Business Models (4 specializations: Building, Structures, Facilities, Civil Works)",
       "MSc Building Construction Management (Geographic Information Systems Applied to Urbanism and Building Construction - GIS and BIM)",
@@ -9088,8 +8710,6 @@
     "name": "Universitat Politècnica de València (UPV)",
     "country": "Spain",
     "city": "Valencia",
-    "x": 22.4,
-    "y": 86.7,
     "programs": [
       "Professional Master (P.MSc) BIM Management - Digital Transformation and New Business Models",
       "MSc Building Constructions",
@@ -9135,8 +8755,6 @@
     "name": "Universidad de Sevilla",
     "country": "Spain",
     "city": "Sevilla",
-    "x": 10.1,
-    "y": 90.5,
     "programs": [
       "Máster Universitario en Diseño e Ingeniería de Productos e Instalaciones Industriales en Entornos PLM y BIM",
       "Máster Universitario en Gestión Integral de la Edificación (MUGIE)",
@@ -9192,8 +8810,6 @@
     "name": "Universidad de Extremadura",
     "country": "Spain",
     "city": "Cáceres",
-    "x": 10.5,
-    "y": 84.5,
     "programs": [
       "Máster Universitario en Metodología BIM en el Desarrollo Colaborativo de Proyectos (3 specializations: Edificación, Ingeniería Civil, Captura e Integración de la Realidad Construida)",
       "PhD Desarrollo Territorial Sostenible (Sustainable Territorial Development)"
@@ -9237,8 +8853,6 @@
     "name": "Universidad Politécnica de Cartagena (UPCT)",
     "country": "Spain",
     "city": "Cartagena",
-    "x": 19.9,
-    "y": 91.7,
     "programs": [
       "Máster Universitario en Metodología BIM para el Desarrollo de Proyectos de Infraestructuras",
       "PhD Arquitectura, Edificación, Patrimonio y Ciudad (joint with Universitat Politècnica de València)"
@@ -9279,8 +8893,6 @@
     "name": "Universitat Ramon Llull (La Salle)",
     "country": "Spain",
     "city": "Barcelona",
-    "x": 28.3,
-    "y": 82.3,
     "programs": [
       "Master in BIM Management",
       "Online Master in BIM Management",
@@ -9338,8 +8950,6 @@
     "name": "Universidad de Barcelona (IL3-Econova)",
     "country": "Spain",
     "city": "Barcelona",
-    "x": 28.5,
-    "y": 82.1,
     "programs": [
       "Máster en BIM y Diseño Integrado",
       "Máster Internacional en BIM Management",
@@ -9399,8 +9009,6 @@
     "name": "Universidad Nebrija",
     "country": "Spain",
     "city": "Madrid",
-    "x": 15.6,
-    "y": 84.2,
     "programs": [
       "Máster en Gestión BIM y Gemelo Digital",
       "Máster en Construction Project Management"
@@ -9444,8 +9052,6 @@
     "name": "Espacio BIM",
     "country": "Spain",
     "city": "Pamplona",
-    "x": 21.8,
-    "y": 76.2,
     "programs": [
       "Máster BIM Manager Internacional - Arquitectura",
       "Máster BIM Manager Internacional - Ingeniería Civil y Arquitectura",
@@ -9496,8 +9102,6 @@
     "name": "butic The New School",
     "country": "Spain",
     "city": "Madrid",
-    "x": 15,
-    "y": 84.6,
     "programs": [
       "Máster en BIM Management Oficial de Autodesk",
       "Máster AEC 4.0: IA Generativa, Automatización BIM y Colaboración Cloud",
@@ -9571,8 +9175,6 @@
     "name": "Zigurat Global Institute of Technology",
     "country": "Spain",
     "city": "Barcelona",
-    "x": 28,
-    "y": 82.7,
     "programs": [
       "Master in BIM Management",
       "Master in Global BIM Management in Civil Engineering and GIS",
@@ -9644,8 +9246,6 @@
     "name": "Universidad de Alicante",
     "country": "Spain",
     "city": "Alicante",
-    "x": 21.2,
-    "y": 89.6,
     "programs": [
       "Máster de Formación Permanente en BIM Management"
     ],
@@ -9685,8 +9285,6 @@
     "name": "Universidad de Castilla-La Mancha (UCLM)",
     "country": "Spain",
     "city": "Ciudad Real",
-    "x": 16,
-    "y": 86.8,
     "programs": [
       "Máster de Formación Permanente en BIM en Diseño y Dirección de Proyectos",
       "Especialista en Modelado BIM orientado a Obras Civiles",
@@ -9732,8 +9330,6 @@
     "name": "Universidad Europea de Madrid",
     "country": "Spain",
     "city": "Madrid",
-    "x": 15.9,
-    "y": 84,
     "programs": [
       "Máster en BIM Management",
       "Máster en Arquitectura Sostenible y Bioconstrucción",
@@ -9795,8 +9391,6 @@
     "name": "Universidad Europea de Valencia",
     "country": "Spain",
     "city": "Valencia",
-    "x": 22.5,
-    "y": 87,
     "programs": [
       "Curso en BIM Manager"
     ],
@@ -9832,8 +9426,6 @@
     "name": "Universidad Pablo de Olavide",
     "country": "Spain",
     "city": "Sevilla",
-    "x": 10.4,
-    "y": 90.3,
     "programs": [
       "Máster International BIM Manager for Project Management according to ISO 19650",
       "Máster BIM Manager for Railway Infrastructures",
@@ -9899,8 +9491,6 @@
     "name": "Universidad de Cantabria (MBUILD Erasmus Mundus)",
     "country": "Spain",
     "city": "Santander",
-    "x": 18,
-    "y": 76.5,
     "programs": [
       "MBUILD - Erasmus Mundus Joint Master in Sustainable Design, Construction and Management of Built Environments"
     ],
@@ -9945,8 +9535,6 @@
     "name": "Structuralia",
     "country": "Spain",
     "city": "Madrid",
-    "x": 14.7,
-    "y": 84.8,
     "programs": [
       "Máster BIM aplicado a la Edificación",
       "Máster BIM aplicado a la Ingeniería Civil",
@@ -10024,8 +9612,6 @@
     "name": "Editeca",
     "country": "Spain",
     "city": "Madrid",
-    "x": 14.4,
-    "y": 85,
     "programs": [
       "Máster BIM Expert (Arquitectura / Ingeniería)",
       "Máster BIM Management",
@@ -10076,8 +9662,6 @@
     "name": "Universidad de Granada (UGR)",
     "country": "Spain",
     "city": "Granada",
-    "x": 14.7,
-    "y": 92.1,
     "programs": [
       "Máster en Modelado, Colaboración, Interoperabilidad y Gestión de Proyectos y Patrimonio en el Ciclo de Vida mediante Metodología BIM (Perfil BIM Manager)",
       "Diploma de Especialización en Modelado, Colaboración e Interoperabilidad mediante Metodología BIM (Perfil BIM Specialist)",
@@ -10130,8 +9714,6 @@
     "name": "Universidad del País Vasco (UPV/EHU)",
     "country": "Spain",
     "city": "Bilbao",
-    "x": 19.3,
-    "y": 76.8,
     "programs": [
       "Master en Ingeniería de la Construcción"
     ],
@@ -10175,8 +9757,6 @@
     "name": "Universidade da Coruña (UDC)",
     "country": "Spain",
     "city": "A Coruña",
-    "x": 8.7,
-    "y": 73.5,
     "programs": [
       "Máster de Formación Permanente en BIM",
       "Curso de Especialización en BIM"
@@ -10222,8 +9802,6 @@
     "name": "Universidad de Burgos (UBU)",
     "country": "Spain",
     "city": "Burgos",
-    "x": 17.3,
-    "y": 78,
     "programs": [
       "Máster en Construcción BIM. Aplicación de modelos digitales en Edificación, Obra Civil y Patrimonio",
       "Máster Universitario en Gestión, Eficiencia Energética y Rehabilitación de la Edificación"
@@ -10273,8 +9851,6 @@
     "name": "Universidad Camilo José Cela (UCJC)",
     "country": "Spain",
     "city": "Madrid",
-    "x": 16,
-    "y": 84.2,
     "programs": [
       "Máster Propio en Metodología BIM (Gestión de Infraestructuras con Metodología BIM)"
     ],
@@ -10316,8 +9892,6 @@
     "name": "Universidad de La Laguna (ULL)",
     "country": "Spain",
     "city": "San Cristóbal de La Laguna (Tenerife)",
-    "x": 5.5,
-    "y": 96.5,
     "programs": [
       "Máster Universitario en Gestión e Innovación Tecnológica en la Construcción",
       "BIMLab ULL (research and teaching laboratory)"
@@ -10362,8 +9936,6 @@
     "name": "Universidad de Málaga (UMA)",
     "country": "Spain",
     "city": "Málaga",
-    "x": 12.9,
-    "y": 93.1,
     "programs": [
       "Máster Universitario en Arquitectura",
       "Máster en Proyectos Arquitectónicos: Diseño Ambiental y Nuevas Tecnologías"
@@ -10409,8 +9981,6 @@
     "name": "Universidad a Distancia de Madrid (UDIMA)",
     "country": "Spain",
     "city": "Madrid",
-    "x": 15.5,
-    "y": 84.5,
     "programs": [
       "Máster de Formación Permanente BIM Management"
     ],
@@ -10450,8 +10020,6 @@
     "name": "ESTP Paris",
     "country": "France",
     "city": "Cachan (Paris)",
-    "x": 31.1,
-    "y": 63.1,
     "programs": [
       "Mastère Spécialisé BIM (joint with École des Ponts ParisTech)",
       "Diplôme d'Ingénieur",
@@ -10494,8 +10062,6 @@
     "name": "CESI Paris-Nanterre",
     "country": "France",
     "city": "Nanterre/Paris Region",
-    "x": 30.5,
-    "y": 62.5,
     "programs": [
       "Diplôme d'Ingénieur BTP",
       "Bachelor Génie Civil et Systèmes Numériques (BIM)",
@@ -10545,8 +10111,6 @@
     "name": "CESI Nantes",
     "country": "France",
     "city": "Nantes",
-    "x": 22.9,
-    "y": 65,
     "programs": [
       "Mastère Spécialisé® Management de Projets de Construction - option BIM",
       "Bachelor BTP BIM - Maquette numérique"
@@ -10595,8 +10159,6 @@
     "name": "CESI Bordeaux",
     "country": "France",
     "city": "Bordeaux",
-    "x": 24.3,
-    "y": 72.4,
     "programs": [
       "Diplôme d'Ingénieur BTP (with BIM Manager option)",
       "Mastère Professionnel Manager de Business Unit BTP"
@@ -10642,8 +10204,6 @@
     "name": "CESI Lyon",
     "country": "France",
     "city": "Lyon (Villeurbanne)",
-    "x": 35,
-    "y": 70.5,
     "programs": [
       "Diplôme d'Ingénieur BTP (with BIM Manager option)",
       "Bachelor Chargé d'Affaires BTP"
@@ -10689,8 +10249,6 @@
     "name": "CESI Toulouse",
     "country": "France",
     "city": "Toulouse (Labège)",
-    "x": 28.8,
-    "y": 74.8,
     "programs": [
       "Diplôme d'Ingénieur BTP (with BIM Manager option)",
       "Bachelor Chargé d'Affaires BTP"
@@ -10736,8 +10294,6 @@
     "name": "CESI Lille",
     "country": "France",
     "city": "Lille",
-    "x": 31.4,
-    "y": 58.2,
     "programs": [
       "Diplôme d'Ingénieur BTP (with BIM Manager option)",
       "Bachelor Chargé d'Affaires BTP"
@@ -10781,8 +10337,6 @@
     "name": "CESI Montpellier",
     "country": "France",
     "city": "Montpellier (Mauguio)",
-    "x": 32,
-    "y": 77,
     "programs": [
       "Diplôme d'Ingénieur BTP (with BIM Manager option)",
       "Bachelor Chargé d'Affaires BTP"
@@ -10826,8 +10380,6 @@
     "name": "CESI Nancy",
     "country": "France",
     "city": "Nancy (Vandoeuvre-lès-Nancy)",
-    "x": 37,
-    "y": 63,
     "programs": [
       "Diplôme d'Ingénieur BTP (with BIM Manager option)",
       "Bachelor Chargé d'Affaires BTP"
@@ -10871,8 +10423,6 @@
     "name": "CESI Nice",
     "country": "France",
     "city": "Nice",
-    "x": 39,
-    "y": 76,
     "programs": [
       "Diplôme d'Ingénieur BTP (with BIM Manager option)",
       "Bachelor Chargé d'Affaires BTP"
@@ -10916,8 +10466,6 @@
     "name": "CESI Pau",
     "country": "France",
     "city": "Pau",
-    "x": 24.4,
-    "y": 76.6,
     "programs": [
       "Diplôme d'Ingénieur BTP (with BIM Manager option)",
       "Bachelor Chargé d'Affaires BTP"
@@ -10961,8 +10509,6 @@
     "name": "CESI Reims",
     "country": "France",
     "city": "Reims",
-    "x": 33,
-    "y": 62,
     "programs": [
       "Diplôme d'Ingénieur BTP (with BIM Manager option)",
       "Bachelor Chargé d'Affaires BTP"
@@ -11006,8 +10552,6 @@
     "name": "CESI Rouen",
     "country": "France",
     "city": "Rouen (Saint-Étienne-du-Rouvray)",
-    "x": 28,
-    "y": 61,
     "programs": [
       "Diplôme d'Ingénieur BTP (with BIM Manager option)",
       "Bachelor Chargé d'Affaires BTP"
@@ -11051,8 +10595,6 @@
     "name": "CESI Strasbourg",
     "country": "France",
     "city": "Strasbourg (Lingolsheim)",
-    "x": 40.7,
-    "y": 63.6,
     "programs": [
       "Diplôme d'Ingénieur BTP (with BIM Manager option)",
       "Bachelor Chargé d'Affaires BTP"
@@ -11096,8 +10638,6 @@
     "name": "INSA Lyon",
     "country": "France",
     "city": "Lyon",
-    "x": 34.7,
-    "y": 70.9,
     "programs": [
       "Diplôme d'Ingénieur Génie Civil et Urbanisme",
       "PhD (MEGA Doctoral School – Civil Engineering)"
@@ -11144,8 +10684,6 @@
     "name": "INSA Strasbourg",
     "country": "France",
     "city": "Strasbourg",
-    "x": 40.1,
-    "y": 63.8,
     "programs": [
       "Diplôme d'Ingénieur Génie Civil",
       "Diplôme d'Ingénieur Topographie",
@@ -11190,8 +10728,6 @@
     "name": "INSA Toulouse",
     "country": "France",
     "city": "Toulouse",
-    "x": 27.5,
-    "y": 76.1,
     "programs": [
       "Diplôme d'Ingénieur Génie Civil",
       "PhD (Doctoral School – Civil Engineering)"
@@ -11234,8 +10770,6 @@
     "name": "INSA Rennes",
     "country": "France",
     "city": "Rennes",
-    "x": 24.5,
-    "y": 64.8,
     "programs": [
       "Diplôme d'Ingénieur Génie Civil et Urbain",
       "Double Degree Architecture-Engineering (with ENSAB)",
@@ -11280,8 +10814,6 @@
     "name": "INSA Rouen Normandie",
     "country": "France",
     "city": "Le Havre",
-    "x": 27.5,
-    "y": 60.5,
     "programs": [
       "Diplôme d'Ingénieur Génie Civil et Constructions Durables",
       "Diplôme d'Ingénieur Performance Énergétique - apprenticeship",
@@ -11326,8 +10858,6 @@
     "name": "INSA Hauts-de-France",
     "country": "France",
     "city": "Valenciennes",
-    "x": 32.2,
-    "y": 58.5,
     "programs": [
       "Diplôme d'Ingénieur Génie Civil et Bâtiment",
       "Master Génie Civil - Ingénierie Numérique Collaborative pour la Construction (IN2C-BIM)",
@@ -11372,8 +10902,6 @@
     "name": "Université Gustave Eiffel (includes EIVP, ESIEE Paris, ENSG, ENSA Paris-Est)",
     "country": "France",
     "city": "Marne-la-Vallée (Paris-Est)",
-    "x": 31.5,
-    "y": 62.7,
     "programs": [
       "Licence Professionnelle Projeteur.euse BIM - Corps d'État Techniques",
       "EIVP - Diplôme d'Ingénieur Génie Urbain",
@@ -11421,8 +10949,6 @@
     "name": "École Centrale de Lyon (includes ENISE Saint-Étienne)",
     "country": "France",
     "city": "Lyon (Écully) & Saint-Étienne",
-    "x": 34.7,
-    "y": 70.9,
     "programs": [
       "Diplôme d'Ingénieur Génie Civil",
       "M2 Civil Engineering - Materials and Structures for Sustainable Construction",
@@ -11467,8 +10993,6 @@
     "name": "École Centrale de Lille",
     "country": "France",
     "city": "Lille",
-    "x": 31,
-    "y": 58.1,
     "programs": [
       "Lean Modular Construction 4.0 (institutional diploma - BIM, digitalization, robotics, AI)",
       "Diplôme d'Ingénieur - Civil Engineering option",
@@ -11513,8 +11037,6 @@
     "name": "École des Ponts ParisTech (ENPC)",
     "country": "France",
     "city": "Champs-sur-Marne (Paris-Est)",
-    "x": 31.9,
-    "y": 62,
     "programs": [
       "Mastère Spécialisé BIM, Conception Intégrée et Cycle de Vie",
       "Mastère Spécialisé Digital Building Design",
@@ -11567,8 +11089,6 @@
     "name": "ENTPE (École Nationale des Travaux Publics de l'État)",
     "country": "France",
     "city": "Vaulx-en-Velin (Lyon)",
-    "x": 35.6,
-    "y": 70,
     "programs": [
       "Diplôme d'Ingénieur ENTPE (Génie Civil)",
       "Cursus Bâtiment et Génie Civil",
@@ -11615,8 +11135,6 @@
     "name": "Arts et Métiers (ENSAM)",
     "country": "France",
     "city": "Paris",
-    "x": 30,
-    "y": 63.5,
     "programs": [
       "Mastère Spécialisé INGENUM (Manager en Ingénierie Numérique)",
       "Programme Grande École Arts et Métiers"
@@ -11660,8 +11178,6 @@
     "name": "BUILDERS École d'Ingénieurs",
     "country": "France",
     "city": "Épron (Caen)",
-    "x": 26.4,
-    "y": 61.4,
     "programs": [
       "Mastère Spécialisé BIM et Smart Construction",
       "Mastère Spécialisé Expert en Éco-matériaux et Conception BIM",
@@ -11708,8 +11224,6 @@
     "name": "Polytech Clermont",
     "country": "France",
     "city": "Aubière (Clermont-Ferrand)",
-    "x": 31.5,
-    "y": 70.5,
     "programs": [
       "Mastère Spécialisé GP-BIM (Gestion Patrimoniale par BIM)",
       "Diplôme d'Ingénieur Génie Civil"
@@ -11754,8 +11268,6 @@
     "name": "Université Polytechnique Hauts-de-France (UPHF)",
     "country": "France",
     "city": "Valenciennes",
-    "x": 33.5,
-    "y": 58.8,
     "programs": [
       "Master Génie Civil — Ingénierie Numérique Collaborative pour la Construction (IN2C-BIM)",
       "Master Génie Civil — Génie Civil Architecture Urbaine (GCAU)"
@@ -11800,8 +11312,6 @@
     "name": "Université de Toulouse (Toulouse III - Paul Sabatier)",
     "country": "France",
     "city": "Toulouse",
-    "x": 29.5,
-    "y": 75.5,
     "programs": [
       "Master Mention Génie Civil"
     ],
@@ -11842,8 +11352,6 @@
     "name": "Technical University of Civil Engineering Bucharest (UTCB)",
     "country": "Romania",
     "city": "Bucharest",
-    "x": 75.3,
-    "y": 70.9,
     "programs": [
       "BSc Civil Engineering",
       "MSc Building Information Modelling",
@@ -11890,8 +11398,6 @@
     "name": "Politehnica University of Timișoara (UPT) — Faculty of Civil Engineering",
     "country": "Romania",
     "city": "Timișoara",
-    "x": 66.6,
-    "y": 69.8,
     "programs": [
       "MSc Advanced Design of Steel and Composite Structures",
       "MSc Civil Engineering",
@@ -11937,8 +11443,6 @@
     "name": "Technical University of Cluj-Napoca (UTCN) — Faculty of Civil Engineering",
     "country": "Romania",
     "city": "Cluj-Napoca",
-    "x": 69.3,
-    "y": 66.6,
     "programs": [
       "MSc AI in Civil Engineering and Construction Management (English)",
       "BSc Civil, Industrial and Agricultural Constructions (RO/EN)",
@@ -11986,8 +11490,6 @@
     "name": "Gheorghe Asachi Technical University of Iași (TUIASI) — Faculty of Civil Engineering and Building Services",
     "country": "Romania",
     "city": "Iași",
-    "x": 76.4,
-    "y": 65,
     "programs": [
       "MSc Structural Engineering (English)",
       "BSc Civil Engineering (English)",
@@ -12035,8 +11537,6 @@
     "name": "Technical University of Moldova (UTM) — Faculty of Cadaster, Geodesy and Civil Engineering / Faculty of Urbanism and Architecture",
     "country": "Moldova",
     "city": "Chișinău",
-    "x": 79,
-    "y": 63.9,
     "programs": [
       "MSc Civil Engineering",
       "MSc Architecture",
@@ -12084,8 +11584,6 @@
     "name": "University of Architecture, Civil Engineering and Geodesy (UACEG)",
     "country": "Bulgaria",
     "city": "Sofia",
-    "x": 72.3,
-    "y": 78,
     "programs": [
       "MSc BIM Management and Optimization in Construction",
       "MSc Structural Engineering",
@@ -12131,8 +11629,6 @@
     "name": "Varna Free University \"Chernorizets Hrabar\" (VFU) — Faculty of Architecture",
     "country": "Bulgaria",
     "city": "Varna",
-    "x": 79.56,
-    "y": 74.48,
     "programs": [
       "MArch Architecture (5-year integrated)",
       "BSc Construction of Buildings and Facilities (Building Constructions / Road Construction)",
@@ -12180,8 +11676,6 @@
     "name": "National Technical University of Athens (NTUA)",
     "country": "Greece",
     "city": "Athens",
-    "x": 74,
-    "y": 89.6,
     "programs": [
       "Diploma in Civil Engineering (5-year integrated master's)",
       "MSc Analysis and Design of Earthquake Resistant Structures",
@@ -12223,8 +11717,6 @@
     "name": "Technical University of Crete (TUC)",
     "country": "Greece",
     "city": "Chania (Crete)",
-    "x": 75.3,
-    "y": 96.5,
     "programs": [
       "Diploma in Architecture Engineering (5-year)",
       "PhD Architecture"
@@ -12266,8 +11758,6 @@
     "name": "Aristotle University of Thessaloniki",
     "country": "Greece",
     "city": "Thessaloniki",
-    "x": 70.9,
-    "y": 83,
     "programs": [
       "Diploma in Civil Engineering (5-year integrated master's)",
       "MSc Construction Project Management",
@@ -12311,8 +11801,6 @@
     "name": "Kyiv National University of Construction and Architecture (KNUCA)",
     "country": "Ukraine",
     "city": "Kyiv",
-    "x": 79.9,
-    "y": 53.5,
     "programs": [
       "Faculty of Automation and IT",
       "MSc Distributed Software Systems and Technologies",
@@ -12353,8 +11841,6 @@
     "name": "Lviv Polytechnic National University",
     "country": "Ukraine",
     "city": "Lviv",
-    "x": 70.6,
-    "y": 59,
     "programs": [
       "BSc Construction and Civil Engineering",
       "MSc Architecture and Town Planning",
@@ -12398,8 +11884,6 @@
     "name": "Odessa State Academy of Civil Engineering and Architecture (OSACEA)",
     "country": "Ukraine",
     "city": "Odesa",
-    "x": 81.8,
-    "y": 65.4,
     "programs": [
       "BSc & MSc Construction and Civil Engineering",
       "BSc & MSc Architecture"
@@ -12434,8 +11918,6 @@
     "name": "POLIS University",
     "country": "Albania",
     "city": "Tirana",
-    "x": 64.2,
-    "y": 83.5,
     "programs": [
       "BSc Civil Engineering",
       "MSc Civil Engineering",
@@ -12481,8 +11963,6 @@
     "name": "Polytechnic University of Tirana (PUT) — Faculty of Civil Engineering",
     "country": "Albania",
     "city": "Tirana",
-    "x": 64.72,
-    "y": 82.3,
     "programs": [
       "MSc Civil Engineering",
       "MSc Architecture and Urban Planning",
@@ -12530,8 +12010,6 @@
     "name": "EPOKA University — Faculty of Architecture and Engineering",
     "country": "Albania",
     "city": "Tirana",
-    "x": 63.9,
-    "y": 82,
     "programs": [
       "MSc Architecture (English)",
       "MSc Civil Engineering (English)",
@@ -12579,8 +12057,6 @@
     "name": "Ss. Cyril and Methodius University in Skopje (UKIM)",
     "country": "North Macedonia",
     "city": "Skopje",
-    "x": 67.5,
-    "y": 81.1,
     "programs": [
       "PhD Civil Engineering"
     ],
@@ -12616,8 +12092,6 @@
     "name": "University of Patras",
     "country": "Greece",
     "city": "Patras",
-    "x": 69.7,
-    "y": 89.8,
     "programs": [
       "Diploma in Civil Engineering (5-year integrated)",
       "MSc Design of Resilient, Sustainable and Smart Infrastructures",
@@ -12661,8 +12135,6 @@
     "name": "University of Thessaly (UTH) — School of Engineering",
     "country": "Greece",
     "city": "Volos",
-    "x": 71.64,
-    "y": 86.79,
     "programs": [
       "MSc Civil Engineering",
       "MSc Architecture",
@@ -12710,8 +12182,6 @@
     "name": "Democritus University of Thrace (DUTH) — School of Engineering",
     "country": "Greece",
     "city": "Xanthi",
-    "x": 74.81,
-    "y": 81.73,
     "programs": [
       "MSc Civil Engineering",
       "MSc Environmental Engineering",
@@ -12759,8 +12229,6 @@
     "name": "University of Belgrade",
     "country": "Serbia",
     "city": "Belgrade",
-    "x": 64.6,
-    "y": 72.7,
     "programs": [
       "BSc Civil Engineering",
       "MSc Civil Engineering - Organisation, Technology and Informatics (OTI)",
@@ -12809,8 +12277,6 @@
     "name": "University of Pristina (North Mitrovica)",
     "country": "Kosovo",
     "city": "Kosovska Mitrovica",
-    "x": 66.45,
-    "y": 78.5,
     "programs": [
       "BSc Architecture",
       "BSc Civil Engineering - Structures",
@@ -12860,8 +12326,6 @@
     "name": "University of Novi Sad",
     "country": "Serbia",
     "city": "Novi Sad",
-    "x": 63.1,
-    "y": 71.9,
     "programs": [
       "BSc Civil Engineering",
       "BSc Architecture",
@@ -12911,8 +12375,6 @@
     "name": "University of Niš — Faculty of Civil Engineering and Architecture (GAF)",
     "country": "Serbia",
     "city": "Niš",
-    "x": 67.38,
-    "y": 76.93,
     "programs": [
       "MSc Civil Engineering",
       "MArch Architecture (integrated 5-year, IAS Arhitektura)",
@@ -12958,8 +12420,6 @@
     "name": "University of Ljubljana",
     "country": "Slovenia",
     "city": "Ljubljana",
-    "x": 52.9,
-    "y": 70.7,
     "programs": [
       "BIM A+ European Master in Building Information Modelling",
       "MSc Civil Engineering - BIM Orientation",
@@ -13007,8 +12467,6 @@
     "name": "University of Maribor (UM) — Faculty of Civil Engineering, Transportation Engineering and Architecture (FGPA)",
     "country": "Slovenia",
     "city": "Maribor",
-    "x": 54.95,
-    "y": 69.02,
     "programs": [
       "MSc Civil Engineering",
       "MSc Architecture",
@@ -13056,8 +12514,6 @@
     "name": "University of Sarajevo",
     "country": "Bosnia and Herzegovina",
     "city": "Sarajevo",
-    "x": 60.6,
-    "y": 76.3,
     "programs": [
       "BSc Civil Engineering",
       "BSc Geodesy",
@@ -13105,8 +12561,6 @@
     "name": "University of Banja Luka — Faculty of Architecture, Civil Engineering and Geodesy (AGGF)",
     "country": "Bosnia and Herzegovina",
     "city": "Banja Luka",
-    "x": 58.19,
-    "y": 73.84,
     "programs": [
       "MSc Architecture and Urbanism",
       "MSc Civil Engineering",
@@ -13154,8 +12608,6 @@
     "name": "University of Mostar — Faculty of Civil Engineering, Architecture and Geodesy (FGAG)",
     "country": "Bosnia and Herzegovina",
     "city": "Mostar",
-    "x": 59.6,
-    "y": 77.85,
     "programs": [
       "BSc Civil Engineering",
       "BSc Architecture and Urbanism",
@@ -13205,8 +12657,6 @@
     "name": "University of Montenegro (UCG) — Faculty of Civil Engineering / Faculty of Architecture",
     "country": "Montenegro",
     "city": "Podgorica",
-    "x": 63.2,
-    "y": 79.53,
     "programs": [
       "MSc Civil Engineering — Construction",
       "MSc Civil Engineering — Infrastructure",
@@ -13254,8 +12704,6 @@
     "name": "University of Zagreb",
     "country": "Croatia",
     "city": "Zagreb",
-    "x": 55.8,
-    "y": 71,
     "programs": [
       "BSc Civil Engineering",
       "MSc Civil Engineering",
@@ -13303,8 +12751,6 @@
     "name": "University of Osijek",
     "country": "Croatia",
     "city": "Osijek",
-    "x": 60.7,
-    "y": 71.4,
     "programs": [
       "BSc Civil Engineering"
     ],
@@ -13343,8 +12789,6 @@
     "name": "University of Split — Faculty of Civil Engineering, Architecture and Geodesy (FGAG)",
     "country": "Croatia",
     "city": "Split",
-    "x": 57.3,
-    "y": 77.4,
     "programs": [
       "MSc Architecture and Urban Planning (English)",
       "MSc Civil Engineering",
@@ -13392,8 +12836,6 @@
     "name": "University of Rijeka — Faculty of Civil Engineering",
     "country": "Croatia",
     "city": "Rijeka",
-    "x": 53.3,
-    "y": 72.7,
     "programs": [
       "MSc Civil Engineering",
       "BSc Civil Engineering",
@@ -13439,8 +12881,6 @@
     "name": "Belarusian National Technical University (BNTU)",
     "country": "Belarus",
     "city": "Minsk",
-    "x": 72.9,
-    "y": 46.6,
     "programs": [
       "BSc Industrial and Civil Engineering",
       "MSc Building and Civil Engineering",
@@ -13488,8 +12928,6 @@
     "name": "Politecnico di Milano",
     "country": "Italy",
     "city": "Milan",
-    "x": 42.7,
-    "y": 72.4,
     "programs": [
       "Professional Master (P.MSc) in BIM Management in Construction Works",
       "Professional Master (P.MSc) in Project Management in Construction Works with BIM",
@@ -13535,8 +12973,6 @@
     "name": "Politecnico di Torino",
     "country": "Italy",
     "city": "Turin",
-    "x": 39.8,
-    "y": 73.4,
     "programs": [
       "MSc Ingegneria Edile (Building Engineering)",
       "PhD Ingegneria Civile e Ambientale (Civil and Environmental Engineering)"
@@ -13581,8 +13017,6 @@
     "name": "Sapienza University of Rome",
     "country": "Italy",
     "city": "Rome",
-    "x": 49.5,
-    "y": 81.5,
     "programs": [
       "Master Green BIM e Architectural Engineering - Level II Professional Master",
       "PhD Engineering of Architecture and Urban Planning"
@@ -13624,8 +13058,6 @@
     "name": "University of Bologna",
     "country": "Italy",
     "city": "Bologna",
-    "x": 47.3,
-    "y": 75,
     "programs": [
       "BSc Building Construction Engineering",
       "MSc Civil Engineering",
@@ -13671,8 +13103,6 @@
     "name": "Università Politecnica delle Marche",
     "country": "Italy",
     "city": "Ancona",
-    "x": 51.1,
-    "y": 77.6,
     "programs": [
       "BSc Building Engineering",
       "MSc Building Engineering - Building Technology and Structures",
@@ -13720,8 +13150,6 @@
     "name": "University of Pavia",
     "country": "Italy",
     "city": "Pavia",
-    "x": 41.9,
-    "y": 73.5,
     "programs": [
       "BSc TeDCAT - Tecnologie Digitali per le Costruzioni, l'Ambiente e il Territorio (Digital Technologies for Construction, Environment and Territory)",
       "PhD in Civil Engineering and Architecture"
@@ -13763,8 +13191,6 @@
     "name": "University of Catania",
     "country": "Italy",
     "city": "Catania",
-    "x": 55.1,
-    "y": 93.5,
     "programs": [
       "MSc Construction Management and Safety (LM-26) - English",
       "PhD Evaluation and Mitigation of Urban and Territorial Risks"
@@ -13806,8 +13232,6 @@
     "name": "University of Naples Federico II",
     "country": "Italy",
     "city": "Naples",
-    "x": 53.6,
-    "y": 84.4,
     "programs": [
       "BSc Tecnologie Digitali per le Costruzioni (Digital Technologies for Construction)",
       "MSc Ingegneria Edile-Architettura (Building Engineering-Architecture) - 5-year Single Cycle",
@@ -13850,8 +13274,6 @@
     "name": "University of Florence",
     "country": "Italy",
     "city": "Florence",
-    "x": 46.9,
-    "y": 77,
     "programs": [
       "BSc Civil, Construction and Environmental Engineering",
       "MSc Building Engineering",
@@ -13897,8 +13319,6 @@
     "name": "University of Pisa",
     "country": "Italy",
     "city": "Pisa",
-    "x": 45.3,
-    "y": 77.5,
     "programs": [
       "BSc Civil, Environmental and Building Engineering",
       "MSc Building Engineering-Architecture (Single Cycle)",
@@ -13944,8 +13364,6 @@
     "name": "Politecnico di Bari (PoliBA)",
     "country": "Italy",
     "city": "Bari",
-    "x": 58.4,
-    "y": 84,
     "programs": [
       "Corso di formazione BIM",
       "MSc Civil Engineering"
@@ -13993,8 +13411,6 @@
     "name": "Università IUAV di Venezia",
     "country": "Italy",
     "city": "Venice",
-    "x": 48.8,
-    "y": 72.7,
     "programs": [
       "Master Architettura Digitale"
     ],
@@ -14041,8 +13457,6 @@
     "name": "Università degli Studi di Padova (UniPD)",
     "country": "Italy",
     "city": "Padua",
-    "x": 47.9,
-    "y": 72.7,
     "programs": [
       "BSc Tecnologie e Disciplina dell'Edilizia",
       "Master HBIM",
@@ -14098,8 +13512,6 @@
     "name": "Università degli Studi di Brescia (UniBS)",
     "country": "Italy",
     "city": "Brescia",
-    "x": 44.6,
-    "y": 72.4,
     "programs": [
       "BSc Civil Engineering",
       "MSc Civil Engineering",
@@ -14149,8 +13561,6 @@
     "name": "Università degli Studi di Genova (UniGe)",
     "country": "Italy",
     "city": "Genoa",
-    "x": 42.2,
-    "y": 75.3,
     "programs": [
       "Architecture school",
       "University main page"
@@ -14199,8 +13609,6 @@
     "name": "Università degli Studi di Roma Tor Vergata",
     "country": "Italy",
     "city": "Rome",
-    "x": 50.2,
-    "y": 81.8,
     "programs": [
       "Master Digitalizzazione BIM-based",
       "Master BIM-M (department news)"
@@ -14248,8 +13656,6 @@
     "name": "Università del Salento (UniSalento)",
     "country": "Italy",
     "city": "Lecce",
-    "x": 61.1,
-    "y": 86,
     "programs": [
       "Master Esperto BIM",
       "Master di II livello Esperto BIM"
@@ -14298,8 +13704,6 @@
     "name": "University of Malta (UM) — Faculty for the Built Environment",
     "country": "Malta",
     "city": "Msida",
-    "x": 53.7,
-    "y": 98,
     "programs": [
       "MEng Civil Engineering",
       "MSc Civil Engineering (research)",
@@ -14348,8 +13752,6 @@
     "name": "Moscow State University of Civil Engineering (MGSU)",
     "country": "Russia",
     "city": "Moscow",
-    "x": 92.8,
-    "y": 40.3,
     "programs": [
       "BSc Industrial and Civil Engineering",
       "BSc Building Information Modelling (BIM)",
@@ -14397,8 +13799,6 @@
     "name": "Saint Petersburg State University of Architecture and Civil Engineering (SPbGASU)",
     "country": "Russia",
     "city": "Saint Petersburg",
-    "x": 71.9,
-    "y": 29.5,
     "programs": [
       "BSc Industrial and Civil Engineering",
       "BSc Information Systems and Technologies",
@@ -14446,8 +13846,6 @@
     "name": "Peter the Great St. Petersburg Polytechnic University (SPbPU)",
     "country": "Russia",
     "city": "Saint Petersburg",
-    "x": 72.2,
-    "y": 29.8,
     "programs": [
       "MSc Civil Engineering",
       "MSc Energy Efficient and Sustainable Building",
@@ -14495,8 +13893,6 @@
     "name": "Nizhny Novgorod State University of Architecture and Civil Engineering (NNGASU)",
     "country": "Russia",
     "city": "Nizhny Novgorod",
-    "x": 99.1,
-    "y": 40.1,
     "programs": [
       "BSc Industrial and Civil Engineering",
       "BSc Information Technology",
@@ -14542,8 +13938,6 @@
     "name": "University of Nicosia",
     "country": "Cyprus",
     "city": "Nicosia",
-    "x": 96,
-    "y": 91.9,
     "programs": [
       "BSc Civil and Environmental Engineering"
     ],
@@ -14584,8 +13978,6 @@
     "name": "Cyprus International University (CIU)",
     "country": "Cyprus",
     "city": "Nicosia",
-    "x": 96.3,
-    "y": 91.6,
     "programs": [
       "BSc Civil Engineering",
       "MSc Civil Engineering"
@@ -14628,8 +14020,6 @@
     "name": "University of Cyprus (UCY) — Department of Civil and Environmental Engineering",
     "country": "Cyprus",
     "city": "Nicosia",
-    "x": 95.5,
-    "y": 91.9,
     "programs": [
       "MSc Civil Engineering (4 specializations)",
       "MEng Civil Engineering",
@@ -14678,8 +14068,6 @@
     "name": "Cyprus University of Technology (CUT) — Department of Civil Engineering and Geomatics",
     "country": "Cyprus",
     "city": "Limassol",
-    "x": 95,
-    "y": 93.5,
     "programs": [
       "MSc Civil Engineering and Sustainable Design",
       "BSc Civil Engineering",
@@ -14728,8 +14116,6 @@
     "name": "Istanbul Technical University (ITU)",
     "country": "Turkey",
     "city": "Istanbul",
-    "x": 82.6,
-    "y": 79.1,
     "programs": [
       "BSc Civil Engineering",
       "MSc Project and Construction Management",
@@ -14778,8 +14164,6 @@
     "name": "Bogazici University",
     "country": "Turkey",
     "city": "Istanbul",
-    "x": 82.9,
-    "y": 79.4,
     "programs": [
       "BSc Civil Engineering",
       "MSc Construction Engineering and Management",
@@ -14825,8 +14209,6 @@
     "name": "Yildiz Technical University",
     "country": "Turkey",
     "city": "Istanbul",
-    "x": 82.3,
-    "y": 78.8,
     "programs": [
       "BSc Civil Engineering",
       "MSc Construction Management (non-thesis)",
