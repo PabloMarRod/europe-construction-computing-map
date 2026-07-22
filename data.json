@@ -16385,5 +16385,992 @@
     "lastChecked": "2026-07-20",
     "region": "Europe",
     "costCurrency": "TRY"
+  },
+  {
+    "name": "Universidad de Chile",
+    "country": "Chile",
+    "city": "Santiago",
+    "programs": [
+      "Diplomado en Modelación y Coordinación de Proyectos con BIM",
+      "Curso de Especialización en Dirección y Coordinación BIM en Proyectos de Infraestructura y Minería"
+    ],
+    "programLinks": [
+      "https://fau.uchile.cl/cursos/diploma-modelamiento-y-coordinacion-de-proyectos-con-bim",
+      "https://ingcivil.uchile.cl/cursos/157519/curso-bim-en-infraestructura-y-mineria"
+    ],
+    "accreditation": [],
+    "language": "Spanish",
+    "mode": "Part-time",
+    "delivery": "Online",
+    "cost": "2,044,850 - 2,452,200",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme intake places not published on the programme page (intake, not graduations)",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "openBIM & IFC",
+      "ISO 19650",
+      "Collaborative Workflows",
+      "3D Modeling & Scanning",
+      "Data Management",
+      "Infrastructure BIM",
+      "Architecture",
+      "Construction Management",
+      "Infrastructure Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "openBIM & IFC",
+      "ISO 19650",
+      "Collaborative Workflows",
+      "3D Modeling & Scanning",
+      "Data Management",
+      "Infrastructure BIM"
+    ],
+    "domains": [
+      "Architecture",
+      "Construction Management",
+      "Infrastructure Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.uchile.cl/",
+    "lat": -33.44177,
+    "lon": -70.63745,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-22",
+    "region": "South America",
+    "costCurrency": "CLP"
+  },
+  {
+    "name": "Universidad de Santiago de Chile (USACH)",
+    "country": "Chile",
+    "city": "Santiago",
+    "programs": [
+      "Diplomado Internacional BIM en Infraestructura",
+      "Diplomado en Ingeniería Vial"
+    ],
+    "programLinks": [
+      "https://obrasciviles.usach.cl/diplomado-internacional-bim-en-infraestructura/",
+      "https://obrasciviles.usach.cl/diplomado-ingenieria-vial/"
+    ],
+    "accreditation": [],
+    "language": "Spanish",
+    "mode": "Part-time",
+    "delivery": "Online",
+    "cost": "2,200,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme intake places not published on the programme page (intake, not graduations)",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Infrastructure BIM",
+      "Collaborative Workflows",
+      "Data Management",
+      "3D Modeling & Scanning",
+      "Civil Engineering",
+      "Infrastructure Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Infrastructure BIM",
+      "Collaborative Workflows",
+      "Data Management",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Infrastructure Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://obrasciviles.usach.cl/",
+    "lat": -33.4489,
+    "lon": -70.68162,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-22",
+    "region": "South America",
+    "costCurrency": "CLP"
+  },
+  {
+    "name": "Universidad Tecnológica Metropolitana (UTEM)",
+    "country": "Chile",
+    "city": "Santiago",
+    "programs": [
+      "Magíster en Metodologías BIM"
+    ],
+    "programLinks": [
+      "https://postgrado.utem.cl/magister-bim/"
+    ],
+    "accreditation": [],
+    "language": "Spanish",
+    "mode": "Part-time",
+    "delivery": "Online",
+    "cost": "3,750,000",
+    "graduatesPerYear": "20",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "Magíster intake cap of 20 places per cohort (intake, not graduations)",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "openBIM & IFC",
+      "Programming",
+      "Parametric & Generative Design",
+      "AI & Machine Learning",
+      "VR/AR",
+      "Digital Fabrication",
+      "Infrastructure BIM",
+      "Energy Performance",
+      "Collaborative Workflows",
+      "Architecture",
+      "Construction Management",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "openBIM & IFC",
+      "Programming",
+      "Parametric & Generative Design",
+      "AI & Machine Learning",
+      "VR/AR",
+      "Digital Fabrication",
+      "Infrastructure BIM",
+      "Energy Performance",
+      "Collaborative Workflows"
+    ],
+    "domains": [
+      "Architecture",
+      "Construction Management",
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://postgrado.utem.cl/",
+    "lat": -33.44855,
+    "lon": -70.65893,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-22",
+    "region": "South America",
+    "costCurrency": "CLP"
+  },
+  {
+    "name": "Universidad del Bío-Bío",
+    "country": "Chile",
+    "city": "Concepción",
+    "programs": [
+      "Ingeniería en Construcción"
+    ],
+    "programLinks": [
+      "https://ubiobio.cl/admision/todas_las_carreras/2/Ingenieria_en_Construccion/"
+    ],
+    "accreditation": [],
+    "language": "Spanish",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "3,500,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "undergraduate programme; annual arancel not retrieved from public page; intake not published (intake, not graduations)",
+    "topics": [
+      "BIM",
+      "Digital Construction",
+      "Construction Management",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Digital Construction"
+    ],
+    "domains": [
+      "Construction Management",
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.ubiobio.cl/",
+    "lat": -36.82314,
+    "lon": -73.01251,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-22",
+    "region": "South America",
+    "costCurrency": "CLP"
+  },
+  {
+    "name": "Universidad de Valparaíso",
+    "country": "Chile",
+    "city": "Valparaíso",
+    "programs": [
+      "Diplomado BIM para la Gestión de la Construcción"
+    ],
+    "programLinks": [
+      "https://postgrados.uv.cl/diplomados-uv/facultad-de-ingenieria/bim-construccion"
+    ],
+    "accreditation": [],
+    "language": "Spanish",
+    "mode": "Part-time",
+    "delivery": "Presential",
+    "cost": null,
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "diploma fee gated behind enquiry; intake not published (intake, not graduations)",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Collaborative Workflows",
+      "Data Management",
+      "Construction Management",
+      "Project Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Collaborative Workflows",
+      "Data Management"
+    ],
+    "domains": [
+      "Construction Management",
+      "Project Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.uv.cl/",
+    "lat": -33.04585,
+    "lon": -71.61967,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-07-22",
+    "region": "South America",
+    "costCurrency": "CLP"
+  },
+  {
+    "name": "Pontificia Universidad Católica de Chile (UC)",
+    "country": "Chile",
+    "city": "Santiago",
+    "programs": [
+      "Diplomado en Gestión de Proyectos BIM para la Construcción",
+      "Diplomado en BIM Arquitectura",
+      "Diplomado en VDC/BIM en la Gestión de Organizaciones y Proyectos"
+    ],
+    "programLinks": [
+      "https://educacioncontinua.uc.cl/programas/diplomado-en-gestion-de-proyectos-bim-para-la-construccion/",
+      "https://educacioncontinua.uc.cl/programas/diplomado-en-bim-arquitectura/",
+      "https://educacionprofesional.ing.uc.cl/?diplomado=diplomado-en-vdc-bim-en-la-gestion-de-organizaciones-y-proyectos"
+    ],
+    "accreditation": [],
+    "language": "Spanish",
+    "mode": "Part-time",
+    "delivery": "Online",
+    "cost": "1,990,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme fee gated / intake not published on programme page (intake, not graduations)",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Parametric & Generative Design",
+      "nD BIM",
+      "Collaborative Workflows",
+      "Data Management",
+      "Digital Construction",
+      "Architecture",
+      "Construction Management",
+      "Project Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Parametric & Generative Design",
+      "nD BIM",
+      "Collaborative Workflows",
+      "Data Management",
+      "Digital Construction"
+    ],
+    "domains": [
+      "Architecture",
+      "Construction Management",
+      "Project Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.uc.cl/",
+    "lat": -33.44177,
+    "lon": -70.64033,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-22",
+    "region": "South America",
+    "costCurrency": "CLP"
+  },
+  {
+    "name": "Pontificia Universidad Católica de Valparaíso (PUCV)",
+    "country": "Chile",
+    "city": "Valparaíso",
+    "programs": [
+      "Diplomado BIM: Modelado y Coordinación"
+    ],
+    "programLinks": [
+      "https://www.pucv.cl/uuaa/ingenieria-civil/formacion-continua/diplomado-bim-modelado-y-coordinacion"
+    ],
+    "accreditation": [],
+    "language": "Spanish",
+    "mode": "Part-time",
+    "delivery": "Online",
+    "cost": null,
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme fee gated / intake not published on programme page (intake, not graduations)",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Collaborative Workflows",
+      "Structural Engineering",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Collaborative Workflows"
+    ],
+    "domains": [
+      "Structural Engineering",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.pucv.cl/",
+    "lat": -33.04494,
+    "lon": -71.60676,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-22",
+    "region": "South America",
+    "costCurrency": "CLP"
+  },
+  {
+    "name": "Universidad de Concepción (UdeC)",
+    "country": "Chile",
+    "city": "Concepción",
+    "programs": [
+      "Diploma en Modelación y Coordinación BIM"
+    ],
+    "programLinks": [
+      "http://faug.udec.cl/?g1_work=inscripciones-abiertas-diplomado-modelacion-y-coordinacion-bim-2"
+    ],
+    "accreditation": [],
+    "language": "Spanish",
+    "mode": "Part-time",
+    "delivery": "Presential",
+    "cost": null,
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme fee gated / intake not published on programme page (intake, not graduations)",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Collaborative Workflows",
+      "Data Management",
+      "Architecture",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Collaborative Workflows",
+      "Data Management"
+    ],
+    "domains": [
+      "Architecture",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.udec.cl/",
+    "lat": -36.82821,
+    "lon": -73.03476,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-22",
+    "region": "South America",
+    "costCurrency": "CLP"
+  },
+  {
+    "name": "Universidad Técnica Federico Santa María (USM)",
+    "country": "Chile",
+    "city": "Valparaíso",
+    "programs": [
+      "Diplomado en BIM Avanzado para la Gestión Digital de Proyectos",
+      "Diploma BIM: Desarrollo y Coordinación de Proyectos de Edificación"
+    ],
+    "programLinks": [
+      "https://educacioncontinua2.usm.cl/diplomas-y-capacitacion/program/363",
+      "https://educacioncontinua.usm.cl/"
+    ],
+    "accreditation": [],
+    "language": "Spanish",
+    "mode": "Part-time",
+    "delivery": "Presential / Online",
+    "cost": null,
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme fee gated / intake not published on programme page (intake, not graduations)",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Programming",
+      "Collaborative Workflows",
+      "Data Management",
+      "Construction Management",
+      "Project Management",
+      "Sustainability"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Programming",
+      "Collaborative Workflows",
+      "Data Management"
+    ],
+    "domains": [
+      "Construction Management",
+      "Project Management",
+      "Sustainability"
+    ],
+    "verificationLevel": 2,
+    "website": "https://educacioncontinua.usm.cl/",
+    "lat": -33.03518,
+    "lon": -71.59527,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-22",
+    "region": "South America",
+    "costCurrency": "CLP"
+  },
+  {
+    "name": "Universidad Católica del Norte (UCN)",
+    "country": "Chile",
+    "city": "Antofagasta",
+    "programs": [
+      "Diplomado en Coordinación y Gestión para Proyectos BIM"
+    ],
+    "programLinks": [
+      "https://postgrado.ucn.cl/diplomados/diplomado-coordinacion-y-gestion-para-proyectos-bim/"
+    ],
+    "accreditation": [],
+    "language": "Spanish",
+    "mode": "Part-time",
+    "delivery": "Online",
+    "cost": null,
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme fee gated / intake not published on programme page (intake, not graduations)",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Collaborative Workflows",
+      "Data Management",
+      "Architecture",
+      "Construction Management",
+      "Project Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Collaborative Workflows",
+      "Data Management"
+    ],
+    "domains": [
+      "Architecture",
+      "Construction Management",
+      "Project Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.ucn.cl/",
+    "lat": -23.68163,
+    "lon": -70.4102,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-22",
+    "region": "South America",
+    "costCurrency": "CLP"
+  },
+  {
+    "name": "Universidad Católica de Temuco (UCT)",
+    "country": "Chile",
+    "city": "Temuco",
+    "programs": [
+      "Diplomado Avanzado en Revit y Metodología BIM para Infraestructura Pública Sostenible y Eficiencia Energética"
+    ],
+    "programLinks": [
+      "https://econtinua.uct.cl/"
+    ],
+    "accreditation": [],
+    "language": "Spanish",
+    "mode": "Part-time",
+    "delivery": "Online",
+    "cost": null,
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme fee gated / intake not published on programme page (intake, not graduations)",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "Collaborative Workflows",
+      "Infrastructure BIM",
+      "Energy Performance",
+      "Construction Management",
+      "Infrastructure Engineering",
+      "Sustainability"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "Collaborative Workflows",
+      "Infrastructure BIM",
+      "Energy Performance"
+    ],
+    "domains": [
+      "Construction Management",
+      "Infrastructure Engineering",
+      "Sustainability"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.uct.cl/",
+    "lat": -38.73784,
+    "lon": -72.60178,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-22",
+    "region": "South America",
+    "costCurrency": "CLP"
+  },
+  {
+    "name": "Universidad Católica de la Santísima Concepción (UCSC)",
+    "country": "Chile",
+    "city": "Concepción",
+    "programs": [
+      "Diplomado en Tecnologías BIM Aplicadas a Proyectos de Construcción"
+    ],
+    "programLinks": [
+      "https://formacioncontinua.ucsc.cl/carreras/diplomado-en-tecnologias-bim-aplicadas-a-proyectos-de-construccion/"
+    ],
+    "accreditation": [],
+    "language": "Spanish",
+    "mode": "Part-time",
+    "delivery": "Online",
+    "cost": null,
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme fee gated / intake not published on programme page (intake, not graduations)",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Construction Management",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Construction Management",
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.ucsc.cl/",
+    "lat": -36.8297,
+    "lon": -73.0166,
+    "geoSource": "nominatim:name+city (manual)",
+    "lastChecked": "2026-07-22",
+    "region": "South America",
+    "costCurrency": "CLP"
+  },
+  {
+    "name": "Universidad UNIACC",
+    "country": "Chile",
+    "city": "Santiago",
+    "programs": [
+      "Magíster en Building Information Modeling Management (BIM)"
+    ],
+    "programLinks": [
+      "https://www.master-maestrias.com/institutions/universidad-uniacc/magister-en-building-information-modeling-management-bim"
+    ],
+    "accreditation": [],
+    "language": "Spanish",
+    "mode": "Part-time",
+    "delivery": "Hybrid",
+    "cost": null,
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Collaborative Workflows",
+      "Data Management",
+      "Construction Management",
+      "Project Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Collaborative Workflows",
+      "Data Management"
+    ],
+    "domains": [
+      "Construction Management",
+      "Project Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.uniacc.cl/",
+    "lat": -33.44421,
+    "lon": -70.6227,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-22",
+    "region": "South America",
+    "costCurrency": "CLP"
+  },
+  {
+    "name": "Universidad Autónoma de Chile",
+    "country": "Chile",
+    "city": "Santiago",
+    "programs": [
+      "Magíster en Tecnologías Aplicadas a la Construcción",
+      "Diplomado en Modelación BIM"
+    ],
+    "programLinks": [
+      "https://www.uautonoma.cl/facultades/arquitectura-construccion-y-medio-ambiente/",
+      "https://www.uautonoma.cl/facultades/arquitectura-construccion-y-medio-ambiente/"
+    ],
+    "accreditation": [],
+    "language": "Spanish",
+    "mode": "Part-time",
+    "delivery": "Presential / Online",
+    "cost": null,
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "VR/AR",
+      "Energy Performance",
+      "Digital Construction",
+      "Architecture",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "VR/AR",
+      "Energy Performance",
+      "Digital Construction"
+    ],
+    "domains": [
+      "Architecture",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.uautonoma.cl/",
+    "lat": -33.42762,
+    "lon": -70.61188,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-22",
+    "region": "South America",
+    "costCurrency": "CLP"
+  },
+  {
+    "name": "Universidad Diego Portales (UDP)",
+    "country": "Chile",
+    "city": "Santiago",
+    "programs": [
+      "Diplomado Diseño y Certificación BIM / UDP-Graphisoft"
+    ],
+    "programLinks": [
+      "https://posgrados.udp.cl/programas/diplomado-diseno-y-certificacion-bim-udp-graphisoft/"
+    ],
+    "accreditation": [],
+    "language": "Spanish",
+    "mode": "Part-time",
+    "delivery": "Online",
+    "cost": null,
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.udp.cl/",
+    "lat": -33.4377,
+    "lon": -70.65107,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-07-22",
+    "region": "South America",
+    "costCurrency": "CLP"
+  },
+  {
+    "name": "Universidad del Desarrollo (UDD)",
+    "country": "Chile",
+    "city": "Santiago",
+    "programs": [
+      "Diplomado BIM: Modelación y Coordinación de Proyectos"
+    ],
+    "programLinks": [
+      "https://arquitectura.udd.cl/files/2021/12/brochure-diplomado-bim-2025.pdf"
+    ],
+    "accreditation": [],
+    "language": "Spanish",
+    "mode": "Part-time",
+    "delivery": "Presential",
+    "cost": null,
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Collaborative Workflows",
+      "Architecture",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Collaborative Workflows"
+    ],
+    "domains": [
+      "Architecture",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.udd.cl/",
+    "lat": -33.39184,
+    "lon": -70.5005,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-22",
+    "region": "South America",
+    "costCurrency": "CLP"
+  },
+  {
+    "name": "Universidad San Sebastián (USS)",
+    "country": "Chile",
+    "city": "Santiago",
+    "programs": [
+      "Diplomado en Modelación y Gestión Integrada de Proyectos BIM"
+    ],
+    "programLinks": [
+      "https://postgrados.uss.cl/programa/diplomado-en-modelacion-y-gestion-integrada-de-proyectos-bim/"
+    ],
+    "accreditation": [],
+    "language": "Spanish",
+    "mode": "Part-time",
+    "delivery": "Online",
+    "cost": null,
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Collaborative Workflows",
+      "Data Management",
+      "Construction Management",
+      "Project Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Collaborative Workflows",
+      "Data Management"
+    ],
+    "domains": [
+      "Construction Management",
+      "Project Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.uss.cl/",
+    "lat": -33.44605,
+    "lon": -70.66794,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-22",
+    "region": "South America",
+    "costCurrency": "CLP"
+  },
+  {
+    "name": "Universidad Viña del Mar (UVM)",
+    "country": "Chile",
+    "city": "Viña del Mar",
+    "programs": [
+      "Diplomado en Metodología BIM para Proyectos de Ingeniería y Obras Civiles"
+    ],
+    "programLinks": [
+      "https://www.uvm.cl/diplomado-gerenciamiento-proyectos-ingenieria-bim/"
+    ],
+    "accreditation": [],
+    "language": "Spanish",
+    "mode": "Part-time",
+    "delivery": "Online",
+    "cost": null,
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "nD BIM",
+      "Collaborative Workflows",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "nD BIM",
+      "Collaborative Workflows"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.uvm.cl/",
+    "lat": -33.07117,
+    "lon": -71.55115,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-22",
+    "region": "South America",
+    "costCurrency": "CLP"
+  },
+  {
+    "name": "Universidad Tecnológica de Chile INACAP",
+    "country": "Chile",
+    "city": "Santiago",
+    "programs": [
+      "Diplomado en Metodologías BIM en Proyectos de Construcción"
+    ],
+    "programLinks": [
+      "https://aulas.inacap.cl/capacitacion/course/index.php?categoryid=1406"
+    ],
+    "accreditation": [],
+    "language": "Spanish",
+    "mode": "Part-time",
+    "delivery": "Online",
+    "cost": null,
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Collaborative Workflows",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Collaborative Workflows"
+    ],
+    "domains": [
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.inacap.cl/",
+    "lat": -33.4377,
+    "lon": -70.65107,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-07-22",
+    "region": "South America",
+    "costCurrency": "CLP"
+  },
+  {
+    "name": "Universidad Finis Terrae (UFT)",
+    "country": "Chile",
+    "city": "Santiago",
+    "programs": [
+      "Diplomado BIM (Building Information Modeling)"
+    ],
+    "programLinks": [
+      "https://postgrados.uft.cl/programas/diplomado-2/"
+    ],
+    "accreditation": [],
+    "language": "Spanish",
+    "mode": "Part-time",
+    "delivery": "Presential",
+    "cost": null,
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.uft.cl/",
+    "lat": -33.43702,
+    "lon": -70.60858,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-22",
+    "region": "South America",
+    "costCurrency": "CLP"
+  },
+  {
+    "name": "Duoc UC",
+    "country": "Chile",
+    "city": "Santiago",
+    "programs": [
+      "Diplomado en Modelamiento y Coordinación BIM"
+    ],
+    "programLinks": [
+      "https://www.duoc.cl/educacion-continua/"
+    ],
+    "accreditation": [],
+    "language": "Spanish",
+    "mode": "Part-time",
+    "delivery": "Online",
+    "cost": null,
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Collaborative Workflows",
+      "Data Management",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Collaborative Workflows",
+      "Data Management"
+    ],
+    "domains": [
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.duoc.cl/",
+    "lat": -33.51233,
+    "lon": -70.75216,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-22",
+    "region": "South America",
+    "costCurrency": "CLP"
   }
 ]

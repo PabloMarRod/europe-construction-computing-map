@@ -1,16 +1,16 @@
 {
-  "name": "European Construction-Computing Education Map",
-  "description": "Dataset of European higher-education institutions offering programmes in digital construction, BIM, and construction informatics, with programme, cost, accreditation, delivery, and geographic detail.",
-  "version": "1.0.0",
-  "generated": "2026-07-20",
+  "name": "Construction-Computing Education Map (Europe + South America)",
+  "description": "Dataset of higher-education institutions offering programmes in digital construction, BIM, and construction informatics, with programme, cost, accreditation, delivery, and geographic detail. Europe (309) plus a Chile pilot for South America (21).",
+  "version": "1.1.0",
+  "generated": "2026-07-22",
   "license": "CC BY 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
   "citation": "European Construction-Computing Education Map (v1.0.0). CC BY 4.0. <add author / DOI on deposit>.",
   "maintainerContact": "<add maintainer email or ORCID>",
   "repository": "https://github.com/PabloMarRod/europe-construction-computing-map",
   "coverage": {
-    "institutions": 309,
-    "countries": 42,
+    "institutions": 330,
+    "countries": 43,
     "countryList": [
       "Albania",
       "Austria",
@@ -18,6 +18,7 @@
       "Belgium",
       "Bosnia and Herzegovina",
       "Bulgaria",
+      "Chile",
       "Croatia",
       "Cyprus",
       "Czech Republic",
@@ -55,7 +56,11 @@
       "Ukraine",
       "United Kingdom"
     ],
-    "distinctTopics": 40
+    "distinctTopics": 40,
+    "regions": {
+      "Europe": 309,
+      "South America": 21
+    }
   },
   "sourcesOfRecord": {
     "note": "Primary per-record sources are the institution homepage (`website`) and the programme pages (`programLinks`). No third-party aggregator is treated as authoritative.",
@@ -73,25 +78,31 @@
         "nominatim:city": "city centroid only — approximate, not the campus location"
       },
       "geoSourceCounts": {
-        "nominatim:name+city": 144,
-        "nominatim:name (audited)": 88,
-        "nominatim:city": 66,
-        "nominatim:name": 7,
-        "nominatim:name+city (manual)": 4
+        "nominatim:name+city": 160,
+        "nominatim:name (audited)": 86,
+        "nominatim:city": 68,
+        "nominatim:name": 6,
+        "nominatim:name+city (manual)": 5,
+        "manual:audited (main campus, Valhallavägen, central Stockholm)": 1,
+        "manual:audited (Louvain-la-Neuve campus)": 1,
+        "manual:audited (INSA campus, Saint-Étienne-du-Rouvray; city label corrected from Le Havre)": 1,
+        "manual:audited (rectorate, Lungarno Pacinotti, central Pisa)": 1,
+        "manual:audited (Brescia city / university)": 1
       },
-      "campusLevel": 243,
-      "cityCentroidOnly": 66
+      "campusLevel": 262,
+      "cityCentroidOnly": 68
     },
     "graduatesPerYear": {
       "nature": "Values are annual-graduate estimates, expressed as ranges. They are indicative, not official institutional statistics.",
       "imputation": "Records originally lacking a figure were imputed from the median of peer institutions in this dataset (same country and institution type where n>=3, widening to type, then to all). Imputed records carry `graduatesEstimated: true` and a `graduatesEstimateBasis` string.",
-      "imputedCount": 51
+      "imputedCount": 80
     },
     "cost": {
-      "unit": "indicative tuition, EUR per year; ranges typically span EU/EEA to non-EU or cheapest-to-priciest relevant programme",
-      "note": "12 records previously marked 'Variable' were reviewed on 2026-07-20; 10 were replaced with figures verified against national fee frameworks or institutional pages, and 2 (an alternance/employer-funded Mastère Spécialisé and a short certificate course) were retained as 'Variable' as genuinely programme-/funding-dependent.",
-      "numericRecords": 307,
-      "variableRecords": 2
+      "unit": "indicative tuition in each record's costCurrency (EUR/year for Europe; CLP total-programme for Chile).",
+      "note": "Europe: 307 numeric, 2 'Variable' (funding-dependent). Chile pilot: 5 records carry a published figure; 16 are null placeholders because the institution gates the fee behind an enquiry form (to be completed manually). 'Variable' is not used for Chile.",
+      "numericRecords": 312,
+      "variableRecords": 2,
+      "nullRecords": 16
     },
     "verificationLevel": {
       "legend": {
@@ -100,9 +111,8 @@
         "3": "confirmed directly by the institution"
       },
       "counts": {
-        "1": 8,
-        "2": 294,
-        "3": 7
+        "2": 329,
+        "3": 1
       }
     },
     "topics": {
@@ -112,8 +122,8 @@
         "computingTerms": 25,
         "domainTerms": 15
       },
-      "recordsWithComputingTopic": 308,
-      "recordsWithDomain": 272,
+      "recordsWithComputingTopic": 330,
+      "recordsWithDomain": 301,
       "tagging": {
         "rubric": "tagging-rubric.md",
         "rule": "Tag a topic only where the institution's own pages show a named course/module or an explicit programme learning outcome; applied uniformly to all institutions.",
@@ -129,10 +139,11 @@
     "lastChecked": "ISO date a record's programme/fee data was last verified against source; null = not yet verified in this provenance system"
   },
   "knownLimitations": [
-    "66 institutions are pinned to a city centroid rather than the exact campus (see geoSource='nominatim:city').",
-    "51 graduatesPerYear values are peer-imputed estimates (graduatesEstimated=true); the remaining figures are also indicative estimates rather than official statistics.",
-    "2 cost values remain 'Variable' (funding-/programme-dependent).",
-    "Most records sit at verificationLevel 2 (cross-referenced); only 7 are institution-confirmed. lastChecked is null pending a verification pass.",
+    "68 institutions are pinned to a city centroid rather than the exact campus (geoSource='nominatim:city').",
+    "80 graduatesPerYear values are peer-imputed or unpublished estimates (graduatesEstimated=true); all graduate figures are indicative, not official statistics.",
+    "2 European cost values remain 'Variable' (funding-/programme-dependent).",
+    "16 Chile cost values are null placeholders: the diploma/programme fee is gated behind an enquiry form and awaits manual entry.",
+    "Chile pilot (21 records) sits at verificationLevel 2; programme links were resolvability-checked on 2026-07-22. UNIACC uses an aggregator URL pending an institutional programme page; UCT and Duoc UC point to the continuing-education portal pending a precise programme URL.",
     "Cost figures are current-year rates and will drift; re-verify against source before citing."
   ],
   "validation": {
@@ -146,6 +157,6 @@
     "underTaggedRate": "52% of verified (100% of single-tag records)",
     "mostCommonlyOmitted": "AI & Machine Learning",
     "recordsVerifiedToDate": 49,
-    "censusStatus": "In progress (38/309 verified). Sample rate (>50% under-tagged) warrants full verification; CESI campuses corrected via shared national-programme evidence. Priority: <=2-tag population. Records verified under the rubric carry lastChecked."
+    "censusStatus": "In progress (38/309 verified). Sample rate (>50% under-tagged) warrants full verification; CESI campuses corrected via shared national-programme evidence. Priority: <=2-tag population. Records verified under the rubric carry lastChecked. | 2026-07-22: added 21 Chile records (South America pilot), each verified against its own programme page and link-checked; all at verificationLevel 2."
   }
 }

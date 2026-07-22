@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Education in Computing for Construction Across Europe</title>
+    <title>Education in Computing for Construction</title>
     
     <style>
         * {
@@ -1114,15 +1114,13 @@
     <div class="container">
         <div class="header">
             <div class="header-content">
-                <h1>Education in Computing for Construction Across Europe</h1>
+                <h1>Education in Computing for Construction</h1>
                 <p>Interactive Map Of Universities Offering Programs In Digital Construction, BIM, And Construction Informatics</p>
                 <p style="margin-top: 0.5rem; font-size: 0.75rem; opacity: 0.7;">
                     <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" style="color: #d97742; text-decoration: none;">CC BY 4.0</a>
                     &nbsp;&middot;&nbsp;
                     Pablo Martinez Rodriguez &nbsp;&middot;&nbsp;
                     Northumbria University
-                    &nbsp;&middot;&nbsp;
-                    Verify programme details with institutions directly.
                 </p>
                 <button onclick="downloadData()" class="download-btn" title="Download the full dataset as JSON (CC BY 4.0)">&#8681;&nbsp;Download dataset (JSON)</button>
             </div>
@@ -1370,7 +1368,7 @@
             
             <!-- Summary Panel - Right Side -->
             <div class="summary-panel">
-                <h2>European Education Data</h2>
+                <h2 id="summary-title">Global Education Data</h2>
                 
                 <div class="stat-item">
                     <div class="stat-label">Total Universities</div>
@@ -2100,6 +2098,21 @@
             
             updateSelectedStates();
             updateFilterCounts();
+            updateRegionBanner();
+        }
+        
+        // Right-side banner reflects the selected region:
+        // no region selected (or several) -> Global; a single region -> that region.
+        function updateRegionBanner() {
+            const el = document.getElementById('summary-title');
+            if (!el) return;
+            const regions = Array.from(activeFilters.regions);
+            let title = 'Global Education Data';
+            if (regions.length === 1) {
+                const r = regions[0];
+                title = (r === 'Europe') ? 'European Education Data' : r + ' Education Data';
+            }
+            el.textContent = title;
         }
         
         // Check if university matches all active filters
