@@ -1,6 +1,6 @@
-# europe-construction-computing-map
+# construction-computing-map
 
-Interactive map of European higher-education institutions offering programmes in digital construction, BIM, and construction informatics. Each institution is shown on an OpenStreetMap basemap with programme details, cost, accreditation, language, delivery mode, and research/PhD opportunities.
+Interactive map of global higher-education institutions offering programmes in digital construction, BIM, and construction informatics. Each institution is shown on an OpenStreetMap basemap with programme details, cost, accreditation, language, delivery mode, and research/PhD opportunities.
 
 **Live map:** _https://pablomarrod.github.io/europe-construction-computing-map/_
 **Licence:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
@@ -10,7 +10,7 @@ Interactive map of European higher-education institutions offering programmes in
 | File / folder | Purpose |
 |---|---|
 | `index.html` | **The deployable — a single self-contained file.** Map UI, filters, search, tooltips, the embedded dataset, and the EC3 logo, with Leaflet loaded from a CDN. |
-| `data.json` | **The canonical dataset** Currently (309 institutions, 42 countries) and the single source of truth. The viewer embeds a generated copy of it; also intended for citation, reuse, and archival deposit. |
+| `data.json` | **The canonical dataset.** Currently (309 institutions, 42 countries) and the single source of truth. The viewer embeds a generated copy of it; also intended for citation, reuse, and archival deposit. |
 | `dataset-metadata.json` | Dataset-level provenance: version, sources of record, methodology (geocoding, graduate estimation, cost sourcing), verification-level distribution, and known limitations. Not consumed by the app; intended for reuse, review, and archival deposit. |
 | `topic-vocabulary.json` | Controlled vocabulary for the `topics` field: 40 terms split into two facets — computing/digital topics (25) and domains/disciplines (15), each with a definition. New dataset entries should use these controlled terms only. |
 | `tagging-rubric.md` | The rule governing how topics are assigned and verified (named course/module or explicit learning outcome; applied uniformly), plus the interpretation of tags as a confirmed-presence floor. Governs the ongoing verification census. |
