@@ -55,7 +55,9 @@
     "lat": 54.97877,
     "lon": -1.60964,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "GBP"
   },
   {
     "name": "Reykjavík University",
@@ -73,7 +75,7 @@
     "language": "Icelandic",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "3,000 - 4,000",
+    "cost": "450,000 - 600,000",
     "graduatesPerYear": "15-20",
     "topics": [
       "BIM",
@@ -106,7 +108,9 @@
     "lat": 64.12474,
     "lon": -21.92754,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "ISK"
   },
   {
     "name": "University of Iceland (Háskóli Íslands)",
@@ -129,7 +133,7 @@
     "language": "Icelandic / English",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "0 - 4,500",
+    "cost": "0 - 675,000",
     "graduatesPerYear": "30-50",
     "topics": [
       "BIM",
@@ -158,7 +162,9 @@
     "lat": 64.14018,
     "lon": -21.95396,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "ISK"
   },
   {
     "name": "TU Dublin",
@@ -205,7 +211,9 @@
     "lat": 53.35385,
     "lon": -6.27802,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Ulster University",
@@ -250,7 +258,9 @@
     "lat": 54.60382,
     "lon": -5.92889,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "GBP"
   },
   {
     "name": "Belfast Metropolitan College",
@@ -294,7 +304,9 @@
     "lat": 54.60034,
     "lon": -5.93753,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "GBP"
   },
   {
     "name": "University of Galway",
@@ -353,7 +365,9 @@
     "lat": 53.29363,
     "lon": -9.07506,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "University of Limerick",
@@ -396,7 +410,9 @@
     "lat": 52.67326,
     "lon": -8.56981,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "University College Dublin (UCD)",
@@ -460,7 +476,9 @@
     "lat": 53.30813,
     "lon": -6.22704,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Trinity College Dublin (TCD)",
@@ -511,7 +529,9 @@
     "lat": 53.34371,
     "lon": -6.25443,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "University College Cork (UCC)",
@@ -568,7 +588,9 @@
     "lat": 51.8928,
     "lon": -8.49141,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Atlantic Technological University (ATU)",
@@ -622,7 +644,9 @@
     "lat": 54.27864,
     "lon": -8.46357,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Munster Technological University (MTU)",
@@ -684,7 +708,9 @@
     "lat": 51.89851,
     "lon": -8.47264,
     "geoSource": "nominatim:city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Technological University of the Shannon (TUS)",
@@ -734,7 +760,9 @@
     "lat": 53.42284,
     "lon": -7.94259,
     "geoSource": "nominatim:city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "South East Technological University (SETU)",
@@ -788,7 +816,9 @@
     "lat": 52.25028,
     "lon": -7.17811,
     "geoSource": "nominatim:name",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "University of Strathclyde",
@@ -835,7 +865,9 @@
     "lat": 55.86188,
     "lon": -4.24196,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "GBP"
   },
   {
     "name": "Robert Gordon University",
@@ -888,7 +920,9 @@
     "lat": 57.11876,
     "lon": -2.13931,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "GBP"
   },
   {
     "name": "University of Edinburgh",
@@ -945,7 +979,9 @@
     "lat": 55.94408,
     "lon": -3.18837,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "GBP"
   },
   {
     "name": "Edinburgh Napier University",
@@ -999,7 +1035,9 @@
     "lat": 55.93111,
     "lon": -3.20939,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "GBP"
   },
   {
     "name": "Cardiff University",
@@ -1052,7 +1090,9 @@
     "lat": 51.50673,
     "lon": -3.18949,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "GBP"
   },
   {
     "name": "University of South Wales",
@@ -1106,7 +1146,9 @@
     "lat": 51.58876,
     "lon": -2.9966,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "GBP"
   },
   {
     "name": "NTNU (Norwegian University of Science and Technology)",
@@ -1126,7 +1168,7 @@
     "language": "Norwegian / English",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "0 - 15,000",
+    "cost": "0 - 174,000",
     "graduatesPerYear": "30-40",
     "topics": [
       "BIM",
@@ -1160,7 +1202,9 @@
     "lat": 60.78786,
     "lon": 10.68034,
     "geoSource": "nominatim:city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "NOK"
   },
   {
     "name": "Oslo Metropolitan University",
@@ -1180,7 +1224,7 @@
     "language": "Norwegian / English",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "330 - 15,000",
+    "cost": "3,800 - 174,000",
     "graduatesPerYear": "20-30",
     "topics": [
       "BIM",
@@ -1213,7 +1257,9 @@
     "lat": 59.92192,
     "lon": 10.7333,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "NOK"
   },
   {
     "name": "University of Stavanger (UiS)",
@@ -1233,7 +1279,7 @@
     "language": "English / Norwegian",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "0 - 19,000",
+    "cost": "0 - 220,000",
     "graduatesPerYear": "30-50",
     "topics": [
       "BIM",
@@ -1262,7 +1308,9 @@
     "lat": 58.93771,
     "lon": 5.69377,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "NOK"
   },
   {
     "name": "Jönköping University",
@@ -1282,7 +1330,7 @@
     "language": "English",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "0 - 32,000",
+    "cost": "0 - 362,000",
     "graduatesPerYear": "20-30",
     "topics": [
       "AI & Machine Learning",
@@ -1317,7 +1365,9 @@
     "lat": 57.77802,
     "lon": 14.16214,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "SEK"
   },
   {
     "name": "KTH Royal Institute of Technology",
@@ -1337,7 +1387,7 @@
     "language": "English",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "0 - 33,800",
+    "cost": "0 - 382,000",
     "graduatesPerYear": "30-40",
     "topics": [
       "BIM",
@@ -1368,7 +1418,9 @@
     "lat": 59.347,
     "lon": 18.0731,
     "geoSource": "manual:audited (main campus, Valhallavägen, central Stockholm)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "SEK"
   },
   {
     "name": "Chalmers University of Technology",
@@ -1388,7 +1440,7 @@
     "language": "English",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "0 - 15,000",
+    "cost": "0 - 170,000",
     "graduatesPerYear": "25-35",
     "topics": [
       "BIM",
@@ -1411,7 +1463,9 @@
     "lat": 57.68975,
     "lon": 11.97653,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "SEK"
   },
   {
     "name": "Technical University of Denmark (DTU)",
@@ -1433,7 +1487,7 @@
     "language": "English",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "0 - 30,000",
+    "cost": "0 - 224,000",
     "graduatesPerYear": "50-70",
     "topics": [
       "BIM",
@@ -1456,7 +1510,9 @@
     "lat": 55.78541,
     "lon": 12.52022,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "DKK"
   },
   {
     "name": "University of Southern Denmark (SDU)",
@@ -1478,7 +1534,7 @@
     "language": "Danish / English",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "0 - 15,000",
+    "cost": "0 - 112,000",
     "graduatesPerYear": "75-90",
     "topics": [
       "Parametric & Generative Design",
@@ -1511,7 +1567,9 @@
     "lat": 55.36785,
     "lon": 10.42805,
     "geoSource": "nominatim:name+city (manual)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "DKK"
   },
   {
     "name": "Aalborg University",
@@ -1531,7 +1589,7 @@
     "language": "Danish",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "0 - 27,312",
+    "cost": "0 - 204,000",
     "graduatesPerYear": "25-35",
     "topics": [
       "BIM",
@@ -1564,7 +1622,9 @@
     "lat": 57.01592,
     "lon": 9.97531,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "DKK"
   },
   {
     "name": "VIA University College",
@@ -1582,7 +1642,7 @@
     "language": "English / Danish",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "0 - 13,500",
+    "cost": "0 - 101,000",
     "graduatesPerYear": "150-200",
     "topics": [
       "BIM",
@@ -1607,7 +1667,9 @@
     "lat": 55.86387,
     "lon": 9.83778,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "DKK"
   },
   {
     "name": "Luleå University of Technology",
@@ -1629,7 +1691,7 @@
     "language": "English / Swedish",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "0 - 26,000",
+    "cost": "0 - 294,000",
     "graduatesPerYear": "25-35",
     "topics": [
       "BIM",
@@ -1664,7 +1726,9 @@
     "lat": 65.61825,
     "lon": 22.13831,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "SEK"
   },
   {
     "name": "Lund University (LTH - Faculty of Engineering)",
@@ -1685,7 +1749,7 @@
     "language": "English / Swedish",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "0 - 19,500",
+    "cost": "0 - 220,000",
     "graduatesPerYear": "60-90",
     "topics": [
       "BIM",
@@ -1716,7 +1780,9 @@
     "lat": 55.71013,
     "lon": 13.21371,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "SEK"
   },
   {
     "name": "Metropolia University of Applied Sciences",
@@ -1777,7 +1843,9 @@
     "lat": 60.16662,
     "lon": 24.94354,
     "geoSource": "nominatim:city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Aalto University",
@@ -1835,7 +1903,9 @@
     "lat": 60.18608,
     "lon": 24.8281,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Tampere University",
@@ -1888,7 +1958,9 @@
     "lat": 61.49346,
     "lon": 23.77895,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "University of Oulu",
@@ -1939,7 +2011,9 @@
     "lat": 65.05933,
     "lon": 25.46736,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Tallinn University of Technology (TalTech)",
@@ -1990,7 +2064,9 @@
     "lat": 59.39497,
     "lon": 24.66762,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Estonian University of Life Sciences (EMÜ)",
@@ -2033,7 +2109,9 @@
     "lat": 58.37795,
     "lon": 26.729,
     "geoSource": "nominatim:city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Estonian Academy of Arts (EKA)",
@@ -2082,7 +2160,9 @@
     "lat": 59.44246,
     "lon": 24.74072,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Kaunas University of Technology (KTU)",
@@ -2137,7 +2217,9 @@
     "lat": 54.89881,
     "lon": 23.91265,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Vilnius Gediminas Technical University (VILNIUS TECH)",
@@ -2196,7 +2278,9 @@
     "lat": 54.72191,
     "lon": 25.33662,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Riga Technical University (RTU)",
@@ -2247,7 +2331,9 @@
     "lat": 56.95264,
     "lon": 24.08068,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Latvia University of Life Sciences and Technologies (LBTU)",
@@ -2292,7 +2378,9 @@
     "lat": 56.65221,
     "lon": 23.7292,
     "geoSource": "nominatim:city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Warsaw University of Technology",
@@ -2312,7 +2400,7 @@
     "language": "English",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "3,000 - 4,000",
+    "cost": "13,000 - 17,000",
     "graduatesPerYear": "15-20",
     "topics": [
       "Construction Management",
@@ -2335,7 +2423,9 @@
     "lat": 52.22164,
     "lon": 21.00738,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "PLN"
   },
   {
     "name": "Krakow University of Technology",
@@ -2363,7 +2453,7 @@
     "language": "English / Polish",
     "mode": "Full-time / Part-time",
     "delivery": "Presential",
-    "cost": "1,500 - 4,000",
+    "cost": "6,400 - 17,000",
     "graduatesPerYear": "50-70",
     "topics": [
       "BIM Software",
@@ -2390,7 +2480,9 @@
     "lat": 50.06576,
     "lon": 19.91922,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "PLN"
   },
   {
     "name": "AGH University of Science and Technology",
@@ -2410,7 +2502,7 @@
     "language": "Polish",
     "mode": "Part-time",
     "delivery": "Presential",
-    "cost": "1,500 - 2,000",
+    "cost": "6,400 - 8,500",
     "graduatesPerYear": "20-30",
     "topics": [
       "BIM Software",
@@ -2442,7 +2534,9 @@
     "lat": 50.06576,
     "lon": 19.91922,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "PLN"
   },
   {
     "name": "Wroclaw University of Science and Technology",
@@ -2463,7 +2557,7 @@
     "language": "English",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "4,000",
+    "cost": "17,000",
     "graduatesPerYear": "20-30",
     "topics": [
       "AI & Machine Learning",
@@ -2490,7 +2584,9 @@
     "lat": 51.10587,
     "lon": 17.06318,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "PLN"
   },
   {
     "name": "Gdańsk University of Technology (Gdańsk Tech)",
@@ -2512,7 +2608,7 @@
     "language": "Polish / English",
     "mode": "Full-time / Part-time",
     "delivery": "On-campus / Hybrid",
-    "cost": "0 - 3,000",
+    "cost": "0 - 13,000",
     "graduatesPerYear": "20-50",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "peer median, country+type:Poland/technical (n=4)",
@@ -2535,7 +2631,9 @@
     "lat": 54.37187,
     "lon": 18.61668,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "PLN"
   },
   {
     "name": "Silesian University of Technology (Politechnika Śląska)",
@@ -2555,7 +2653,7 @@
     "language": "Polish / English",
     "mode": "Full-time / Part-time",
     "delivery": "On-campus / Hybrid",
-    "cost": "0 - 3,000",
+    "cost": "0 - 13,000",
     "graduatesPerYear": "20-50",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "peer median, country+type:Poland/technical (n=4)",
@@ -2582,7 +2680,9 @@
     "lat": 50.2901,
     "lon": 18.67681,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "PLN"
   },
   {
     "name": "Lodz University of Technology (TUL)",
@@ -2606,7 +2706,7 @@
     "language": "Polish / English",
     "mode": "Full-time / Part-time",
     "delivery": "On-campus / Hybrid",
-    "cost": "0 - 3,000",
+    "cost": "0 - 13,000",
     "graduatesPerYear": "20-50",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "peer median, country+type:Poland/technical (n=4)",
@@ -2629,7 +2729,9 @@
     "lat": 51.76873,
     "lon": 19.45699,
     "geoSource": "nominatim:city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "PLN"
   },
   {
     "name": "Delft University of Technology (TU Delft)",
@@ -2694,7 +2796,9 @@
     "lat": 51.99883,
     "lon": 4.37396,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Eindhoven University of Technology (TU/e)",
@@ -2748,7 +2852,9 @@
     "lat": 51.44866,
     "lon": 5.4904,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "University of Twente",
@@ -2803,7 +2909,9 @@
     "lat": 52.24333,
     "lon": 6.85092,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Saxion University of Applied Sciences",
@@ -2850,7 +2958,9 @@
     "lat": 52.22336,
     "lon": 6.8706,
     "geoSource": "nominatim:city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Hogeschool Rotterdam (Rotterdam University of Applied Sciences)",
@@ -2907,7 +3017,9 @@
     "lat": 51.91729,
     "lon": 4.48394,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Hogeschool Utrecht (HU University of Applied Sciences Utrecht)",
@@ -2956,7 +3068,9 @@
     "lat": 52.1018,
     "lon": 5.10694,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Avans University of Applied Sciences",
@@ -3011,7 +3125,9 @@
     "lat": 51.58878,
     "lon": 4.77602,
     "geoSource": "nominatim:city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Hogeschool van Amsterdam (Amsterdam University of Applied Sciences)",
@@ -3056,7 +3172,9 @@
     "lat": 52.36794,
     "lon": 4.80615,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "HAN University of Applied Sciences (Hogeschool van Arnhem en Nijmegen)",
@@ -3107,7 +3225,9 @@
     "lat": 51.82707,
     "lon": 5.86357,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Hanze University of Applied Sciences Groningen",
@@ -3158,7 +3278,9 @@
     "lat": 53.21907,
     "lon": 6.56801,
     "geoSource": "nominatim:city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Windesheim University of Applied Sciences",
@@ -3209,7 +3331,9 @@
     "lat": 52.50898,
     "lon": 6.09438,
     "geoSource": "nominatim:city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "KU Leuven",
@@ -3267,7 +3391,9 @@
     "lat": 50.87803,
     "lon": 4.70741,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Vrije Universiteit Brussel (VUB)",
@@ -3314,7 +3440,9 @@
     "lat": 50.82404,
     "lon": 4.39876,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Ghent University",
@@ -3374,7 +3502,9 @@
     "lat": 51.00785,
     "lon": 3.71088,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Université de Liège (ULiège)",
@@ -3429,7 +3559,9 @@
     "lat": 50.58415,
     "lon": 5.56558,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Université Catholique de Louvain (UCLouvain)",
@@ -3484,7 +3616,9 @@
     "lat": 50.669,
     "lon": 4.615,
     "geoSource": "manual:audited (Louvain-la-Neuve campus)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Université Libre de Bruxelles (ULB)",
@@ -3533,7 +3667,9 @@
     "lat": 50.81347,
     "lon": 4.38125,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "University of Antwerp (UAntwerpen)",
@@ -3576,7 +3712,9 @@
     "lat": 51.18439,
     "lon": 4.41994,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Université de Mons (UMons)",
@@ -3638,7 +3776,9 @@
     "lat": 50.46402,
     "lon": 3.95505,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "University of Luxembourg",
@@ -3695,7 +3835,9 @@
     "lat": 49.50363,
     "lon": 5.94872,
     "geoSource": "nominatim:name",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "University College London (UCL)",
@@ -3747,7 +3889,9 @@
     "lat": 51.5242,
     "lon": -0.133,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "GBP"
   },
   {
     "name": "University of Salford",
@@ -3794,7 +3938,9 @@
     "lat": 53.47322,
     "lon": -2.2971,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "GBP"
   },
   {
     "name": "University of Manchester",
@@ -3843,7 +3989,9 @@
     "lat": 53.46602,
     "lon": -2.23309,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "GBP"
   },
   {
     "name": "Manchester Metropolitan University",
@@ -3886,7 +4034,9 @@
     "lat": 53.46948,
     "lon": -2.23798,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "GBP"
   },
   {
     "name": "Birmingham City University",
@@ -3937,7 +4087,9 @@
     "lat": 52.48227,
     "lon": -1.88881,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "GBP"
   },
   {
     "name": "Middlesex University London",
@@ -3996,7 +4148,9 @@
     "lat": 51.65912,
     "lon": -0.13334,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "GBP"
   },
   {
     "name": "University of Liverpool",
@@ -4043,7 +4197,9 @@
     "lat": 53.40724,
     "lon": -2.96583,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "GBP"
   },
   {
     "name": "Liverpool John Moores University",
@@ -4096,7 +4252,9 @@
     "lat": 53.41238,
     "lon": -2.98093,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "GBP"
   },
   {
     "name": "University of Nottingham",
@@ -4145,7 +4303,9 @@
     "lat": 52.93874,
     "lon": -1.2003,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "GBP"
   },
   {
     "name": "Loughborough University",
@@ -4206,7 +4366,9 @@
     "lat": 52.76385,
     "lon": -1.23726,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "GBP"
   },
   {
     "name": "Nottingham Trent University",
@@ -4262,7 +4424,9 @@
     "lat": 52.91164,
     "lon": -1.1866,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "GBP"
   },
   {
     "name": "Oxford Brookes University",
@@ -4316,7 +4480,9 @@
     "lat": 51.75522,
     "lon": -1.2301,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "GBP"
   },
   {
     "name": "University of Cambridge",
@@ -4365,7 +4531,9 @@
     "lat": 52.18909,
     "lon": 0.1213,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "GBP"
   },
   {
     "name": "Queen's University Belfast",
@@ -4423,7 +4591,9 @@
     "lat": 54.58429,
     "lon": -5.93366,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "GBP"
   },
   {
     "name": "University of Leeds",
@@ -4482,7 +4652,9 @@
     "lat": 53.80579,
     "lon": -1.55511,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "GBP"
   },
   {
     "name": "University of Bristol",
@@ -4536,7 +4708,9 @@
     "lat": 51.50077,
     "lon": -2.55031,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "GBP"
   },
   {
     "name": "Keele University",
@@ -4585,7 +4759,9 @@
     "lat": 53.00752,
     "lon": -2.20412,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "GBP"
   },
   {
     "name": "Aarhus University",
@@ -4605,7 +4781,7 @@
     "language": "English",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "0 - 16,300",
+    "cost": "0 - 122,000",
     "graduatesPerYear": "30-40",
     "topics": [
       "AI & Machine Learning",
@@ -4630,7 +4806,9 @@
     "lat": 56.16709,
     "lon": 10.20262,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "DKK"
   },
   {
     "name": "University of Dundee",
@@ -4677,7 +4855,9 @@
     "lat": 56.45797,
     "lon": -2.98215,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "GBP"
   },
   {
     "name": "University of the West of England (UWE Bristol)",
@@ -4735,7 +4915,9 @@
     "lat": 51.50077,
     "lon": -2.55031,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "GBP"
   },
   {
     "name": "University of Portsmouth",
@@ -4790,7 +4972,9 @@
     "lat": 50.79525,
     "lon": -1.09355,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "GBP"
   },
   {
     "name": "Heriot-Watt University",
@@ -4844,7 +5028,9 @@
     "lat": 55.9103,
     "lon": -3.32345,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "GBP"
   },
   {
     "name": "University of Reading",
@@ -4906,7 +5092,9 @@
     "lat": 51.44044,
     "lon": -0.94176,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "GBP"
   },
   {
     "name": "Coventry University",
@@ -4957,7 +5145,9 @@
     "lat": 52.40564,
     "lon": -1.49972,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "GBP"
   },
   {
     "name": "University of Westminster",
@@ -5009,7 +5199,9 @@
     "lat": 51.52091,
     "lon": -0.14007,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "GBP"
   },
   {
     "name": "University of Wolverhampton",
@@ -5064,7 +5256,9 @@
     "lat": 52.59016,
     "lon": -2.12778,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "GBP"
   },
   {
     "name": "University of Greenwich",
@@ -5120,7 +5314,9 @@
     "lat": 51.48254,
     "lon": -0.00665,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "GBP"
   },
   {
     "name": "Sheffield Hallam University",
@@ -5176,7 +5372,9 @@
     "lat": 53.38173,
     "lon": -1.4628,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "GBP"
   },
   {
     "name": "Glasgow Caledonian University",
@@ -5226,7 +5424,9 @@
     "lat": 55.86747,
     "lon": -4.25025,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "GBP"
   },
   {
     "name": "Kingston University London",
@@ -5284,7 +5484,9 @@
     "lat": 51.40307,
     "lon": -0.30322,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "GBP"
   },
   {
     "name": "Anglia Ruskin University (ARU)",
@@ -5328,7 +5530,9 @@
     "lat": 51.74116,
     "lon": 0.47377,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "GBP"
   },
   {
     "name": "Buckinghamshire New University (BNU)",
@@ -5377,7 +5581,9 @@
     "lat": 51.62782,
     "lon": -0.75344,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "GBP"
   },
   {
     "name": "London South Bank University (LSBU)",
@@ -5431,7 +5637,9 @@
     "lat": 51.4977,
     "lon": -0.10181,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "GBP"
   },
   {
     "name": "University of Huddersfield",
@@ -5474,7 +5682,9 @@
     "lat": 53.64299,
     "lon": -1.77808,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "GBP"
   },
   {
     "name": "University of Lincoln",
@@ -5517,7 +5727,9 @@
     "lat": 53.22972,
     "lon": -0.5501,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "GBP"
   },
   {
     "name": "Solent University",
@@ -5568,7 +5780,9 @@
     "lat": 50.90868,
     "lon": -1.40052,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "GBP"
   },
   {
     "name": "Teesside University",
@@ -5622,7 +5836,9 @@
     "lat": 54.56953,
     "lon": -1.23554,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "GBP"
   },
   {
     "name": "University of Brighton",
@@ -5671,7 +5887,9 @@
     "lat": 50.82781,
     "lon": -0.1342,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "GBP"
   },
   {
     "name": "Aston University",
@@ -5724,7 +5942,9 @@
     "lat": 52.48619,
     "lon": -1.88847,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "GBP"
   },
   {
     "name": "University of the Built Environment (UBE)",
@@ -5774,7 +5994,9 @@
     "lat": 51.45642,
     "lon": -0.97007,
     "geoSource": "nominatim:city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "GBP"
   },
   {
     "name": "Czech Technical University in Prague (CTU)",
@@ -5802,7 +6024,7 @@
     "language": "English / Czech",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "0 - 40",
+    "cost": "0 - 990",
     "graduatesPerYear": "80-120",
     "topics": [
       "BIM Software",
@@ -5835,7 +6057,9 @@
     "lat": 50.1029,
     "lon": 14.39464,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "CZK"
   },
   {
     "name": "Brno University of Technology (VUT)",
@@ -5861,7 +6085,7 @@
     "language": "English / Czech",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "0 - 4,000",
+    "cost": "0 - 99,000",
     "graduatesPerYear": "60-80",
     "topics": [
       "BIM Software",
@@ -5886,7 +6110,9 @@
     "lat": 49.22655,
     "lon": 16.59543,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "CZK"
   },
   {
     "name": "VSB — Technical University of Ostrava",
@@ -5906,7 +6132,7 @@
     "language": "Czech / English",
     "mode": "Full-time / Part-time",
     "delivery": "On-campus / Hybrid",
-    "cost": "0 - 3,500",
+    "cost": "0 - 87,000",
     "graduatesPerYear": "35-125",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "peer median, type:technical (n=37)",
@@ -5933,7 +6159,9 @@
     "lat": 49.8354,
     "lon": 18.29298,
     "geoSource": "nominatim:city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "CZK"
   },
   {
     "name": "Slovak University of Technology in Bratislava (STU)",
@@ -5973,7 +6201,9 @@
     "lat": 48.1517,
     "lon": 17.10931,
     "geoSource": "nominatim:city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Technical University of Košice (TUKE)",
@@ -6016,7 +6246,9 @@
     "lat": 48.73311,
     "lon": 21.24399,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "University of Žilina (UNIZA) — Faculty of Civil Engineering",
@@ -6071,7 +6303,9 @@
     "lat": 49.22347,
     "lon": 18.73931,
     "geoSource": "nominatim:city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Budapest University of Technology and Economics (BME)",
@@ -6097,7 +6331,7 @@
     "language": "English / Hungarian",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "6,400 - 9,000",
+    "cost": "2,528,000 - 3,555,000",
     "graduatesPerYear": "150-200",
     "topics": [
       "BIM",
@@ -6131,7 +6365,9 @@
     "lat": 47.47844,
     "lon": 19.05771,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "HUF"
   },
   {
     "name": "Széchenyi István University",
@@ -6153,7 +6389,7 @@
     "language": "English / Hungarian",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "3,000 - 5,000",
+    "cost": "1,185,000 - 1,975,000",
     "graduatesPerYear": "40-60",
     "topics": [
       "BIM",
@@ -6172,7 +6408,9 @@
     "lat": 47.69419,
     "lon": 17.6274,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "HUF"
   },
   {
     "name": "University of Pécs (UP) — Faculty of Engineering and IT (PTE MIK)",
@@ -6197,7 +6435,7 @@
     "language": "Hungarian / English",
     "mode": "Full-time / Part-time",
     "delivery": "On-campus / Hybrid",
-    "cost": "0 - 3,500",
+    "cost": "0 - 1,382,000",
     "graduatesPerYear": "30-90",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "peer median, type:university (n=194)",
@@ -6222,7 +6460,9 @@
     "lat": 46.07651,
     "lon": 18.22803,
     "geoSource": "nominatim:city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "HUF"
   },
   {
     "name": "University of Debrecen (UD) — Faculty of Engineering",
@@ -6244,7 +6484,7 @@
     "language": "Hungarian / English",
     "mode": "Full-time / Part-time",
     "delivery": "On-campus / Hybrid",
-    "cost": "0 - 3,500",
+    "cost": "0 - 1,382,000",
     "graduatesPerYear": "30-90",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "peer median, type:university (n=194)",
@@ -6271,7 +6511,9 @@
     "lat": 47.5314,
     "lon": 21.62598,
     "geoSource": "nominatim:city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "HUF"
   },
   {
     "name": "Óbuda University — Ybl Miklós Faculty of Architecture and Civil Engineering",
@@ -6295,7 +6537,7 @@
     "language": "Hungarian / English",
     "mode": "Full-time / Part-time",
     "delivery": "On-campus / Hybrid",
-    "cost": "0 - 3,500",
+    "cost": "0 - 1,382,000",
     "graduatesPerYear": "30-90",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "peer median, type:university (n=194)",
@@ -6324,7 +6566,9 @@
     "lat": 47.48139,
     "lon": 19.14577,
     "geoSource": "nominatim:city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "HUF"
   },
   {
     "name": "TU Wien (Vienna University of Technology)",
@@ -6381,7 +6625,9 @@
     "lat": 48.19854,
     "lon": 16.36986,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "TU Graz (Graz University of Technology)",
@@ -6426,7 +6672,9 @@
     "lat": 47.05828,
     "lon": 15.46025,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "ETH Zurich",
@@ -6475,7 +6723,9 @@
     "lat": 47.41322,
     "lon": 8.53749,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "CHF"
   },
   {
     "name": "EPFL (École Polytechnique Fédérale de Lausanne)",
@@ -6525,7 +6775,9 @@
     "lat": 46.51866,
     "lon": 6.56656,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "CHF"
   },
   {
     "name": "University of Applied Sciences and Arts Northwestern Switzerland (FHNW)",
@@ -6580,7 +6832,9 @@
     "lat": 47.53486,
     "lon": 7.64195,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "CHF"
   },
   {
     "name": "FH Campus Wien",
@@ -6623,7 +6877,9 @@
     "lat": 48.18861,
     "lon": 16.40329,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "FH Joanneum",
@@ -6676,7 +6932,9 @@
     "lat": 47.0692,
     "lon": 15.40746,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Salzburg University of Applied Sciences",
@@ -6722,7 +6980,9 @@
     "lat": 47.79813,
     "lon": 13.04648,
     "geoSource": "nominatim:city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "University of Innsbruck",
@@ -6773,7 +7033,9 @@
     "lat": 47.26329,
     "lon": 11.38445,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "BOKU University of Natural Resources and Life Sciences",
@@ -6820,7 +7082,9 @@
     "lat": 48.20835,
     "lon": 16.3725,
     "geoSource": "nominatim:city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "FH Kärnten (Carinthia University of Applied Sciences)",
@@ -6877,7 +7141,9 @@
     "lat": 46.79707,
     "lon": 13.50123,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "M/O/T — School of Management, Organizational Development and Technology",
@@ -6922,7 +7188,9 @@
     "lat": 46.62394,
     "lon": 14.3076,
     "geoSource": "nominatim:city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "MCI — The Entrepreneurial School",
@@ -6968,7 +7236,9 @@
     "lat": 47.26543,
     "lon": 11.39277,
     "geoSource": "nominatim:city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "FH Oberösterreich (Campus Wels)",
@@ -7011,7 +7281,9 @@
     "lat": 48.16148,
     "lon": 14.02744,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Bern University of Applied Sciences (BFH)",
@@ -7072,7 +7344,9 @@
     "lat": 46.95144,
     "lon": 7.43533,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "CHF"
   },
   {
     "name": "Università della Svizzera Italiana (USI)",
@@ -7114,7 +7388,9 @@
     "lat": 46.01091,
     "lon": 8.95812,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "CHF"
   },
   {
     "name": "Eastern Switzerland University of Applied Sciences (OST)",
@@ -7176,7 +7452,9 @@
     "lat": 47.22983,
     "lon": 8.85969,
     "geoSource": "nominatim:city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "CHF"
   },
   {
     "name": "ZHAW (Zurich University of Applied Sciences)",
@@ -7225,7 +7503,9 @@
     "lat": 47.49684,
     "lon": 8.72981,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "CHF"
   },
   {
     "name": "Hochschule Luzern (HSLU)",
@@ -7285,7 +7565,9 @@
     "lat": 47.05375,
     "lon": 8.29564,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "CHF"
   },
   {
     "name": "SUPSI (Scuola universitaria professionale della Svizzera italiana)",
@@ -7338,7 +7620,9 @@
     "lat": 46.01202,
     "lon": 8.96099,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "CHF"
   },
   {
     "name": "HEIA-FR (Haute École d'Ingénierie et d'Architecture de Fribourg)",
@@ -7389,7 +7673,9 @@
     "lat": 46.79277,
     "lon": 7.16109,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "CHF"
   },
   {
     "name": "HEPIA (Haute École du Paysage, d'Ingénierie et d'Architecture de Genève)",
@@ -7440,7 +7726,9 @@
     "lat": 46.20942,
     "lon": 6.13657,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "CHF"
   },
   {
     "name": "HEIG-VD (Haute École d'Ingénierie et de Gestion du Canton de Vaud)",
@@ -7489,7 +7777,9 @@
     "lat": 46.77975,
     "lon": 6.66003,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "CHF"
   },
   {
     "name": "TU Dresden",
@@ -7544,7 +7834,9 @@
     "lat": 51.02987,
     "lon": 13.73032,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "TU Munich (TUM)",
@@ -7609,7 +7901,9 @@
     "lat": 48.14907,
     "lon": 11.56745,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "RWTH Aachen",
@@ -7666,7 +7960,9 @@
     "lat": 50.77917,
     "lon": 6.06892,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Karlsruhe Institute of Technology (KIT)",
@@ -7713,7 +8009,9 @@
     "lat": 49.10185,
     "lon": 8.43312,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "University of Stuttgart",
@@ -7763,7 +8061,9 @@
     "lat": 48.77835,
     "lon": 9.18632,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Leibniz University Hannover",
@@ -7818,7 +8118,9 @@
     "lat": 52.38275,
     "lon": 9.71812,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "TU Darmstadt",
@@ -7868,7 +8170,9 @@
     "lat": 49.86115,
     "lon": 8.68194,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Bauhaus University Weimar",
@@ -7916,7 +8220,9 @@
     "lat": 50.97571,
     "lon": 11.33011,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "TU Braunschweig",
@@ -7961,7 +8267,9 @@
     "lat": 52.27614,
     "lon": 10.54109,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "TU Berlin",
@@ -8014,7 +8322,9 @@
     "lat": 52.51102,
     "lon": 13.32695,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "FH Münster (Münster University of Applied Sciences)",
@@ -8065,7 +8375,9 @@
     "lat": 51.96839,
     "lon": 7.59544,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Hochschule Bochum",
@@ -8116,7 +8428,9 @@
     "lat": 51.4489,
     "lon": 7.2729,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "TU Dortmund",
@@ -8163,7 +8477,9 @@
     "lat": 51.49148,
     "lon": 7.41227,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Hamburg University of Technology (TUHH)",
@@ -8218,7 +8534,9 @@
     "lat": 53.461,
     "lon": 9.96923,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "HafenCity University Hamburg (HCU)",
@@ -8277,7 +8595,9 @@
     "lat": 53.54029,
     "lon": 10.00489,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "RPTU Kaiserslautern-Landau",
@@ -8324,7 +8644,9 @@
     "lat": 49.42491,
     "lon": 7.75211,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "University of Duisburg-Essen",
@@ -8367,7 +8689,9 @@
     "lat": 51.42909,
     "lon": 6.80086,
     "geoSource": "nominatim:name",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "HTW Berlin",
@@ -8412,7 +8736,9 @@
     "lat": 52.45471,
     "lon": 13.52631,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "TH Köln (University of Applied Sciences)",
@@ -8473,7 +8799,9 @@
     "lat": 50.92123,
     "lon": 6.96313,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Hochschule München",
@@ -8517,7 +8845,9 @@
     "lat": 48.15414,
     "lon": 11.55625,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Frankfurt University of Applied Sciences",
@@ -8560,7 +8890,9 @@
     "lat": 50.13053,
     "lon": 8.69233,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Darmstadt University of Applied Sciences (h_da)",
@@ -8601,7 +8933,9 @@
     "lat": 49.87277,
     "lon": 8.65118,
     "geoSource": "nominatim:city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "HS RheinMain",
@@ -8640,7 +8974,9 @@
     "lat": 49.99952,
     "lon": 8.27363,
     "geoSource": "nominatim:city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "OTH Regensburg",
@@ -8690,7 +9026,9 @@
     "lat": 49.00308,
     "lon": 12.09627,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "TH Nürnberg (Technische Hochschule Nürnberg)",
@@ -8733,7 +9071,9 @@
     "lat": 49.44913,
     "lon": 11.09597,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Technische Hochschule Augsburg",
@@ -8805,7 +9145,9 @@
     "lat": 48.35541,
     "lon": 10.90434,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "TH Ostwestfalen-Lippe",
@@ -8848,7 +9190,9 @@
     "lat": 52.01742,
     "lon": 8.90434,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Biberach University of Applied Sciences",
@@ -8891,7 +9235,9 @@
     "lat": 48.09844,
     "lon": 9.78999,
     "geoSource": "nominatim:city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Hochschule Bremen",
@@ -8934,7 +9280,9 @@
     "lat": 53.07237,
     "lon": 8.79306,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "TH Ingolstadt",
@@ -8973,7 +9321,9 @@
     "lat": 48.7773,
     "lon": 11.42614,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Hochschule Rosenheim",
@@ -9024,7 +9374,9 @@
     "lat": 47.86693,
     "lon": 12.10776,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Hochschule Konstanz (HTWG)",
@@ -9067,7 +9419,9 @@
     "lat": 47.66788,
     "lon": 9.17036,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Instituto Superior Técnico (IST), University of Lisbon",
@@ -9117,7 +9471,9 @@
     "lat": 38.70775,
     "lon": -9.13659,
     "geoSource": "nominatim:city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "University of Porto (FEUP)",
@@ -9175,7 +9531,9 @@
     "lat": 41.17849,
     "lon": -8.5962,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "University of Minho",
@@ -9230,7 +9588,9 @@
     "lat": 41.55991,
     "lon": -8.39681,
     "geoSource": "nominatim:name",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "University of Coimbra",
@@ -9273,7 +9633,9 @@
     "lat": 40.20745,
     "lon": -8.42556,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Polytechnic of Leiria",
@@ -9313,7 +9675,9 @@
     "lat": 39.74379,
     "lon": -8.80711,
     "geoSource": "nominatim:city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "NOVA FCT (Faculdade de Ciências e Tecnologia, Universidade NOVA de Lisboa)",
@@ -9361,7 +9725,9 @@
     "lat": 38.66029,
     "lon": -9.20505,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Universidade da Beira Interior (UBI)",
@@ -9415,7 +9781,9 @@
     "lat": 40.26773,
     "lon": -7.49444,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Universidade de Aveiro (DECivil)",
@@ -9459,7 +9827,9 @@
     "lat": 40.63203,
     "lon": -8.6598,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "ISEP — Instituto Superior de Engenharia do Porto (Politécnico do Porto)",
@@ -9513,7 +9883,9 @@
     "lat": 41.17894,
     "lon": -8.60686,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Instituto Politécnico de Setúbal (IPS) — ESTBarreiro",
@@ -9561,7 +9933,9 @@
     "lat": 38.67645,
     "lon": -9.05064,
     "geoSource": "nominatim:city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Universidad Politécnica de Madrid (UPM)",
@@ -9611,7 +9985,9 @@
     "lat": 40.44961,
     "lon": -3.72006,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Universitat Politècnica de Catalunya (UPC)",
@@ -9668,7 +10044,9 @@
     "lat": 41.38924,
     "lon": 2.11575,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Universitat Politècnica de València (UPV)",
@@ -9727,7 +10105,9 @@
     "lat": 39.48085,
     "lon": -0.34203,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Universidad de Sevilla",
@@ -9790,7 +10170,9 @@
     "lat": 37.36043,
     "lon": -5.98769,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Universidad de Extremadura",
@@ -9841,7 +10223,9 @@
     "lat": 39.48225,
     "lon": -6.35756,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Universidad Politécnica de Cartagena (UPCT)",
@@ -9885,7 +10269,9 @@
     "lat": 37.6155,
     "lon": -0.98751,
     "geoSource": "nominatim:city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Universitat Ramon Llull (La Salle)",
@@ -9948,7 +10334,9 @@
     "lat": 41.4118,
     "lon": 2.13354,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Universidad de Barcelona (IL3-Econova)",
@@ -10009,7 +10397,9 @@
     "lat": 41.38686,
     "lon": 2.16348,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Universidad Nebrija",
@@ -10056,7 +10446,9 @@
     "lat": 40.45339,
     "lon": -3.7185,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Espacio BIM",
@@ -10113,7 +10505,9 @@
     "lat": 42.81569,
     "lon": -1.65224,
     "geoSource": "nominatim:city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "butic The New School",
@@ -10186,7 +10580,9 @@
     "lat": 40.41678,
     "lon": -3.70351,
     "geoSource": "nominatim:city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Zigurat Global Institute of Technology",
@@ -10267,7 +10663,9 @@
     "lat": 41.38258,
     "lon": 2.17707,
     "geoSource": "nominatim:city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Universidad de Alicante",
@@ -10316,7 +10714,9 @@
     "lat": 38.38507,
     "lon": -0.51467,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Universidad de Castilla-La Mancha (UCLM)",
@@ -10363,7 +10763,9 @@
     "lat": 38.99739,
     "lon": -3.91923,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Universidad Europea de Madrid",
@@ -10428,7 +10830,9 @@
     "lat": 40.3727,
     "lon": -3.91858,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Universidad Europea de Valencia",
@@ -10463,7 +10867,9 @@
     "lat": 39.47551,
     "lon": -0.36524,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Universidad Pablo de Olavide",
@@ -10530,7 +10936,9 @@
     "lat": 37.35608,
     "lon": -5.93817,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Universidad de Cantabria (MBUILD Erasmus Mundus)",
@@ -10572,7 +10980,9 @@
     "lat": 43.4715,
     "lon": -3.80188,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Structuralia",
@@ -10653,7 +11063,9 @@
     "lat": 40.41678,
     "lon": -3.70351,
     "geoSource": "nominatim:city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Editeca",
@@ -10703,7 +11115,9 @@
     "lat": 40.41678,
     "lon": -3.70351,
     "geoSource": "nominatim:city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Universidad de Granada (UGR)",
@@ -10760,7 +11174,9 @@
     "lat": 37.1809,
     "lon": -3.60001,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Universidad del País Vasco (UPV/EHU)",
@@ -10811,7 +11227,9 @@
     "lat": 43.25317,
     "lon": -2.92998,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Universidade da Coruña (UDC)",
@@ -10860,7 +11278,9 @@
     "lat": 43.37087,
     "lon": -8.39025,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Universidad de Burgos (UBU)",
@@ -10913,7 +11333,9 @@
     "lat": 42.3425,
     "lon": -3.73362,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Universidad Camilo José Cela (UCJC)",
@@ -10958,7 +11380,9 @@
     "lat": 40.42859,
     "lon": -3.69514,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Universidad de La Laguna (ULL)",
@@ -11004,7 +11428,9 @@
     "lat": 28.4847,
     "lon": -16.31283,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Universidad de Málaga (UMA)",
@@ -11065,7 +11491,9 @@
     "lat": 36.71651,
     "lon": -4.49537,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Universidad a Distancia de Madrid (UDIMA)",
@@ -11116,7 +11544,9 @@
     "lat": 40.41678,
     "lon": -3.70351,
     "geoSource": "nominatim:city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "ESTP Paris",
@@ -11168,7 +11598,9 @@
     "lat": 48.79427,
     "lon": 2.3285,
     "geoSource": "nominatim:name",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "CESI Paris-Nanterre",
@@ -11217,7 +11649,9 @@
     "lat": 48.90326,
     "lon": 2.1927,
     "geoSource": "nominatim:name+city (manual)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "CESI Nantes",
@@ -11265,7 +11699,9 @@
     "lat": 47.28035,
     "lon": -1.51666,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "CESI Bordeaux",
@@ -11310,7 +11746,9 @@
     "lat": 44.84123,
     "lon": -0.58004,
     "geoSource": "nominatim:city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "CESI Lyon",
@@ -11355,7 +11793,9 @@
     "lat": 45.78313,
     "lon": 4.8826,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "CESI Toulouse",
@@ -11400,7 +11840,9 @@
     "lat": 43.54819,
     "lon": 1.50257,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "CESI Lille",
@@ -11443,7 +11885,9 @@
     "lat": 50.60498,
     "lon": 3.15067,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "CESI Montpellier",
@@ -11486,7 +11930,9 @@
     "lat": 43.5791,
     "lon": 3.94758,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "CESI Nancy",
@@ -11529,7 +11975,9 @@
     "lat": 48.65235,
     "lon": 6.13455,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "CESI Nice",
@@ -11572,7 +12020,9 @@
     "lat": 43.62153,
     "lon": 7.04004,
     "geoSource": "nominatim:name",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "CESI Pau",
@@ -11615,7 +12065,9 @@
     "lat": 43.3176,
     "lon": -0.30907,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "CESI Reims",
@@ -11658,7 +12110,9 @@
     "lat": 49.23154,
     "lon": 4.01242,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "CESI Rouen",
@@ -11701,7 +12155,9 @@
     "lat": 49.38249,
     "lon": 1.07466,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "CESI Strasbourg",
@@ -11744,7 +12200,9 @@
     "lat": 48.56056,
     "lon": 7.69452,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "INSA Lyon",
@@ -11790,7 +12248,9 @@
     "lat": 45.78309,
     "lon": 4.87599,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "INSA Strasbourg",
@@ -11842,7 +12302,9 @@
     "lat": 48.58164,
     "lon": 7.76461,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "INSA Toulouse",
@@ -11888,7 +12350,9 @@
     "lat": 43.56978,
     "lon": 1.4683,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "INSA Rennes",
@@ -11932,7 +12396,9 @@
     "lat": 48.12204,
     "lon": -1.63555,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "INSA Rouen Normandie",
@@ -11978,7 +12444,9 @@
     "lat": 49.38492,
     "lon": 1.07208,
     "geoSource": "manual:audited (INSA campus, Saint-Étienne-du-Rouvray; city label corrected from Le Havre)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "INSA Hauts-de-France",
@@ -12028,7 +12496,9 @@
     "lat": 50.32461,
     "lon": 3.5147,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Université Gustave Eiffel (includes EIVP, ESIEE Paris, ENSG, ENSA Paris-Est)",
@@ -12081,7 +12551,9 @@
     "lat": 48.83934,
     "lon": 2.58828,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "École Centrale de Lyon (includes ENISE Saint-Étienne)",
@@ -12127,7 +12599,9 @@
     "lat": 45.78336,
     "lon": 4.76877,
     "geoSource": "nominatim:name+city (manual)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "École Centrale de Lille",
@@ -12171,7 +12645,9 @@
     "lat": 50.60659,
     "lon": 3.13637,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "École des Ponts ParisTech (ENPC)",
@@ -12231,7 +12707,9 @@
     "lat": 48.84109,
     "lon": 2.58827,
     "geoSource": "nominatim:name+city (manual)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "ENTPE (École Nationale des Travaux Publics de l'État)",
@@ -12283,7 +12761,9 @@
     "lat": 45.77862,
     "lon": 4.92321,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Arts et Métiers (ENSAM)",
@@ -12330,7 +12810,9 @@
     "lat": 48.86547,
     "lon": 2.35611,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "BUILDERS École d'Ingénieurs",
@@ -12382,7 +12864,9 @@
     "lat": 49.21627,
     "lon": -0.36641,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Polytech Clermont",
@@ -12436,7 +12920,9 @@
     "lat": 45.76076,
     "lon": 3.10918,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Université Polytechnique Hauts-de-France (UPHF)",
@@ -12488,7 +12974,9 @@
     "lat": 50.32251,
     "lon": 3.51363,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Université de Toulouse (Toulouse III - Paul Sabatier)",
@@ -12532,7 +13020,9 @@
     "lat": 43.59434,
     "lon": 1.45038,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Technical University of Civil Engineering Bucharest (UTCB)",
@@ -12557,7 +13047,7 @@
     "language": "English/French/Romanian",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "900 - 2,430",
+    "cost": "4,600 - 12,500",
     "graduatesPerYear": "120-180",
     "topics": [
       "BIM",
@@ -12588,7 +13078,9 @@
     "lat": 44.46318,
     "lon": 26.12447,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "RON"
   },
   {
     "name": "Politehnica University of Timișoara (UPT) — Faculty of Civil Engineering",
@@ -12610,7 +13102,7 @@
     "language": "Romanian / English",
     "mode": "Full-time / Part-time",
     "delivery": "On-campus / Hybrid",
-    "cost": "600 - 2,400",
+    "cost": "3,000 - 12,000",
     "graduatesPerYear": "30-90",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "peer median, type:university (n=194)",
@@ -12637,7 +13129,9 @@
     "lat": 45.75384,
     "lon": 21.22575,
     "geoSource": "nominatim:city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "RON"
   },
   {
     "name": "Technical University of Cluj-Napoca (UTCN) — Faculty of Civil Engineering",
@@ -12661,7 +13155,7 @@
     "language": "Romanian / English",
     "mode": "Full-time / Part-time",
     "delivery": "On-campus / Hybrid",
-    "cost": "600 - 2,400",
+    "cost": "3,000 - 12,000",
     "graduatesPerYear": "35-125",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "peer median, type:technical (n=37)",
@@ -12684,7 +13178,9 @@
     "lat": 46.76938,
     "lon": 23.58995,
     "geoSource": "nominatim:city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "RON"
   },
   {
     "name": "Gheorghe Asachi Technical University of Iași (TUIASI) — Faculty of Civil Engineering and Building Services",
@@ -12708,7 +13204,7 @@
     "language": "Romanian / English",
     "mode": "Full-time / Part-time",
     "delivery": "On-campus / Hybrid",
-    "cost": "600 - 2,400",
+    "cost": "3,000 - 12,000",
     "graduatesPerYear": "35-125",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "peer median, type:technical (n=37)",
@@ -12735,7 +13231,9 @@
     "lat": 47.16156,
     "lon": 27.58378,
     "geoSource": "nominatim:city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "RON"
   },
   {
     "name": "Technical University of Moldova (UTM) — Faculty of Cadaster, Geodesy and Civil Engineering / Faculty of Urbanism and Architecture",
@@ -12759,7 +13257,7 @@
     "language": "Romanian / English / Russian",
     "mode": "Full-time / Part-time",
     "delivery": "On-campus / Hybrid",
-    "cost": "1,000 - 2,300",
+    "cost": "19,500 - 44,500",
     "graduatesPerYear": "35-125",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "peer median, type:technical (n=37)",
@@ -12782,7 +13280,9 @@
     "lat": 47.02451,
     "lon": 28.83229,
     "geoSource": "nominatim:city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "MDL"
   },
   {
     "name": "University of Architecture, Civil Engineering and Geodesy (UACEG)",
@@ -12831,7 +13331,9 @@
     "lat": 42.6977,
     "lon": 23.32174,
     "geoSource": "nominatim:city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Varna Free University \"Chernorizets Hrabar\" (VFU) — Faculty of Architecture",
@@ -12878,7 +13380,9 @@
     "lat": 43.20739,
     "lon": 27.91667,
     "geoSource": "nominatim:city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "National Technical University of Athens (NTUA)",
@@ -12921,7 +13425,9 @@
     "lat": 37.9878,
     "lon": 23.73177,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Technical University of Crete (TUC)",
@@ -12966,7 +13472,9 @@
     "lat": 35.52927,
     "lon": 24.06783,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Aristotle University of Thessaloniki",
@@ -13009,7 +13517,9 @@
     "lat": 40.62967,
     "lon": 22.95915,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Kyiv National University of Construction and Architecture (KNUCA)",
@@ -13033,7 +13543,7 @@
     "language": "Ukrainian",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "0 - 350",
+    "cost": "0 - 18,000",
     "graduatesPerYear": "240",
     "topics": [
       "BIM",
@@ -13072,7 +13582,9 @@
     "geoSource": "nominatim:name (audited)",
     "lastChecked": "2026-07-20",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "Sum of 2026 licensed capacity for confirmed dedicated computing-in-construction programmes: BSc Building Information Modelling Technologies in Industrial & Civil Construction (170), MSc Building-Architectural Information Modelling & BIM Process Management (25), BSc Information Systems & Technologies / construction design automation (45). The broader Construction (G19) bachelor (ПЦБ etc., combined licensed capacity 700) also embeds computing (automated modelling, licensed Autodesk) but spans many non-computing profiles, so not counted wholesale; generic IT-faculty degrees (Computer Science, Cybersecurity) excluded as not construction-specific. Licensed capacity (intake ceiling), not graduations. Cost: 2023/24 domestic contract ~18,000 UAH/yr @0.0196 EUR; state-funded places free."
+    "graduatesEstimateBasis": "Sum of 2026 licensed capacity for confirmed dedicated computing-in-construction programmes: BSc Building Information Modelling Technologies in Industrial & Civil Construction (170), MSc Building-Architectural Information Modelling & BIM Process Management (25), BSc Information Systems & Technologies / construction design automation (45). The broader Construction (G19) bachelor (ПЦБ etc., combined licensed capacity 700) also embeds computing (automated modelling, licensed Autodesk) but spans many non-computing profiles, so not counted wholesale; generic IT-faculty degrees (Computer Science, Cybersecurity) excluded as not construction-specific. Licensed capacity (intake ceiling), not graduations. Cost: 2023/24 domestic contract ~18,000 UAH/yr @0.0196 EUR; state-funded places free.",
+    "region": "Europe",
+    "costCurrency": "UAH"
   },
   {
     "name": "Lviv Polytechnic National University",
@@ -13094,7 +13606,7 @@
     "language": "Ukrainian",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "0 - 1,470",
+    "cost": "0 - 75,000",
     "graduatesPerYear": "122",
     "topics": [
       "Digital Construction",
@@ -13127,7 +13639,9 @@
     "geoSource": "nominatim:name+city",
     "lastChecked": "2026-07-20",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "Documented floor: retrieved 2026 licensed capacity for Geodesy & Land Management (122). The Construction & Civil Engineering (192) and Architecture & Urban Planning (191) programmes are also confirmed computing-in-construction (2026 tuition 52,000 and 75,000 UAH/yr respectively) but their individual licensed capacities were not separately retrieved (university has ~200 programmes; full catalogue not pulled), so the true sum is higher. Licensed capacity = intake ceiling, not graduations. Cost: 2026/27 domestic contract 52,000 UAH/yr (construction/geodesy) to 75,000 UAH/yr (architecture) @0.0196 EUR; state-funded places free."
+    "graduatesEstimateBasis": "Documented floor: retrieved 2026 licensed capacity for Geodesy & Land Management (122). The Construction & Civil Engineering (192) and Architecture & Urban Planning (191) programmes are also confirmed computing-in-construction (2026 tuition 52,000 and 75,000 UAH/yr respectively) but their individual licensed capacities were not separately retrieved (university has ~200 programmes; full catalogue not pulled), so the true sum is higher. Licensed capacity = intake ceiling, not graduations. Cost: 2026/27 domestic contract 52,000 UAH/yr (construction/geodesy) to 75,000 UAH/yr (architecture) @0.0196 EUR; state-funded places free.",
+    "region": "Europe",
+    "costCurrency": "UAH"
   },
   {
     "name": "Odessa State Academy of Civil Engineering and Architecture (OSACEA)",
@@ -13149,7 +13663,7 @@
     "language": "Ukrainian",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "0 - 450",
+    "cost": "0 - 22,000",
     "graduatesPerYear": "100-150",
     "topics": [
       "Architecture",
@@ -13178,7 +13692,9 @@
     "geoSource": "nominatim:city",
     "lastChecked": "2026-07-20",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "Confirmed computing-in-construction: Architectural-Building Engineering programme (192) with a named \"Building Information Modelling (BIM)\" course, Autodesk Revit continuing-education courses, and building energy-efficiency assessment. Per-programme licensed capacities and OSACEA-specific tuition were not separately retrieved; graduatesPerYear and cost are indicative (cost = Ukrainian domestic construction norm, state-funded places free)."
+    "graduatesEstimateBasis": "Confirmed computing-in-construction: Architectural-Building Engineering programme (192) with a named \"Building Information Modelling (BIM)\" course, Autodesk Revit continuing-education courses, and building energy-efficiency assessment. Per-programme licensed capacities and OSACEA-specific tuition were not separately retrieved; graduatesPerYear and cost are indicative (cost = Ukrainian domestic construction norm, state-funded places free).",
+    "region": "Europe",
+    "costCurrency": "UAH"
   },
   {
     "name": "POLIS University",
@@ -13200,7 +13716,7 @@
     "language": "Albanian/English",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "3,300 - 3,600",
+    "cost": "323,000 - 353,000",
     "graduatesPerYear": "40-60",
     "topics": [
       "BIM",
@@ -13227,7 +13743,9 @@
     "lat": 41.35355,
     "lon": 19.75084,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "ALL"
   },
   {
     "name": "Polytechnic University of Tirana (PUT) — Faculty of Civil Engineering",
@@ -13251,7 +13769,7 @@
     "language": "Albanian / English",
     "mode": "Full-time / Part-time",
     "delivery": "On-campus / Hybrid",
-    "cost": "1,500 - 2,000",
+    "cost": "147,000 - 196,000",
     "graduatesPerYear": "50-150",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "peer median, type:applied (n=24)",
@@ -13274,7 +13792,9 @@
     "lat": 41.32815,
     "lon": 19.81844,
     "geoSource": "nominatim:city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "ALL"
   },
   {
     "name": "EPOKA University — Faculty of Architecture and Engineering",
@@ -13298,7 +13818,7 @@
     "language": "English",
     "mode": "Full-time / Part-time",
     "delivery": "On-campus / Hybrid",
-    "cost": "4,000",
+    "cost": "392,000",
     "graduatesPerYear": "30-90",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "peer median, type:university (n=194)",
@@ -13321,7 +13841,9 @@
     "lat": 41.32815,
     "lon": 19.81844,
     "geoSource": "nominatim:city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "ALL"
   },
   {
     "name": "Ss. Cyril and Methodius University in Skopje (UKIM)",
@@ -13356,7 +13878,9 @@
     "lat": 41.99622,
     "lon": 21.43189,
     "geoSource": "nominatim:city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "MKD"
   },
   {
     "name": "University of Patras",
@@ -13405,7 +13929,9 @@
     "lat": 38.28693,
     "lon": 21.78511,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "University of Thessaly (UTH) — School of Engineering",
@@ -13452,7 +13978,9 @@
     "lat": 39.36248,
     "lon": 22.94019,
     "geoSource": "nominatim:city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Democritus University of Thrace (DUTH) — School of Engineering",
@@ -13499,7 +14027,9 @@
     "lat": 41.13805,
     "lon": 24.88641,
     "geoSource": "nominatim:city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "University of Belgrade",
@@ -13526,7 +14056,7 @@
     "language": "Serbian / English",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "2,000 - 3,000",
+    "cost": "234,000 - 352,000",
     "graduatesPerYear": "200",
     "topics": [
       "BIM",
@@ -13553,7 +14083,9 @@
     "lat": 44.81797,
     "lon": 20.45078,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "RSD"
   },
   {
     "name": "University of Pristina (North Mitrovica)",
@@ -13604,7 +14136,9 @@
     "lat": 42.89185,
     "lon": 20.85924,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "University of Novi Sad",
@@ -13630,7 +14164,7 @@
     "language": "Serbian / English",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "2,000 - 3,000",
+    "cost": "234,000 - 352,000",
     "graduatesPerYear": "100",
     "topics": [
       "Architecture",
@@ -13655,7 +14189,9 @@
     "lat": 45.24559,
     "lon": 19.85113,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "RSD"
   },
   {
     "name": "University of Niš — Faculty of Civil Engineering and Architecture (GAF)",
@@ -13677,7 +14213,7 @@
     "language": "Serbian / English",
     "mode": "Full-time / Part-time",
     "delivery": "On-campus / Hybrid",
-    "cost": "2,000 - 3,000",
+    "cost": "234,000 - 352,000",
     "graduatesPerYear": "30-90",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "peer median, type:university (n=194)",
@@ -13700,7 +14236,9 @@
     "lat": 43.32113,
     "lon": 21.89592,
     "geoSource": "nominatim:city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "RSD"
   },
   {
     "name": "University of Ljubljana",
@@ -13747,7 +14285,9 @@
     "lat": 46.07441,
     "lon": 14.51415,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "University of Maribor (UM) — Faculty of Civil Engineering, Transportation Engineering and Architecture (FGPA)",
@@ -13794,7 +14334,9 @@
     "lat": 46.55764,
     "lon": 15.64559,
     "geoSource": "nominatim:city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "University of Sarajevo",
@@ -13822,7 +14364,7 @@
     "language": "Bosnian",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "2,000 - 4,000",
+    "cost": "3,900 - 7,800",
     "graduatesPerYear": "100",
     "topics": [
       "BIM",
@@ -13841,7 +14383,9 @@
     "lat": 43.85561,
     "lon": 18.42267,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "BAM"
   },
   {
     "name": "University of Banja Luka — Faculty of Architecture, Civil Engineering and Geodesy (AGGF)",
@@ -13865,7 +14409,7 @@
     "language": "Serbian / English",
     "mode": "Full-time / Part-time",
     "delivery": "On-campus / Hybrid",
-    "cost": "2,000 - 3,000",
+    "cost": "3,900 - 5,900",
     "graduatesPerYear": "30-90",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "peer median, type:university (n=194)",
@@ -13888,7 +14432,9 @@
     "lat": 44.77208,
     "lon": 17.19177,
     "geoSource": "nominatim:city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "BAM"
   },
   {
     "name": "University of Mostar — Faculty of Civil Engineering, Architecture and Geodesy (FGAG)",
@@ -13914,7 +14460,7 @@
     "language": "Croatian / English",
     "mode": "Full-time / Part-time",
     "delivery": "On-campus / Hybrid",
-    "cost": "2,000",
+    "cost": "3,900",
     "graduatesPerYear": "30-90",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "peer median, type:university (n=194)",
@@ -13937,7 +14483,9 @@
     "lat": 43.34359,
     "lon": 17.80766,
     "geoSource": "nominatim:city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "BAM"
   },
   {
     "name": "University of Montenegro (UCG) — Faculty of Civil Engineering / Faculty of Architecture",
@@ -13984,7 +14532,9 @@
     "lat": 42.44152,
     "lon": 19.26211,
     "geoSource": "nominatim:city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "University of Zagreb",
@@ -14033,7 +14583,9 @@
     "lat": 45.81689,
     "lon": 15.89782,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "University of Osijek",
@@ -14073,7 +14625,9 @@
     "lat": 45.55488,
     "lon": 18.69537,
     "geoSource": "nominatim:city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "University of Split — Faculty of Civil Engineering, Architecture and Geodesy (FGAG)",
@@ -14120,7 +14674,9 @@
     "lat": 43.51164,
     "lon": 16.43997,
     "geoSource": "nominatim:city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "University of Rijeka — Faculty of Civil Engineering",
@@ -14169,7 +14725,9 @@
     "lat": 45.3268,
     "lon": 14.44221,
     "geoSource": "nominatim:city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Belarusian National Technical University (BNTU)",
@@ -14189,7 +14747,7 @@
     "language": "Russian",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "0 - 1,740",
+    "cost": "0 - 5,744",
     "graduatesPerYear": "200",
     "topics": [
       "3D Modeling & Scanning",
@@ -14222,7 +14780,9 @@
     "geoSource": "nominatim:name (audited)",
     "lastChecked": "2026-07-20",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "Confirmed computing-in-construction provision in the Construction and Architecture faculties (BIM-integrated curriculum, BIM software, laser scanning/photogrammetry to BIM). BNTU per-specialty admission plan (план приёма) was not separately retrieved, so graduatesPerYear is indicative, not a confirmed sum. Cost: 2026/27 daytime contract 5,385-5,744 BYN/yr @0.303 EUR; state-funded places free."
+    "graduatesEstimateBasis": "Confirmed computing-in-construction provision in the Construction and Architecture faculties (BIM-integrated curriculum, BIM software, laser scanning/photogrammetry to BIM). BNTU per-specialty admission plan (план приёма) was not separately retrieved, so graduatesPerYear is indicative, not a confirmed sum. Cost: 2026/27 daytime contract 5,385-5,744 BYN/yr @0.303 EUR; state-funded places free.",
+    "region": "Europe",
+    "costCurrency": "BYN"
   },
   {
     "name": "Politecnico di Milano",
@@ -14283,7 +14843,9 @@
     "lat": 45.48001,
     "lon": 9.22824,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Politecnico di Torino",
@@ -14339,7 +14901,9 @@
     "lat": 45.0637,
     "lon": 7.65753,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Sapienza University of Rome",
@@ -14392,7 +14956,9 @@
     "lat": 41.89332,
     "lon": 12.48293,
     "geoSource": "nominatim:city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "University of Bologna",
@@ -14449,7 +15015,9 @@
     "lat": 44.49829,
     "lon": 11.35446,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Università Politecnica delle Marche",
@@ -14506,7 +15074,9 @@
     "lat": 43.58669,
     "lon": 13.51537,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "University of Pavia",
@@ -14551,7 +15121,9 @@
     "lat": 45.18693,
     "lon": 9.15688,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "University of Catania",
@@ -14598,7 +15170,9 @@
     "lat": 37.50236,
     "lon": 15.08737,
     "geoSource": "nominatim:city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "University of Naples Federico II",
@@ -14652,7 +15226,9 @@
     "lat": 40.83588,
     "lon": 14.24877,
     "geoSource": "nominatim:city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "University of Florence",
@@ -14707,7 +15283,9 @@
     "lat": 43.80411,
     "lon": 11.27295,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "University of Pisa",
@@ -14752,7 +15330,9 @@
     "lat": 43.7188,
     "lon": 10.3985,
     "geoSource": "manual:audited (rectorate, Lungarno Pacinotti, central Pisa)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Politecnico di Bari (PoliBA)",
@@ -14809,7 +15389,9 @@
     "lat": 41.10889,
     "lon": 16.87859,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Università IUAV di Venezia",
@@ -14867,7 +15449,9 @@
     "lat": 45.47939,
     "lon": 12.25526,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Università degli Studi di Padova (UniPD)",
@@ -14934,7 +15518,9 @@
     "lat": 45.40665,
     "lon": 11.87744,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Università degli Studi di Brescia (UniBS)",
@@ -14993,7 +15579,9 @@
     "lat": 45.5416,
     "lon": 10.2178,
     "geoSource": "manual:audited (Brescia city / university)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Università degli Studi di Genova (UniGe)",
@@ -15045,7 +15633,9 @@
     "lat": 44.41489,
     "lon": 8.92667,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Università degli Studi di Roma Tor Vergata",
@@ -15102,7 +15692,9 @@
     "lat": 41.89332,
     "lon": 12.48293,
     "geoSource": "nominatim:city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Università del Salento (UniSalento)",
@@ -15159,7 +15751,9 @@
     "lat": 40.35606,
     "lon": 18.16758,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "University of Malta (UM) — Faculty for the Built Environment",
@@ -15211,7 +15805,9 @@
     "lat": 35.89569,
     "lon": 14.48918,
     "geoSource": "nominatim:city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Moscow State University of Civil Engineering (MGSU)",
@@ -15231,7 +15827,7 @@
     "language": "Russian",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "0 - 3,610",
+    "cost": "0 - 324,000",
     "graduatesPerYear": "381",
     "topics": [
       "BIM",
@@ -15272,7 +15868,9 @@
     "geoSource": "nominatim:city",
     "lastChecked": "2026-07-20",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "Sum of 2025 admission places for two confirmed computing-in-construction bachelors: Information Systems & Technologies in Construction (09.03.02: 141 budget + 40 paid = 181) and Informatics & Computer Engineering (09.03.01: 120 budget + 80 paid = 200). Excludes Industrial & Civil Engineering / Construction (08.03.01) — digital tools reportedly embedded across disciplines but no named computing course confirmed. Intake places, not graduations. Tuition 324,000 RUB/yr paid, converted to EUR @0.01115."
+    "graduatesEstimateBasis": "Sum of 2025 admission places for two confirmed computing-in-construction bachelors: Information Systems & Technologies in Construction (09.03.02: 141 budget + 40 paid = 181) and Informatics & Computer Engineering (09.03.01: 120 budget + 80 paid = 200). Excludes Industrial & Civil Engineering / Construction (08.03.01) — digital tools reportedly embedded across disciplines but no named computing course confirmed. Intake places, not graduations. Tuition 324,000 RUB/yr paid, converted to EUR @0.01115.",
+    "region": "Europe",
+    "costCurrency": "RUB"
   },
   {
     "name": "Saint Petersburg State University of Architecture and Civil Engineering (SPbGASU)",
@@ -15294,7 +15892,7 @@
     "language": "Russian",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "0 - 3,460",
+    "cost": "0 - 310,000",
     "graduatesPerYear": "450",
     "topics": [
       "BIM",
@@ -15343,7 +15941,9 @@
     "geoSource": "nominatim:name (audited)",
     "lastChecked": "2026-07-20",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "Sum of 2025 admission places for confirmed computing-in-construction programmes: IS&T BSc 60, IS&T MSc 30, and Construction BSc computing profiles — Highways 120, Building Restoration 120, Heat-Gas & Ventilation 120 (=360). Excludes the Industrial & Civil Engineering profile (690; no named computing course confirmed) and Water Supply & Drainage (120; no named computing course). Intake places, not graduation counts."
+    "graduatesEstimateBasis": "Sum of 2025 admission places for confirmed computing-in-construction programmes: IS&T BSc 60, IS&T MSc 30, and Construction BSc computing profiles — Highways 120, Building Restoration 120, Heat-Gas & Ventilation 120 (=360). Excludes the Industrial & Civil Engineering profile (690; no named computing course confirmed) and Water Supply & Drainage (120; no named computing course). Intake places, not graduation counts.",
+    "region": "Europe",
+    "costCurrency": "RUB"
   },
   {
     "name": "Peter the Great St. Petersburg Polytechnic University (SPbPU)",
@@ -15363,7 +15963,7 @@
     "language": "Russian",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "0 - 3,010",
+    "cost": "0 - 270,000",
     "graduatesPerYear": "15",
     "topics": [
       "3D Modeling & Scanning",
@@ -15402,7 +16002,9 @@
     "geoSource": "nominatim:name (audited)",
     "lastChecked": "2026-07-20",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "Documented floor: confirmed 2026 intake for the MSc Digital Construction of Buildings & Structures (15). The MSc Digital Design of Hydrotechnical Construction Objects also qualifies (places not separately retrieved), and the broader ISI construction bachelor embeds BIM but is not counted per the named-course bar, so the true figure is higher. Intake, not graduations. Cost: SPbPU ISI programmes typically ~270,000 RUB/yr (some to 480,000; one aggregator listed the Digital Construction MSc at 98,000), converted @0.01115 EUR; state-funded places free."
+    "graduatesEstimateBasis": "Documented floor: confirmed 2026 intake for the MSc Digital Construction of Buildings & Structures (15). The MSc Digital Design of Hydrotechnical Construction Objects also qualifies (places not separately retrieved), and the broader ISI construction bachelor embeds BIM but is not counted per the named-course bar, so the true figure is higher. Intake, not graduations. Cost: SPbPU ISI programmes typically ~270,000 RUB/yr (some to 480,000; one aggregator listed the Digital Construction MSc at 98,000), converted @0.01115 EUR; state-funded places free.",
+    "region": "Europe",
+    "costCurrency": "RUB"
   },
   {
     "name": "Nizhny Novgorod State University of Architecture and Civil Engineering (NNGASU)",
@@ -15422,7 +16024,7 @@
     "language": "Russian",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "0 - 2,060",
+    "cost": "0 - 185,000",
     "graduatesPerYear": "200",
     "topics": [
       "Architecture",
@@ -15447,7 +16049,9 @@
     "geoSource": "nominatim:name (audited)",
     "lastChecked": "2026-07-20",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "Thinly-documented case: BIM/TIM confirmed in the construction curriculum and via NNGASU college's dedicated \"Information Modelling in Construction\" programme; architecture/design programmes use digital tools & computer graphics. University-level per-programme places not fully retrieved; graduatesPerYear indicative. Cost ~185,000 RUB/yr (2023 architecture figure) @0.01115 EUR; state-funded places free."
+    "graduatesEstimateBasis": "Thinly-documented case: BIM/TIM confirmed in the construction curriculum and via NNGASU college's dedicated \"Information Modelling in Construction\" programme; architecture/design programmes use digital tools & computer graphics. University-level per-programme places not fully retrieved; graduatesPerYear indicative. Cost ~185,000 RUB/yr (2023 architecture figure) @0.01115 EUR; state-funded places free.",
+    "region": "Europe",
+    "costCurrency": "RUB"
   },
   {
     "name": "University of Nicosia",
@@ -15493,7 +16097,9 @@
     "lat": 35.16605,
     "lon": 33.31494,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Cyprus International University (CIU)",
@@ -15535,7 +16141,9 @@
     "lat": 35.22192,
     "lon": 33.41699,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "University of Cyprus (UCY) — Department of Civil and Environmental Engineering",
@@ -15583,7 +16191,9 @@
     "lat": 35.17465,
     "lon": 33.36388,
     "geoSource": "nominatim:city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Cyprus University of Technology (CUT) — Department of Civil Engineering and Geomatics",
@@ -15635,7 +16245,9 @@
     "lat": 34.68529,
     "lon": 33.03327,
     "geoSource": "nominatim:city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "EUR"
   },
   {
     "name": "Istanbul Technical University (ITU)",
@@ -15660,7 +16272,7 @@
     "language": "Turkish / English",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "1,500 - 5,000",
+    "cost": "72,000 - 240,000",
     "graduatesPerYear": "200",
     "topics": [
       "BIM",
@@ -15687,7 +16299,9 @@
     "lat": 41.10456,
     "lon": 29.02634,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "TRY"
   },
   {
     "name": "Bogazici University",
@@ -15709,7 +16323,7 @@
     "language": "English",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "400 - 5,000",
+    "cost": "19,000 - 240,000",
     "graduatesPerYear": "80-100",
     "topics": [
       "AI & Machine Learning",
@@ -15740,7 +16354,9 @@
     "lat": 41.08327,
     "lon": 29.0505,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "TRY"
   },
   {
     "name": "Yildiz Technical University",
@@ -15763,7 +16379,7 @@
     "language": "Turkish / English",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "2,000",
+    "cost": "96,000",
     "graduatesPerYear": "80-120",
     "topics": [
       "BIM",
@@ -15786,6 +16402,8 @@
     "lat": 41.05224,
     "lon": 29.01053,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20"
+    "lastChecked": "2026-07-20",
+    "region": "Europe",
+    "costCurrency": "TRY"
   }
 ]
