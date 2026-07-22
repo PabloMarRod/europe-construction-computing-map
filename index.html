@@ -1528,16 +1528,19 @@
         
         // Calculate and update statistics in right panel
         function updateStatistics() {
+            // Reflect the currently active filters (region and everything else)
+            const data = universities.filter(matchesFilters);
+            
             // Total universities
-            document.getElementById('stat-total').textContent = totalUniversities;
+            document.getElementById('stat-total').textContent = data.length;
             
             // Countries count
-            const countries = new Set(universities.map(u => u.country));
-            document.getElementById('stat-countries-text').textContent = `Across ${countries.size} European countries`;
+            const countries = new Set(data.map(u => u.country));
+            document.getElementById('stat-countries-text').textContent = `Across ${countries.size} ${countries.size === 1 ? 'country' : 'countries'}`;
             
             // Unique topics
             const allTopics = new Set();
-            universities.forEach(u => {
+            data.forEach(u => {
                 if (u.topics && Array.isArray(u.topics)) {
                     u.topics.forEach(topic => allTopics.add(topic));
                 }
@@ -1550,7 +1553,7 @@
             let minGrad = Infinity;
             let maxGrad = 0;
             
-            universities.forEach(u => {
+            data.forEach(u => {
                 if (u.graduatesPerYear) {
                     // Handle ranges like "50-70" or "100+"
                     const gradStr = u.graduatesPerYear.toString();
@@ -1582,15 +1585,15 @@
             if (graduatesCounted > 0) {
                 document.getElementById('stat-graduates').textContent = `~${Math.round(totalGraduates).toLocaleString()}`;
                 document.getElementById('stat-graduates-range').textContent = `Range: ${minGrad}-${maxGrad} per institution`;
+            } else {
+                document.getElementById('stat-graduates').textContent = '—';
+                document.getElementById('stat-graduates-range').textContent = '';
             }
             
             // Languages
-            const languages = new Set(universities.map(u => u.language).filter(l => l));
+            const languages = new Set(data.map(u => u.language).filter(l => l));
             document.getElementById('stat-languages').textContent = languages.size;
         }
-        
-        // Update statistics on page load
-        updateStatistics();
         
         const tooltip = document.getElementById('tooltip');
         const tooltipBackdrop = document.getElementById('tooltipBackdrop');
@@ -2099,6 +2102,7 @@
             updateSelectedStates();
             updateFilterCounts();
             updateRegionBanner();
+            updateStatistics();
         }
         
         // Right-side banner reflects the selected region:
