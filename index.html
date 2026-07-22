@@ -1629,7 +1629,7 @@
             const dm = (uni.domains || []).map(tag).join('');
             document.getElementById('tooltip-topics').innerHTML =
                 (ct ? ct : '') +
-                (dm ? `<div style="margin-top:8px;font-size:0.72rem;text-transform:uppercase;letter-spacing:0.5px;opacity:0.6;">Domains</div>${dm}` : '');
+                (dm ? `<div class="tooltip-section-title" style="width:100%;margin-top:0.7rem;">Domains</div>${dm}` : '');
             
             // Position tooltip near the marker
             positionTooltip(event);
