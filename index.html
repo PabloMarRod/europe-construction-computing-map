@@ -61,6 +61,24 @@
             opacity: 0.9;
         }
         
+        .download-btn {
+            margin-top: 0.7rem;
+            padding: 0.4rem 0.85rem;
+            font-size: 0.75rem;
+            font-weight: 600;
+            letter-spacing: 0.3px;
+            color: #d97742;
+            background: transparent;
+            border: 1px solid #d97742;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background 0.2s ease, color 0.2s ease;
+        }
+        .download-btn:hover {
+            background: #d97742;
+            color: #fff;
+        }
+
         .header-logo {
             margin-left: 2rem;
         }
@@ -1106,6 +1124,7 @@
                     &nbsp;&middot;&nbsp;
                     Verify programme details with institutions directly.
                 </p>
+                <button onclick="downloadData()" class="download-btn" title="Download the full dataset as JSON (CC BY 4.0)">&#8681;&nbsp;Download dataset (JSON)</button>
             </div>
             <div class="header-logo">
                 <a href="https://ec-3.org/" target="_blank" rel="noopener noreferrer">
@@ -2289,6 +2308,23 @@
             }
         }
         
+        // Download the full dataset as JSON (built from the loaded data so it always matches what's shown)
+        function downloadData() {
+            if (!universities || universities.length === 0) {
+                alert('The dataset is still loading. Please try again in a moment.');
+                return;
+            }
+            const blob = new Blob([JSON.stringify(universities, null, 2) + '\n'], { type: 'application/json' });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = 'europe-construction-computing-map.json';
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+            URL.revokeObjectURL(url);
+        }
+
         // Load university data from external file, then initialise the map
         async function loadUniversities() {
             initMap();
