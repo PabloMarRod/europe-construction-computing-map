@@ -1266,12 +1266,12 @@
     "country": "Norway",
     "city": "Stavanger",
     "programs": [
-      "MSc Structural and Mechanical Engineering",
-      "BIM Project Management course (BYG230)"
+      "BSc Civil Engineering (Bachelor in Engineering) — includes BYG230 'Construction Management' (BIM with Revit)",
+      "MSc Structural and Mechanical Engineering"
     ],
     "programLinks": [
-      "https://www.uis.no/en/studies/master-of-science-in-structural-and-mechanical-engineering",
-      "https://www.uis.no/en/course/BYG230_1"
+      "https://www.uis.no/en/student/course/BYG230_1",
+      "https://www.uis.no/en/studies/master-of-science-in-structural-and-mechanical-engineering"
     ],
     "accreditation": [
       "NOKUT"
@@ -1631,10 +1631,12 @@
     "country": "Denmark",
     "city": "Horsens",
     "programs": [
-      "Full-time programmes (Civil/Construction)"
+      "BSc Architectural Technology and Construction Management (BATCM)",
+      "BEng Civil Engineering"
     ],
     "programLinks": [
-      "https://en.via.dk/programmes/full-time"
+      "https://en.via.dk/programmes/bachelor/architectural-technology",
+      "https://en.via.dk/programmes/bachelor/civil-engineering"
     ],
     "accreditation": [
       "EVA"
@@ -1735,12 +1737,10 @@
     "country": "Sweden",
     "city": "Lund",
     "programs": [
-      "MSc Architecture",
-      "Course catalogue (programmes)"
+      "MSc Architecture"
     ],
     "programLinks": [
-      "https://www.lunduniversity.lu.se/lubas/i-uoh-lu-TAMAR",
-      "https://www.lunduniversity.lu.se/lubas/courses-programmes"
+      "https://www.lunduniversity.lu.se/lubas/i-uoh-lu-TAMAR"
     ],
     "accreditation": [
       "Bologna Process",
@@ -1913,12 +1913,10 @@
     "city": "Tampere",
     "programs": [
       "MSc Civil Engineering",
-      "Faculty of Built Environment",
       "Bachelor's programmes (Built Environment)"
     ],
     "programLinks": [
       "https://www.tuni.fi/en/about-us/civil-engineering",
-      "https://www.tuni.fi/en/about-us/faculty-built-environment",
       "https://www.tuni.fi/en/study-with-us/tampere-university-studies/bachelors-programmes"
     ],
     "accreditation": [
@@ -1968,13 +1966,11 @@
     "city": "Oulu",
     "programs": [
       "MSc Architecture",
-      "Civil and Construction Engineering",
-      "Oulu School of Architecture"
+      "Civil and Construction Engineering"
     ],
     "programLinks": [
       "https://www.oulu.fi/en/apply/masters-architecture",
-      "https://www.oulu.fi/en/keywords/civil-and-construction-engineering",
-      "https://www.oulu.fi/en/university/faculties-and-units/faculty-technology/oulu-school-architecture"
+      "https://www.oulu.fi/en/keywords/civil-and-construction-engineering"
     ],
     "accreditation": [
       "FINEEC"
@@ -2341,13 +2337,11 @@
     "city": "Jelgava",
     "programs": [
       "MSc Civil Engineering",
-      "Professional Master Landscape Architecture and Planning",
-      "Faculty of Environment and Civil Engineering"
+      "Professional Master Landscape Architecture and Planning"
     ],
     "programLinks": [
       "https://www.lbtu.lv/en/faculty-of-environment-and-civil-engineering",
-      "https://www.lbtu.lv/en/landscape-architecture",
-      "https://www.lbtu.lv/en"
+      "https://www.lbtu.lv/en/landscape-architecture"
     ],
     "accreditation": [
       "AIKA Latvia"
@@ -3182,13 +3176,11 @@
     "city": "Arnhem",
     "programs": [
       "BSc Bouwkunde voltijd",
-      "BSc Civiele Techniek voltijd",
-      "Built Environment programmes overview"
+      "BSc Civiele Techniek voltijd"
     ],
     "programLinks": [
       "https://www.han.nl/opleidingen/hbo/bouwkunde/voltijd/",
-      "https://www.han.nl/opleidingen/hbo/civiele-techniek/voltijd/",
-      "https://www.han.nl/opleidingen/"
+      "https://www.han.nl/opleidingen/hbo/civiele-techniek/voltijd/"
     ],
     "accreditation": [
       "NVAO"
@@ -3289,14 +3281,12 @@
     "programs": [
       "BSc Bouwkunde voltijd Zwolle",
       "BSc Bouwkunde voltijd Almere",
-      "BSc Bouwkunde duaal Almere",
-      "Techniek opleidingen aanbod (incl. Civiele Techniek)"
+      "BSc Bouwkunde duaal Almere"
     ],
     "programLinks": [
       "https://www.windesheim.nl/opleidingen/voltijd/bachelor/bouwkunde-zwolle",
       "https://www.windesheim.nl/opleidingen/voltijd/bachelor/bouwkunde-almere",
-      "https://www.windesheim.nl/opleidingen/duaal/bachelor/bouwkunde",
-      "https://www.windesheim.nl/opleidingen/aanbod/techniek"
+      "https://www.windesheim.nl/opleidingen/duaal/bachelor/bouwkunde"
     ],
     "accreditation": [
       "NVAO"
@@ -3511,11 +3501,9 @@
     "country": "Belgium",
     "city": "Liège",
     "programs": [
-      "Faculty of Applied Sciences (Architecture/Engineering)",
       "University Certificate in BIM"
     ],
     "programLinks": [
-      "https://www.programmes.uliege.be/cocoon/formations/AR06.html",
       "https://www.programmes.uliege.be/cocoon/formations/TYCBIM90.html"
     ],
     "accreditation": [
@@ -3625,12 +3613,12 @@
     "country": "Belgium",
     "city": "Brussels",
     "programs": [
-      "Université Libre de Bruxelles (programmes)",
-      "DATA4BIM joint course (UMons/ULB/UCLouvain)"
+      "MSc Civil Engineering (Ingénieur civil des constructions)",
+      "MSc Architecture & Engineering (Ingénieur civil architecte)"
     ],
     "programLinks": [
-      "https://www.ulb.be/en",
-      "https://web.umons.ac.be/fau/en/training-offer/bim-oriented-building-data-modelling-data4bim/"
+      "https://www.ulb.be/en/programme/ma-ircn",
+      "https://polytech.ulb.be/en/studies/masters/architecture"
     ],
     "accreditation": [
       "AEQES"
@@ -7400,15 +7388,13 @@
       "BSc Architecture (St.Gallen campus)",
       "BSc Civil Engineering",
       "BSc Landscape Architecture",
-      "BIM Basic Education (Continuing Education)",
-      "AI in Planning & Design Seminar (Continuing Education)"
+      "BIM Basic Education (Continuing Education)"
     ],
     "programLinks": [
       "https://www.ost.ch/en/degree-programs/architecture-civil-engineering-landscape-architecture-and-spatial-planning/bachelor-architecture",
       "https://www.ost.ch/en/degree-programs/architecture-civil-engineering-landscape-architecture-and-spatial-planning/bachelor-civil-engineering",
       "https://www.ost.ch/en/degree-programs/architecture-civil-engineering-landscape-architecture-and-spatial-planning/bachelor-landscape-architecture",
-      "https://www.ost.ch/de/weiterbildung/weiterbildungsangebot/raum-und-mobilitaet/weiterbildungskurse/kurs-bim-basic-education",
-      "https://www.ost.ch/de/forschung-und-dienstleistungen/architektur-bau-landschaft-raum/ilf-institut-fuer-landschaft-und-freiraum/projektierung-und-bim"
+      "https://www.ost.ch/de/weiterbildung/weiterbildungsangebot/raum-und-mobilitaet/weiterbildungskurse/kurs-bim-basic-education"
     ],
     "accreditation": [
       "HEdA"
@@ -10283,8 +10269,7 @@
       "Postgraduate in BIM Production",
       "Postgraduate in BIM Management",
       "Online Postgraduate in BIM Production",
-      "Online Postgraduate in BIM Management",
-      "Online Course in BIM: Modeling and Presentation"
+      "Online Postgraduate in BIM Management"
     ],
     "programLinks": [
       "https://www.salleurl.edu/en/education/master-bim-management",
@@ -10292,8 +10277,7 @@
       "https://www.salleurl.edu/en/education/postgraduate-bim-production",
       "https://www.salleurl.edu/en/education/postgraduate-bim-management",
       "https://www.salleurl.edu/en/education/online-postgraduate-bim-production",
-      "https://www.salleurl.edu/en/education/online-postgraduate-bim-management",
-      "https://www.salleurl.edu/en/education/online-course-bim-modeling-and-presentation"
+      "https://www.salleurl.edu/en/education/online-postgraduate-bim-management"
     ],
     "accreditation": [
       "ANECA"
@@ -11389,12 +11373,10 @@
     "country": "Spain",
     "city": "San Cristóbal de La Laguna (Tenerife)",
     "programs": [
-      "Máster Universitario en Gestión e Innovación Tecnológica en la Construcción",
-      "BIMLab ULL (research and teaching laboratory)"
+      "Máster Universitario en Gestión e Innovación Tecnológica en la Construcción"
     ],
     "programLinks": [
-      "https://www.ull.es/apps/guias/guias/view_degree/M%C3%A1ster%20Universitario%20en%20Gesti%C3%B3n%20e%20Innovaci%C3%B3n%20Tecnol%C3%B3gica%20en%20la%20Construcci%C3%B3n/",
-      "https://bimlab.webs.ull.es/"
+      "https://www.ull.es/apps/guias/guias/view_degree/M%C3%A1ster%20Universitario%20en%20Gesti%C3%B3n%20e%20Innovaci%C3%B3n%20Tecnol%C3%B3gica%20en%20la%20Construcci%C3%B3n/"
     ],
     "accreditation": [
       "-"
@@ -13526,10 +13508,10 @@
     "country": "Ukraine",
     "city": "Kyiv",
     "programs": [
-      "BSc Technologies of Building Information Modelling in Industrial & Civil Construction (192) — dedicated BIM degree",
-      "MSc Building-Architectural Information Modelling & BIM Process Management (192)",
-      "BSc Information Systems & Technologies — design automation (САПР) and modelling of construction objects",
-      "BSc Industrial & Civil Construction (ПЦБ) — automated modelling systems in construction, IT in urban planning, licensed Autodesk software"
+      "BSc Technologies of Building Information Modelling in Industrial & Civil Construction",
+      "MSc Building-Architectural Information Modelling & BIM Process Management",
+      "BSc Information Systems and Technologies",
+      "BSc Industrial & Civil Construction (ПЦБ)"
     ],
     "programLinks": [
       "https://www.knuba.edu.ua/192-budivnycztvo-ta-czyvilna-inzheneriya/",
@@ -13591,9 +13573,9 @@
     "country": "Ukraine",
     "city": "Lviv",
     "programs": [
-      "BSc/MSc Construction & Civil Engineering (192) — incl. Architectural-Building Engineering; taught with Revit, ArchiCAD, AutoCAD, SCAD, Lira",
-      "BSc/MSc Architecture & Urban Planning (191) — Computer Technologies in Architectural Design incl. Building Information Modelling (BIM)",
-      "BSc/MSc Geodesy & Land Management / GIS Engineering (193) — photogrammetry, geoinformatics, remote sensing"
+      "BSc/MSc Construction & Civil Engineering",
+      "BSc/MSc Architecture & Urban Planning",
+      "BSc/MSc Geodesy & Land Management / GIS Engineering"
     ],
     "programLinks": [
       "https://lpnu.ua/ibis/oznaiomcha-informatsiia-pro-instytut",
@@ -13648,14 +13630,12 @@
     "country": "Ukraine",
     "city": "Odesa",
     "programs": [
-      "BSc/MSc Construction & Civil Engineering (192) — programmes incl. Architectural-Building Engineering (named \"Building Information Modelling (BIM)\" course), Industrial & Civil Construction, Bridges & Tunnels, HVAC",
-      "BSc/MSc Architecture & Urban Planning (191)",
-      "Continuing education — Autodesk Revit for building modelling & analysis; building energy-efficiency assessment"
+      "BSc/MSc Construction & Civil Engineering",
+      "BSc/MSc Architecture & Urban Planning"
     ],
     "programLinks": [
       "https://registry.edbo.gov.ua/university/172/study-programs",
-      "https://vstup.osvita.ua/r16/172/",
-      "https://www.education.ua/universities/242/"
+      "https://vstup.osvita.ua/r16/172/"
     ],
     "accreditation": [
       "Ministry of Education and Science of Ukraine (state accreditation)"
@@ -14734,12 +14714,12 @@
     "country": "Belarus",
     "city": "Minsk",
     "programs": [
-      "Construction (Строительный факультет) — Industrial & Civil Engineering, Real Estate Expertise & Management; curriculum uses modern information technologies incl. BIM",
-      "Architecture & Architectural Design (Архитектурный факультет) — digital/parametric design, BIM software (Revit/ArchiCAD); laser scanning & photogrammetry to BIM"
+      "BSc/MSc Industrial & Civil Engineering",
+      "BSc/MSc Architecture & Architectural Design"
     ],
     "programLinks": [
       "http://priem.bntu.by/ru/pk/specialty/sf/",
-      "https://bntu.by/en"
+      "http://priem.bntu.by/ru/pk/specialty/af/"
     ],
     "accreditation": [
       "Ministry of Education of the Republic of Belarus (state accreditation)"
@@ -15339,11 +15319,9 @@
     "country": "Italy",
     "city": "Bari",
     "programs": [
-      "Corso di formazione BIM",
       "MSc Civil Engineering"
     ],
     "programLinks": [
-      "https://www.poliba.it/it/content/corso-di-formazione-bim",
       "https://poliba.coursecatalogue.cineca.it/insegnamenti/2023/906780-2/2018/10000/10008"
     ],
     "accreditation": [
@@ -15588,12 +15566,14 @@
     "country": "Italy",
     "city": "Genoa",
     "programs": [
-      "Architecture school",
-      "University main page"
+      "Laurea Magistrale in Ingegneria Edile-Architettura",
+      "Laurea Magistrale in Ingegneria Civile",
+      "Laurea in Ingegneria Civile, Edile e Ambientale"
     ],
     "programLinks": [
       "https://corsi.unige.it/corsi/9914",
-      "https://corsi.unige.it/corsi/11926"
+      "https://corsi.unige.it/corsi/10799",
+      "https://corsi.unige.it/corsi/11765"
     ],
     "accreditation": [
       "MUR",
@@ -15814,8 +15794,8 @@
     "country": "Russia",
     "city": "Moscow",
     "programs": [
-      "BSc Information Systems & Technologies — Information Systems and Technologies in Construction (09.03.02), Institute of Digital Technologies and Modelling in Construction",
-      "BSc Informatics & Computer Engineering (09.03.01) — BIM/nD modelling, GIS, expert & AI systems for construction-object lifecycles"
+      "BSc Information Systems and Technologies in Construction",
+      "BSc Informatics and Computer Engineering"
     ],
     "programLinks": [
       "https://mgsu.ru/postupayushchim/Bakalavriat-spetsialitet/Napravleniya-podgotovki-spetsialnosti/information-systems-and-technology-bachelor/",
@@ -15877,9 +15857,9 @@
     "country": "Russia",
     "city": "Saint Petersburg",
     "programs": [
-      "BSc Information Systems & Technologies — Information Systems and Technologies in Construction and Architecture (09.03.02)",
-      "MSc Information Systems & Technologies — Programming and BIM Technologies in Construction (09.04.02)",
-      "BSc Construction (08.03.01) — computing-bearing profiles: Highways (road information modelling/ТИМ, automated design of transport structures), Building Restoration (BIM design + AI + heritage), Heat-Gas Supply & Ventilation (Renga / nanoCAD BIM)"
+      "BSc Information Systems and Technologies in Construction and Architecture",
+      "MSc Programming and BIM Technologies in Construction",
+      "BSc Construction"
     ],
     "programLinks": [
       "https://www.spbgasu.ru/applicants/areas-of-training/informatsionnye-sistemy-i-tekhnologii/",
@@ -15950,8 +15930,8 @@
     "country": "Russia",
     "city": "Saint Petersburg",
     "programs": [
-      "MSc Digital Construction of Buildings and Structures (08.04.01) — BIM systems, cost engineering, digital construction-control technologies",
-      "MSc Digital Design of Hydrotechnical Construction Objects (08.04.01) — BIM/САПР, information modelling of hydropower objects, lifecycle digital support (incl. roads, tunnels, bridges)"
+      "MSc Digital Construction of Buildings and Structures",
+      "MSc Digital Design of Hydrotechnical Construction Objects"
     ],
     "programLinks": [
       "https://ice.spbstu.ru/edu/08.04.01/08.04.01_25/",
@@ -16011,8 +15991,8 @@
     "country": "Russia",
     "city": "Nizhny Novgorod",
     "programs": [
-      "Construction (Строительство) — TIM/BIM embedded in curriculum; NNGASU college also runs a dedicated \"Information Modelling in Construction\" programme (08.02.15)",
-      "Architecture & Architectural Environment Design — digital design tools, computer graphics, digital media"
+      "Construction (Строительство)",
+      "Architecture and Architectural Environment Design"
     ],
     "programLinks": [
       "https://www.nngasu.ru/sveden/education/",
