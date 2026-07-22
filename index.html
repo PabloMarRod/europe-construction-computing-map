@@ -1150,6 +1150,17 @@
                 
                 <button class="clear-filters" onclick="clearAllFilters()">Clear All Filters</button>
                 
+                <!-- Region Filter -->
+                <div class="filter-group">
+                    <div class="filter-group-header" onclick="toggleFilterGroup('region')">
+                        <h3>Region</h3>
+                        <button class="toggle-btn" id="toggle-region">Show</button>
+                    </div>
+                    <div class="filter-options collapsed" id="options-region">
+                        <div id="regionFilters"></div>
+                    </div>
+                </div>
+                
                 <!-- Country Filter -->
                 <div class="filter-group">
                     <div class="filter-group-header" onclick="toggleFilterGroup('country')">
@@ -1255,28 +1266,29 @@
                 <!-- Cost Filter -->
                 <div class="filter-group">
                     <div class="filter-group-header" onclick="toggleFilterGroup('cost')">
-                        <h3>Cost (EUR/year)</h3>
+                        <h3>Cost / year</h3>
                         <button class="toggle-btn" id="toggle-cost">Show</button>
                     </div>
                     <div class="filter-options collapsed" id="options-cost">
+                        <div style="font-size:0.7rem;opacity:0.6;margin-bottom:0.4rem;">Bands are approximate EUR equivalents (costs shown per institution are in local currency).</div>
                         <div class="filter-option">
                             <input type="checkbox" id="cost-free" value="free" onchange="applyFilters()">
-                            <label for="cost-free">Free / €0-200</label>
+                            <label for="cost-free">Free / ≈ €0–200</label>
                             <span class="filter-count" id="count-cost-free"></span>
                         </div>
                         <div class="filter-option">
                             <input type="checkbox" id="cost-low" value="low" onchange="applyFilters()">
-                            <label for="cost-low">€200-2,000</label>
+                            <label for="cost-low">≈ €200–2,000</label>
                             <span class="filter-count" id="count-cost-low"></span>
                         </div>
                         <div class="filter-option">
                             <input type="checkbox" id="cost-medium" value="medium" onchange="applyFilters()">
-                            <label for="cost-medium">€2,000-10,000</label>
+                            <label for="cost-medium">≈ €2,000–10,000</label>
                             <span class="filter-count" id="count-cost-medium"></span>
                         </div>
                         <div class="filter-option">
                             <input type="checkbox" id="cost-high" value="high" onchange="applyFilters()">
-                            <label for="cost-high">€10,000+</label>
+                            <label for="cost-high">≈ €10,000+</label>
                             <span class="filter-count" id="count-cost-high"></span>
                         </div>
                     </div>
@@ -1340,7 +1352,7 @@
                         <div class="info-label">Delivery:</div>
                         <div class="info-value" id="tooltip-delivery"></div>
                         
-                        <div class="info-label">Cost (EUR):</div>
+                        <div class="info-label">Cost/Year:</div>
                         <div class="info-value" id="tooltip-cost"></div>
                         
                         <div class="info-label">Graduates/Year:</div>
@@ -1454,7 +1466,7 @@
                 </div>
                 
                 <div class="form-group">
-                    <label for="cost">Cost (EUR/year)</label>
+                    <label for="cost">Cost / year (local currency)</label>
                     <input type="text" id="cost" placeholder="e.g., 2,500 - 5,000 or Free">
                 </div>
                 
@@ -1636,7 +1648,7 @@
             document.getElementById('tooltip-delivery').textContent = uni.delivery;
             
             // Cost
-            document.getElementById('tooltip-cost').textContent = '€' + uni.cost;
+            document.getElementById('tooltip-cost').textContent = formatCost(uni.cost, uni.costCurrency);
             
             // Graduates
             document.getElementById('tooltip-graduates').textContent =
@@ -1860,7 +1872,8 @@
             const visibleUniversities = universities.filter(uni => matchesFilters(uni));
             const visibleCount = visibleUniversities.length;
             
-            const hasActiveFilters = activeFilters.countries.size > 0 || 
+            const hasActiveFilters = activeFilters.regions.size > 0 ||
+                                    activeFilters.countries.size > 0 || 
                                     activeFilters.languages.size > 0 || 
                                     activeFilters.levels.size > 0 || 
                                     activeFilters.modes.size > 0 || 
@@ -1879,6 +1892,7 @@
         // ===== FILTERING FUNCTIONALITY =====
         
         let activeFilters = {
+            regions: new Set(),
             countries: new Set(),
             languages: new Set(),
             levels: new Set(),
@@ -1892,16 +1906,33 @@
         // Populate dynamic filters
         function populateFilters() {
             // Get unique values
+            const regions = new Set();
             const countries = new Set();
             const languages = new Set();
             
             universities.forEach(uni => {
+                if (uni.region) regions.add(uni.region);
                 countries.add(uni.country);
                 
                 // Parse languages
                 uni.language.split('/').forEach(lang => {
                     languages.add(lang.trim());
                 });
+            });
+            
+            // Sort and populate regions
+            const sortedRegions = Array.from(regions).sort();
+            const regionFiltersDiv = document.getElementById('regionFilters');
+            sortedRegions.forEach(region => {
+                const id = 'region-' + region.replace(/\s+/g, '-').toLowerCase();
+                const div = document.createElement('div');
+                div.className = 'filter-option';
+                div.innerHTML = `
+                    <input type="checkbox" id="${id}" value="${region}" onchange="toggleRegionFilter('${region}')">
+                    <label for="${id}">${region}</label>
+                    <span class="filter-count" id="count-${id}"></span>
+                `;
+                regionFiltersDiv.appendChild(div);
             });
             
             // Sort and populate countries
@@ -1961,6 +1992,16 @@
         }
         
         // Toggle filter functions
+        function toggleRegionFilter(region) {
+            if (activeFilters.regions.has(region)) {
+                activeFilters.regions.delete(region);
+            } else {
+                activeFilters.regions.add(region);
+            }
+            updateSelectedStates();
+            applyFilters();
+        }
+        
         function toggleCountryFilter(country) {
             if (activeFilters.countries.has(country)) {
                 activeFilters.countries.delete(country);
@@ -2009,7 +2050,7 @@
         
         // Update active filter indicators
         function updateActiveFilterIndicators() {
-            const groups = ['country', 'language', 'level', 'mode', 'delivery', 'cost', 'topics'];
+            const groups = ['region', 'country', 'language', 'level', 'mode', 'delivery', 'cost', 'topics'];
             
             groups.forEach(group => {
                 const optionsDiv = document.getElementById(`options-${group}`);
@@ -2074,6 +2115,11 @@
                 }
             }
             
+            // Region filter
+            if (activeFilters.regions.size > 0 && !activeFilters.regions.has(uni.region)) {
+                return false;
+            }
+            
             // Country filter
             if (activeFilters.countries.size > 0 && !activeFilters.countries.has(uni.country)) {
                 return false;
@@ -2120,7 +2166,7 @@
             
             // Cost filter
             if (activeFilters.cost.size > 0) {
-                const costRange = getCostRange(uni.cost);
+                const costRange = getCostRange(uni.cost, uni.costCurrency);
                 if (!activeFilters.cost.has(costRange)) return false;
             }
             
@@ -2135,17 +2181,36 @@
         }
         
         // Parse cost into range category
-        function getCostRange(costStr) {
-            const lower = parseInt(costStr.replace(/[^\d]/g, '').split('-')[0] || costStr.replace(/[^\d]/g, ''));
-            if (isNaN(lower) || lower <= 200 || costStr.toLowerCase().includes('free')) return 'free';
-            if (lower <= 2000) return 'low';
-            if (lower <= 10000) return 'medium';
+        // Local-currency -> EUR multipliers (indicative, ~Jul 2026) for cost normalisation & display
+        const TO_EUR = { EUR:1, GBP:1.183, CHF:1.064, SEK:0.0885, NOK:0.0862, DKK:0.134, ISK:0.00667,
+            PLN:0.2353, CZK:0.0403, HUF:0.002532, TRY:0.02083, RON:0.1976, RSD:0.008532, ALL:0.010204,
+            MDL:0.05155, BAM:0.5113, MKD:0.01626, RUB:0.01115, UAH:0.0196, BYN:0.303 };
+        const CUR_SYMBOL = { EUR:'\u20AC', GBP:'\u00A3', USD:'$' };
+
+        // Format a cost string with its currency (symbol prefix for €/£/$, ISO-code suffix otherwise)
+        function formatCost(cost, cur) {
+            cur = cur || 'EUR';
+            const c = (cost === undefined || cost === null || cost === '') ? '—' : String(cost);
+            const sym = CUR_SYMBOL[cur];
+            return sym ? sym + c : c + '\u00A0' + cur;
+        }
+
+        function getCostRange(costStr, cur) {
+            const s = (costStr || '').toString();
+            if (s.toLowerCase().includes('free')) return 'free';
+            const m = s.replace(/,/g, '').match(/\d+/);   // first number = lower bound
+            if (!m) return 'free';
+            const eur = parseInt(m[0], 10) * (TO_EUR[cur || 'EUR'] || 1);  // normalise to EUR
+            if (eur <= 200) return 'free';
+            if (eur <= 2000) return 'low';
+            if (eur <= 10000) return 'medium';
             return 'high';
         }
         
         // Update filter counts
         function updateFilterCounts() {
             const counts = {
+                regions: {},
                 countries: {},
                 languages: {},
                 levels: { Bachelor: 0, Master: 0, PhD: 0, Diploma: 0 },
@@ -2156,6 +2221,9 @@
             };
             
             universities.forEach(uni => {
+                // Count regions
+                if (uni.region) counts.regions[uni.region] = (counts.regions[uni.region] || 0) + 1;
+                
                 // Count countries
                 counts.countries[uni.country] = (counts.countries[uni.country] || 0) + 1;
                 
@@ -2183,13 +2251,20 @@
                 if (uni.delivery.toLowerCase().includes('hybrid') || uni.delivery.toLowerCase().includes('blended')) counts.delivery.Hybrid++;
                 
                 // Count cost ranges
-                const costRange = getCostRange(uni.cost);
+                const costRange = getCostRange(uni.cost, uni.costCurrency);
                 counts.cost[costRange]++;
                 
                 // Count topics
                 uni.topics.forEach(topic => {
                     counts.topics[topic] = (counts.topics[topic] || 0) + 1;
                 });
+            });
+            
+            // Update region counts
+            Object.keys(counts.regions).forEach(region => {
+                const id = 'count-region-' + region.replace(/\s+/g, '-').toLowerCase();
+                const el = document.getElementById(id);
+                if (el) el.textContent = `(${counts.regions[region]})`;
             });
             
             // Update country counts
@@ -2240,6 +2315,7 @@
         function clearAllFilters() {
             // Clear all active filters
             activeFilters = {
+                regions: new Set(),
                 countries: new Set(),
                 languages: new Set(),
                 levels: new Set(),
@@ -2457,7 +2533,7 @@
             }
             
             if (data.cost) {
-                lines.push(`Cost (EUR/year): ${data.cost}`);
+                lines.push(`Cost/year (local currency): ${data.cost}`);
                 lines.push('');
             }
             
