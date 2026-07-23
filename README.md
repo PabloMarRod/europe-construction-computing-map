@@ -3,6 +3,7 @@
 Interactive map of global higher-education institutions offering programmes in digital construction, BIM, and construction informatics. Each institution is shown on an OpenStreetMap basemap with programme details, cost, accreditation, language, delivery mode, and research/PhD opportunities.
 
 **Live map:** _https://pablomarrod.github.io/europe-construction-computing-map/_
+
 **Licence:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## Contents
