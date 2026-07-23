@@ -34,7 +34,7 @@ Interactive map of global higher-education institutions offering programmes in d
 | `language` | string | Language(s) of instruction. |
 | `mode` | string | Full-time / Part-time / Distance. |
 | `delivery` | string | Presential / Online / Hybrid. |
-| `cost` | string | Indicative annual fee in EUR. |
+| `cost` | string | Indicative annual fee in local currency or EUR equivalent. |
 | `graduatesPerYear` | string | Estimated annual graduates where known. |
 | `graduatesEstimated` | bool | Present and `true` only where the value was imputed from peer institutions (absent = as originally collected). |
 | `graduatesEstimateBasis` | string | For imputed values: the peer group and sample size used (e.g. `peer median, country+type:Poland/technical (n=4)`). |
