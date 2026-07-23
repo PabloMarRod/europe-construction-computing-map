@@ -16393,7 +16393,7 @@
     "programs": [
       "Diplomado en Modelación y Coordinación de Proyectos con BIM",
       "Curso de Especialización en Dirección y Coordinación BIM en Proyectos de Infraestructura y Minería",
-      "Doctorado en Ingeniería Civil — construction-informatics research (.Lab, Construcción 4.0)"
+      "Doctorado en Ingeniería Civil"
     ],
     "programLinks": [
       "https://fau.uchile.cl/cursos/diploma-modelamiento-y-coordinacion-de-proyectos-con-bim",
@@ -16419,7 +16419,8 @@
       "Infrastructure BIM",
       "Architecture",
       "Construction Management",
-      "Infrastructure Engineering"
+      "Infrastructure Engineering",
+      "Construction Informatics"
     ],
     "computingTopics": [
       "BIM",
@@ -16429,7 +16430,8 @@
       "Collaborative Workflows",
       "3D Modeling & Scanning",
       "Data Management",
-      "Infrastructure BIM"
+      "Infrastructure BIM",
+      "Construction Informatics"
     ],
     "domains": [
       "Architecture",
@@ -16653,7 +16655,7 @@
       "Diplomado en Gestión de Proyectos BIM para la Construcción",
       "Diplomado en BIM Arquitectura",
       "Diplomado en VDC/BIM en la Gestión de Organizaciones y Proyectos",
-      "Doctorado en Ciencias de la Ingeniería — GEPUC (digital production, BIM/VDC, AI in construction)"
+      "Doctorado en Ciencias de la Ingeniería"
     ],
     "programLinks": [
       "https://educacioncontinua.uc.cl/programas/diplomado-en-gestion-de-proyectos-bim-para-la-construccion/",
@@ -17272,7 +17274,7 @@
     "city": "Vancouver",
     "programs": [
       "Civil Engineering — BASc",
-      "PhD Civil Engineering — BIM TOPiCS Lab (VDC/BIM, 4D)"
+      "PhD Civil Engineering"
     ],
     "programLinks": [
       "https://civil.ubc.ca/undergraduate/",
@@ -17779,7 +17781,8 @@
       "Bachelor of Design in City Innovation (BDCI)",
       "Master of Architecture (MArch)",
       "MEng Geomatics Engineering",
-      "PhD Geomatics Engineering / PhD Environmental Design (SAPL) — GIScience, remote sensing, computational design"
+      "PhD Geomatics Engineering",
+      "PhD Environmental Design"
     ],
     "programLinks": [
       "https://schulich.ucalgary.ca/future-students/undergraduate/programs/bsc-geomatics-engineering",
@@ -17787,7 +17790,8 @@
       "https://sapl.ucalgary.ca/current-students/undergraduate/bachelor-design-city-innovation/bdci-courses",
       "https://sapl.ucalgary.ca/future-students/graduate/master-architecture",
       "https://schulich.ucalgary.ca/geomatics/programs/graduate/master-engineering-course-based",
-      "https://schulich.ucalgary.ca/geomatics/programs/graduate"
+      "https://grad.ucalgary.ca/future-students/graduate/discover-opportunities/explore-programs/geomatics-engineering-phd",
+      "https://grad.ucalgary.ca/future-students/graduate/discover-opportunities/explore-programs/environmental-design-phd"
     ],
     "accreditation": [],
     "language": "English",
@@ -17841,7 +17845,7 @@
     "programs": [
       "BSc Civil Engineering",
       "MEng / MSc Civil & Environmental Engineering",
-      "PhD Civil & Environmental Engineering — Hole School of Construction Engineering (construction informatics, BIM, AI)"
+      "PhD Civil & Environmental Engineering"
     ],
     "programLinks": [
       "https://www.ualberta.ca/en/undergraduate-programs/bachelor-of-science-in-civil-engineering-civil-engineering.html",
@@ -17941,7 +17945,7 @@
     "country": "Canada",
     "city": "Victoria",
     "programs": [
-      "PhD Civil Engineering — construction management information & computing technologies research (research-basis inclusion)"
+      "PhD Civil Engineering"
     ],
     "programLinks": [
       "https://www.uvic.ca/ecs/civil/graduate-students/index.php"
