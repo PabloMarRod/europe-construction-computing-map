@@ -16392,11 +16392,13 @@
     "city": "Santiago",
     "programs": [
       "Diplomado en Modelación y Coordinación de Proyectos con BIM",
-      "Curso de Especialización en Dirección y Coordinación BIM en Proyectos de Infraestructura y Minería"
+      "Curso de Especialización en Dirección y Coordinación BIM en Proyectos de Infraestructura y Minería",
+      "Doctorado en Ingeniería Civil — construction-informatics research (.Lab, Construcción 4.0)"
     ],
     "programLinks": [
       "https://fau.uchile.cl/cursos/diploma-modelamiento-y-coordinacion-de-proyectos-con-bim",
-      "https://ingcivil.uchile.cl/cursos/157519/curso-bim-en-infraestructura-y-mineria"
+      "https://ingcivil.uchile.cl/cursos/157519/curso-bim-en-infraestructura-y-mineria",
+      "https://ingcivil.uchile.cl/"
     ],
     "accreditation": [],
     "language": "Spanish",
@@ -16650,12 +16652,14 @@
     "programs": [
       "Diplomado en Gestión de Proyectos BIM para la Construcción",
       "Diplomado en BIM Arquitectura",
-      "Diplomado en VDC/BIM en la Gestión de Organizaciones y Proyectos"
+      "Diplomado en VDC/BIM en la Gestión de Organizaciones y Proyectos",
+      "Doctorado en Ciencias de la Ingeniería — GEPUC (digital production, BIM/VDC, AI in construction)"
     ],
     "programLinks": [
       "https://educacioncontinua.uc.cl/programas/diplomado-en-gestion-de-proyectos-bim-para-la-construccion/",
       "https://educacioncontinua.uc.cl/programas/diplomado-en-bim-arquitectura/",
-      "https://educacionprofesional.ing.uc.cl/?diplomado=diplomado-en-vdc-bim-en-la-gestion-de-organizaciones-y-proyectos"
+      "https://educacionprofesional.ing.uc.cl/?diplomado=diplomado-en-vdc-bim-en-la-gestion-de-organizaciones-y-proyectos",
+      "https://gepuc.cl/investigacion/"
     ],
     "accreditation": [],
     "language": "Spanish",
@@ -16675,7 +16679,8 @@
       "Digital Construction",
       "Architecture",
       "Construction Management",
-      "Project Management"
+      "Project Management",
+      "AI & Machine Learning"
     ],
     "computingTopics": [
       "BIM",
@@ -16684,7 +16689,8 @@
       "nD BIM",
       "Collaborative Workflows",
       "Data Management",
-      "Digital Construction"
+      "Digital Construction",
+      "AI & Machine Learning"
     ],
     "domains": [
       "Architecture",
@@ -17265,10 +17271,12 @@
     "country": "Canada",
     "city": "Vancouver",
     "programs": [
-      "Civil Engineering — BASc"
+      "Civil Engineering — BASc",
+      "PhD Civil Engineering — BIM TOPiCS Lab (VDC/BIM, 4D)"
     ],
     "programLinks": [
-      "https://civil.ubc.ca/undergraduate/"
+      "https://civil.ubc.ca/undergraduate/",
+      "https://civil.ubc.ca/graduate/"
     ],
     "accreditation": [],
     "language": "English",
@@ -17284,13 +17292,15 @@
       "AI & Machine Learning",
       "Collaborative Workflows",
       "Civil Engineering",
-      "Construction Management"
+      "Construction Management",
+      "Digital Construction"
     ],
     "computingTopics": [
       "BIM",
       "nD BIM",
       "AI & Machine Learning",
-      "Collaborative Workflows"
+      "Collaborative Workflows",
+      "Digital Construction"
     ],
     "domains": [
       "Civil Engineering",
@@ -17640,6 +17650,330 @@
     "website": "https://cnc.bc.ca/programs-courses/programs/detail/civil-engineering-technology",
     "lat": 53.90541,
     "lon": -122.78444,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "Southern Alberta Institute of Technology (SAIT)",
+    "country": "Canada",
+    "city": "Calgary",
+    "programs": [
+      "Civil Engineering Technology — Diploma",
+      "Architectural Technologies — Diploma",
+      "Geomatics Engineering Technology — Diploma"
+    ],
+    "programLinks": [
+      "https://www.sait.ca/programs-and-courses/diplomas/civil-engineering-technology-construction-management",
+      "https://www.sait.ca/programs-and-courses/diplomas/architectural-technologies",
+      "https://www.sait.ca/programs-and-courses/diplomas/geomatics-engineering-technology"
+    ],
+    "accreditation": [],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "5,500 - 19,600",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "GIS & BIM Integration",
+      "3D Modeling & Scanning",
+      "Digital Construction",
+      "Architecture",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "GIS & BIM Integration",
+      "3D Modeling & Scanning",
+      "Digital Construction"
+    ],
+    "domains": [
+      "Architecture",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.sait.ca/programs-and-courses/diplomas/civil-engineering-technology-construction-management",
+    "lat": 51.06313,
+    "lon": -114.08788,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "Northern Alberta Institute of Technology (NAIT)",
+    "country": "Canada",
+    "city": "Edmonton",
+    "programs": [
+      "Civil Engineering Technology — Diploma",
+      "Construction Engineering Technology — Diploma",
+      "Architectural Technology — Diploma",
+      "Engineering Design Technology — Diploma",
+      "Surveying & Geospatial Engineering Technology — Diploma"
+    ],
+    "programLinks": [
+      "https://www.nait.ca/programs/civil-engineering-technology",
+      "https://www.nait.ca/programs/construction-engineering-technology",
+      "https://www.nait.ca/programs/architectural-technology",
+      "https://www.nait.ca/programs/engineering-design-technology",
+      "https://www.nait.ca/programs/surveying-and-geospatial-engineering-technology"
+    ],
+    "accreditation": [],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "5,500 - 19,700",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "CAD/CAM",
+      "BIM",
+      "BIM Software",
+      "GIS & BIM Integration",
+      "3D Modeling & Scanning",
+      "Digital Design",
+      "Architecture",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "BIM",
+      "BIM Software",
+      "GIS & BIM Integration",
+      "3D Modeling & Scanning",
+      "Digital Design"
+    ],
+    "domains": [
+      "Architecture",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.nait.ca/programs/civil-engineering-technology",
+    "lat": 53.57007,
+    "lon": -113.50174,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "University of Calgary",
+    "country": "Canada",
+    "city": "Calgary",
+    "programs": [
+      "BSc Geomatics Engineering",
+      "BSc Civil Engineering",
+      "Bachelor of Design in City Innovation (BDCI)",
+      "Master of Architecture (MArch)",
+      "MEng Geomatics Engineering",
+      "PhD Geomatics Engineering / PhD Environmental Design (SAPL) — GIScience, remote sensing, computational design"
+    ],
+    "programLinks": [
+      "https://schulich.ucalgary.ca/future-students/undergraduate/programs/bsc-geomatics-engineering",
+      "https://schulich.ucalgary.ca/future-students/undergraduate/programs/bsc-civil-engineering",
+      "https://sapl.ucalgary.ca/current-students/undergraduate/bachelor-design-city-innovation/bdci-courses",
+      "https://sapl.ucalgary.ca/future-students/graduate/master-architecture",
+      "https://schulich.ucalgary.ca/geomatics/programs/graduate/master-engineering-course-based",
+      "https://schulich.ucalgary.ca/geomatics/programs/graduate"
+    ],
+    "accreditation": [],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "6,600 - 48,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "GIS & BIM Integration",
+      "3D Modeling & Scanning",
+      "AI & Machine Learning",
+      "Parametric & Generative Design",
+      "Digital Fabrication",
+      "BIM",
+      "CAD/CAM",
+      "Data Management",
+      "Architecture",
+      "Civil Engineering",
+      "Infrastructure Engineering"
+    ],
+    "computingTopics": [
+      "GIS & BIM Integration",
+      "3D Modeling & Scanning",
+      "AI & Machine Learning",
+      "Parametric & Generative Design",
+      "Digital Fabrication",
+      "BIM",
+      "CAD/CAM",
+      "Data Management"
+    ],
+    "domains": [
+      "Architecture",
+      "Civil Engineering",
+      "Infrastructure Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://schulich.ucalgary.ca/future-students/undergraduate/programs/bsc-geomatics-engineering",
+    "lat": 51.07505,
+    "lon": -114.13881,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "University of Alberta",
+    "country": "Canada",
+    "city": "Edmonton",
+    "programs": [
+      "BSc Civil Engineering",
+      "MEng / MSc Civil & Environmental Engineering",
+      "PhD Civil & Environmental Engineering — Hole School of Construction Engineering (construction informatics, BIM, AI)"
+    ],
+    "programLinks": [
+      "https://www.ualberta.ca/en/undergraduate-programs/bachelor-of-science-in-civil-engineering-civil-engineering.html",
+      "https://www.ualberta.ca/en/engineering/civil-environmental-engineering/graduate-programs/index.html",
+      "https://www.ualberta.ca/en/engineering/civil-environmental-engineering/graduate-programs/index.html"
+    ],
+    "accreditation": [],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person / Online",
+    "cost": "7,300 - 46,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "GIS & BIM Integration",
+      "BIM",
+      "Digital Construction",
+      "AI & Machine Learning",
+      "Civil Engineering",
+      "Construction Management",
+      "Structural Engineering",
+      "Construction Informatics"
+    ],
+    "computingTopics": [
+      "GIS & BIM Integration",
+      "BIM",
+      "Digital Construction",
+      "AI & Machine Learning",
+      "Construction Informatics"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management",
+      "Structural Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.ualberta.ca/en/undergraduate-programs/bachelor-of-science-in-civil-engineering-civil-engineering.html",
+    "lat": 53.52682,
+    "lon": -113.52449,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "Lethbridge Polytechnic",
+    "country": "Canada",
+    "city": "Lethbridge",
+    "programs": [
+      "Civil Engineering Technology — Diploma",
+      "Engineering Design Technology — Diploma"
+    ],
+    "programLinks": [
+      "https://lethpolytech.ca/programs-and-courses/civil-engineering-technology",
+      "https://lethbridgecollege.ca/programs/engineering-design-technology"
+    ],
+    "accreditation": [],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "5,000 - 17,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "CAD/CAM",
+      "GIS & BIM Integration",
+      "BIM",
+      "Digital Design",
+      "Civil Engineering",
+      "Construction Management",
+      "Infrastructure Engineering"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "GIS & BIM Integration",
+      "BIM",
+      "Digital Design"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management",
+      "Infrastructure Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://lethpolytech.ca/programs-and-courses/civil-engineering-technology",
+    "lat": 49.69657,
+    "lon": -112.82736,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "University of Victoria (UVic)",
+    "country": "Canada",
+    "city": "Victoria",
+    "programs": [
+      "PhD Civil Engineering — construction management information & computing technologies research (research-basis inclusion)"
+    ],
+    "programLinks": [
+      "https://www.uvic.ca/ecs/civil/graduate-students/index.php"
+    ],
+    "accreditation": [],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "6,000 - 8,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "research/PhD record; intake not published",
+    "topics": [
+      "Construction Informatics",
+      "Data Management",
+      "Civil Engineering",
+      "Construction Management",
+      "Infrastructure Engineering"
+    ],
+    "computingTopics": [
+      "Construction Informatics",
+      "Data Management"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management",
+      "Infrastructure Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.uvic.ca/ecs/civil/graduate-students/index.php",
+    "lat": 48.4634,
+    "lon": -123.31165,
     "geoSource": "nominatim:name+city",
     "lastChecked": "2026-07-23",
     "region": "North America",
