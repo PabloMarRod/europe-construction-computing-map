@@ -17982,5 +17982,221 @@
     "lastChecked": "2026-07-23",
     "region": "North America",
     "costCurrency": "CAD"
+  },
+  {
+    "name": "Saskatchewan Polytechnic",
+    "country": "Canada",
+    "city": "Saskatoon",
+    "programs": [
+      "Engineering Design & Drafting Technology — Diploma",
+      "Civil Engineering Technologies — Diploma"
+    ],
+    "programLinks": [
+      "https://saskpolytech.ca/programs-and-courses/programs/Engineering-Design-and-Drafting-Technology.aspx",
+      "https://saskpolytech.ca/programs-and-courses/programs/Civil-Engineering-Technologies.aspx"
+    ],
+    "accreditation": [],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "4,200 - 19,090",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "CAD/CAM",
+      "BIM",
+      "BIM Software",
+      "Digital Construction",
+      "3D Modeling & Scanning",
+      "Civil Engineering",
+      "Construction Management",
+      "Infrastructure Engineering"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "BIM",
+      "BIM Software",
+      "Digital Construction",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management",
+      "Infrastructure Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://saskpolytech.ca/programs-and-courses/programs/Engineering-Design-and-Drafting-Technology.aspx",
+    "lat": 52.12706,
+    "lon": -106.66117,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "University of Saskatchewan (USask)",
+    "country": "Canada",
+    "city": "Saskatoon",
+    "programs": [
+      "BSc Civil Engineering",
+      "PhD Civil Engineering"
+    ],
+    "programLinks": [
+      "https://engineering.usask.ca/programs/Academic/Degrees/civil-engineering.php",
+      "https://grad.usask.ca/programs/civil-engineering.php"
+    ],
+    "accreditation": [],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "7,000 - 29,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "Digital Construction",
+      "Construction Informatics",
+      "Data Management",
+      "Civil Engineering",
+      "Construction Management",
+      "Infrastructure Engineering",
+      "Structural Engineering"
+    ],
+    "computingTopics": [
+      "Digital Construction",
+      "Construction Informatics",
+      "Data Management"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management",
+      "Infrastructure Engineering",
+      "Structural Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://engineering.usask.ca/programs/Academic/Degrees/civil-engineering.php",
+    "lat": 52.13442,
+    "lon": -106.62778,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "Red River College Polytechnic (RRC Polytech)",
+    "country": "Canada",
+    "city": "Winnipeg",
+    "programs": [
+      "Civil Engineering Technology — Diploma",
+      "Computer-Aided Drafting and Design (CADD) — Certificate"
+    ],
+    "programLinks": [
+      "https://catalogue.rrc.ca/Programs/WPG/Fulltime/CIVCF-DP",
+      "https://catalogue.rrc.ca/Programs/WPG/Parttime/CADDP-NA"
+    ],
+    "accreditation": [],
+    "language": "English",
+    "mode": "Full-time / Part-time",
+    "delivery": "In person",
+    "cost": "4,500 - 11,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "CAD/CAM",
+      "BIM",
+      "BIM Software",
+      "GIS & BIM Integration",
+      "3D Modeling & Scanning",
+      "Architecture",
+      "Civil Engineering",
+      "Construction Management",
+      "Infrastructure Engineering",
+      "Structural Engineering"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "BIM",
+      "BIM Software",
+      "GIS & BIM Integration",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Architecture",
+      "Civil Engineering",
+      "Construction Management",
+      "Infrastructure Engineering",
+      "Structural Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://catalogue.rrc.ca/Programs/WPG/Fulltime/CIVCF-DP",
+    "lat": 49.89554,
+    "lon": -97.13846,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "University of Manitoba",
+    "country": "Canada",
+    "city": "Winnipeg",
+    "programs": [
+      "BSc Civil Engineering",
+      "MSc / MEng Civil Engineering",
+      "PhD Civil Engineering",
+      "Bachelor of Environmental Design (BEnvD)"
+    ],
+    "programLinks": [
+      "https://umanitoba.ca/engineering/civil",
+      "https://umanitoba.ca/engineering/civil",
+      "https://umanitoba.ca/engineering/civil",
+      "https://umanitoba.ca/architecture/programs-study"
+    ],
+    "accreditation": [],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "5,500 - 22,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "BIM",
+      "Digital Construction",
+      "Construction Informatics",
+      "CAD/CAM",
+      "Digital Design",
+      "Data Management",
+      "Architecture",
+      "Civil Engineering",
+      "Construction Management",
+      "Infrastructure Engineering",
+      "Structural Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Digital Construction",
+      "Construction Informatics",
+      "CAD/CAM",
+      "Digital Design",
+      "Data Management"
+    ],
+    "domains": [
+      "Architecture",
+      "Civil Engineering",
+      "Construction Management",
+      "Infrastructure Engineering",
+      "Structural Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://umanitoba.ca/engineering/civil",
+    "lat": 49.90424,
+    "lon": -97.16172,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
   }
 ]
