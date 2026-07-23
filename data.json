@@ -17196,5 +17196,453 @@
     "lastChecked": "2026-07-22",
     "region": "South America",
     "costCurrency": "CLP"
+  },
+  {
+    "name": "British Columbia Institute of Technology (BCIT)",
+    "country": "Canada",
+    "city": "Burnaby",
+    "programs": [
+      "Geomatics Engineering Technology — Diploma",
+      "Building Energy Modelling & Performance Analysis — Advanced Certificate",
+      "Architectural & Structural CADD and Graphics Technician — Certificate",
+      "Civil Engineering — BEng",
+      "Building Design & Architectural CAD — Associate Certificate",
+      "Architectural & Building Technology — Diploma"
+    ],
+    "programLinks": [
+      "https://www.bcit.ca/programs/geomatics-engineering-technology-diploma-full-time-7535dipma/",
+      "https://www.bcit.ca/programs/building-energy-modelling-and-performance-analysis-advanced-certificate-part-time-5235adcert/",
+      "https://www.bcit.ca/programs/architectural-and-structural-cadd-and-graphics-technician-architectural-option-certificate-full-time-1720certts/",
+      "https://www.bcit.ca/programs/civil-engineering-bachelor-of-engineering-full-time-8660beng/",
+      "https://www.bcit.ca/programs/building-design-and-architectural-cad-associate-certificate-part-time-515hacert/",
+      "https://www.bcit.ca/programs/architectural-and-building-technology-diploma-full-time-7140dipma/"
+    ],
+    "accreditation": [],
+    "language": "English",
+    "mode": "Full-time / Part-time",
+    "delivery": "In person",
+    "cost": "6,000 - 19,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "GIS & BIM Integration",
+      "3D Modeling & Scanning",
+      "Energy Performance",
+      "Architecture",
+      "Civil Engineering",
+      "Construction Management",
+      "Infrastructure Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "GIS & BIM Integration",
+      "3D Modeling & Scanning",
+      "Energy Performance"
+    ],
+    "domains": [
+      "Architecture",
+      "Civil Engineering",
+      "Construction Management",
+      "Infrastructure Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.bcit.ca/programs/geomatics-engineering-technology-diploma-full-time-7535dipma/",
+    "lat": 49.24816,
+    "lon": -123.00122,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "University of British Columbia (UBC)",
+    "country": "Canada",
+    "city": "Vancouver",
+    "programs": [
+      "Civil Engineering — BASc"
+    ],
+    "programLinks": [
+      "https://civil.ubc.ca/undergraduate/"
+    ],
+    "accreditation": [],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "5,900 - 57,500",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "BIM",
+      "nD BIM",
+      "AI & Machine Learning",
+      "Collaborative Workflows",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "nD BIM",
+      "AI & Machine Learning",
+      "Collaborative Workflows"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://civil.ubc.ca/undergraduate/",
+    "lat": 49.25789,
+    "lon": -123.24298,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "Selkirk College",
+    "country": "Canada",
+    "city": "Castlegar",
+    "programs": [
+      "Geographic Information Systems — Advanced Diploma",
+      "Bachelor of Geographic Information Systems (BGIS)"
+    ],
+    "programLinks": [
+      "https://selkirk.ca/programs/geographic-information-systems-advanced-diploma",
+      "https://selkirk.ca/programs/geographic-information-systems-bachelors-degree"
+    ],
+    "accreditation": [],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "5,945 - 20,196",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "GIS & BIM Integration",
+      "3D Modeling & Scanning",
+      "CAD/CAM",
+      "Data Management"
+    ],
+    "computingTopics": [
+      "GIS & BIM Integration",
+      "3D Modeling & Scanning",
+      "CAD/CAM",
+      "Data Management"
+    ],
+    "domains": [],
+    "verificationLevel": 2,
+    "website": "https://selkirk.ca/programs/geographic-information-systems-advanced-diploma",
+    "lat": 49.30722,
+    "lon": -117.6473,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "Camosun College",
+    "country": "Canada",
+    "city": "Victoria",
+    "programs": [
+      "Engineering Graphics Technician — Certificate"
+    ],
+    "programLinks": [
+      "https://camosun.ca/programs-courses/find-program/engineering-graphics-technician-certificate"
+    ],
+    "accreditation": [],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "3,500 - 17,100",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "CAD/CAM",
+      "Digital Design",
+      "Architecture",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "Digital Design"
+    ],
+    "domains": [
+      "Architecture",
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://camosun.ca/programs-courses/find-program/engineering-graphics-technician-certificate",
+    "lat": 48.49049,
+    "lon": -123.41881,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "Okanagan College",
+    "country": "Canada",
+    "city": "Kelowna",
+    "programs": [
+      "AutoCAD Skills Certificate",
+      "Civil Engineering Technology — Diploma"
+    ],
+    "programLinks": [
+      "https://www.okanagancollege.ca/programs/autocad-skills-certificate",
+      "https://www.okanagancollege.ca/programs/civil-engineering-technology-diploma"
+    ],
+    "accreditation": [],
+    "language": "English",
+    "mode": "Full-time / Part-time",
+    "delivery": "In person",
+    "cost": "6,802 - 36,095",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "CAD/CAM",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.okanagancollege.ca/programs/autocad-skills-certificate",
+    "lat": 49.86182,
+    "lon": -119.48125,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "Vancouver Community College (VCC)",
+    "country": "Canada",
+    "city": "Vancouver",
+    "programs": [
+      "CAD and BIM — Diploma"
+    ],
+    "programLinks": [
+      "https://www.vcc.ca/programs/cad-and-bim--diploma/"
+    ],
+    "accreditation": [],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "3,085 - 21,300",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Architecture",
+      "Structural Engineering",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Architecture",
+      "Structural Engineering",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.vcc.ca/programs/cad-and-bim--diploma/",
+    "lat": 49.26473,
+    "lon": -123.08037,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "Kwantlen Polytechnic University (KPU)",
+    "country": "Canada",
+    "city": "Surrey",
+    "programs": [
+      "Computer-Aided Design & Drafting (CADD) — Diploma"
+    ],
+    "programLinks": [
+      "https://calendar.kpu.ca/programs-az/science/computer-aided-design-drafting/computer-aided-design-drafting-diploma/"
+    ],
+    "accreditation": [],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "4,000 - 17,500",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "CAD/CAM",
+      "BIM",
+      "BIM Software",
+      "Energy Performance",
+      "Architecture",
+      "Structural Engineering"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "BIM",
+      "BIM Software",
+      "Energy Performance"
+    ],
+    "domains": [
+      "Architecture",
+      "Structural Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://calendar.kpu.ca/programs-az/science/computer-aided-design-drafting/computer-aided-design-drafting-diploma/",
+    "lat": 49.19068,
+    "lon": -122.84834,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "Vancouver Island University (VIU)",
+    "country": "Canada",
+    "city": "Nanaimo",
+    "programs": [
+      "Advanced Diploma in Geographical Information Systems (GIS) Applications"
+    ],
+    "programLinks": [
+      "https://www.viu.ca/programs/arts-humanities-social-sciences/advanced-diploma-geographical-information-systems-gis"
+    ],
+    "accreditation": [],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "4,500 - 20,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "GIS & BIM Integration",
+      "3D Modeling & Scanning",
+      "Data Management"
+    ],
+    "computingTopics": [
+      "GIS & BIM Integration",
+      "3D Modeling & Scanning",
+      "Data Management"
+    ],
+    "domains": [],
+    "verificationLevel": 2,
+    "website": "https://www.viu.ca/programs/arts-humanities-social-sciences/advanced-diploma-geographical-information-systems-gis",
+    "lat": 49.15789,
+    "lon": -123.96564,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "University of the Fraser Valley (UFV)",
+    "country": "Canada",
+    "city": "Abbotsford",
+    "programs": [
+      "Architectural Drafting — Certificate"
+    ],
+    "programLinks": [
+      "https://www.ufv.ca/drafting/"
+    ],
+    "accreditation": [],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "4,500 - 18,500",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "CAD/CAM",
+      "Digital Design",
+      "Architecture",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "Digital Design"
+    ],
+    "domains": [
+      "Architecture",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.ufv.ca/drafting/",
+    "lat": 49.02834,
+    "lon": -122.28491,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "College of New Caledonia (CNC)",
+    "country": "Canada",
+    "city": "Prince George",
+    "programs": [
+      "Civil Engineering Technology — Diploma"
+    ],
+    "programLinks": [
+      "https://cnc.bc.ca/programs-courses/programs/detail/civil-engineering-technology"
+    ],
+    "accreditation": [],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "4,500 - 16,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Civil Engineering",
+      "Construction Management",
+      "Infrastructure Engineering"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management",
+      "Infrastructure Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://cnc.bc.ca/programs-courses/programs/detail/civil-engineering-technology",
+    "lat": 53.90541,
+    "lon": -122.78444,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
   }
 ]
