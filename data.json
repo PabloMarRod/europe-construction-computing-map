@@ -18198,5 +18198,3031 @@
     "lastChecked": "2026-07-23",
     "region": "North America",
     "costCurrency": "CAD"
+  },
+  {
+    "name": "University of Toronto",
+    "country": "Canada",
+    "city": "Toronto",
+    "programs": [
+      "Honours BA Architectural Studies",
+      "Master of Architecture (MArch)",
+      "MEng Civil Engineering",
+      "PhD Civil Engineering"
+    ],
+    "programLinks": [
+      "https://daniels.calendar.utoronto.ca/section/Architectural-Studies",
+      "https://www.sgs.utoronto.ca/programs/architecture/",
+      "https://civmin.utoronto.ca/home/programs/graduate-programs/meng/",
+      "https://civmin.utoronto.ca/home/programs/graduate-programs/research-programs/"
+    ],
+    "accreditation": [],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "6,100 - 60,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "Parametric & Generative Design",
+      "Digital Fabrication",
+      "BIM",
+      "Digital Construction",
+      "AI & Machine Learning",
+      "Construction Informatics",
+      "Architecture",
+      "Civil Engineering",
+      "Construction Management",
+      "Structural Engineering"
+    ],
+    "computingTopics": [
+      "Parametric & Generative Design",
+      "Digital Fabrication",
+      "BIM",
+      "Digital Construction",
+      "AI & Machine Learning",
+      "Construction Informatics"
+    ],
+    "domains": [
+      "Architecture",
+      "Civil Engineering",
+      "Construction Management",
+      "Structural Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://daniels.calendar.utoronto.ca/section/Architectural-Studies",
+    "lat": 43.66081,
+    "lon": -79.39603,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "University of Waterloo",
+    "country": "Canada",
+    "city": "Waterloo",
+    "programs": [
+      "Bachelor of Architectural Studies (BAS)",
+      "Architectural Engineering — BASc",
+      "Ph.D. Civil Engineering"
+    ],
+    "programLinks": [
+      "https://uwaterloo.ca/architecture/bachelor-architectural-studies-bas/",
+      "https://uwaterloo.ca/architectural-engineering/",
+      "https://uwaterloo.ca/future-graduate-students/programs/by-faculty/engineering/civil-engineering-doctor-philosophy-phd"
+    ],
+    "accreditation": [],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "7,000 - 62,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "BIM",
+      "Parametric & Generative Design",
+      "Architecture",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "BIM",
+      "Parametric & Generative Design"
+    ],
+    "domains": [
+      "Architecture",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://uwaterloo.ca/architecture/bachelor-architectural-studies-bas/",
+    "lat": 43.4702,
+    "lon": -80.54524,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "Toronto Metropolitan University (TMU)",
+    "country": "Canada",
+    "city": "Toronto",
+    "programs": [
+      "Bachelor of Architectural Science (BArchSci)",
+      "Building Science — MASc / MBSc / PhD"
+    ],
+    "programLinks": [
+      "https://www.torontomu.ca/programs/undergraduate/architectural-science/",
+      "https://www.torontomu.ca/graduate/programs/building-science/"
+    ],
+    "accreditation": [],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "8,000 - 36,500",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "Energy Performance",
+      "Digital Construction",
+      "Architecture",
+      "Construction Management",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "Energy Performance",
+      "Digital Construction"
+    ],
+    "domains": [
+      "Architecture",
+      "Construction Management",
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.torontomu.ca/programs/undergraduate/architectural-science/",
+    "lat": 43.65853,
+    "lon": -79.37847,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "Carleton University",
+    "country": "Canada",
+    "city": "Ottawa",
+    "programs": [
+      "Bachelor of Architectural Studies",
+      "Architectural Conservation & Sustainability Engineering — BEng",
+      "Civil & Environmental Engineering — BEng",
+      "Ph.D. Civil & Environmental Engineering"
+    ],
+    "programLinks": [
+      "https://calendar.carleton.ca/undergrad/undergradprograms/architecturalstudies/",
+      "https://admissions.carleton.ca/programs/architectural-conservation-and-sustainability-engineering/",
+      "https://admissions.carleton.ca/programs/civil-engineering/",
+      "https://carleton.ca/cee/graduate-studies/"
+    ],
+    "accreditation": [],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "8,000 - 42,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "BIM",
+      "Heritage BIM",
+      "Digital Construction",
+      "Parametric & Generative Design",
+      "Energy Performance",
+      "Architecture",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Heritage BIM",
+      "Digital Construction",
+      "Parametric & Generative Design",
+      "Energy Performance"
+    ],
+    "domains": [
+      "Architecture",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://calendar.carleton.ca/undergrad/undergradprograms/architecturalstudies/",
+    "lat": 45.38586,
+    "lon": -75.695,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "McMaster University",
+    "country": "Canada",
+    "city": "Hamilton",
+    "programs": [
+      "MEng Civil Engineering",
+      "MASc Civil Engineering",
+      "PhD Civil Engineering"
+    ],
+    "programLinks": [
+      "https://www.eng.mcmaster.ca/civil/degree-options/civil-engineering-meng/",
+      "https://www.eng.mcmaster.ca/civil/degree-options/civil-engineering-masc/",
+      "https://www.eng.mcmaster.ca/civil/degree-options/civil-engineering-phd/"
+    ],
+    "accreditation": [],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "8,000 - 45,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "BIM",
+      "Digital Construction",
+      "AI & Machine Learning",
+      "Robotics & Automation",
+      "Construction Informatics",
+      "Data Management",
+      "Civil Engineering",
+      "Construction Management",
+      "Infrastructure Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Digital Construction",
+      "AI & Machine Learning",
+      "Robotics & Automation",
+      "Construction Informatics",
+      "Data Management"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management",
+      "Infrastructure Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.eng.mcmaster.ca/civil/degree-options/civil-engineering-meng/",
+    "lat": 43.26394,
+    "lon": -79.91783,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "Western University",
+    "country": "Canada",
+    "city": "London",
+    "programs": [
+      "MEng / MESc Civil & Environmental Engineering",
+      "PhD Civil & Environmental Engineering"
+    ],
+    "programLinks": [
+      "https://www.eng.uwo.ca/civil/graduate/index.html",
+      "https://www.eng.uwo.ca/civil/graduate/index.html"
+    ],
+    "accreditation": [],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "8,000 - 45,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "BIM",
+      "GIS & BIM Integration",
+      "Energy Performance",
+      "Digital Construction",
+      "Data Management",
+      "Civil Engineering",
+      "Construction Management",
+      "Infrastructure Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "GIS & BIM Integration",
+      "Energy Performance",
+      "Digital Construction",
+      "Data Management"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management",
+      "Infrastructure Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.eng.uwo.ca/civil/graduate/index.html",
+    "lat": 43.00542,
+    "lon": -81.2748,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "Laurentian University",
+    "country": "Canada",
+    "city": "Sudbury",
+    "programs": [
+      "Bachelor of Architectural Studies (BAS)",
+      "Master of Architecture (MArch)"
+    ],
+    "programLinks": [
+      "https://laurentian.ca/program/architecture",
+      "https://laurentian.ca/faculty/mcewen-school-of-architecture"
+    ],
+    "accreditation": [],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "6,500 - 28,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "Digital Fabrication",
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Parametric & Generative Design",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "Digital Fabrication",
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Parametric & Generative Design"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://laurentian.ca/program/architecture",
+    "lat": 46.46664,
+    "lon": -80.97387,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "York University — Lassonde School of Engineering",
+    "country": "Canada",
+    "city": "Toronto",
+    "programs": [
+      "BEng Civil Engineering",
+      "MASc / PhD Civil Engineering"
+    ],
+    "programLinks": [
+      "https://lassonde.yorku.ca/academics/civil-engineering",
+      "https://lassonde.yorku.ca/academics/graduate-program-in-civil-engineering"
+    ],
+    "accreditation": [],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "8,000 - 35,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "GIS & BIM Integration",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "GIS & BIM Integration"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://lassonde.yorku.ca/academics/civil-engineering",
+    "lat": 43.77433,
+    "lon": -79.50027,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "University of Ottawa",
+    "country": "Canada",
+    "city": "Ottawa",
+    "programs": [
+      "BASc Civil Engineering",
+      "Ph.D. Civil Engineering"
+    ],
+    "programLinks": [
+      "https://catalogue.uottawa.ca/en/undergrad/basc-civil-engineering/",
+      "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-civil-engineering/"
+    ],
+    "accreditation": [],
+    "language": "English / French",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "9,500 - 57,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "Construction Informatics",
+      "Digital Construction",
+      "Civil Engineering",
+      "Construction Management",
+      "Infrastructure Engineering",
+      "Structural Engineering"
+    ],
+    "computingTopics": [
+      "Construction Informatics",
+      "Digital Construction"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management",
+      "Infrastructure Engineering",
+      "Structural Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://catalogue.uottawa.ca/en/undergrad/basc-civil-engineering/",
+    "lat": 45.42253,
+    "lon": -75.68339,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "University of Windsor",
+    "country": "Canada",
+    "city": "Windsor",
+    "programs": [
+      "BASc Civil Engineering",
+      "MEng / MASc / PhD Civil & Environmental Engineering"
+    ],
+    "programLinks": [
+      "https://future.uwindsor.ca/program/civil-engineering/",
+      "https://www.uwindsor.ca/engineering/1634/civil-engineering-graduate-courses"
+    ],
+    "accreditation": [],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "8,000 - 38,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "CAD/CAM",
+      "BIM",
+      "BIM Software",
+      "GIS & BIM Integration",
+      "AI & Machine Learning",
+      "Energy Performance",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "BIM",
+      "BIM Software",
+      "GIS & BIM Integration",
+      "AI & Machine Learning",
+      "Energy Performance"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://future.uwindsor.ca/program/civil-engineering/",
+    "lat": 42.30515,
+    "lon": -83.0665,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "Lakehead University",
+    "country": "Canada",
+    "city": "Thunder Bay",
+    "programs": [
+      "BEng Civil Engineering (with embedded Civil Engineering Technology Diploma)",
+      "PhD Civil Engineering"
+    ],
+    "programLinks": [
+      "https://www.lakeheadu.ca/programs/undergraduate-programs/engineering-civil",
+      "https://www.lakeheadu.ca/programs/graduate/programs/doctoral/civil-engineering"
+    ],
+    "accreditation": [],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "7,500 - 34,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Construction Informatics",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Construction Informatics"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.lakeheadu.ca/programs/undergraduate-programs/engineering-civil",
+    "lat": 48.42151,
+    "lon": -89.2589,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "George Brown College (George Brown Polytechnic)",
+    "country": "Canada",
+    "city": "Toronto",
+    "programs": [
+      "Architectural Technology — Advanced Diploma (T109)",
+      "Construction Engineering Technology — Advanced Diploma (T105)",
+      "Building Information Modelling Management — Graduate Certificate (T412)"
+    ],
+    "programLinks": [
+      "https://www.georgebrown.ca/programs/architectural-technology-program-t109",
+      "https://www.georgebrown.ca/programs/construction-engineering-technology-program-t105",
+      "https://www.georgebrown.ca/programs/building-information-modeling-management-program-bim-postgraduate-t412"
+    ],
+    "accreditation": [],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "4,500 - 22,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Digital Construction",
+      "Architecture",
+      "Construction Management",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Digital Construction"
+    ],
+    "domains": [
+      "Architecture",
+      "Construction Management",
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.georgebrown.ca/programs/architectural-technology-program-t109",
+    "lat": 43.65342,
+    "lon": -79.37085,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "Conestoga College",
+    "country": "Canada",
+    "city": "Kitchener",
+    "programs": [
+      "Architecture — Construction Engineering Technology — Diploma",
+      "Civil Engineering Technology — Diploma",
+      "Bachelor of Applied Technology — Architecture (Project & Facility Management)"
+    ],
+    "programLinks": [
+      "https://www.conestogac.on.ca/fulltime/architecture-construction-engineering-technology",
+      "https://www.conestogac.on.ca/fulltime/civil-engineering-technology",
+      "https://www.conestogac.on.ca/fulltime/bachelor-of-applied-technology-honours-architecture-project-and-facility-management"
+    ],
+    "accreditation": [],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "4,500 - 13,750",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Architecture",
+      "Construction Management",
+      "Civil Engineering",
+      "Infrastructure Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Architecture",
+      "Construction Management",
+      "Civil Engineering",
+      "Infrastructure Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.conestogac.on.ca/fulltime/architecture-construction-engineering-technology",
+    "lat": 43.3895,
+    "lon": -80.40808,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "Humber Polytechnic (Humber College)",
+    "country": "Canada",
+    "city": "Toronto",
+    "programs": [
+      "Architectural Technology — Advanced Diploma"
+    ],
+    "programLinks": [
+      "https://humber.ca/explore-programs/programs/architectural-technology"
+    ],
+    "accreditation": [],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "4,500 - 19,600",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Architecture",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Architecture",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://humber.ca/explore-programs/programs/architectural-technology",
+    "lat": 43.7299,
+    "lon": -79.60153,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "Sheridan College",
+    "country": "Canada",
+    "city": "Mississauga",
+    "programs": [
+      "Architectural Technology – Sustainable Design — Advanced Diploma",
+      "Architectural Technician – Sustainable Design — Diploma"
+    ],
+    "programLinks": [
+      "https://www.sheridancollege.ca/programs/architectural-technology",
+      "https://www.sheridancollege.ca/programs/architectural-technician"
+    ],
+    "accreditation": [],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "4,500 - 18,500",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Architecture",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Architecture",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.sheridancollege.ca/programs/architectural-technology",
+    "lat": 43.589,
+    "lon": -79.6441,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "Mohawk College",
+    "country": "Canada",
+    "city": "Hamilton",
+    "programs": [
+      "Architectural Technology — Advanced Diploma (531)",
+      "Civil Engineering Technology — Advanced Diploma (534)"
+    ],
+    "programLinks": [
+      "https://www.mohawkcollege.ca/programs/technology/architectural-technology-531",
+      "https://www.mohawkcollege.ca/programs/technology/civil-engineering-technology-534"
+    ],
+    "accreditation": [],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "4,500 - 17,900",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Architecture",
+      "Construction Management",
+      "Civil Engineering",
+      "Infrastructure Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Architecture",
+      "Construction Management",
+      "Civil Engineering",
+      "Infrastructure Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.mohawkcollege.ca/programs/technology/architectural-technology-531",
+    "lat": 43.23852,
+    "lon": -79.88814,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "Algonquin College",
+    "country": "Canada",
+    "city": "Ottawa",
+    "programs": [
+      "Architectural Technology — Advanced Diploma",
+      "Civil Engineering Technology — Advanced Diploma"
+    ],
+    "programLinks": [
+      "https://www.algonquincollege.com/acce/program/architectural-technology/",
+      "https://www.algonquincollege.com/acce/program/civil-engineering-technology/"
+    ],
+    "accreditation": [],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "4,500 - 17,900",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Architecture",
+      "Construction Management",
+      "Civil Engineering",
+      "Infrastructure Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Architecture",
+      "Construction Management",
+      "Civil Engineering",
+      "Infrastructure Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.algonquincollege.com/acce/program/architectural-technology/",
+    "lat": 45.34952,
+    "lon": -75.75572,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "Fanshawe College",
+    "country": "Canada",
+    "city": "London",
+    "programs": [
+      "Architectural Technology — Advanced Diploma",
+      "Civil Engineering Technology — Advanced Diploma"
+    ],
+    "programLinks": [
+      "https://www.fanshawec.ca/programs/aty1-architectural-technology",
+      "https://www.fanshawec.ca/programs/cey2-civil-engineering-technology"
+    ],
+    "accreditation": [],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "4,500 - 17,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Architecture",
+      "Construction Management",
+      "Civil Engineering",
+      "Infrastructure Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Architecture",
+      "Construction Management",
+      "Civil Engineering",
+      "Infrastructure Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.fanshawec.ca/programs/aty1-architectural-technology",
+    "lat": 43.01366,
+    "lon": -81.2013,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "Confederation College",
+    "country": "Canada",
+    "city": "Thunder Bay",
+    "programs": [
+      "Civil Engineering Technology — Advanced Diploma"
+    ],
+    "programLinks": [
+      "https://www.confederationcollege.ca/program/civil-engineering-technology"
+    ],
+    "accreditation": [],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "4,000 - 16,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "CAD/CAM",
+      "BIM",
+      "GIS & BIM Integration",
+      "3D Modeling & Scanning",
+      "Civil Engineering",
+      "Construction Management",
+      "Infrastructure Engineering"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "BIM",
+      "GIS & BIM Integration",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management",
+      "Infrastructure Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.confederationcollege.ca/program/civil-engineering-technology",
+    "lat": 48.40231,
+    "lon": -89.2672,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "Centennial College",
+    "country": "Canada",
+    "city": "Toronto",
+    "programs": [
+      "Architectural Technology — Advanced Diploma",
+      "Architectural Technician — Diploma"
+    ],
+    "programLinks": [
+      "https://www.centennialcollege.ca/programs-courses/full-time/architectural-technology",
+      "https://www.centennialcollege.ca/programs-courses/full-time/architectural-technician"
+    ],
+    "accreditation": [],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "4,500 - 17,500",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "CAD/CAM",
+      "BIM",
+      "3D Modeling & Scanning",
+      "Energy Performance",
+      "Architecture",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "BIM",
+      "3D Modeling & Scanning",
+      "Energy Performance"
+    ],
+    "domains": [
+      "Architecture",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.centennialcollege.ca/programs-courses/full-time/architectural-technology",
+    "lat": 43.7854,
+    "lon": -79.2265,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "Seneca Polytechnic",
+    "country": "Canada",
+    "city": "Toronto",
+    "programs": [
+      "Civil Engineering Technology — Advanced Diploma"
+    ],
+    "programLinks": [
+      "https://www.senecapolytechnic.ca/programs/fulltime/CVT.html"
+    ],
+    "accreditation": [],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person / Online",
+    "cost": "4,500 - 15,200",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "CAD/CAM",
+      "GIS & BIM Integration",
+      "3D Modeling & Scanning",
+      "Civil Engineering",
+      "Construction Management",
+      "Infrastructure Engineering"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "GIS & BIM Integration",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management",
+      "Infrastructure Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.senecapolytechnic.ca/programs/fulltime/CVT.html",
+    "lat": 43.7955,
+    "lon": -79.3496,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "Durham College",
+    "country": "Canada",
+    "city": "Oshawa",
+    "programs": [
+      "Architectural Technology — Advanced Diploma"
+    ],
+    "programLinks": [
+      "https://durhamcollege.ca/programs/architectural-technology"
+    ],
+    "accreditation": [],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "4,000 - 15,300",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "CAD/CAM",
+      "BIM",
+      "3D Modeling & Scanning",
+      "Energy Performance",
+      "Architecture",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "BIM",
+      "3D Modeling & Scanning",
+      "Energy Performance"
+    ],
+    "domains": [
+      "Architecture",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://durhamcollege.ca/programs/architectural-technology",
+    "lat": 43.94505,
+    "lon": -78.89613,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "St. Lawrence College",
+    "country": "Canada",
+    "city": "Kingston",
+    "programs": [
+      "Civil Engineering Technology — Advanced Diploma"
+    ],
+    "programLinks": [
+      "https://www.stlawrencecollege.ca/programs/civil-engineering-technology/full-time/kingston"
+    ],
+    "accreditation": [],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "4,000 - 15,500",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "CAD/CAM",
+      "GIS & BIM Integration",
+      "3D Modeling & Scanning",
+      "Civil Engineering",
+      "Construction Management",
+      "Infrastructure Engineering",
+      "Structural Engineering"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "GIS & BIM Integration",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management",
+      "Infrastructure Engineering",
+      "Structural Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.stlawrencecollege.ca/programs/civil-engineering-technology/full-time/kingston",
+    "lat": 44.2233,
+    "lon": -76.527,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "Georgian College",
+    "country": "Canada",
+    "city": "Barrie",
+    "programs": [
+      "Architectural Technology — Advanced Diploma",
+      "Civil Engineering Technology — Advanced Diploma"
+    ],
+    "programLinks": [
+      "https://www.georgiancollege.ca/academics/programs/architectural-technology/",
+      "https://www.georgiancollege.ca/academics/programs/civil-engineering-technology/"
+    ],
+    "accreditation": [],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "4,000 - 16,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Digital Fabrication",
+      "Architecture",
+      "Construction Management",
+      "Civil Engineering",
+      "Infrastructure Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Digital Fabrication"
+    ],
+    "domains": [
+      "Architecture",
+      "Construction Management",
+      "Civil Engineering",
+      "Infrastructure Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.georgiancollege.ca/academics/programs/architectural-technology/",
+    "lat": 44.3894,
+    "lon": -79.6903,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "Niagara College",
+    "country": "Canada",
+    "city": "Welland",
+    "programs": [
+      "Construction Engineering Technology — Advanced Diploma",
+      "Civil Engineering Technician — Diploma"
+    ],
+    "programLinks": [
+      "https://www.niagaracollege.ca/technology/program/construction-engineering-technology/",
+      "https://www.niagaracollege.ca/technology/program/civil-engineering/"
+    ],
+    "accreditation": [],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "4,000 - 18,900",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Architecture",
+      "Civil Engineering",
+      "Construction Management",
+      "Structural Engineering",
+      "Infrastructure Engineering"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Architecture",
+      "Civil Engineering",
+      "Construction Management",
+      "Structural Engineering",
+      "Infrastructure Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.niagaracollege.ca/technology/program/construction-engineering-technology/",
+    "lat": 43.01537,
+    "lon": -79.26508,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "Loyalist College",
+    "country": "Canada",
+    "city": "Belleville",
+    "programs": [
+      "Civil Engineering Technician — Diploma"
+    ],
+    "programLinks": [
+      "https://loyalistcollege.com/program/civil-engineering-technician/"
+    ],
+    "accreditation": [],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "4,000 - 16,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "CAD/CAM",
+      "GIS & BIM Integration",
+      "3D Modeling & Scanning",
+      "Civil Engineering",
+      "Construction Management",
+      "Infrastructure Engineering"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "GIS & BIM Integration",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management",
+      "Infrastructure Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://loyalistcollege.com/program/civil-engineering-technician/",
+    "lat": 44.15719,
+    "lon": -77.43026,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "Cambrian College",
+    "country": "Canada",
+    "city": "Sudbury",
+    "programs": [
+      "Civil Engineering Technology — Advanced Diploma"
+    ],
+    "programLinks": [
+      "https://cambriancollege.ca/programs/civil-engineering-technology"
+    ],
+    "accreditation": [],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "4,000 - 20,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "CAD/CAM",
+      "GIS & BIM Integration",
+      "3D Modeling & Scanning",
+      "Civil Engineering",
+      "Construction Management",
+      "Infrastructure Engineering",
+      "Structural Engineering"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "GIS & BIM Integration",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management",
+      "Infrastructure Engineering",
+      "Structural Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://cambriancollege.ca/programs/civil-engineering-technology",
+    "lat": 46.52935,
+    "lon": -80.94071,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "Fleming College",
+    "country": "Canada",
+    "city": "Lindsay",
+    "programs": [
+      "Geographic Information Systems – Applications Specialist — Graduate Certificate",
+      "Geographic Information Systems – Cartographic Specialist — Graduate Certificate"
+    ],
+    "programLinks": [
+      "https://flemingcollege.ca/programs/geographic-information-systems-applications-specialist",
+      "https://flemingcollege.ca/programs/geographic-information-systems-cartographic-specialist"
+    ],
+    "accreditation": [],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person / Online",
+    "cost": "4,500 - 17,300",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "GIS & BIM Integration",
+      "3D Modeling & Scanning",
+      "Data Management",
+      "Infrastructure Engineering"
+    ],
+    "computingTopics": [
+      "GIS & BIM Integration",
+      "3D Modeling & Scanning",
+      "Data Management"
+    ],
+    "domains": [
+      "Infrastructure Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://flemingcollege.ca/programs/geographic-information-systems-applications-specialist",
+    "lat": 44.33991,
+    "lon": -78.74097,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "Sault College",
+    "country": "Canada",
+    "city": "Sault Ste. Marie",
+    "programs": [
+      "Civil Engineering Technician — Diploma"
+    ],
+    "programLinks": [
+      "https://www.saultcollege.ca/programs/engineering-technology/civil-engineering-technician"
+    ],
+    "accreditation": [],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "4,000 - 17,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Civil Engineering",
+      "Construction Management",
+      "Infrastructure Engineering",
+      "Structural Engineering"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management",
+      "Infrastructure Engineering",
+      "Structural Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.saultcollege.ca/programs/engineering-technology/civil-engineering-technician",
+    "lat": 46.53254,
+    "lon": -84.3115,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "Northern College",
+    "country": "Canada",
+    "city": "Timmins",
+    "programs": [
+      "Construction Engineering Technician — Diploma"
+    ],
+    "programLinks": [
+      "https://www.northerncollege.ca/program/construction-engineering-technician/"
+    ],
+    "accreditation": [],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "4,000 - 16,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Architecture",
+      "Civil Engineering",
+      "Construction Management",
+      "Structural Engineering"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Architecture",
+      "Civil Engineering",
+      "Construction Management",
+      "Structural Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.northerncollege.ca/program/construction-engineering-technician/",
+    "lat": 48.48778,
+    "lon": -81.19901,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "Concordia University",
+    "country": "Canada",
+    "city": "Montreal",
+    "programs": [
+      "Building Engineering — BEng",
+      "MEng Building, Civil, Construction Engineering & Management",
+      "Civil Engineering — BEng / MASc / PhD"
+    ],
+    "programLinks": [
+      "https://www.concordia.ca/academics/undergraduate/building-engineering.html",
+      "https://www.concordia.ca/academics/graduate/building-engineering-meng.html",
+      "https://www.concordia.ca/ginacody/building-civil-environmental-eng/programs/civil-eng.html"
+    ],
+    "accreditation": [],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "4,000 - 32,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "Digital Construction",
+      "AI & Machine Learning",
+      "Robotics & Automation",
+      "Energy Performance",
+      "Architecture",
+      "Civil Engineering",
+      "Construction Management",
+      "Structural Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "Digital Construction",
+      "AI & Machine Learning",
+      "Robotics & Automation",
+      "Energy Performance"
+    ],
+    "domains": [
+      "Architecture",
+      "Civil Engineering",
+      "Construction Management",
+      "Structural Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.concordia.ca/academics/undergraduate/building-engineering.html",
+    "lat": 45.4973,
+    "lon": -73.5789,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "McGill University",
+    "country": "Canada",
+    "city": "Montreal",
+    "programs": [
+      "Bachelor of Science (Architecture) — B.Sc.(Arch.)",
+      "Professional Master of Architecture — M.Arch",
+      "Ph.D. Civil Engineering"
+    ],
+    "programLinks": [
+      "https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/architecture/",
+      "https://coursecatalogue.mcgill.ca/en/graduate/engineering/architecture/",
+      "https://www.mcgill.ca/civil/grad"
+    ],
+    "accreditation": [],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "3,000 - 45,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "CAD/CAM",
+      "Parametric & Generative Design",
+      "Digital Fabrication",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "Parametric & Generative Design",
+      "Digital Fabrication"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/architecture/",
+    "lat": 45.5053,
+    "lon": -73.5758,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "École de technologie supérieure (ÉTS)",
+    "country": "Canada",
+    "city": "Montreal",
+    "programs": [
+      "Baccalauréat en génie de la construction",
+      "Maîtrise en génie de la construction",
+      "DESS en BIM et innovations numériques",
+      "Doctorat en génie (génie de la construction)"
+    ],
+    "programLinks": [
+      "https://www.etsmtl.ca/programmes-formations/baccalaureat-genie-construction",
+      "https://www.etsmtl.ca/programmes-formations/maitrise-genie-construction",
+      "https://www.etsmtl.ca/etudes/deuxieme-cycle/dess-BIM-innovations-numeriques",
+      "https://www.etsmtl.ca/etudes/troisieme-cycle"
+    ],
+    "accreditation": [],
+    "language": "French",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "3,500 - 30,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Digital Construction",
+      "Construction Informatics",
+      "Data Management",
+      "Civil Engineering",
+      "Construction Management",
+      "Infrastructure Engineering",
+      "Structural Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Digital Construction",
+      "Construction Informatics",
+      "Data Management"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management",
+      "Infrastructure Engineering",
+      "Structural Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.etsmtl.ca/programmes-formations/baccalaureat-genie-construction",
+    "lat": 45.49452,
+    "lon": -73.56286,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "Université Laval",
+    "country": "Canada",
+    "city": "Quebec City",
+    "programs": [
+      "Baccalauréat en architecture",
+      "Maîtrise en architecture",
+      "Doctorat en génie civil"
+    ],
+    "programLinks": [
+      "https://www.ulaval.ca/etudes/programmes/baccalaureat-en-architecture",
+      "https://www.ulaval.ca/etudes/programmes/maitrise-en-architecture",
+      "https://www.ulaval.ca/etudes/programmes/doctorat-en-genie-civil"
+    ],
+    "accreditation": [],
+    "language": "French",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "3,000 - 25,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "Parametric & Generative Design",
+      "Digital Fabrication",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM",
+      "Parametric & Generative Design",
+      "Digital Fabrication"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.ulaval.ca/etudes/programmes/baccalaureat-en-architecture",
+    "lat": 46.78117,
+    "lon": -71.27414,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "Université de Montréal",
+    "country": "Canada",
+    "city": "Montreal",
+    "programs": [
+      "Baccalauréat en sciences, Architecture (B.Sc.)",
+      "Maîtrise en architecture (M.Arch.)",
+      "Doctorat en aménagement"
+    ],
+    "programLinks": [
+      "https://architecture.umontreal.ca/programmes-et-cours/baccalaureat-en-sciences-architecture/",
+      "https://architecture.umontreal.ca/programmes-et-cours/maitrise-en-architecture/",
+      "https://admission.umontreal.ca/programmes/doctorat-en-amenagement/"
+    ],
+    "accreditation": [],
+    "language": "French",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "3,000 - 27,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "Parametric & Generative Design",
+      "Digital Fabrication",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM",
+      "Parametric & Generative Design",
+      "Digital Fabrication"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://architecture.umontreal.ca/programmes-et-cours/baccalaureat-en-sciences-architecture/",
+    "lat": 45.5044,
+    "lon": -73.6178,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "Polytechnique Montréal",
+    "country": "Canada",
+    "city": "Montreal",
+    "programs": [
+      "Baccalauréat en génie civil",
+      "Maîtrise et doctorat en génie civil"
+    ],
+    "programLinks": [
+      "https://www.polymtl.ca/programmes/programmes/baccalaureat-en-genie-civil",
+      "https://www.polymtl.ca/programmes/programmes/maitrise-en-genie-civil"
+    ],
+    "accreditation": [],
+    "language": "French",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "3,500 - 30,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "CAD/CAM",
+      "GIS & BIM Integration",
+      "3D Modeling & Scanning",
+      "Construction Informatics",
+      "Civil Engineering",
+      "Construction Management",
+      "Structural Engineering",
+      "Infrastructure Engineering"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "GIS & BIM Integration",
+      "3D Modeling & Scanning",
+      "Construction Informatics"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management",
+      "Structural Engineering",
+      "Infrastructure Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.polymtl.ca/programmes/programmes/baccalaureat-en-genie-civil",
+    "lat": 45.5045,
+    "lon": -73.6131,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "Université de Sherbrooke",
+    "country": "Canada",
+    "city": "Sherbrooke",
+    "programs": [
+      "Baccalauréat en génie du bâtiment",
+      "Baccalauréat en génie civil",
+      "Doctorat en génie civil"
+    ],
+    "programLinks": [
+      "https://www.usherbrooke.ca/admission/programme/258/baccalaureat-en-genie-du-batiment/",
+      "https://www.usherbrooke.ca/admission/programme/213/baccalaureat-en-genie-civil/",
+      "https://www.usherbrooke.ca/admission/programme/709/doctorat-en-genie-civil/"
+    ],
+    "accreditation": [],
+    "language": "French",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "3,000 - 30,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "Energy Performance",
+      "Construction Informatics",
+      "3D Modeling & Scanning",
+      "Civil Engineering",
+      "Construction Management",
+      "Structural Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "Energy Performance",
+      "Construction Informatics",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management",
+      "Structural Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.usherbrooke.ca/admission/programme/258/baccalaureat-en-genie-du-batiment/",
+    "lat": 45.37677,
+    "lon": -71.94027,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "Université du Québec à Montréal (UQAM)",
+    "country": "Canada",
+    "city": "Montreal",
+    "programs": [
+      "Baccalauréat en design de l'environnement"
+    ],
+    "programLinks": [
+      "https://etudier.uqam.ca/programme/baccalaureat-design-environnement"
+    ],
+    "accreditation": [],
+    "language": "French",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "3,000 - 27,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "CAD/CAM",
+      "Digital Fabrication",
+      "3D Modeling & Scanning",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "Digital Fabrication",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://etudier.uqam.ca/programme/baccalaureat-design-environnement",
+    "lat": 45.5088,
+    "lon": -73.5617,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "Vanier College",
+    "country": "Canada",
+    "city": "Montreal",
+    "programs": [
+      "Architectural Technology — DEC"
+    ],
+    "programLinks": [
+      "https://www.vaniercollege.qc.ca/programs/career/architectural-technology"
+    ],
+    "accreditation": [],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "500 - 17,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "CAD/CAM",
+      "BIM",
+      "3D Modeling & Scanning",
+      "Architecture",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "BIM",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Architecture",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.vaniercollege.qc.ca/programs/career/architectural-technology",
+    "lat": 45.515,
+    "lon": -73.6756,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "Cégep du Vieux Montréal",
+    "country": "Canada",
+    "city": "Montreal",
+    "programs": [
+      "Technologie de l'architecture — DEC",
+      "AEC Coordination de maquettes numériques (BIM)"
+    ],
+    "programLinks": [
+      "https://www.cvm.qc.ca/programme/technologie-architecture/",
+      "https://www.cvm.qc.ca/formation/coordination-maquettes-numeriques-bim-eec-3a/"
+    ],
+    "accreditation": [],
+    "language": "French",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "500 - 16,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Architecture",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Architecture",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.cvm.qc.ca/programme/technologie-architecture/",
+    "lat": 45.51454,
+    "lon": -73.56662,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "Cégep Limoilou",
+    "country": "Canada",
+    "city": "Quebec City",
+    "programs": [
+      "Certification collégiale en génie civil (formation continue)",
+      "Technologie du BIM (perfectionnement)"
+    ],
+    "programLinks": [
+      "https://www.cegeplimoilou.ca/formation-continue/certification-collegiale-genie-civil/",
+      "https://www.cegeplimoilou.ca/formations/perfectionnements/technologie-du-bim/"
+    ],
+    "accreditation": [],
+    "language": "French",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "500 - 16,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "CAD/CAM",
+      "BIM",
+      "BIM Software",
+      "3D Modeling & Scanning",
+      "Civil Engineering",
+      "Construction Management",
+      "Infrastructure Engineering"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "BIM",
+      "BIM Software",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management",
+      "Infrastructure Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.cegeplimoilou.ca/formation-continue/certification-collegiale-genie-civil/",
+    "lat": 46.8226,
+    "lon": -71.2265,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "Cégep de Trois-Rivières",
+    "country": "Canada",
+    "city": "Trois-Rivières",
+    "programs": [
+      "Technologie de l'architecture — DEC",
+      "Technologie du génie civil — DEC"
+    ],
+    "programLinks": [
+      "https://www.cegeptr.qc.ca/cours-cegep/programmes-techniques/architecture-technologie/",
+      "https://www.cegeptr.qc.ca/cours-cegep/programmes-techniques/genie-civil/"
+    ],
+    "accreditation": [],
+    "language": "French",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "500 - 16,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Architecture",
+      "Civil Engineering",
+      "Construction Management",
+      "Infrastructure Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Architecture",
+      "Civil Engineering",
+      "Construction Management",
+      "Infrastructure Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.cegeptr.qc.ca/cours-cegep/programmes-techniques/architecture-technologie/",
+    "lat": 46.35838,
+    "lon": -72.56862,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "Cégep André-Laurendeau",
+    "country": "Canada",
+    "city": "LaSalle (Montreal)",
+    "programs": [
+      "Technologie de l'architecture — DEC"
+    ],
+    "programLinks": [
+      "https://claurendeau.qc.ca/programmes/explorez-nos-programmes/technologie-de-larchitecture"
+    ],
+    "accreditation": [],
+    "language": "French",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "500 - 16,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Architecture",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Architecture",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://claurendeau.qc.ca/programmes/explorez-nos-programmes/technologie-de-larchitecture",
+    "lat": 45.4362,
+    "lon": -73.60544,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "Cégep de Saint-Laurent",
+    "country": "Canada",
+    "city": "Montreal",
+    "programs": [
+      "Technologie de l'architecture — DEC"
+    ],
+    "programLinks": [
+      "https://www.cegepsl.qc.ca/programmes/technologie-de-larchitecture/"
+    ],
+    "accreditation": [],
+    "language": "French",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "500 - 16,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Architecture",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Architecture",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.cegepsl.qc.ca/programmes/technologie-de-larchitecture/",
+    "lat": 45.51358,
+    "lon": -73.67137,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "Cégep régional de Lanaudière à Joliette",
+    "country": "Canada",
+    "city": "Joliette",
+    "programs": [
+      "Technologie du génie civil — DEC"
+    ],
+    "programLinks": [
+      "https://cegep-lanaudiere.qc.ca/programme/joliette/technologie-du-genie-civil/"
+    ],
+    "accreditation": [],
+    "language": "French",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "500 - 16,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Civil Engineering",
+      "Construction Management",
+      "Infrastructure Engineering",
+      "Structural Engineering"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management",
+      "Infrastructure Engineering",
+      "Structural Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://cegep-lanaudiere.qc.ca/programme/joliette/technologie-du-genie-civil/",
+    "lat": 46.02643,
+    "lon": -73.43647,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "Collège Ahuntsic",
+    "country": "Canada",
+    "city": "Montreal",
+    "programs": [
+      "Technologie du génie civil — DEC"
+    ],
+    "programLinks": [
+      "https://www.collegeahuntsic.qc.ca/programmes-dec/techniques/technologie-du-genie-civil"
+    ],
+    "accreditation": [],
+    "language": "French",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "500 - 16,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Civil Engineering",
+      "Construction Management",
+      "Infrastructure Engineering",
+      "Structural Engineering"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management",
+      "Infrastructure Engineering",
+      "Structural Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.collegeahuntsic.qc.ca/programmes-dec/techniques/technologie-du-genie-civil",
+    "lat": 45.55223,
+    "lon": -73.6421,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "Cégep de Saint-Hyacinthe",
+    "country": "Canada",
+    "city": "Saint-Hyacinthe",
+    "programs": [
+      "Technologie du génie civil — DEC",
+      "Technologie du génie du bâtiment (Mécanique du bâtiment) — DEC"
+    ],
+    "programLinks": [
+      "https://www.cegepsth.qc.ca/programmes/technologie-du-genie-civil/",
+      "https://www.cegepsth.qc.ca/programmes/technologie-du-genie-du-batiment/"
+    ],
+    "accreditation": [],
+    "language": "French",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "500 - 16,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Energy Performance",
+      "Civil Engineering",
+      "Construction Management",
+      "Infrastructure Engineering",
+      "Structural Engineering"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Energy Performance"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management",
+      "Infrastructure Engineering",
+      "Structural Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.cegepsth.qc.ca/programmes/technologie-du-genie-civil/",
+    "lat": 45.61853,
+    "lon": -72.97641,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "Cégep de Chicoutimi",
+    "country": "Canada",
+    "city": "Saguenay",
+    "programs": [
+      "Technologie du génie civil — DEC"
+    ],
+    "programLinks": [
+      "https://cchic.ca/programmes/technologie-du-genie-civil/"
+    ],
+    "accreditation": [],
+    "language": "French",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "500 - 16,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Civil Engineering",
+      "Construction Management",
+      "Infrastructure Engineering",
+      "Structural Engineering"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management",
+      "Infrastructure Engineering",
+      "Structural Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://cchic.ca/programmes/technologie-du-genie-civil/",
+    "lat": 48.42423,
+    "lon": -71.05356,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "Cégep de l'Outaouais",
+    "country": "Canada",
+    "city": "Gatineau",
+    "programs": [
+      "Technologie de l'architecture — DEC",
+      "Technologie du génie civil — DEC"
+    ],
+    "programLinks": [
+      "https://cegepoutaouais.qc.ca/programmes/programmes-techniques/genie-et-batiment/architecture/",
+      "https://cegepoutaouais.qc.ca/programmes/programmes-techniques/genie-et-batiment/genie-civil/"
+    ],
+    "accreditation": [],
+    "language": "French",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "500 - 16,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Energy Performance",
+      "Architecture",
+      "Civil Engineering",
+      "Construction Management",
+      "Infrastructure Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Energy Performance"
+    ],
+    "domains": [
+      "Architecture",
+      "Civil Engineering",
+      "Construction Management",
+      "Infrastructure Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://cegepoutaouais.qc.ca/programmes/programmes-techniques/genie-et-batiment/architecture/",
+    "lat": 45.45768,
+    "lon": -75.76663,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "Cégep de Rimouski",
+    "country": "Canada",
+    "city": "Rimouski",
+    "programs": [
+      "Technologie de l'architecture — DEC",
+      "Technologie du génie civil — DEC"
+    ],
+    "programLinks": [
+      "https://www.cegep-rimouski.qc.ca/programme/technologie-de-larchitecture",
+      "https://www.cegep-rimouski.qc.ca/programme/technologie-du-genie-civil"
+    ],
+    "accreditation": [],
+    "language": "French",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "500 - 16,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Digital Fabrication",
+      "Architecture",
+      "Civil Engineering",
+      "Construction Management",
+      "Infrastructure Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Digital Fabrication"
+    ],
+    "domains": [
+      "Architecture",
+      "Civil Engineering",
+      "Construction Management",
+      "Infrastructure Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.cegep-rimouski.qc.ca/programme/technologie-de-larchitecture",
+    "lat": 48.4494,
+    "lon": -68.524,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "Cégep Beauce-Appalaches",
+    "country": "Canada",
+    "city": "Saint-Georges",
+    "programs": [
+      "Technologie du génie civil — DEC"
+    ],
+    "programLinks": [
+      "https://cegepba.qc.ca/programmes/genie-civil-saint-georges/"
+    ],
+    "accreditation": [],
+    "language": "French",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "500 - 16,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Civil Engineering",
+      "Construction Management",
+      "Infrastructure Engineering",
+      "Structural Engineering"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management",
+      "Infrastructure Engineering",
+      "Structural Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://cegepba.qc.ca/programmes/genie-civil-saint-georges/",
+    "lat": 46.115,
+    "lon": -70.667,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "Cégep Saint-Jean-sur-Richelieu",
+    "country": "Canada",
+    "city": "Saint-Jean-sur-Richelieu",
+    "programs": [
+      "Technologie de l'architecture — DEC"
+    ],
+    "programLinks": [
+      "https://www.cstjean.qc.ca/programmes-detudes/techniques/technologie-de-larchitecture"
+    ],
+    "accreditation": [],
+    "language": "French",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "500 - 16,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Architecture",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Architecture",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.cstjean.qc.ca/programmes-detudes/techniques/technologie-de-larchitecture",
+    "lat": 45.29746,
+    "lon": -73.26985,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "Cégep de l'Abitibi-Témiscamingue",
+    "country": "Canada",
+    "city": "Rouyn-Noranda",
+    "programs": [
+      "Technologie de l'architecture — DEC",
+      "Technologie du génie civil — DEC"
+    ],
+    "programLinks": [
+      "https://www.cegepat.qc.ca/programmes-etudes/physique/technologie-architecture/",
+      "https://www.cegepat.qc.ca/programmes-etudes/physique/technologie-genie-civil/"
+    ],
+    "accreditation": [],
+    "language": "French",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "500 - 16,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Architecture",
+      "Construction Management",
+      "Civil Engineering",
+      "Infrastructure Engineering",
+      "Structural Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Architecture",
+      "Construction Management",
+      "Civil Engineering",
+      "Infrastructure Engineering",
+      "Structural Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.cegepat.qc.ca/programmes-etudes/physique/technologie-architecture/",
+    "lat": 48.22912,
+    "lon": -79.00732,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "Cégep de Jonquière",
+    "country": "Canada",
+    "city": "Saguenay",
+    "programs": [
+      "Technologie du génie du bâtiment — DEC"
+    ],
+    "programLinks": [
+      "https://www.cegepjonquiere.ca/genie-du-batiment.html"
+    ],
+    "accreditation": [],
+    "language": "French",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "500 - 16,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Energy Performance",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Energy Performance"
+    ],
+    "domains": [
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.cegepjonquiere.ca/genie-du-batiment.html",
+    "lat": 48.406,
+    "lon": -71.2478,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "Cégep de Baie-Comeau",
+    "country": "Canada",
+    "city": "Baie-Comeau",
+    "programs": [
+      "Technologie du génie civil : construction durable — DEC"
+    ],
+    "programLinks": [
+      "https://cegepbc.ca/futurs-etudiants/programmes/techniques/genie-civil/"
+    ],
+    "accreditation": [],
+    "language": "French",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "500 - 16,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Civil Engineering",
+      "Construction Management",
+      "Infrastructure Engineering",
+      "Structural Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management",
+      "Infrastructure Engineering",
+      "Structural Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://cegepbc.ca/futurs-etudiants/programmes/techniques/genie-civil/",
+    "lat": 49.18655,
+    "lon": -68.26181,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "University of New Brunswick",
+    "country": "Canada",
+    "city": "Fredericton",
+    "programs": [
+      "B.Sc.E. Geomatics Engineering",
+      "B.Sc.E. Civil Engineering",
+      "Advanced Methods of Construction — Graduate Certificate",
+      "Ph.D. Geodesy & Geomatics Engineering",
+      "Ph.D. Civil Engineering (Off-site Construction Research Centre)"
+    ],
+    "programLinks": [
+      "https://www.unb.ca/academics/calendar/undergraduate/current/frederictonprograms/bachelorofscienceinengineering/geomaticsengineering.html",
+      "https://www.unb.ca/fredericton/engineering/depts/civil/undergrad.html",
+      "https://www.unb.ca/ocrc/advanced-methods-construction.html",
+      "https://www.unb.ca/fredericton/engineering/depts/gge/index.html",
+      "https://www.unb.ca/fredericton/engineering/depts/civil/"
+    ],
+    "accreditation": [],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "9,000 - 21,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "BIM",
+      "GIS & BIM Integration",
+      "Digital Construction",
+      "Digital Fabrication",
+      "Robotics & Automation",
+      "AI & Machine Learning",
+      "VR/AR",
+      "3D Modeling & Scanning",
+      "CAD/CAM",
+      "Construction Informatics",
+      "Data Management",
+      "Civil Engineering",
+      "Construction Management",
+      "Construction Engineering",
+      "Infrastructure Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "GIS & BIM Integration",
+      "Digital Construction",
+      "Digital Fabrication",
+      "Robotics & Automation",
+      "AI & Machine Learning",
+      "VR/AR",
+      "3D Modeling & Scanning",
+      "CAD/CAM",
+      "Construction Informatics",
+      "Data Management"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management",
+      "Construction Engineering",
+      "Infrastructure Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.unb.ca/academics/calendar/undergraduate/current/frederictonprograms/bachelorofscienceinengineering/geomaticsengineering.html",
+    "lat": 45.9463,
+    "lon": -66.6414,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "Dalhousie University",
+    "country": "Canada",
+    "city": "Halifax",
+    "programs": [
+      "Bachelor of Environmental Design Studies (BEDS)",
+      "Master of Architecture (M.Arch)"
+    ],
+    "programLinks": [
+      "https://www.dal.ca/faculty/architecture-planning/school-of-architecture/programs/beds-march-program.html",
+      "https://www.dal.ca/faculty/architecture-planning/school-of-architecture/programs/graduate-programs.html"
+    ],
+    "accreditation": [
+      "CACB"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "9,700 - 26,500",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Digital Design",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Digital Design"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.dal.ca/faculty/architecture-planning/school-of-architecture/programs/beds-march-program.html",
+    "lat": 44.6366,
+    "lon": -63.5854,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "College of the North Atlantic",
+    "country": "Canada",
+    "city": "St. John's",
+    "programs": [
+      "Architectural Engineering Technology — Diploma",
+      "Civil Engineering Technology — Diploma",
+      "Geographic Information Systems (GIS) Applications Specialist"
+    ],
+    "programLinks": [
+      "https://www.cna.nl.ca/program/architectural-engineering-technology",
+      "https://www.cna.nl.ca/program/civil-engineering-technology",
+      "https://www.cna.nl.ca/program/geographic-information-systems-gis-applications-specialist"
+    ],
+    "accreditation": [],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "3,000 - 10,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "GIS & BIM Integration",
+      "Architecture",
+      "Civil Engineering",
+      "Construction Management",
+      "Infrastructure Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "GIS & BIM Integration"
+    ],
+    "domains": [
+      "Architecture",
+      "Civil Engineering",
+      "Construction Management",
+      "Infrastructure Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.cna.nl.ca/program/architectural-engineering-technology",
+    "lat": 47.5726,
+    "lon": -52.7318,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "Nova Scotia Community College (NSCC)",
+    "country": "Canada",
+    "city": "Halifax",
+    "programs": [
+      "Architectural Engineering Technician — Diploma"
+    ],
+    "programLinks": [
+      "https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx?prg=AETE&pln=ARCHENGTCN"
+    ],
+    "accreditation": [
+      "Technology Accreditation Canada"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "4,000 - 11,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Architecture",
+      "Construction Management",
+      "Structural Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Architecture",
+      "Construction Management",
+      "Structural Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.nscc.ca/programs-and-courses/programs/plandescr.aspx?prg=AETE&pln=ARCHENGTCN",
+    "lat": 44.67029,
+    "lon": -63.61443,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "New Brunswick Community College (NBCC)",
+    "country": "Canada",
+    "city": "Moncton",
+    "programs": [
+      "Building Engineering Technology (Architectural) — Diploma"
+    ],
+    "programLinks": [
+      "https://nbcc.ca/programs-courses/program-details?baseCurriculumId=eb31fbc0-e4a0-43b9-a843-c3097a69fc0e"
+    ],
+    "accreditation": [],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "3,400 - 10,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Architecture",
+      "Construction Management",
+      "Structural Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Architecture",
+      "Construction Management",
+      "Structural Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://nbcc.ca/programs-courses/program-details?baseCurriculumId=eb31fbc0-e4a0-43b9-a843-c3097a69fc0e",
+    "lat": 46.10797,
+    "lon": -64.82827,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "Collège communautaire du Nouveau-Brunswick (CCNB)",
+    "country": "Canada",
+    "city": "Dieppe",
+    "programs": [
+      "Technologie du génie civil — général (coop)"
+    ],
+    "programLinks": [
+      "https://ccnb.ca/programme-detudes/nos-programmes.aspx?SectorId=&ObjectType=1&Id=68dfa13d-eb9c-4adb-9e9f-bb33f3a2cea0"
+    ],
+    "accreditation": [],
+    "language": "French",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "3,000 - 9,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Civil Engineering",
+      "Construction Management",
+      "Infrastructure Engineering",
+      "Structural Engineering"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management",
+      "Infrastructure Engineering",
+      "Structural Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://ccnb.ca/programme-detudes/nos-programmes.aspx?SectorId=&ObjectType=1&Id=68dfa13d-eb9c-4adb-9e9f-bb33f3a2cea0",
+    "lat": 46.09979,
+    "lon": -64.73894,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
+  },
+  {
+    "name": "Holland College",
+    "country": "Canada",
+    "city": "Charlottetown",
+    "programs": [
+      "Architectural Technology — Diploma"
+    ],
+    "programLinks": [
+      "https://www.hollandcollege.com/programs/architectural-technology.php"
+    ],
+    "accreditation": [],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "3,800 - 9,600",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Architecture",
+      "Construction Management",
+      "Structural Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Architecture",
+      "Construction Management",
+      "Structural Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.hollandcollege.com/programs/architectural-technology.php",
+    "lat": 46.24271,
+    "lon": -63.11747,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-23",
+    "region": "North America",
+    "costCurrency": "CAD"
   }
 ]
