@@ -21963,7 +21963,7 @@
       "Maestría en Gerencia de Proyectos BIM"
     ],
     "programLinks": [
-      "https://www.ucuenca.edu.ec/wp-content/uploads/2024/05/BCR021.pdf"
+      "https://www.ucuenca.edu.ec/posgrado/maestria-en-gerencia-de-proyectos-bim/"
     ],
     "accreditation": [],
     "language": "Spanish",
@@ -21990,7 +21990,7 @@
       "Civil Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.ucuenca.edu.ec/wp-content/uploads/2024/05/BCR021.pdf",
+    "website": "https://www.ucuenca.edu.ec/posgrado/maestria-en-gerencia-de-proyectos-bim/",
     "lat": -2.86812,
     "lon": -78.97992,
     "geoSource": "nominatim:name+city",
@@ -22012,7 +22012,7 @@
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "1,360",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
@@ -22091,37 +22091,41 @@
     "country": "Ecuador",
     "city": "Loja",
     "programs": [
-      "Diplomado en Gestor de Proyecto BIM AEC (Arquitectura, Ingeniería y Construcción)"
+      "Tecnología Superior en Modelado BIM para la Industria de la Construcción"
     ],
     "programLinks": [
-      "https://formacionpermanente.utpl.edu.ec/"
+      "https://utpl.edu.ec/tecnologia-modelado-bim"
     ],
     "accreditation": [],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "Online",
-    "cost": null,
+    "cost": "300",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
     "topics": [
       "BIM",
       "BIM Software",
-      "Construction Management",
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Construction Informatics",
       "Architecture",
       "Civil Engineering"
     ],
     "computingTopics": [
       "BIM",
-      "BIM Software"
+      "BIM Software",
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Construction Informatics"
     ],
     "domains": [
-      "Construction Management",
       "Architecture",
       "Civil Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://formacionpermanente.utpl.edu.ec/",
+    "website": "https://utpl.edu.ec/tecnologia-modelado-bim",
     "lat": -3.98687,
     "lon": -79.19794,
     "geoSource": "nominatim:name+city",
