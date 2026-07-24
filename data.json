@@ -21236,5 +21236,633 @@
     "lastChecked": "2026-07-23",
     "region": "North America",
     "costCurrency": "CAD"
+  },
+  {
+    "name": "Pontificia Universidad Católica del Perú (PUCP)",
+    "country": "Peru",
+    "city": "Lima",
+    "programs": [
+      "Ingeniería Civil",
+      "Maestría en Ingeniería Civil",
+      "Doctorado en Ingeniería"
+    ],
+    "programLinks": [
+      "https://facultad-ciencias-ingenieria.pucp.edu.pe/carreras/ingenieria-civil/plan-de-estudios/",
+      "https://posgrado.pucp.edu.pe/maestria/ingenieria-civil/",
+      "https://posgrado.pucp.edu.pe/doctorado/ingenieria/"
+    ],
+    "accreditation": [],
+    "language": "Spanish",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "25,000 - 45,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Construction Informatics",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Construction Informatics"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Structural Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://facultad-ciencias-ingenieria.pucp.edu.pe/carreras/ingenieria-civil/plan-de-estudios/",
+    "lat": -12.06917,
+    "lon": -77.07993,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-24",
+    "region": "South America",
+    "costCurrency": "PEN"
+  },
+  {
+    "name": "Universidad Nacional de Ingeniería (UNI)",
+    "country": "Peru",
+    "city": "Lima",
+    "programs": [
+      "Ingeniería Civil",
+      "Maestría / Doctorado en Ingeniería Civil"
+    ],
+    "programLinks": [
+      "https://fic.uni.edu.pe/",
+      "https://posgrado.uni.edu.pe/"
+    ],
+    "accreditation": [],
+    "language": "Spanish",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "500 - 3,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Construction Informatics",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Construction Informatics"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://fic.uni.edu.pe/",
+    "lat": -12.0233,
+    "lon": -77.0489,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-24",
+    "region": "South America",
+    "costCurrency": "PEN"
+  },
+  {
+    "name": "Universidad Peruana de Ciencias Aplicadas (UPC)",
+    "country": "Peru",
+    "city": "Lima",
+    "programs": [
+      "Ingeniería Civil",
+      "Programa Especializado en BIM Management",
+      "Programa Especializado en Modelamiento BIM para Edificaciones"
+    ],
+    "programLinks": [
+      "https://pregrado.upc.edu.pe/carrera-de-ingenieria-civil/malla-curricular/",
+      "https://postgrado.upc.edu.pe/landings/programas-especializados/construccion-y-proyectos/bim-management/",
+      "https://postgrado.upc.edu.pe/landings/programas-especializados/construccion-y-proyectos/modelamiento-bim-edificaciones/"
+    ],
+    "accreditation": [],
+    "language": "Spanish",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "20,000 - 40,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Construction Informatics",
+      "Energy Performance",
+      "Civil Engineering",
+      "Construction Management",
+      "Structural Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Construction Informatics",
+      "Energy Performance"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management",
+      "Structural Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://pregrado.upc.edu.pe/carrera-de-ingenieria-civil/malla-curricular/",
+    "lat": -12.10403,
+    "lon": -76.96297,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-24",
+    "region": "South America",
+    "costCurrency": "PEN"
+  },
+  {
+    "name": "Universidad de Lima",
+    "country": "Peru",
+    "city": "Lima",
+    "programs": [
+      "Ingeniería Civil"
+    ],
+    "programLinks": [
+      "https://www.ulima.edu.pe/pregrado/ingenieria-civil"
+    ],
+    "accreditation": [],
+    "language": "Spanish",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "25,000 - 42,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Construction Informatics",
+      "Civil Engineering",
+      "Construction Management",
+      "Structural Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Construction Informatics"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management",
+      "Structural Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.ulima.edu.pe/pregrado/ingenieria-civil",
+    "lat": -12.08553,
+    "lon": -76.9707,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-24",
+    "region": "South America",
+    "costCurrency": "PEN"
+  },
+  {
+    "name": "Universidad Continental",
+    "country": "Peru",
+    "city": "Huancayo",
+    "programs": [
+      "Programa de Especialización en Modelamiento BIM"
+    ],
+    "programLinks": [
+      "https://posgrado.ucontinental.edu.pe/programas/programa-de-especializacion-en-modelamiento-bim/"
+    ],
+    "accreditation": [],
+    "language": "Spanish",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "8,000 - 16,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Construction Management",
+      "Civil Engineering",
+      "Structural Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Construction Management",
+      "Civil Engineering",
+      "Structural Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://posgrado.ucontinental.edu.pe/programas/programa-de-especializacion-en-modelamiento-bim/",
+    "lat": -12.04799,
+    "lon": -75.19868,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-24",
+    "region": "South America",
+    "costCurrency": "PEN"
+  },
+  {
+    "name": "SENCICO (Servicio Nacional de Capacitación para la Industria de la Construcción)",
+    "country": "Peru",
+    "city": "Lima",
+    "programs": [
+      "Profesional Técnico en Dibujo de Arquitectura y Obras Civiles",
+      "Diplomado BIM Manager"
+    ],
+    "programLinks": [
+      "https://www.sencico.gob.pe/publicaciones.php?id=210",
+      "https://cursos.sencico.gob.pe/"
+    ],
+    "accreditation": [],
+    "language": "Spanish",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "1,000 - 4,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Construction Management",
+      "Civil Engineering",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Construction Management",
+      "Civil Engineering",
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.sencico.gob.pe/publicaciones.php?id=210",
+    "lat": -12.08537,
+    "lon": -77.00654,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-24",
+    "region": "South America",
+    "costCurrency": "PEN"
+  },
+  {
+    "name": "Universidad Nacional de San Agustín de Arequipa (UNSA)",
+    "country": "Peru",
+    "city": "Arequipa",
+    "programs": [
+      "Ingeniería Civil"
+    ],
+    "programLinks": [
+      "https://fic.unsa.edu.pe/"
+    ],
+    "accreditation": [],
+    "language": "Spanish",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "500 - 3,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Structural Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://fic.unsa.edu.pe/",
+    "lat": -16.40456,
+    "lon": -71.52473,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-24",
+    "region": "South America",
+    "costCurrency": "PEN"
+  },
+  {
+    "name": "Universidad de San Martín de Porres (USMP)",
+    "country": "Peru",
+    "city": "Lima",
+    "programs": [
+      "Ingeniería Civil"
+    ],
+    "programLinks": [
+      "https://fia.usmp.edu.pe/plan-de-estudios-civil/"
+    ],
+    "accreditation": [],
+    "language": "Spanish",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "15,000 - 28,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "BIM",
+      "GIS & BIM Integration",
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Construction Informatics",
+      "Civil Engineering",
+      "Construction Management",
+      "Structural Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "GIS & BIM Integration",
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Construction Informatics"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management",
+      "Structural Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://fia.usmp.edu.pe/plan-de-estudios-civil/",
+    "lat": -12.04451,
+    "lon": -76.96743,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-24",
+    "region": "South America",
+    "costCurrency": "PEN"
+  },
+  {
+    "name": "Universidad de Piura (UDEP)",
+    "country": "Peru",
+    "city": "Piura",
+    "programs": [
+      "Ingeniería Civil (Facultad de Ingeniería)",
+      "Curso Especialista BIM: Revit Arquitectura"
+    ],
+    "programLinks": [
+      "https://www.udep.edu.pe/ingenieria/",
+      "https://www.udep.edu.pe/ingenieria/programa/curso-especialista-bim-revit-arquitectura/"
+    ],
+    "accreditation": [],
+    "language": "Spanish",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "20,000 - 38,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Civil Engineering",
+      "Architecture",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Architecture",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.udep.edu.pe/ingenieria/",
+    "lat": -5.17299,
+    "lon": -80.63949,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-24",
+    "region": "South America",
+    "costCurrency": "PEN"
+  },
+  {
+    "name": "Universidad Católica San Pablo (UCSP)",
+    "country": "Peru",
+    "city": "Arequipa",
+    "programs": [
+      "Ingeniería Civil",
+      "Modelador BIM – Revit 3D, 4D y 5D"
+    ],
+    "programLinks": [
+      "https://ucsp.edu.pe/carreras/ingenieria-civil/",
+      "https://postgrado.ucsp.edu.pe/cursos/modelador-bim-revit/"
+    ],
+    "accreditation": [],
+    "language": "Spanish",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "12,000 - 28,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Structural Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://ucsp.edu.pe/carreras/ingenieria-civil/",
+    "lat": -16.38959,
+    "lon": -71.53561,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-24",
+    "region": "South America",
+    "costCurrency": "PEN"
+  },
+  {
+    "name": "Universidad Nacional de San Antonio Abad del Cusco (UNSAAC)",
+    "country": "Peru",
+    "city": "Cusco",
+    "programs": [
+      "Ingeniería Civil"
+    ],
+    "programLinks": [
+      "https://ci.unsaac.edu.pe/"
+    ],
+    "accreditation": [],
+    "language": "Spanish",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "500 - 2,500",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "3D Modeling & Scanning",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://ci.unsaac.edu.pe/",
+    "lat": -13.5236,
+    "lon": -71.9491,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-24",
+    "region": "South America",
+    "costCurrency": "PEN"
+  },
+  {
+    "name": "Universidad Privada Antenor Orrego (UPAO)",
+    "country": "Peru",
+    "city": "Trujillo",
+    "programs": [
+      "Ingeniería Civil"
+    ],
+    "programLinks": [
+      "https://upao.edu.pe/facultades/facultad-de-ingenieria/ing-civil/"
+    ],
+    "accreditation": [],
+    "language": "Spanish",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "18,000 - 32,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "CAD/CAM",
+      "GIS & BIM Integration",
+      "3D Modeling & Scanning",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Construction Management",
+      "Infrastructure Engineering"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "GIS & BIM Integration",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Structural Engineering",
+      "Construction Management",
+      "Infrastructure Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://upao.edu.pe/facultades/facultad-de-ingenieria/ing-civil/",
+    "lat": -8.12798,
+    "lon": -79.03234,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-24",
+    "region": "South America",
+    "costCurrency": "PEN"
+  },
+  {
+    "name": "Universidad Ricardo Palma (URP)",
+    "country": "Peru",
+    "city": "Lima",
+    "programs": [
+      "Ingeniería Civil"
+    ],
+    "programLinks": [
+      "https://www.urp.edu.pe/pregrado/facultad-de-ingenieria/ingenieria-civil/"
+    ],
+    "accreditation": [
+      "ABET",
+      "ICACIT"
+    ],
+    "language": "Spanish",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "20,000 - 38,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Construction Management",
+      "Infrastructure Engineering"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Structural Engineering",
+      "Construction Management",
+      "Infrastructure Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.urp.edu.pe/pregrado/facultad-de-ingenieria/ingenieria-civil/",
+    "lat": -12.13228,
+    "lon": -76.9801,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-24",
+    "region": "South America",
+    "costCurrency": "PEN"
   }
 ]
