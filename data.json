@@ -21862,5 +21862,271 @@
     "lastChecked": "2026-07-24",
     "region": "South America",
     "costCurrency": "PEN"
+  },
+  {
+    "name": "Escuela Politécnica Nacional (EPN)",
+    "country": "Ecuador",
+    "city": "Quito",
+    "programs": [
+      "Ingeniería Civil"
+    ],
+    "programLinks": [
+      "https://fica.epn.edu.ec/index.php/oferta-academica/pregrado/27-ingenieria-civil-mencion-estructuras"
+    ],
+    "accreditation": [],
+    "language": "Spanish",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "0",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "CAD/CAM",
+      "Construction Informatics",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "Construction Informatics"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://fica.epn.edu.ec/index.php/oferta-academica/pregrado/27-ingenieria-civil-mencion-estructuras",
+    "lat": -0.21028,
+    "lon": -78.48886,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-24",
+    "region": "South America",
+    "costCurrency": "USD"
+  },
+  {
+    "name": "Escuela Superior Politécnica del Litoral (ESPOL)",
+    "country": "Ecuador",
+    "city": "Guayaquil",
+    "programs": [
+      "Ingeniería Civil"
+    ],
+    "programLinks": [
+      "https://www.fict.espol.edu.ec/en/undergraduate-programs/civil-engineering"
+    ],
+    "accreditation": [],
+    "language": "Spanish",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "0",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.fict.espol.edu.ec/en/undergraduate-programs/civil-engineering",
+    "lat": -2.14771,
+    "lon": -79.96473,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-24",
+    "region": "South America",
+    "costCurrency": "USD"
+  },
+  {
+    "name": "Universidad de Cuenca",
+    "country": "Ecuador",
+    "city": "Cuenca",
+    "programs": [
+      "Maestría en Gerencia de Proyectos BIM"
+    ],
+    "programLinks": [
+      "https://www.ucuenca.edu.ec/wp-content/uploads/2024/05/BCR021.pdf"
+    ],
+    "accreditation": [],
+    "language": "Spanish",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "3,000 - 7,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Construction Management",
+      "Architecture",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Construction Management",
+      "Architecture",
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.ucuenca.edu.ec/wp-content/uploads/2024/05/BCR021.pdf",
+    "lat": -2.86812,
+    "lon": -78.97992,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-24",
+    "region": "South America",
+    "costCurrency": "USD"
+  },
+  {
+    "name": "Universidad San Francisco de Quito (USFQ)",
+    "country": "Ecuador",
+    "city": "Quito",
+    "programs": [
+      "Diplomado en Gerencia Estratégica de Proyectos bajo Protocolos BIM"
+    ],
+    "programLinks": [
+      "https://www.usfq.edu.ec/en/node/10381"
+    ],
+    "accreditation": [],
+    "language": "Spanish",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": null,
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Construction Management",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Construction Management",
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.usfq.edu.ec/en/node/10381",
+    "lat": -0.19686,
+    "lon": -78.43592,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-24",
+    "region": "South America",
+    "costCurrency": "USD"
+  },
+  {
+    "name": "Universidad Central del Ecuador (UCE)",
+    "country": "Ecuador",
+    "city": "Quito",
+    "programs": [
+      "Ingeniería Civil",
+      "Maestría en Ciencias e Ingeniería de la Construcción, Mención Gestión Estratégica de Proyectos BIM"
+    ],
+    "programLinks": [
+      "https://www.uce.edu.ec/web/fing",
+      "https://www.uce.edu.ec/web/fing"
+    ],
+    "accreditation": [],
+    "language": "Spanish",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "0",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Construction Management",
+      "Construction Informatics",
+      "Civil Engineering",
+      "Structural Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Construction Informatics"
+    ],
+    "domains": [
+      "Construction Management",
+      "Civil Engineering",
+      "Structural Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.uce.edu.ec/web/fing",
+    "lat": -0.19999,
+    "lon": -78.50619,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-24",
+    "region": "South America",
+    "costCurrency": "USD"
+  },
+  {
+    "name": "Universidad Técnica Particular de Loja (UTPL)",
+    "country": "Ecuador",
+    "city": "Loja",
+    "programs": [
+      "Diplomado en Gestor de Proyecto BIM AEC (Arquitectura, Ingeniería y Construcción)"
+    ],
+    "programLinks": [
+      "https://formacionpermanente.utpl.edu.ec/"
+    ],
+    "accreditation": [],
+    "language": "Spanish",
+    "mode": "Full-time",
+    "delivery": "Online",
+    "cost": null,
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Construction Management",
+      "Architecture",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Construction Management",
+      "Architecture",
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://formacionpermanente.utpl.edu.ec/",
+    "lat": -3.98687,
+    "lon": -79.19794,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-07-24",
+    "region": "South America",
+    "costCurrency": "USD"
   }
 ]
