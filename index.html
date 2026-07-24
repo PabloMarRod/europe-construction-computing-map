@@ -1987,6 +1987,15 @@
             Array.from(computingTopics).sort().forEach(t => renderTopicFilter(t, computingDiv));
             const domainsDiv = document.getElementById('domainsFilters');
             Array.from(domainTopics).sort().forEach(t => renderTopicFilter(t, domainsDiv));
+
+            // Remember the complete option lists so cascading counts can re-show/hide them
+            window.__allFacets = {
+                regions: sortedRegions,
+                countries: sortedCountries,
+                languages: sortedLanguages,
+                computing: Array.from(computingTopics).sort(),
+                domains: Array.from(domainTopics).sort()
+            };
             
             updateFilterCounts();
         }
@@ -2119,9 +2128,9 @@
         }
         
         // Check if university matches all active filters
-        function matchesFilters(uni) {
+        function matchesFilters(uni, except) {
             // Search term filter
-            if (activeFilters.searchTerm && activeFilters.searchTerm.trim() !== '') {
+            if (except !== 'search' && activeFilters.searchTerm && activeFilters.searchTerm.trim() !== '') {
                 const searchLower = activeFilters.searchTerm.toLowerCase();
                 const nameMatch = uni.name.toLowerCase().includes(searchLower);
                 const cityMatch = uni.city.toLowerCase().includes(searchLower);
@@ -2132,17 +2141,17 @@
             }
             
             // Region filter
-            if (activeFilters.regions.size > 0 && !activeFilters.regions.has(uni.region)) {
+            if (except !== 'region' && activeFilters.regions.size > 0 && !activeFilters.regions.has(uni.region)) {
                 return false;
             }
             
             // Country filter
-            if (activeFilters.countries.size > 0 && !activeFilters.countries.has(uni.country)) {
+            if (except !== 'country' && activeFilters.countries.size > 0 && !activeFilters.countries.has(uni.country)) {
                 return false;
             }
             
             // Language filter
-            if (activeFilters.languages.size > 0) {
+            if (except !== 'language' && activeFilters.languages.size > 0) {
                 const uniLangs = uni.language.split('/').map(l => l.trim());
                 if (!uniLangs.some(lang => activeFilters.languages.has(lang))) {
                     return false;
@@ -2150,18 +2159,18 @@
             }
             
             // Level filter
-            if (activeFilters.levels.size > 0) {
+            if (except !== 'level' && activeFilters.levels.size > 0) {
                 const programsText = uni.programs.join(' ').toLowerCase();
                 let hasLevel = false;
-                if (activeFilters.levels.has('Bachelor') && (programsText.includes('bsc') || programsText.includes('bachelor'))) hasLevel = true;
-                if (activeFilters.levels.has('Master') && (programsText.includes('msc') || programsText.includes('master'))) hasLevel = true;
+                if (activeFilters.levels.has('Bachelor') && (programsText.includes('bsc') || programsText.includes('bachelor') || programsText.includes('licenc'))) hasLevel = true;
+                if (activeFilters.levels.has('Master') && (programsText.includes('msc') || programsText.includes('master') || programsText.includes('magíster') || programsText.includes('magister'))) hasLevel = true;
                 if (activeFilters.levels.has('PhD') && (programsText.includes('phd') || programsText.includes('doctorate'))) hasLevel = true;
                 if (activeFilters.levels.has('Diploma') && programsText.includes('diploma')) hasLevel = true;
                 if (!hasLevel) return false;
             }
             
             // Mode filter
-            if (activeFilters.modes.size > 0) {
+            if (except !== 'mode' && activeFilters.modes.size > 0) {
                 const uniModes = uni.mode.split('/').map(m => m.trim());
                 let hasMode = false;
                 if (activeFilters.modes.has('Full-time') && uniModes.some(m => m.toLowerCase().includes('full'))) hasMode = true;
@@ -2171,23 +2180,23 @@
             }
             
             // Delivery filter
-            if (activeFilters.delivery.size > 0) {
+            if (except !== 'delivery' && activeFilters.delivery.size > 0) {
                 const uniDelivery = uni.delivery.split('/').map(d => d.trim());
                 let hasDelivery = false;
-                if (activeFilters.delivery.has('Presential') && uniDelivery.some(d => d.toLowerCase().includes('presential'))) hasDelivery = true;
+                if (activeFilters.delivery.has('Presential') && uniDelivery.some(d => d.toLowerCase().includes('presential') || d.toLowerCase().includes('in person'))) hasDelivery = true;
                 if (activeFilters.delivery.has('Online') && uniDelivery.some(d => d.toLowerCase().includes('online'))) hasDelivery = true;
                 if (activeFilters.delivery.has('Hybrid') && uniDelivery.some(d => d.toLowerCase().includes('hybrid') || d.toLowerCase().includes('blended'))) hasDelivery = true;
                 if (!hasDelivery) return false;
             }
             
             // Cost filter
-            if (activeFilters.cost.size > 0) {
+            if (except !== 'cost' && activeFilters.cost.size > 0) {
                 const costRange = getCostRange(uni.cost, uni.costCurrency);
                 if (!activeFilters.cost.has(costRange)) return false;
             }
             
             // Topics filter
-            if (activeFilters.topics.size > 0) {
+            if (except !== 'topics' && activeFilters.topics.size > 0) {
                 if (!uni.topics.some(topic => activeFilters.topics.has(topic))) {
                     return false;
                 }
@@ -2200,8 +2209,8 @@
         // Local-currency -> EUR multipliers (indicative, ~Jul 2026) for cost normalisation & display
         const TO_EUR = { EUR:1, GBP:1.183, CHF:1.064, SEK:0.0885, NOK:0.0862, DKK:0.134, ISK:0.00667,
             PLN:0.2353, CZK:0.0403, HUF:0.002532, TRY:0.02083, RON:0.1976, RSD:0.008532, ALL:0.010204,
-            MDL:0.05155, BAM:0.5113, MKD:0.01626, RUB:0.01115, UAH:0.0196, BYN:0.303 };
-        const CUR_SYMBOL = { EUR:'\u20AC', GBP:'\u00A3', USD:'$' };
+            MDL:0.05155, BAM:0.5113, MKD:0.01626, RUB:0.01115, UAH:0.0196, BYN:0.303, CLP:0.00098 };
+        const CUR_SYMBOL = { EUR:'\u20AC', GBP:'\u00A3', USD:'$', CLP:'$' };
 
         // Format a cost string with its currency (symbol prefix for €/£/$, ISO-code suffix otherwise)
         function formatCost(cost, cur) {
@@ -2224,107 +2233,65 @@
         }
         
         // Update filter counts
+        // Recompute every facet's counts against all OTHER active filters (cascading),
+        // then hide options that have no matches under the current selection.
         function updateFilterCounts() {
-            const counts = {
-                regions: {},
-                countries: {},
-                languages: {},
-                levels: { Bachelor: 0, Master: 0, PhD: 0, Diploma: 0 },
-                modes: { 'Full-time': 0, 'Part-time': 0, 'Distance': 0 },
-                delivery: { Presential: 0, Online: 0, Hybrid: 0 },
-                cost: { free: 0, low: 0, medium: 0, high: 0 },
-                topics: {}
+            const F = window.__allFacets || { regions:[], countries:[], languages:[], computing:[], domains:[] };
+            const inc = (a,k) => { if (k !== undefined && k !== null && k !== '') a[k] = (a[k]||0) + 1; };
+            const tally = (dim, fn) => { const acc = {}; universities.forEach(u => { if (matchesFilters(u, dim)) fn(u, acc); }); return acc; };
+
+            const rC  = tally('region',   (u,a)=> inc(a, u.region));
+            const cC  = tally('country',  (u,a)=> inc(a, u.country));
+            const lC  = tally('language', (u,a)=> u.language.split('/').forEach(x=> inc(a, x.trim())));
+            const tC  = tally('topics',   (u,a)=> (u.topics||[]).forEach(t=> inc(a, t)));
+            const lvC = tally('level', (u,a)=>{ const p = u.programs.join(' ').toLowerCase();
+                if (p.includes('bsc')||p.includes('bachelor')||p.includes('licenc')) inc(a,'Bachelor');
+                if (p.includes('msc')||p.includes('master')||p.includes('mag\u00edster')||p.includes('magister')) inc(a,'Master');
+                if (p.includes('phd')||p.includes('doctorate')) inc(a,'PhD');
+                if (p.includes('diploma')) inc(a,'Diploma'); });
+            const mC = tally('mode', (u,a)=>{ const m = u.mode.toLowerCase();
+                if (m.includes('full')) inc(a,'Full-time');
+                if (m.includes('part')) inc(a,'Part-time');
+                if (m.includes('distance')||m.includes('online')) inc(a,'Distance'); });
+            const dC = tally('delivery', (u,a)=>{ const dd = u.delivery.toLowerCase();
+                if (dd.includes('presential')||dd.includes('in person')) inc(a,'Presential');
+                if (dd.includes('online')) inc(a,'Online');
+                if (dd.includes('hybrid')||dd.includes('blended')) inc(a,'Hybrid'); });
+            const coC = tally('cost', (u,a)=> inc(a, getCostRange(u.cost, u.costCurrency)));
+
+            // set count text and show/hide the option (kept visible if currently selected)
+            const setC = (id, n) => {
+                const el = document.getElementById(id);
+                if (!el) return;
+                el.textContent = `(${n||0})`;
+                const opt = el.closest('.filter-option');
+                if (opt) {
+                    const cb = opt.querySelector('input[type="checkbox"]');
+                    opt.style.display = (n > 0 || (cb && cb.checked)) ? '' : 'none';
+                }
             };
-            
-            universities.forEach(uni => {
-                // Count regions
-                if (uni.region) counts.regions[uni.region] = (counts.regions[uni.region] || 0) + 1;
-                
-                // Count countries
-                counts.countries[uni.country] = (counts.countries[uni.country] || 0) + 1;
-                
-                // Count languages
-                uni.language.split('/').forEach(lang => {
-                    const l = lang.trim();
-                    counts.languages[l] = (counts.languages[l] || 0) + 1;
-                });
-                
-                // Count levels
-                const programsText = uni.programs.join(' ').toLowerCase();
-                if (programsText.includes('bsc') || programsText.includes('bachelor')) counts.levels.Bachelor++;
-                if (programsText.includes('msc') || programsText.includes('master')) counts.levels.Master++;
-                if (programsText.includes('phd') || programsText.includes('doctorate')) counts.levels.PhD++;
-                if (programsText.includes('diploma')) counts.levels.Diploma++;
-                
-                // Count modes
-                if (uni.mode.toLowerCase().includes('full')) counts.modes['Full-time']++;
-                if (uni.mode.toLowerCase().includes('part')) counts.modes['Part-time']++;
-                if (uni.mode.toLowerCase().includes('distance') || uni.mode.toLowerCase().includes('online')) counts.modes.Distance++;
-                
-                // Count delivery
-                if (uni.delivery.toLowerCase().includes('presential')) counts.delivery.Presential++;
-                if (uni.delivery.toLowerCase().includes('online')) counts.delivery.Online++;
-                if (uni.delivery.toLowerCase().includes('hybrid') || uni.delivery.toLowerCase().includes('blended')) counts.delivery.Hybrid++;
-                
-                // Count cost ranges
-                const costRange = getCostRange(uni.cost, uni.costCurrency);
-                counts.cost[costRange]++;
-                
-                // Count topics
-                uni.topics.forEach(topic => {
-                    counts.topics[topic] = (counts.topics[topic] || 0) + 1;
-                });
-            });
-            
-            // Update region counts
-            Object.keys(counts.regions).forEach(region => {
-                const id = 'count-region-' + region.replace(/\s+/g, '-').toLowerCase();
-                const el = document.getElementById(id);
-                if (el) el.textContent = `(${counts.regions[region]})`;
-            });
-            
-            // Update country counts
-            Object.keys(counts.countries).forEach(country => {
-                const id = 'count-country-' + country.replace(/\s+/g, '-').toLowerCase();
-                const el = document.getElementById(id);
-                if (el) el.textContent = `(${counts.countries[country]})`;
-            });
-            
-            // Update language counts
-            Object.keys(counts.languages).forEach(lang => {
-                const id = 'count-lang-' + lang.replace(/\s+/g, '-').toLowerCase();
-                const el = document.getElementById(id);
-                if (el) el.textContent = `(${counts.languages[lang]})`;
-            });
-            
-            // Update level counts
-            document.getElementById('count-level-bachelor').textContent = `(${counts.levels.Bachelor})`;
-            document.getElementById('count-level-master').textContent = `(${counts.levels.Master})`;
-            document.getElementById('count-level-phd').textContent = `(${counts.levels.PhD})`;
-            document.getElementById('count-level-diploma').textContent = `(${counts.levels.Diploma})`;
-            
-            // Update mode counts
-            document.getElementById('count-mode-fulltime').textContent = `(${counts.modes['Full-time']})`;
-            document.getElementById('count-mode-parttime').textContent = `(${counts.modes['Part-time']})`;
-            document.getElementById('count-mode-distance').textContent = `(${counts.modes.Distance})`;
-            
-            // Update delivery counts
-            document.getElementById('count-delivery-presential').textContent = `(${counts.delivery.Presential})`;
-            document.getElementById('count-delivery-online').textContent = `(${counts.delivery.Online})`;
-            document.getElementById('count-delivery-hybrid').textContent = `(${counts.delivery.Hybrid})`;
-            
-            // Update cost counts
-            document.getElementById('count-cost-free').textContent = `(${counts.cost.free})`;
-            document.getElementById('count-cost-low').textContent = `(${counts.cost.low})`;
-            document.getElementById('count-cost-medium').textContent = `(${counts.cost.medium})`;
-            document.getElementById('count-cost-high').textContent = `(${counts.cost.high})`;
-            
-            // Update topic counts
-            Object.keys(counts.topics).forEach(topic => {
-                const id = 'count-topic-' + topic.replace(/[\s\(\)\/\-]+/g, '-').toLowerCase();
-                const el = document.getElementById(id);
-                if (el) el.textContent = `(${counts.topics[topic]})`;
-            });
+            const slug  = s => s.replace(/\s+/g, '-').toLowerCase();
+            const tslug = s => s.replace(/[\s\(\)\/\-]+/g, '-').toLowerCase();
+
+            F.regions.forEach(r => setC('count-region-'   + slug(r),  rC[r]||0));
+            F.countries.forEach(c => setC('count-country-' + slug(c),  cC[c]||0));
+            F.languages.forEach(l => setC('count-lang-'    + slug(l),  lC[l]||0));
+            [...F.computing, ...F.domains].forEach(t => setC('count-topic-' + tslug(t), tC[t]||0));
+
+            setC('count-level-bachelor', lvC.Bachelor);
+            setC('count-level-master',   lvC.Master);
+            setC('count-level-phd',      lvC.PhD);
+            setC('count-level-diploma',  lvC.Diploma);
+            setC('count-mode-fulltime',  mC['Full-time']);
+            setC('count-mode-parttime',  mC['Part-time']);
+            setC('count-mode-distance',  mC.Distance);
+            setC('count-delivery-presential', dC.Presential);
+            setC('count-delivery-online',     dC.Online);
+            setC('count-delivery-hybrid',     dC.Hybrid);
+            setC('count-cost-free',   coC.free);
+            setC('count-cost-low',    coC.low);
+            setC('count-cost-medium', coC.medium);
+            setC('count-cost-high',   coC.high);
         }
         
         // Clear all filters
