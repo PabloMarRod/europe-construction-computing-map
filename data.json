@@ -20918,8 +20918,6 @@
       "Digital Construction",
       "Digital Fabrication",
       "Robotics & Automation",
-      "AI & Machine Learning",
-      "VR/AR",
       "3D Modeling & Scanning",
       "CAD/CAM",
       "Construction Informatics",
@@ -20935,8 +20933,6 @@
       "Digital Construction",
       "Digital Fabrication",
       "Robotics & Automation",
-      "AI & Machine Learning",
-      "VR/AR",
       "3D Modeling & Scanning",
       "CAD/CAM",
       "Construction Informatics",
@@ -21294,10 +21290,12 @@
     "city": "Lima",
     "programs": [
       "Ingeniería Civil",
-      "Maestría / Doctorado en Ingeniería Civil"
+      "Maestría en Ingeniería Civil",
+      "Doctorado en Ingeniería Civil"
     ],
     "programLinks": [
       "https://fic.uni.edu.pe/",
+      "https://posgrado.uni.edu.pe/",
       "https://posgrado.uni.edu.pe/"
     ],
     "accreditation": [],
@@ -21735,7 +21733,7 @@
       "Ingeniería Civil"
     ],
     "programLinks": [
-      "https://ci.unsaac.edu.pe/"
+      "https://ci.unsaac.edu.pe/malla-curricular/"
     ],
     "accreditation": [],
     "language": "Spanish",
@@ -21762,7 +21760,7 @@
       "Construction Management"
     ],
     "verificationLevel": 2,
-    "website": "https://ci.unsaac.edu.pe/",
+    "website": "https://ci.unsaac.edu.pe/malla-curricular/",
     "lat": -13.5236,
     "lon": -71.9491,
     "geoSource": "nominatim:name+city",
