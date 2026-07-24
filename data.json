@@ -22638,16 +22638,16 @@
     "country": "Colombia",
     "city": "Bogotá",
     "programs": [
-      "Ingeniería Civil y Ambiental"
+      "Ingeniería Civil"
     ],
     "programLinks": [
-      "https://civilyambiental.uniandes.edu.co/"
+      "https://civilyambiental.uniandes.edu.co/es/pregrado/ingenieria-civil"
     ],
     "accreditation": [],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "53,720,000",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
@@ -22668,7 +22668,7 @@
       "Civil Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://civilyambiental.uniandes.edu.co/",
+    "website": "https://civilyambiental.uniandes.edu.co/es/pregrado/ingenieria-civil",
     "lat": 4.6014,
     "lon": -74.0649,
     "geoSource": "nominatim:name+city",
@@ -22692,7 +22692,7 @@
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "25,716,756",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
@@ -22737,7 +22737,7 @@
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "Online",
-    "cost": null,
+    "cost": "Variable",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
@@ -22913,7 +22913,7 @@
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "21,800,100",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
@@ -22955,14 +22955,14 @@
       "Maestría en Ingeniería Estructural y Procesos Constructivos con Metodología BIM"
     ],
     "programLinks": [
-      "https://facultadingenieriacivil.usta.edu.co/",
+      "https://usantotomas.edu.co/ingenieria-civil",
       "https://usantotomas.edu.co/maestria-en-ingenieria-estructural-y-procesos-constructivos-metodologia-bim"
     ],
     "accreditation": [],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "16,160,000",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
@@ -22995,7 +22995,7 @@
       "Architecture"
     ],
     "verificationLevel": 2,
-    "website": "https://facultadingenieriacivil.usta.edu.co/",
+    "website": "https://usantotomas.edu.co/ingenieria-civil",
     "lat": 4.6413,
     "lon": -74.0637,
     "geoSource": "nominatim:name+address",
@@ -23021,7 +23021,7 @@
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "Variable",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
@@ -23061,14 +23061,14 @@
       "Ingeniería Civil"
     ],
     "programLinks": [
-      "https://posgrados.uis.edu.co/",
+      "https://ingenieriacivil.uis.edu.co/eisi/",
       "https://ingenieriacivil.uis.edu.co/eisi/"
     ],
     "accreditation": [],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "Variable",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
@@ -23115,7 +23115,7 @@
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "22,515,506",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
