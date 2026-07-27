@@ -21903,53 +21903,6 @@
     "costCurrency": "PEN"
   },
   {
-    "name": "SENCICO (Servicio Nacional de Capacitación para la Industria de la Construcción)",
-    "country": "Peru",
-    "city": "Lima",
-    "programs": [
-      "Profesional Técnico en Dibujo de Arquitectura y Obras Civiles",
-      "Diplomado BIM Manager"
-    ],
-    "programLinks": [
-      "https://www.sencico.gob.pe/publicaciones.php?id=210",
-      "https://cursos.sencico.gob.pe/"
-    ],
-    "accreditation": [],
-    "language": "Spanish",
-    "mode": "Full-time",
-    "delivery": "In person",
-    "cost": "1,000 - 4,000",
-    "graduatesPerYear": "Not published",
-    "graduatesEstimated": true,
-    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
-    "topics": [
-      "BIM",
-      "CAD/CAM",
-      "3D Modeling & Scanning",
-      "Construction Management",
-      "Civil Engineering",
-      "Architecture"
-    ],
-    "computingTopics": [
-      "BIM",
-      "CAD/CAM",
-      "3D Modeling & Scanning"
-    ],
-    "domains": [
-      "Construction Management",
-      "Civil Engineering",
-      "Architecture"
-    ],
-    "verificationLevel": 2,
-    "website": "https://www.sencico.gob.pe/publicaciones.php?id=210",
-    "lat": -12.08537,
-    "lon": -77.00654,
-    "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-24",
-    "region": "South America",
-    "costCurrency": "PEN"
-  },
-  {
     "name": "Universidad Nacional de San Agustín de Arequipa (UNSA)",
     "country": "Peru",
     "city": "Arequipa",
@@ -30334,7 +30287,7 @@
     "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national SENA construction catalogue delivered across the regional's centros de formación; intake not published",
+    "graduatesEstimateBasis": "national SENA construction catalogue delivered across the regional's centros de formación; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "CAD/CAM",
       "Construction Management",
@@ -30347,7 +30300,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://oferta.senasofiaplus.edu.co/sofia-oferta/",
     "lat": -4.215,
     "lon": -69.941,
@@ -30373,7 +30326,7 @@
     "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national SENA construction catalogue delivered across the regional's centros de formación; intake not published",
+    "graduatesEstimateBasis": "national SENA construction catalogue delivered across the regional's centros de formación; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "CAD/CAM",
       "Construction Management",
@@ -30386,7 +30339,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://oferta.senasofiaplus.edu.co/sofia-oferta/",
     "lat": 6.244,
     "lon": -75.573,
@@ -30412,7 +30365,7 @@
     "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national SENA construction catalogue delivered across the regional's centros de formación; intake not published",
+    "graduatesEstimateBasis": "national SENA construction catalogue delivered across the regional's centros de formación; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "CAD/CAM",
       "Construction Management",
@@ -30425,7 +30378,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://oferta.senasofiaplus.edu.co/sofia-oferta/",
     "lat": 7.084,
     "lon": -70.759,
@@ -30451,7 +30404,7 @@
     "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national SENA construction catalogue delivered across the regional's centros de formación; intake not published",
+    "graduatesEstimateBasis": "national SENA construction catalogue delivered across the regional's centros de formación; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "CAD/CAM",
       "Construction Management",
@@ -30464,7 +30417,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://oferta.senasofiaplus.edu.co/sofia-oferta/",
     "lat": 10.968,
     "lon": -74.781,
@@ -30490,7 +30443,7 @@
     "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national SENA construction catalogue delivered across the regional's centros de formación; intake not published",
+    "graduatesEstimateBasis": "national SENA construction catalogue delivered across the regional's centros de formación; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "CAD/CAM",
       "Construction Management",
@@ -30503,7 +30456,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://oferta.senasofiaplus.edu.co/sofia-oferta/",
     "lat": 10.391,
     "lon": -75.479,
@@ -30529,7 +30482,7 @@
     "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national SENA construction catalogue delivered across the regional's centros de formación; intake not published",
+    "graduatesEstimateBasis": "national SENA construction catalogue delivered across the regional's centros de formación; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "CAD/CAM",
       "Construction Management",
@@ -30542,7 +30495,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://oferta.senasofiaplus.edu.co/sofia-oferta/",
     "lat": 5.535,
     "lon": -73.368,
@@ -30568,7 +30521,7 @@
     "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national SENA construction catalogue delivered across the regional's centros de formación; intake not published",
+    "graduatesEstimateBasis": "national SENA construction catalogue delivered across the regional's centros de formación; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "CAD/CAM",
       "Construction Management",
@@ -30581,7 +30534,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://oferta.senasofiaplus.edu.co/sofia-oferta/",
     "lat": 5.07,
     "lon": -75.517,
@@ -30607,7 +30560,7 @@
     "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national SENA construction catalogue delivered across the regional's centros de formación; intake not published",
+    "graduatesEstimateBasis": "national SENA construction catalogue delivered across the regional's centros de formación; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "CAD/CAM",
       "Construction Management",
@@ -30620,7 +30573,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://oferta.senasofiaplus.edu.co/sofia-oferta/",
     "lat": 1.614,
     "lon": -75.606,
@@ -30646,7 +30599,7 @@
     "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national SENA construction catalogue delivered across the regional's centros de formación; intake not published",
+    "graduatesEstimateBasis": "national SENA construction catalogue delivered across the regional's centros de formación; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "CAD/CAM",
       "Construction Management",
@@ -30659,7 +30612,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://oferta.senasofiaplus.edu.co/sofia-oferta/",
     "lat": 5.339,
     "lon": -72.395,
@@ -30685,7 +30638,7 @@
     "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national SENA construction catalogue delivered across the regional's centros de formación; intake not published",
+    "graduatesEstimateBasis": "national SENA construction catalogue delivered across the regional's centros de formación; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "CAD/CAM",
       "Construction Management",
@@ -30698,7 +30651,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://oferta.senasofiaplus.edu.co/sofia-oferta/",
     "lat": 2.444,
     "lon": -76.614,
@@ -30724,7 +30677,7 @@
     "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national SENA construction catalogue delivered across the regional's centros de formación; intake not published",
+    "graduatesEstimateBasis": "national SENA construction catalogue delivered across the regional's centros de formación; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "CAD/CAM",
       "Construction Management",
@@ -30737,7 +30690,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://oferta.senasofiaplus.edu.co/sofia-oferta/",
     "lat": 10.463,
     "lon": -73.253,
@@ -30763,7 +30716,7 @@
     "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national SENA construction catalogue delivered across the regional's centros de formación; intake not published",
+    "graduatesEstimateBasis": "national SENA construction catalogue delivered across the regional's centros de formación; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "CAD/CAM",
       "Construction Management",
@@ -30776,7 +30729,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://oferta.senasofiaplus.edu.co/sofia-oferta/",
     "lat": 5.695,
     "lon": -76.658,
@@ -30802,7 +30755,7 @@
     "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national SENA construction catalogue delivered across the regional's centros de formación; intake not published",
+    "graduatesEstimateBasis": "national SENA construction catalogue delivered across the regional's centros de formación; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "CAD/CAM",
       "Construction Management",
@@ -30815,7 +30768,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://oferta.senasofiaplus.edu.co/sofia-oferta/",
     "lat": 8.748,
     "lon": -75.881,
@@ -30841,7 +30794,7 @@
     "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national SENA construction catalogue delivered across the regional's centros de formación; intake not published",
+    "graduatesEstimateBasis": "national SENA construction catalogue delivered across the regional's centros de formación; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "CAD/CAM",
       "Construction Management",
@@ -30854,7 +30807,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://oferta.senasofiaplus.edu.co/sofia-oferta/",
     "lat": 4.336,
     "lon": -74.363,
@@ -30880,7 +30833,7 @@
     "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national SENA construction catalogue delivered across the regional's centros de formación; intake not published",
+    "graduatesEstimateBasis": "national SENA construction catalogue delivered across the regional's centros de formación; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "CAD/CAM",
       "Construction Management",
@@ -30893,7 +30846,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://oferta.senasofiaplus.edu.co/sofia-oferta/",
     "lat": 4.711,
     "lon": -74.072,
@@ -30919,7 +30872,7 @@
     "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national SENA construction catalogue delivered across the regional's centros de formación; intake not published",
+    "graduatesEstimateBasis": "national SENA construction catalogue delivered across the regional's centros de formación; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "CAD/CAM",
       "Construction Management",
@@ -30932,7 +30885,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://oferta.senasofiaplus.edu.co/sofia-oferta/",
     "lat": 3.865,
     "lon": -67.924,
@@ -30958,7 +30911,7 @@
     "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national SENA construction catalogue delivered across the regional's centros de formación; intake not published",
+    "graduatesEstimateBasis": "national SENA construction catalogue delivered across the regional's centros de formación; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "CAD/CAM",
       "Construction Management",
@@ -30971,7 +30924,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://oferta.senasofiaplus.edu.co/sofia-oferta/",
     "lat": 2.566,
     "lon": -72.638,
@@ -30997,7 +30950,7 @@
     "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national SENA construction catalogue delivered across the regional's centros de formación; intake not published",
+    "graduatesEstimateBasis": "national SENA construction catalogue delivered across the regional's centros de formación; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "CAD/CAM",
       "Construction Management",
@@ -31010,7 +30963,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://oferta.senasofiaplus.edu.co/sofia-oferta/",
     "lat": 2.936,
     "lon": -75.281,
@@ -31036,7 +30989,7 @@
     "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national SENA construction catalogue delivered across the regional's centros de formación; intake not published",
+    "graduatesEstimateBasis": "national SENA construction catalogue delivered across the regional's centros de formación; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "CAD/CAM",
       "Construction Management",
@@ -31049,7 +31002,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://oferta.senasofiaplus.edu.co/sofia-oferta/",
     "lat": 11.544,
     "lon": -72.907,
@@ -31075,7 +31028,7 @@
     "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national SENA construction catalogue delivered across the regional's centros de formación; intake not published",
+    "graduatesEstimateBasis": "national SENA construction catalogue delivered across the regional's centros de formación; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "CAD/CAM",
       "Construction Management",
@@ -31088,7 +31041,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://oferta.senasofiaplus.edu.co/sofia-oferta/",
     "lat": 11.241,
     "lon": -74.199,
@@ -31114,7 +31067,7 @@
     "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national SENA construction catalogue delivered across the regional's centros de formación; intake not published",
+    "graduatesEstimateBasis": "national SENA construction catalogue delivered across the regional's centros de formación; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "CAD/CAM",
       "Construction Management",
@@ -31127,7 +31080,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://oferta.senasofiaplus.edu.co/sofia-oferta/",
     "lat": 4.142,
     "lon": -73.626,
@@ -31153,7 +31106,7 @@
     "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national SENA construction catalogue delivered across the regional's centros de formación; intake not published",
+    "graduatesEstimateBasis": "national SENA construction catalogue delivered across the regional's centros de formación; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "CAD/CAM",
       "Construction Management",
@@ -31166,7 +31119,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://oferta.senasofiaplus.edu.co/sofia-oferta/",
     "lat": 1.214,
     "lon": -77.278,
@@ -31192,7 +31145,7 @@
     "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national SENA construction catalogue delivered across the regional's centros de formación; intake not published",
+    "graduatesEstimateBasis": "national SENA construction catalogue delivered across the regional's centros de formación; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "CAD/CAM",
       "Construction Management",
@@ -31205,7 +31158,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://oferta.senasofiaplus.edu.co/sofia-oferta/",
     "lat": 7.894,
     "lon": -72.504,
@@ -31231,7 +31184,7 @@
     "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national SENA construction catalogue delivered across the regional's centros de formación; intake not published",
+    "graduatesEstimateBasis": "national SENA construction catalogue delivered across the regional's centros de formación; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "CAD/CAM",
       "Construction Management",
@@ -31244,7 +31197,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://oferta.senasofiaplus.edu.co/sofia-oferta/",
     "lat": 1.15,
     "lon": -76.647,
@@ -31270,7 +31223,7 @@
     "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national SENA construction catalogue delivered across the regional's centros de formación; intake not published",
+    "graduatesEstimateBasis": "national SENA construction catalogue delivered across the regional's centros de formación; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "CAD/CAM",
       "Construction Management",
@@ -31283,7 +31236,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://oferta.senasofiaplus.edu.co/sofia-oferta/",
     "lat": 4.533,
     "lon": -75.681,
@@ -31309,7 +31262,7 @@
     "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national SENA construction catalogue delivered across the regional's centros de formación; intake not published",
+    "graduatesEstimateBasis": "national SENA construction catalogue delivered across the regional's centros de formación; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "CAD/CAM",
       "Construction Management",
@@ -31322,7 +31275,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://oferta.senasofiaplus.edu.co/sofia-oferta/",
     "lat": 4.813,
     "lon": -75.696,
@@ -31348,7 +31301,7 @@
     "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national SENA construction catalogue delivered across the regional's centros de formación; intake not published",
+    "graduatesEstimateBasis": "national SENA construction catalogue delivered across the regional's centros de formación; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "CAD/CAM",
       "Construction Management",
@@ -31361,7 +31314,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://oferta.senasofiaplus.edu.co/sofia-oferta/",
     "lat": 12.583,
     "lon": -81.7,
@@ -31387,7 +31340,7 @@
     "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national SENA construction catalogue delivered across the regional's centros de formación; intake not published",
+    "graduatesEstimateBasis": "national SENA construction catalogue delivered across the regional's centros de formación; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "CAD/CAM",
       "Construction Management",
@@ -31400,7 +31353,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://oferta.senasofiaplus.edu.co/sofia-oferta/",
     "lat": 7.119,
     "lon": -73.122,
@@ -31426,7 +31379,7 @@
     "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national SENA construction catalogue delivered across the regional's centros de formación; intake not published",
+    "graduatesEstimateBasis": "national SENA construction catalogue delivered across the regional's centros de formación; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "CAD/CAM",
       "Construction Management",
@@ -31439,7 +31392,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://oferta.senasofiaplus.edu.co/sofia-oferta/",
     "lat": 9.304,
     "lon": -75.397,
@@ -31465,7 +31418,7 @@
     "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national SENA construction catalogue delivered across the regional's centros de formación; intake not published",
+    "graduatesEstimateBasis": "national SENA construction catalogue delivered across the regional's centros de formación; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "CAD/CAM",
       "Construction Management",
@@ -31478,7 +31431,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://oferta.senasofiaplus.edu.co/sofia-oferta/",
     "lat": 4.439,
     "lon": -75.232,
@@ -31504,7 +31457,7 @@
     "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national SENA construction catalogue delivered across the regional's centros de formación; intake not published",
+    "graduatesEstimateBasis": "national SENA construction catalogue delivered across the regional's centros de formación; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "CAD/CAM",
       "Construction Management",
@@ -31517,7 +31470,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://oferta.senasofiaplus.edu.co/sofia-oferta/",
     "lat": 3.452,
     "lon": -76.532,
@@ -31543,7 +31496,7 @@
     "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national SENA construction catalogue delivered across the regional's centros de formación; intake not published",
+    "graduatesEstimateBasis": "national SENA construction catalogue delivered across the regional's centros de formación; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "CAD/CAM",
       "Construction Management",
@@ -31556,7 +31509,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://oferta.senasofiaplus.edu.co/sofia-oferta/",
     "lat": 1.253,
     "lon": -70.234,
@@ -31582,7 +31535,7 @@
     "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national SENA construction catalogue delivered across the regional's centros de formación; intake not published",
+    "graduatesEstimateBasis": "national SENA construction catalogue delivered across the regional's centros de formación; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "CAD/CAM",
       "Construction Management",
@@ -31595,7 +31548,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://oferta.senasofiaplus.edu.co/sofia-oferta/",
     "lat": 6.189,
     "lon": -67.486,
@@ -31603,591 +31556,6 @@
     "lastChecked": "2026-07-27",
     "region": "South America",
     "costCurrency": "COP"
-  },
-  {
-    "name": "SENCICO — Sede Lima",
-    "country": "Peru",
-    "city": "Lima",
-    "programs": [
-      "Prof. Técnico en Edificaciones y Obras Civiles / Geodesia y Topografía / Dibujo de Arquitectura (BIM) / Geomática / Administración de Obras"
-    ],
-    "programLinks": [
-      "https://www.gob.pe/sencico"
-    ],
-    "accreditation": [],
-    "language": "Spanish",
-    "mode": "Full-time",
-    "delivery": "In person",
-    "cost": "2,300",
-    "graduatesPerYear": "Not published",
-    "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national SENCICO construction-technician catalogue; monthly fee S/230 annualised x10; intake not published",
-    "topics": [
-      "BIM",
-      "CAD/CAM",
-      "GIS & BIM Integration",
-      "3D Modeling & Scanning",
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "computingTopics": [
-      "BIM",
-      "CAD/CAM",
-      "GIS & BIM Integration",
-      "3D Modeling & Scanning"
-    ],
-    "domains": [
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://www.gob.pe/sencico",
-    "lat": -12.0464,
-    "lon": -77.0428,
-    "geoSource": "manual:city",
-    "lastChecked": "2026-07-27",
-    "region": "South America",
-    "costCurrency": "PEN"
-  },
-  {
-    "name": "SENCICO — Sede Arequipa",
-    "country": "Peru",
-    "city": "Arequipa",
-    "programs": [
-      "Prof. Técnico en Edificaciones y Obras Civiles / Geodesia y Topografía / Dibujo de Arquitectura (BIM) / Geomática / Administración de Obras"
-    ],
-    "programLinks": [
-      "https://www.gob.pe/sencico"
-    ],
-    "accreditation": [],
-    "language": "Spanish",
-    "mode": "Full-time",
-    "delivery": "In person",
-    "cost": "2,300",
-    "graduatesPerYear": "Not published",
-    "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national SENCICO construction-technician catalogue; monthly fee S/230 annualised x10; intake not published",
-    "topics": [
-      "BIM",
-      "CAD/CAM",
-      "GIS & BIM Integration",
-      "3D Modeling & Scanning",
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "computingTopics": [
-      "BIM",
-      "CAD/CAM",
-      "GIS & BIM Integration",
-      "3D Modeling & Scanning"
-    ],
-    "domains": [
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://www.gob.pe/sencico",
-    "lat": -16.409,
-    "lon": -71.5375,
-    "geoSource": "manual:city",
-    "lastChecked": "2026-07-27",
-    "region": "South America",
-    "costCurrency": "PEN"
-  },
-  {
-    "name": "SENCICO — Sede Chiclayo",
-    "country": "Peru",
-    "city": "Chiclayo",
-    "programs": [
-      "Prof. Técnico en Edificaciones y Obras Civiles / Geodesia y Topografía / Dibujo de Arquitectura (BIM) / Geomática / Administración de Obras"
-    ],
-    "programLinks": [
-      "https://www.gob.pe/sencico"
-    ],
-    "accreditation": [],
-    "language": "Spanish",
-    "mode": "Full-time",
-    "delivery": "In person",
-    "cost": "2,300",
-    "graduatesPerYear": "Not published",
-    "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national SENCICO construction-technician catalogue; monthly fee S/230 annualised x10; intake not published",
-    "topics": [
-      "BIM",
-      "CAD/CAM",
-      "GIS & BIM Integration",
-      "3D Modeling & Scanning",
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "computingTopics": [
-      "BIM",
-      "CAD/CAM",
-      "GIS & BIM Integration",
-      "3D Modeling & Scanning"
-    ],
-    "domains": [
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://www.gob.pe/sencico",
-    "lat": -6.7714,
-    "lon": -79.8409,
-    "geoSource": "manual:city",
-    "lastChecked": "2026-07-27",
-    "region": "South America",
-    "costCurrency": "PEN"
-  },
-  {
-    "name": "SENCICO — Sede Cusco",
-    "country": "Peru",
-    "city": "Cusco",
-    "programs": [
-      "Prof. Técnico en Edificaciones y Obras Civiles / Geodesia y Topografía / Dibujo de Arquitectura (BIM) / Geomática / Administración de Obras"
-    ],
-    "programLinks": [
-      "https://www.gob.pe/sencico"
-    ],
-    "accreditation": [],
-    "language": "Spanish",
-    "mode": "Full-time",
-    "delivery": "In person",
-    "cost": "2,300",
-    "graduatesPerYear": "Not published",
-    "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national SENCICO construction-technician catalogue; monthly fee S/230 annualised x10; intake not published",
-    "topics": [
-      "BIM",
-      "CAD/CAM",
-      "GIS & BIM Integration",
-      "3D Modeling & Scanning",
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "computingTopics": [
-      "BIM",
-      "CAD/CAM",
-      "GIS & BIM Integration",
-      "3D Modeling & Scanning"
-    ],
-    "domains": [
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://www.gob.pe/sencico",
-    "lat": -13.5319,
-    "lon": -71.9675,
-    "geoSource": "manual:city",
-    "lastChecked": "2026-07-27",
-    "region": "South America",
-    "costCurrency": "PEN"
-  },
-  {
-    "name": "SENCICO — Sede Piura",
-    "country": "Peru",
-    "city": "Piura",
-    "programs": [
-      "Prof. Técnico en Edificaciones y Obras Civiles / Geodesia y Topografía / Dibujo de Arquitectura (BIM) / Geomática / Administración de Obras"
-    ],
-    "programLinks": [
-      "https://www.gob.pe/sencico"
-    ],
-    "accreditation": [],
-    "language": "Spanish",
-    "mode": "Full-time",
-    "delivery": "In person",
-    "cost": "2,300",
-    "graduatesPerYear": "Not published",
-    "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national SENCICO construction-technician catalogue; monthly fee S/230 annualised x10; intake not published",
-    "topics": [
-      "BIM",
-      "CAD/CAM",
-      "GIS & BIM Integration",
-      "3D Modeling & Scanning",
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "computingTopics": [
-      "BIM",
-      "CAD/CAM",
-      "GIS & BIM Integration",
-      "3D Modeling & Scanning"
-    ],
-    "domains": [
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://www.gob.pe/sencico",
-    "lat": -5.1945,
-    "lon": -80.6328,
-    "geoSource": "manual:city",
-    "lastChecked": "2026-07-27",
-    "region": "South America",
-    "costCurrency": "PEN"
-  },
-  {
-    "name": "SENCICO — Sede Trujillo",
-    "country": "Peru",
-    "city": "Trujillo",
-    "programs": [
-      "Prof. Técnico en Edificaciones y Obras Civiles / Geodesia y Topografía / Dibujo de Arquitectura (BIM) / Geomática / Administración de Obras"
-    ],
-    "programLinks": [
-      "https://www.gob.pe/sencico"
-    ],
-    "accreditation": [],
-    "language": "Spanish",
-    "mode": "Full-time",
-    "delivery": "In person",
-    "cost": "2,300",
-    "graduatesPerYear": "Not published",
-    "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national SENCICO construction-technician catalogue; monthly fee S/230 annualised x10; intake not published",
-    "topics": [
-      "BIM",
-      "CAD/CAM",
-      "GIS & BIM Integration",
-      "3D Modeling & Scanning",
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "computingTopics": [
-      "BIM",
-      "CAD/CAM",
-      "GIS & BIM Integration",
-      "3D Modeling & Scanning"
-    ],
-    "domains": [
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://www.gob.pe/sencico",
-    "lat": -8.109,
-    "lon": -79.0215,
-    "geoSource": "manual:city",
-    "lastChecked": "2026-07-27",
-    "region": "South America",
-    "costCurrency": "PEN"
-  },
-  {
-    "name": "SENCICO — Sede Ayacucho",
-    "country": "Peru",
-    "city": "Ayacucho",
-    "programs": [
-      "Prof. Técnico en Edificaciones y Obras Civiles / Geodesia y Topografía / Dibujo de Arquitectura (BIM) / Geomática / Administración de Obras"
-    ],
-    "programLinks": [
-      "https://www.gob.pe/sencico"
-    ],
-    "accreditation": [],
-    "language": "Spanish",
-    "mode": "Full-time",
-    "delivery": "In person",
-    "cost": "2,300",
-    "graduatesPerYear": "Not published",
-    "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national SENCICO construction-technician catalogue; monthly fee S/230 annualised x10; intake not published",
-    "topics": [
-      "BIM",
-      "CAD/CAM",
-      "GIS & BIM Integration",
-      "3D Modeling & Scanning",
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "computingTopics": [
-      "BIM",
-      "CAD/CAM",
-      "GIS & BIM Integration",
-      "3D Modeling & Scanning"
-    ],
-    "domains": [
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://www.gob.pe/sencico",
-    "lat": -13.1583,
-    "lon": -74.2239,
-    "geoSource": "manual:city",
-    "lastChecked": "2026-07-27",
-    "region": "South America",
-    "costCurrency": "PEN"
-  },
-  {
-    "name": "SENCICO — Sede Tacna",
-    "country": "Peru",
-    "city": "Tacna",
-    "programs": [
-      "Prof. Técnico en Edificaciones y Obras Civiles / Geodesia y Topografía / Dibujo de Arquitectura (BIM) / Geomática / Administración de Obras"
-    ],
-    "programLinks": [
-      "https://www.gob.pe/sencico"
-    ],
-    "accreditation": [],
-    "language": "Spanish",
-    "mode": "Full-time",
-    "delivery": "In person",
-    "cost": "2,300",
-    "graduatesPerYear": "Not published",
-    "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national SENCICO construction-technician catalogue; monthly fee S/230 annualised x10; intake not published",
-    "topics": [
-      "BIM",
-      "CAD/CAM",
-      "GIS & BIM Integration",
-      "3D Modeling & Scanning",
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "computingTopics": [
-      "BIM",
-      "CAD/CAM",
-      "GIS & BIM Integration",
-      "3D Modeling & Scanning"
-    ],
-    "domains": [
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://www.gob.pe/sencico",
-    "lat": -18.0066,
-    "lon": -70.2463,
-    "geoSource": "manual:city",
-    "lastChecked": "2026-07-27",
-    "region": "South America",
-    "costCurrency": "PEN"
-  },
-  {
-    "name": "SENCICO — Sede Huancayo",
-    "country": "Peru",
-    "city": "Huancayo",
-    "programs": [
-      "Prof. Técnico en Edificaciones y Obras Civiles / Geodesia y Topografía / Dibujo de Arquitectura (BIM) / Geomática / Administración de Obras"
-    ],
-    "programLinks": [
-      "https://www.gob.pe/sencico"
-    ],
-    "accreditation": [],
-    "language": "Spanish",
-    "mode": "Full-time",
-    "delivery": "In person",
-    "cost": "2,300",
-    "graduatesPerYear": "Not published",
-    "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national SENCICO construction-technician catalogue; monthly fee S/230 annualised x10; intake not published",
-    "topics": [
-      "BIM",
-      "CAD/CAM",
-      "GIS & BIM Integration",
-      "3D Modeling & Scanning",
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "computingTopics": [
-      "BIM",
-      "CAD/CAM",
-      "GIS & BIM Integration",
-      "3D Modeling & Scanning"
-    ],
-    "domains": [
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://www.gob.pe/sencico",
-    "lat": -12.0686,
-    "lon": -75.2103,
-    "geoSource": "manual:city",
-    "lastChecked": "2026-07-27",
-    "region": "South America",
-    "costCurrency": "PEN"
-  },
-  {
-    "name": "SENCICO — Sede Iquitos",
-    "country": "Peru",
-    "city": "Iquitos",
-    "programs": [
-      "Prof. Técnico en Edificaciones y Obras Civiles / Geodesia y Topografía / Dibujo de Arquitectura (BIM) / Geomática / Administración de Obras"
-    ],
-    "programLinks": [
-      "https://www.gob.pe/sencico"
-    ],
-    "accreditation": [],
-    "language": "Spanish",
-    "mode": "Full-time",
-    "delivery": "In person",
-    "cost": "2,300",
-    "graduatesPerYear": "Not published",
-    "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national SENCICO construction-technician catalogue; monthly fee S/230 annualised x10; intake not published",
-    "topics": [
-      "BIM",
-      "CAD/CAM",
-      "GIS & BIM Integration",
-      "3D Modeling & Scanning",
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "computingTopics": [
-      "BIM",
-      "CAD/CAM",
-      "GIS & BIM Integration",
-      "3D Modeling & Scanning"
-    ],
-    "domains": [
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://www.gob.pe/sencico",
-    "lat": -3.7491,
-    "lon": -73.2538,
-    "geoSource": "manual:city",
-    "lastChecked": "2026-07-27",
-    "region": "South America",
-    "costCurrency": "PEN"
-  },
-  {
-    "name": "SENCICO — Sede Cajamarca",
-    "country": "Peru",
-    "city": "Cajamarca",
-    "programs": [
-      "Prof. Técnico en Edificaciones y Obras Civiles / Geodesia y Topografía / Dibujo de Arquitectura (BIM) / Geomática / Administración de Obras"
-    ],
-    "programLinks": [
-      "https://www.gob.pe/sencico"
-    ],
-    "accreditation": [],
-    "language": "Spanish",
-    "mode": "Full-time",
-    "delivery": "In person",
-    "cost": "2,300",
-    "graduatesPerYear": "Not published",
-    "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national SENCICO construction-technician catalogue; monthly fee S/230 annualised x10; intake not published",
-    "topics": [
-      "BIM",
-      "CAD/CAM",
-      "GIS & BIM Integration",
-      "3D Modeling & Scanning",
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "computingTopics": [
-      "BIM",
-      "CAD/CAM",
-      "GIS & BIM Integration",
-      "3D Modeling & Scanning"
-    ],
-    "domains": [
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://www.gob.pe/sencico",
-    "lat": -7.1638,
-    "lon": -78.5003,
-    "geoSource": "manual:city",
-    "lastChecked": "2026-07-27",
-    "region": "South America",
-    "costCurrency": "PEN"
-  },
-  {
-    "name": "SENCICO — Sede Pucallpa",
-    "country": "Peru",
-    "city": "Pucallpa",
-    "programs": [
-      "Prof. Técnico en Edificaciones y Obras Civiles / Geodesia y Topografía / Dibujo de Arquitectura (BIM) / Geomática / Administración de Obras"
-    ],
-    "programLinks": [
-      "https://www.gob.pe/sencico"
-    ],
-    "accreditation": [],
-    "language": "Spanish",
-    "mode": "Full-time",
-    "delivery": "In person",
-    "cost": "2,300",
-    "graduatesPerYear": "Not published",
-    "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national SENCICO construction-technician catalogue; monthly fee S/230 annualised x10; intake not published",
-    "topics": [
-      "BIM",
-      "CAD/CAM",
-      "GIS & BIM Integration",
-      "3D Modeling & Scanning",
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "computingTopics": [
-      "BIM",
-      "CAD/CAM",
-      "GIS & BIM Integration",
-      "3D Modeling & Scanning"
-    ],
-    "domains": [
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://www.gob.pe/sencico",
-    "lat": -8.3791,
-    "lon": -74.5539,
-    "geoSource": "manual:city",
-    "lastChecked": "2026-07-27",
-    "region": "South America",
-    "costCurrency": "PEN"
-  },
-  {
-    "name": "SENCICO — Sede Puno",
-    "country": "Peru",
-    "city": "Puno",
-    "programs": [
-      "Prof. Técnico en Edificaciones y Obras Civiles / Geodesia y Topografía / Dibujo de Arquitectura (BIM) / Geomática / Administración de Obras"
-    ],
-    "programLinks": [
-      "https://www.gob.pe/sencico"
-    ],
-    "accreditation": [],
-    "language": "Spanish",
-    "mode": "Full-time",
-    "delivery": "In person",
-    "cost": "2,300",
-    "graduatesPerYear": "Not published",
-    "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national SENCICO construction-technician catalogue; monthly fee S/230 annualised x10; intake not published",
-    "topics": [
-      "BIM",
-      "CAD/CAM",
-      "GIS & BIM Integration",
-      "3D Modeling & Scanning",
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "computingTopics": [
-      "BIM",
-      "CAD/CAM",
-      "GIS & BIM Integration",
-      "3D Modeling & Scanning"
-    ],
-    "domains": [
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://www.gob.pe/sencico",
-    "lat": -15.8402,
-    "lon": -70.0219,
-    "geoSource": "manual:city",
-    "lastChecked": "2026-07-27",
-    "region": "South America",
-    "costCurrency": "PEN"
   },
   {
     "name": "SENAI — Acre (Departamento Regional)",
@@ -32206,7 +31574,7 @@
     "cost": null,
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national SENAI construction-training catalogue via the state Departamento Regional; fees vary by course; intake not published",
+    "graduatesEstimateBasis": "national SENAI construction-training catalogue via the state Departamento Regional; fees vary by course; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "BIM",
       "CAD/CAM",
@@ -32221,7 +31589,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://www.senai.br/",
     "lat": -9.975,
     "lon": -67.81,
@@ -32247,7 +31615,7 @@
     "cost": null,
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national SENAI construction-training catalogue via the state Departamento Regional; fees vary by course; intake not published",
+    "graduatesEstimateBasis": "national SENAI construction-training catalogue via the state Departamento Regional; fees vary by course; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "BIM",
       "CAD/CAM",
@@ -32262,7 +31630,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://www.senai.br/",
     "lat": -9.666,
     "lon": -35.735,
@@ -32288,7 +31656,7 @@
     "cost": null,
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national SENAI construction-training catalogue via the state Departamento Regional; fees vary by course; intake not published",
+    "graduatesEstimateBasis": "national SENAI construction-training catalogue via the state Departamento Regional; fees vary by course; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "BIM",
       "CAD/CAM",
@@ -32303,7 +31671,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://www.senai.br/",
     "lat": 0.0349,
     "lon": -51.0694,
@@ -32329,7 +31697,7 @@
     "cost": null,
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national SENAI construction-training catalogue via the state Departamento Regional; fees vary by course; intake not published",
+    "graduatesEstimateBasis": "national SENAI construction-training catalogue via the state Departamento Regional; fees vary by course; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "BIM",
       "CAD/CAM",
@@ -32344,7 +31712,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://www.senai.br/",
     "lat": -3.119,
     "lon": -60.0217,
@@ -32370,7 +31738,7 @@
     "cost": null,
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national SENAI construction-training catalogue via the state Departamento Regional; fees vary by course; intake not published",
+    "graduatesEstimateBasis": "national SENAI construction-training catalogue via the state Departamento Regional; fees vary by course; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "BIM",
       "CAD/CAM",
@@ -32385,7 +31753,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://www.senai.br/",
     "lat": -12.9714,
     "lon": -38.5014,
@@ -32411,7 +31779,7 @@
     "cost": null,
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national SENAI construction-training catalogue via the state Departamento Regional; fees vary by course; intake not published",
+    "graduatesEstimateBasis": "national SENAI construction-training catalogue via the state Departamento Regional; fees vary by course; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "BIM",
       "CAD/CAM",
@@ -32426,7 +31794,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://www.senai.br/",
     "lat": -3.7319,
     "lon": -38.5267,
@@ -32452,7 +31820,7 @@
     "cost": null,
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national SENAI construction-training catalogue via the state Departamento Regional; fees vary by course; intake not published",
+    "graduatesEstimateBasis": "national SENAI construction-training catalogue via the state Departamento Regional; fees vary by course; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "BIM",
       "CAD/CAM",
@@ -32467,7 +31835,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://www.senai.br/",
     "lat": -15.7939,
     "lon": -47.8828,
@@ -32493,7 +31861,7 @@
     "cost": null,
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national SENAI construction-training catalogue via the state Departamento Regional; fees vary by course; intake not published",
+    "graduatesEstimateBasis": "national SENAI construction-training catalogue via the state Departamento Regional; fees vary by course; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "BIM",
       "CAD/CAM",
@@ -32508,7 +31876,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://www.senai.br/",
     "lat": -20.3155,
     "lon": -40.3128,
@@ -32534,7 +31902,7 @@
     "cost": null,
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national SENAI construction-training catalogue via the state Departamento Regional; fees vary by course; intake not published",
+    "graduatesEstimateBasis": "national SENAI construction-training catalogue via the state Departamento Regional; fees vary by course; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "BIM",
       "CAD/CAM",
@@ -32549,7 +31917,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://www.senai.br/",
     "lat": -16.6869,
     "lon": -49.2648,
@@ -32575,7 +31943,7 @@
     "cost": null,
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national SENAI construction-training catalogue via the state Departamento Regional; fees vary by course; intake not published",
+    "graduatesEstimateBasis": "national SENAI construction-training catalogue via the state Departamento Regional; fees vary by course; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "BIM",
       "CAD/CAM",
@@ -32590,7 +31958,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://www.senai.br/",
     "lat": -2.5307,
     "lon": -44.3068,
@@ -32616,7 +31984,7 @@
     "cost": null,
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national SENAI construction-training catalogue via the state Departamento Regional; fees vary by course; intake not published",
+    "graduatesEstimateBasis": "national SENAI construction-training catalogue via the state Departamento Regional; fees vary by course; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "BIM",
       "CAD/CAM",
@@ -32631,7 +31999,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://www.senai.br/",
     "lat": -15.6014,
     "lon": -56.0979,
@@ -32657,7 +32025,7 @@
     "cost": null,
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national SENAI construction-training catalogue via the state Departamento Regional; fees vary by course; intake not published",
+    "graduatesEstimateBasis": "national SENAI construction-training catalogue via the state Departamento Regional; fees vary by course; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "BIM",
       "CAD/CAM",
@@ -32672,7 +32040,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://www.senai.br/",
     "lat": -20.4697,
     "lon": -54.6201,
@@ -32698,7 +32066,7 @@
     "cost": null,
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national SENAI construction-training catalogue via the state Departamento Regional; fees vary by course; intake not published",
+    "graduatesEstimateBasis": "national SENAI construction-training catalogue via the state Departamento Regional; fees vary by course; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "BIM",
       "CAD/CAM",
@@ -32713,7 +32081,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://www.senai.br/",
     "lat": -19.9167,
     "lon": -43.9345,
@@ -32739,7 +32107,7 @@
     "cost": null,
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national SENAI construction-training catalogue via the state Departamento Regional; fees vary by course; intake not published",
+    "graduatesEstimateBasis": "national SENAI construction-training catalogue via the state Departamento Regional; fees vary by course; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "BIM",
       "CAD/CAM",
@@ -32754,7 +32122,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://www.senai.br/",
     "lat": -1.4558,
     "lon": -48.5039,
@@ -32780,7 +32148,7 @@
     "cost": null,
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national SENAI construction-training catalogue via the state Departamento Regional; fees vary by course; intake not published",
+    "graduatesEstimateBasis": "national SENAI construction-training catalogue via the state Departamento Regional; fees vary by course; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "BIM",
       "CAD/CAM",
@@ -32795,7 +32163,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://www.senai.br/",
     "lat": -7.1195,
     "lon": -34.845,
@@ -32821,7 +32189,7 @@
     "cost": null,
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national SENAI construction-training catalogue via the state Departamento Regional; fees vary by course; intake not published",
+    "graduatesEstimateBasis": "national SENAI construction-training catalogue via the state Departamento Regional; fees vary by course; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "BIM",
       "CAD/CAM",
@@ -32836,7 +32204,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://www.senai.br/",
     "lat": -25.4284,
     "lon": -49.2733,
@@ -32862,7 +32230,7 @@
     "cost": null,
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national SENAI construction-training catalogue via the state Departamento Regional; fees vary by course; intake not published",
+    "graduatesEstimateBasis": "national SENAI construction-training catalogue via the state Departamento Regional; fees vary by course; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "BIM",
       "CAD/CAM",
@@ -32877,7 +32245,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://www.senai.br/",
     "lat": -8.0476,
     "lon": -34.877,
@@ -32903,7 +32271,7 @@
     "cost": null,
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national SENAI construction-training catalogue via the state Departamento Regional; fees vary by course; intake not published",
+    "graduatesEstimateBasis": "national SENAI construction-training catalogue via the state Departamento Regional; fees vary by course; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "BIM",
       "CAD/CAM",
@@ -32918,7 +32286,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://www.senai.br/",
     "lat": -5.0892,
     "lon": -42.8019,
@@ -32944,7 +32312,7 @@
     "cost": null,
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national SENAI construction-training catalogue via the state Departamento Regional; fees vary by course; intake not published",
+    "graduatesEstimateBasis": "national SENAI construction-training catalogue via the state Departamento Regional; fees vary by course; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "BIM",
       "CAD/CAM",
@@ -32959,7 +32327,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://www.senai.br/",
     "lat": -22.9068,
     "lon": -43.1729,
@@ -32985,7 +32353,7 @@
     "cost": null,
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national SENAI construction-training catalogue via the state Departamento Regional; fees vary by course; intake not published",
+    "graduatesEstimateBasis": "national SENAI construction-training catalogue via the state Departamento Regional; fees vary by course; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "BIM",
       "CAD/CAM",
@@ -33000,7 +32368,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://www.senai.br/",
     "lat": -5.7945,
     "lon": -35.211,
@@ -33026,7 +32394,7 @@
     "cost": null,
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national SENAI construction-training catalogue via the state Departamento Regional; fees vary by course; intake not published",
+    "graduatesEstimateBasis": "national SENAI construction-training catalogue via the state Departamento Regional; fees vary by course; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "BIM",
       "CAD/CAM",
@@ -33041,7 +32409,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://www.senai.br/",
     "lat": -30.0346,
     "lon": -51.2177,
@@ -33067,7 +32435,7 @@
     "cost": null,
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national SENAI construction-training catalogue via the state Departamento Regional; fees vary by course; intake not published",
+    "graduatesEstimateBasis": "national SENAI construction-training catalogue via the state Departamento Regional; fees vary by course; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "BIM",
       "CAD/CAM",
@@ -33082,7 +32450,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://www.senai.br/",
     "lat": -8.7619,
     "lon": -63.9039,
@@ -33108,7 +32476,7 @@
     "cost": null,
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national SENAI construction-training catalogue via the state Departamento Regional; fees vary by course; intake not published",
+    "graduatesEstimateBasis": "national SENAI construction-training catalogue via the state Departamento Regional; fees vary by course; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "BIM",
       "CAD/CAM",
@@ -33123,7 +32491,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://www.senai.br/",
     "lat": 2.8235,
     "lon": -60.6758,
@@ -33149,7 +32517,7 @@
     "cost": null,
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national SENAI construction-training catalogue via the state Departamento Regional; fees vary by course; intake not published",
+    "graduatesEstimateBasis": "national SENAI construction-training catalogue via the state Departamento Regional; fees vary by course; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "BIM",
       "CAD/CAM",
@@ -33164,7 +32532,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://www.senai.br/",
     "lat": -27.5949,
     "lon": -48.5482,
@@ -33190,7 +32558,7 @@
     "cost": null,
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national SENAI construction-training catalogue via the state Departamento Regional; fees vary by course; intake not published",
+    "graduatesEstimateBasis": "national SENAI construction-training catalogue via the state Departamento Regional; fees vary by course; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "BIM",
       "CAD/CAM",
@@ -33205,7 +32573,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://www.senai.br/",
     "lat": -23.5505,
     "lon": -46.6333,
@@ -33231,7 +32599,7 @@
     "cost": null,
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national SENAI construction-training catalogue via the state Departamento Regional; fees vary by course; intake not published",
+    "graduatesEstimateBasis": "national SENAI construction-training catalogue via the state Departamento Regional; fees vary by course; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "BIM",
       "CAD/CAM",
@@ -33246,7 +32614,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://www.senai.br/",
     "lat": -10.9472,
     "lon": -37.0731,
@@ -33272,7 +32640,7 @@
     "cost": null,
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national SENAI construction-training catalogue via the state Departamento Regional; fees vary by course; intake not published",
+    "graduatesEstimateBasis": "national SENAI construction-training catalogue via the state Departamento Regional; fees vary by course; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "BIM",
       "CAD/CAM",
@@ -33287,7 +32655,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://www.senai.br/",
     "lat": -10.184,
     "lon": -48.3336,
@@ -33295,1124 +32663,6 @@
     "lastChecked": "2026-07-27",
     "region": "South America",
     "costCurrency": "BRL"
-  },
-  {
-    "name": "INACAP — Sede Arica",
-    "country": "Chile",
-    "city": "Arica",
-    "programs": [
-      "Ingeniería/Técnico en Construcción / Topografía / Dibujo Técnico (BIM-CAD)"
-    ],
-    "programLinks": [
-      "https://www.inacap.cl/"
-    ],
-    "accreditation": [],
-    "language": "Spanish",
-    "mode": "Full-time",
-    "delivery": "In person",
-    "cost": null,
-    "graduatesPerYear": "Not published",
-    "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national IP/CFT construction catalogue delivered at this sede; arancel varies by programme; intake not published",
-    "topics": [
-      "BIM",
-      "CAD/CAM",
-      "3D Modeling & Scanning",
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "computingTopics": [
-      "BIM",
-      "CAD/CAM",
-      "3D Modeling & Scanning"
-    ],
-    "domains": [
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://www.inacap.cl/",
-    "lat": -18.4783,
-    "lon": -70.3126,
-    "geoSource": "manual:sede",
-    "lastChecked": "2026-07-27",
-    "region": "South America",
-    "costCurrency": "CLP"
-  },
-  {
-    "name": "INACAP — Sede Iquique",
-    "country": "Chile",
-    "city": "Iquique",
-    "programs": [
-      "Ingeniería/Técnico en Construcción / Topografía / Dibujo Técnico (BIM-CAD)"
-    ],
-    "programLinks": [
-      "https://www.inacap.cl/"
-    ],
-    "accreditation": [],
-    "language": "Spanish",
-    "mode": "Full-time",
-    "delivery": "In person",
-    "cost": null,
-    "graduatesPerYear": "Not published",
-    "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national IP/CFT construction catalogue delivered at this sede; arancel varies by programme; intake not published",
-    "topics": [
-      "BIM",
-      "CAD/CAM",
-      "3D Modeling & Scanning",
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "computingTopics": [
-      "BIM",
-      "CAD/CAM",
-      "3D Modeling & Scanning"
-    ],
-    "domains": [
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://www.inacap.cl/",
-    "lat": -20.2133,
-    "lon": -70.1503,
-    "geoSource": "manual:sede",
-    "lastChecked": "2026-07-27",
-    "region": "South America",
-    "costCurrency": "CLP"
-  },
-  {
-    "name": "INACAP — Sede Calama",
-    "country": "Chile",
-    "city": "Calama",
-    "programs": [
-      "Ingeniería/Técnico en Construcción / Topografía / Dibujo Técnico (BIM-CAD)"
-    ],
-    "programLinks": [
-      "https://www.inacap.cl/"
-    ],
-    "accreditation": [],
-    "language": "Spanish",
-    "mode": "Full-time",
-    "delivery": "In person",
-    "cost": null,
-    "graduatesPerYear": "Not published",
-    "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national IP/CFT construction catalogue delivered at this sede; arancel varies by programme; intake not published",
-    "topics": [
-      "BIM",
-      "CAD/CAM",
-      "3D Modeling & Scanning",
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "computingTopics": [
-      "BIM",
-      "CAD/CAM",
-      "3D Modeling & Scanning"
-    ],
-    "domains": [
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://www.inacap.cl/",
-    "lat": -22.4667,
-    "lon": -68.9333,
-    "geoSource": "manual:sede",
-    "lastChecked": "2026-07-27",
-    "region": "South America",
-    "costCurrency": "CLP"
-  },
-  {
-    "name": "INACAP — Sede Antofagasta",
-    "country": "Chile",
-    "city": "Antofagasta",
-    "programs": [
-      "Ingeniería/Técnico en Construcción / Topografía / Dibujo Técnico (BIM-CAD)"
-    ],
-    "programLinks": [
-      "https://www.inacap.cl/"
-    ],
-    "accreditation": [],
-    "language": "Spanish",
-    "mode": "Full-time",
-    "delivery": "In person",
-    "cost": null,
-    "graduatesPerYear": "Not published",
-    "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national IP/CFT construction catalogue delivered at this sede; arancel varies by programme; intake not published",
-    "topics": [
-      "BIM",
-      "CAD/CAM",
-      "3D Modeling & Scanning",
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "computingTopics": [
-      "BIM",
-      "CAD/CAM",
-      "3D Modeling & Scanning"
-    ],
-    "domains": [
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://www.inacap.cl/",
-    "lat": -23.6509,
-    "lon": -70.3975,
-    "geoSource": "manual:sede",
-    "lastChecked": "2026-07-27",
-    "region": "South America",
-    "costCurrency": "CLP"
-  },
-  {
-    "name": "INACAP — Sede Copiapó",
-    "country": "Chile",
-    "city": "Copiapó",
-    "programs": [
-      "Ingeniería/Técnico en Construcción / Topografía / Dibujo Técnico (BIM-CAD)"
-    ],
-    "programLinks": [
-      "https://www.inacap.cl/"
-    ],
-    "accreditation": [],
-    "language": "Spanish",
-    "mode": "Full-time",
-    "delivery": "In person",
-    "cost": null,
-    "graduatesPerYear": "Not published",
-    "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national IP/CFT construction catalogue delivered at this sede; arancel varies by programme; intake not published",
-    "topics": [
-      "BIM",
-      "CAD/CAM",
-      "3D Modeling & Scanning",
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "computingTopics": [
-      "BIM",
-      "CAD/CAM",
-      "3D Modeling & Scanning"
-    ],
-    "domains": [
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://www.inacap.cl/",
-    "lat": -27.3668,
-    "lon": -70.3323,
-    "geoSource": "manual:sede",
-    "lastChecked": "2026-07-27",
-    "region": "South America",
-    "costCurrency": "CLP"
-  },
-  {
-    "name": "INACAP — Sede La Serena",
-    "country": "Chile",
-    "city": "La Serena",
-    "programs": [
-      "Ingeniería/Técnico en Construcción / Topografía / Dibujo Técnico (BIM-CAD)"
-    ],
-    "programLinks": [
-      "https://www.inacap.cl/"
-    ],
-    "accreditation": [],
-    "language": "Spanish",
-    "mode": "Full-time",
-    "delivery": "In person",
-    "cost": null,
-    "graduatesPerYear": "Not published",
-    "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national IP/CFT construction catalogue delivered at this sede; arancel varies by programme; intake not published",
-    "topics": [
-      "BIM",
-      "CAD/CAM",
-      "3D Modeling & Scanning",
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "computingTopics": [
-      "BIM",
-      "CAD/CAM",
-      "3D Modeling & Scanning"
-    ],
-    "domains": [
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://www.inacap.cl/",
-    "lat": -29.9027,
-    "lon": -71.2519,
-    "geoSource": "manual:sede",
-    "lastChecked": "2026-07-27",
-    "region": "South America",
-    "costCurrency": "CLP"
-  },
-  {
-    "name": "INACAP — Sede Ovalle",
-    "country": "Chile",
-    "city": "Ovalle",
-    "programs": [
-      "Ingeniería/Técnico en Construcción / Topografía / Dibujo Técnico (BIM-CAD)"
-    ],
-    "programLinks": [
-      "https://www.inacap.cl/"
-    ],
-    "accreditation": [],
-    "language": "Spanish",
-    "mode": "Full-time",
-    "delivery": "In person",
-    "cost": null,
-    "graduatesPerYear": "Not published",
-    "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national IP/CFT construction catalogue delivered at this sede; arancel varies by programme; intake not published",
-    "topics": [
-      "BIM",
-      "CAD/CAM",
-      "3D Modeling & Scanning",
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "computingTopics": [
-      "BIM",
-      "CAD/CAM",
-      "3D Modeling & Scanning"
-    ],
-    "domains": [
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://www.inacap.cl/",
-    "lat": -30.6017,
-    "lon": -71.1996,
-    "geoSource": "manual:sede",
-    "lastChecked": "2026-07-27",
-    "region": "South America",
-    "costCurrency": "CLP"
-  },
-  {
-    "name": "INACAP — Sede Valparaíso",
-    "country": "Chile",
-    "city": "Valparaíso",
-    "programs": [
-      "Ingeniería/Técnico en Construcción / Topografía / Dibujo Técnico (BIM-CAD)"
-    ],
-    "programLinks": [
-      "https://www.inacap.cl/"
-    ],
-    "accreditation": [],
-    "language": "Spanish",
-    "mode": "Full-time",
-    "delivery": "In person",
-    "cost": null,
-    "graduatesPerYear": "Not published",
-    "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national IP/CFT construction catalogue delivered at this sede; arancel varies by programme; intake not published",
-    "topics": [
-      "BIM",
-      "CAD/CAM",
-      "3D Modeling & Scanning",
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "computingTopics": [
-      "BIM",
-      "CAD/CAM",
-      "3D Modeling & Scanning"
-    ],
-    "domains": [
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://www.inacap.cl/",
-    "lat": -33.0472,
-    "lon": -71.6127,
-    "geoSource": "manual:sede",
-    "lastChecked": "2026-07-27",
-    "region": "South America",
-    "costCurrency": "CLP"
-  },
-  {
-    "name": "INACAP — Sede Viña del Mar",
-    "country": "Chile",
-    "city": "Viña del Mar",
-    "programs": [
-      "Ingeniería/Técnico en Construcción / Topografía / Dibujo Técnico (BIM-CAD)"
-    ],
-    "programLinks": [
-      "https://www.inacap.cl/"
-    ],
-    "accreditation": [],
-    "language": "Spanish",
-    "mode": "Full-time",
-    "delivery": "In person",
-    "cost": null,
-    "graduatesPerYear": "Not published",
-    "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national IP/CFT construction catalogue delivered at this sede; arancel varies by programme; intake not published",
-    "topics": [
-      "BIM",
-      "CAD/CAM",
-      "3D Modeling & Scanning",
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "computingTopics": [
-      "BIM",
-      "CAD/CAM",
-      "3D Modeling & Scanning"
-    ],
-    "domains": [
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://www.inacap.cl/",
-    "lat": -33.0246,
-    "lon": -71.5518,
-    "geoSource": "manual:sede",
-    "lastChecked": "2026-07-27",
-    "region": "South America",
-    "costCurrency": "CLP"
-  },
-  {
-    "name": "INACAP — Sede Santiago Pérez Rosales",
-    "country": "Chile",
-    "city": "SantiagoPérez Rosales",
-    "programs": [
-      "Ingeniería/Técnico en Construcción / Topografía / Dibujo Técnico (BIM-CAD)"
-    ],
-    "programLinks": [
-      "https://www.inacap.cl/"
-    ],
-    "accreditation": [],
-    "language": "Spanish",
-    "mode": "Full-time",
-    "delivery": "In person",
-    "cost": null,
-    "graduatesPerYear": "Not published",
-    "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national IP/CFT construction catalogue delivered at this sede; arancel varies by programme; intake not published",
-    "topics": [
-      "BIM",
-      "CAD/CAM",
-      "3D Modeling & Scanning",
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "computingTopics": [
-      "BIM",
-      "CAD/CAM",
-      "3D Modeling & Scanning"
-    ],
-    "domains": [
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://www.inacap.cl/",
-    "lat": -33.4489,
-    "lon": -70.6693,
-    "geoSource": "manual:sede",
-    "lastChecked": "2026-07-27",
-    "region": "South America",
-    "costCurrency": "CLP"
-  },
-  {
-    "name": "INACAP — Sede Santiago Maipú",
-    "country": "Chile",
-    "city": "SantiagoMaipú",
-    "programs": [
-      "Ingeniería/Técnico en Construcción / Topografía / Dibujo Técnico (BIM-CAD)"
-    ],
-    "programLinks": [
-      "https://www.inacap.cl/"
-    ],
-    "accreditation": [],
-    "language": "Spanish",
-    "mode": "Full-time",
-    "delivery": "In person",
-    "cost": null,
-    "graduatesPerYear": "Not published",
-    "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national IP/CFT construction catalogue delivered at this sede; arancel varies by programme; intake not published",
-    "topics": [
-      "BIM",
-      "CAD/CAM",
-      "3D Modeling & Scanning",
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "computingTopics": [
-      "BIM",
-      "CAD/CAM",
-      "3D Modeling & Scanning"
-    ],
-    "domains": [
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://www.inacap.cl/",
-    "lat": -33.5111,
-    "lon": -70.7576,
-    "geoSource": "manual:sede",
-    "lastChecked": "2026-07-27",
-    "region": "South America",
-    "costCurrency": "CLP"
-  },
-  {
-    "name": "INACAP — Sede Santiago Apoquindo",
-    "country": "Chile",
-    "city": "SantiagoApoquindo",
-    "programs": [
-      "Ingeniería/Técnico en Construcción / Topografía / Dibujo Técnico (BIM-CAD)"
-    ],
-    "programLinks": [
-      "https://www.inacap.cl/"
-    ],
-    "accreditation": [],
-    "language": "Spanish",
-    "mode": "Full-time",
-    "delivery": "In person",
-    "cost": null,
-    "graduatesPerYear": "Not published",
-    "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national IP/CFT construction catalogue delivered at this sede; arancel varies by programme; intake not published",
-    "topics": [
-      "BIM",
-      "CAD/CAM",
-      "3D Modeling & Scanning",
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "computingTopics": [
-      "BIM",
-      "CAD/CAM",
-      "3D Modeling & Scanning"
-    ],
-    "domains": [
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://www.inacap.cl/",
-    "lat": -33.4172,
-    "lon": -70.5476,
-    "geoSource": "manual:sede",
-    "lastChecked": "2026-07-27",
-    "region": "South America",
-    "costCurrency": "CLP"
-  },
-  {
-    "name": "INACAP — Sede Santiago Renca",
-    "country": "Chile",
-    "city": "SantiagoRenca",
-    "programs": [
-      "Ingeniería/Técnico en Construcción / Topografía / Dibujo Técnico (BIM-CAD)"
-    ],
-    "programLinks": [
-      "https://www.inacap.cl/"
-    ],
-    "accreditation": [],
-    "language": "Spanish",
-    "mode": "Full-time",
-    "delivery": "In person",
-    "cost": null,
-    "graduatesPerYear": "Not published",
-    "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national IP/CFT construction catalogue delivered at this sede; arancel varies by programme; intake not published",
-    "topics": [
-      "BIM",
-      "CAD/CAM",
-      "3D Modeling & Scanning",
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "computingTopics": [
-      "BIM",
-      "CAD/CAM",
-      "3D Modeling & Scanning"
-    ],
-    "domains": [
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://www.inacap.cl/",
-    "lat": -33.4047,
-    "lon": -70.7297,
-    "geoSource": "manual:sede",
-    "lastChecked": "2026-07-27",
-    "region": "South America",
-    "costCurrency": "CLP"
-  },
-  {
-    "name": "INACAP — Sede Santiago La Granja",
-    "country": "Chile",
-    "city": "SantiagoLa Granja",
-    "programs": [
-      "Ingeniería/Técnico en Construcción / Topografía / Dibujo Técnico (BIM-CAD)"
-    ],
-    "programLinks": [
-      "https://www.inacap.cl/"
-    ],
-    "accreditation": [],
-    "language": "Spanish",
-    "mode": "Full-time",
-    "delivery": "In person",
-    "cost": null,
-    "graduatesPerYear": "Not published",
-    "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national IP/CFT construction catalogue delivered at this sede; arancel varies by programme; intake not published",
-    "topics": [
-      "BIM",
-      "CAD/CAM",
-      "3D Modeling & Scanning",
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "computingTopics": [
-      "BIM",
-      "CAD/CAM",
-      "3D Modeling & Scanning"
-    ],
-    "domains": [
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://www.inacap.cl/",
-    "lat": -33.54,
-    "lon": -70.63,
-    "geoSource": "manual:sede",
-    "lastChecked": "2026-07-27",
-    "region": "South America",
-    "costCurrency": "CLP"
-  },
-  {
-    "name": "INACAP — Sede Rancagua",
-    "country": "Chile",
-    "city": "Rancagua",
-    "programs": [
-      "Ingeniería/Técnico en Construcción / Topografía / Dibujo Técnico (BIM-CAD)"
-    ],
-    "programLinks": [
-      "https://www.inacap.cl/"
-    ],
-    "accreditation": [],
-    "language": "Spanish",
-    "mode": "Full-time",
-    "delivery": "In person",
-    "cost": null,
-    "graduatesPerYear": "Not published",
-    "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national IP/CFT construction catalogue delivered at this sede; arancel varies by programme; intake not published",
-    "topics": [
-      "BIM",
-      "CAD/CAM",
-      "3D Modeling & Scanning",
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "computingTopics": [
-      "BIM",
-      "CAD/CAM",
-      "3D Modeling & Scanning"
-    ],
-    "domains": [
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://www.inacap.cl/",
-    "lat": -34.1708,
-    "lon": -70.7444,
-    "geoSource": "manual:sede",
-    "lastChecked": "2026-07-27",
-    "region": "South America",
-    "costCurrency": "CLP"
-  },
-  {
-    "name": "INACAP — Sede Curicó",
-    "country": "Chile",
-    "city": "Curicó",
-    "programs": [
-      "Ingeniería/Técnico en Construcción / Topografía / Dibujo Técnico (BIM-CAD)"
-    ],
-    "programLinks": [
-      "https://www.inacap.cl/"
-    ],
-    "accreditation": [],
-    "language": "Spanish",
-    "mode": "Full-time",
-    "delivery": "In person",
-    "cost": null,
-    "graduatesPerYear": "Not published",
-    "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national IP/CFT construction catalogue delivered at this sede; arancel varies by programme; intake not published",
-    "topics": [
-      "BIM",
-      "CAD/CAM",
-      "3D Modeling & Scanning",
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "computingTopics": [
-      "BIM",
-      "CAD/CAM",
-      "3D Modeling & Scanning"
-    ],
-    "domains": [
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://www.inacap.cl/",
-    "lat": -34.9828,
-    "lon": -71.2394,
-    "geoSource": "manual:sede",
-    "lastChecked": "2026-07-27",
-    "region": "South America",
-    "costCurrency": "CLP"
-  },
-  {
-    "name": "INACAP — Sede Talca",
-    "country": "Chile",
-    "city": "Talca",
-    "programs": [
-      "Ingeniería/Técnico en Construcción / Topografía / Dibujo Técnico (BIM-CAD)"
-    ],
-    "programLinks": [
-      "https://www.inacap.cl/"
-    ],
-    "accreditation": [],
-    "language": "Spanish",
-    "mode": "Full-time",
-    "delivery": "In person",
-    "cost": null,
-    "graduatesPerYear": "Not published",
-    "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national IP/CFT construction catalogue delivered at this sede; arancel varies by programme; intake not published",
-    "topics": [
-      "BIM",
-      "CAD/CAM",
-      "3D Modeling & Scanning",
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "computingTopics": [
-      "BIM",
-      "CAD/CAM",
-      "3D Modeling & Scanning"
-    ],
-    "domains": [
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://www.inacap.cl/",
-    "lat": -35.4264,
-    "lon": -71.6554,
-    "geoSource": "manual:sede",
-    "lastChecked": "2026-07-27",
-    "region": "South America",
-    "costCurrency": "CLP"
-  },
-  {
-    "name": "INACAP — Sede Chillán",
-    "country": "Chile",
-    "city": "Chillán",
-    "programs": [
-      "Ingeniería/Técnico en Construcción / Topografía / Dibujo Técnico (BIM-CAD)"
-    ],
-    "programLinks": [
-      "https://www.inacap.cl/"
-    ],
-    "accreditation": [],
-    "language": "Spanish",
-    "mode": "Full-time",
-    "delivery": "In person",
-    "cost": null,
-    "graduatesPerYear": "Not published",
-    "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national IP/CFT construction catalogue delivered at this sede; arancel varies by programme; intake not published",
-    "topics": [
-      "BIM",
-      "CAD/CAM",
-      "3D Modeling & Scanning",
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "computingTopics": [
-      "BIM",
-      "CAD/CAM",
-      "3D Modeling & Scanning"
-    ],
-    "domains": [
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://www.inacap.cl/",
-    "lat": -36.6066,
-    "lon": -72.1034,
-    "geoSource": "manual:sede",
-    "lastChecked": "2026-07-27",
-    "region": "South America",
-    "costCurrency": "CLP"
-  },
-  {
-    "name": "INACAP — Sede Concepción",
-    "country": "Chile",
-    "city": "Concepción",
-    "programs": [
-      "Ingeniería/Técnico en Construcción / Topografía / Dibujo Técnico (BIM-CAD)"
-    ],
-    "programLinks": [
-      "https://www.inacap.cl/"
-    ],
-    "accreditation": [],
-    "language": "Spanish",
-    "mode": "Full-time",
-    "delivery": "In person",
-    "cost": null,
-    "graduatesPerYear": "Not published",
-    "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national IP/CFT construction catalogue delivered at this sede; arancel varies by programme; intake not published",
-    "topics": [
-      "BIM",
-      "CAD/CAM",
-      "3D Modeling & Scanning",
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "computingTopics": [
-      "BIM",
-      "CAD/CAM",
-      "3D Modeling & Scanning"
-    ],
-    "domains": [
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://www.inacap.cl/",
-    "lat": -36.827,
-    "lon": -73.0503,
-    "geoSource": "manual:sede",
-    "lastChecked": "2026-07-27",
-    "region": "South America",
-    "costCurrency": "CLP"
-  },
-  {
-    "name": "INACAP — Sede Los Ángeles",
-    "country": "Chile",
-    "city": "Los Ángeles",
-    "programs": [
-      "Ingeniería/Técnico en Construcción / Topografía / Dibujo Técnico (BIM-CAD)"
-    ],
-    "programLinks": [
-      "https://www.inacap.cl/"
-    ],
-    "accreditation": [],
-    "language": "Spanish",
-    "mode": "Full-time",
-    "delivery": "In person",
-    "cost": null,
-    "graduatesPerYear": "Not published",
-    "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national IP/CFT construction catalogue delivered at this sede; arancel varies by programme; intake not published",
-    "topics": [
-      "BIM",
-      "CAD/CAM",
-      "3D Modeling & Scanning",
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "computingTopics": [
-      "BIM",
-      "CAD/CAM",
-      "3D Modeling & Scanning"
-    ],
-    "domains": [
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://www.inacap.cl/",
-    "lat": -37.4697,
-    "lon": -72.3536,
-    "geoSource": "manual:sede",
-    "lastChecked": "2026-07-27",
-    "region": "South America",
-    "costCurrency": "CLP"
-  },
-  {
-    "name": "INACAP — Sede Temuco",
-    "country": "Chile",
-    "city": "Temuco",
-    "programs": [
-      "Ingeniería/Técnico en Construcción / Topografía / Dibujo Técnico (BIM-CAD)"
-    ],
-    "programLinks": [
-      "https://www.inacap.cl/"
-    ],
-    "accreditation": [],
-    "language": "Spanish",
-    "mode": "Full-time",
-    "delivery": "In person",
-    "cost": null,
-    "graduatesPerYear": "Not published",
-    "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national IP/CFT construction catalogue delivered at this sede; arancel varies by programme; intake not published",
-    "topics": [
-      "BIM",
-      "CAD/CAM",
-      "3D Modeling & Scanning",
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "computingTopics": [
-      "BIM",
-      "CAD/CAM",
-      "3D Modeling & Scanning"
-    ],
-    "domains": [
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://www.inacap.cl/",
-    "lat": -38.7359,
-    "lon": -72.5904,
-    "geoSource": "manual:sede",
-    "lastChecked": "2026-07-27",
-    "region": "South America",
-    "costCurrency": "CLP"
-  },
-  {
-    "name": "INACAP — Sede Valdivia",
-    "country": "Chile",
-    "city": "Valdivia",
-    "programs": [
-      "Ingeniería/Técnico en Construcción / Topografía / Dibujo Técnico (BIM-CAD)"
-    ],
-    "programLinks": [
-      "https://www.inacap.cl/"
-    ],
-    "accreditation": [],
-    "language": "Spanish",
-    "mode": "Full-time",
-    "delivery": "In person",
-    "cost": null,
-    "graduatesPerYear": "Not published",
-    "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national IP/CFT construction catalogue delivered at this sede; arancel varies by programme; intake not published",
-    "topics": [
-      "BIM",
-      "CAD/CAM",
-      "3D Modeling & Scanning",
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "computingTopics": [
-      "BIM",
-      "CAD/CAM",
-      "3D Modeling & Scanning"
-    ],
-    "domains": [
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://www.inacap.cl/",
-    "lat": -39.8142,
-    "lon": -73.2459,
-    "geoSource": "manual:sede",
-    "lastChecked": "2026-07-27",
-    "region": "South America",
-    "costCurrency": "CLP"
-  },
-  {
-    "name": "INACAP — Sede Osorno",
-    "country": "Chile",
-    "city": "Osorno",
-    "programs": [
-      "Ingeniería/Técnico en Construcción / Topografía / Dibujo Técnico (BIM-CAD)"
-    ],
-    "programLinks": [
-      "https://www.inacap.cl/"
-    ],
-    "accreditation": [],
-    "language": "Spanish",
-    "mode": "Full-time",
-    "delivery": "In person",
-    "cost": null,
-    "graduatesPerYear": "Not published",
-    "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national IP/CFT construction catalogue delivered at this sede; arancel varies by programme; intake not published",
-    "topics": [
-      "BIM",
-      "CAD/CAM",
-      "3D Modeling & Scanning",
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "computingTopics": [
-      "BIM",
-      "CAD/CAM",
-      "3D Modeling & Scanning"
-    ],
-    "domains": [
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://www.inacap.cl/",
-    "lat": -40.5739,
-    "lon": -73.1336,
-    "geoSource": "manual:sede",
-    "lastChecked": "2026-07-27",
-    "region": "South America",
-    "costCurrency": "CLP"
-  },
-  {
-    "name": "INACAP — Sede Puerto Montt",
-    "country": "Chile",
-    "city": "Puerto Montt",
-    "programs": [
-      "Ingeniería/Técnico en Construcción / Topografía / Dibujo Técnico (BIM-CAD)"
-    ],
-    "programLinks": [
-      "https://www.inacap.cl/"
-    ],
-    "accreditation": [],
-    "language": "Spanish",
-    "mode": "Full-time",
-    "delivery": "In person",
-    "cost": null,
-    "graduatesPerYear": "Not published",
-    "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national IP/CFT construction catalogue delivered at this sede; arancel varies by programme; intake not published",
-    "topics": [
-      "BIM",
-      "CAD/CAM",
-      "3D Modeling & Scanning",
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "computingTopics": [
-      "BIM",
-      "CAD/CAM",
-      "3D Modeling & Scanning"
-    ],
-    "domains": [
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://www.inacap.cl/",
-    "lat": -41.4693,
-    "lon": -72.9424,
-    "geoSource": "manual:sede",
-    "lastChecked": "2026-07-27",
-    "region": "South America",
-    "costCurrency": "CLP"
-  },
-  {
-    "name": "INACAP — Sede Coyhaique",
-    "country": "Chile",
-    "city": "Coyhaique",
-    "programs": [
-      "Ingeniería/Técnico en Construcción / Topografía / Dibujo Técnico (BIM-CAD)"
-    ],
-    "programLinks": [
-      "https://www.inacap.cl/"
-    ],
-    "accreditation": [],
-    "language": "Spanish",
-    "mode": "Full-time",
-    "delivery": "In person",
-    "cost": null,
-    "graduatesPerYear": "Not published",
-    "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national IP/CFT construction catalogue delivered at this sede; arancel varies by programme; intake not published",
-    "topics": [
-      "BIM",
-      "CAD/CAM",
-      "3D Modeling & Scanning",
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "computingTopics": [
-      "BIM",
-      "CAD/CAM",
-      "3D Modeling & Scanning"
-    ],
-    "domains": [
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://www.inacap.cl/",
-    "lat": -45.5712,
-    "lon": -72.0685,
-    "geoSource": "manual:sede",
-    "lastChecked": "2026-07-27",
-    "region": "South America",
-    "costCurrency": "CLP"
-  },
-  {
-    "name": "INACAP — Sede Punta Arenas",
-    "country": "Chile",
-    "city": "Punta Arenas",
-    "programs": [
-      "Ingeniería/Técnico en Construcción / Topografía / Dibujo Técnico (BIM-CAD)"
-    ],
-    "programLinks": [
-      "https://www.inacap.cl/"
-    ],
-    "accreditation": [],
-    "language": "Spanish",
-    "mode": "Full-time",
-    "delivery": "In person",
-    "cost": null,
-    "graduatesPerYear": "Not published",
-    "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national IP/CFT construction catalogue delivered at this sede; arancel varies by programme; intake not published",
-    "topics": [
-      "BIM",
-      "CAD/CAM",
-      "3D Modeling & Scanning",
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "computingTopics": [
-      "BIM",
-      "CAD/CAM",
-      "3D Modeling & Scanning"
-    ],
-    "domains": [
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://www.inacap.cl/",
-    "lat": -53.1638,
-    "lon": -70.9171,
-    "geoSource": "manual:sede",
-    "lastChecked": "2026-07-27",
-    "region": "South America",
-    "costCurrency": "CLP"
   },
   {
     "name": "DUOC UC — Sede Santiago Alameda",
@@ -34431,7 +32681,7 @@
     "cost": null,
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national IP/CFT construction catalogue delivered at this sede; arancel varies by programme; intake not published",
+    "graduatesEstimateBasis": "national IP/CFT construction catalogue delivered at this sede; arancel varies by programme; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "BIM",
       "CAD/CAM",
@@ -34448,7 +32698,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://www.duoc.cl/",
     "lat": -33.447,
     "lon": -70.652,
@@ -34474,7 +32724,7 @@
     "cost": null,
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national IP/CFT construction catalogue delivered at this sede; arancel varies by programme; intake not published",
+    "graduatesEstimateBasis": "national IP/CFT construction catalogue delivered at this sede; arancel varies by programme; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "BIM",
       "CAD/CAM",
@@ -34491,7 +32741,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://www.duoc.cl/",
     "lat": -33.399,
     "lon": -70.506,
@@ -34517,7 +32767,7 @@
     "cost": null,
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national IP/CFT construction catalogue delivered at this sede; arancel varies by programme; intake not published",
+    "graduatesEstimateBasis": "national IP/CFT construction catalogue delivered at this sede; arancel varies by programme; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "BIM",
       "CAD/CAM",
@@ -34534,7 +32784,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://www.duoc.cl/",
     "lat": -33.51,
     "lon": -70.758,
@@ -34560,7 +32810,7 @@
     "cost": null,
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national IP/CFT construction catalogue delivered at this sede; arancel varies by programme; intake not published",
+    "graduatesEstimateBasis": "national IP/CFT construction catalogue delivered at this sede; arancel varies by programme; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "BIM",
       "CAD/CAM",
@@ -34577,7 +32827,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://www.duoc.cl/",
     "lat": -33.449,
     "lon": -70.654,
@@ -34603,7 +32853,7 @@
     "cost": null,
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national IP/CFT construction catalogue delivered at this sede; arancel varies by programme; intake not published",
+    "graduatesEstimateBasis": "national IP/CFT construction catalogue delivered at this sede; arancel varies by programme; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "BIM",
       "CAD/CAM",
@@ -34620,7 +32870,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://www.duoc.cl/",
     "lat": -33.367,
     "lon": -70.676,
@@ -34646,7 +32896,7 @@
     "cost": null,
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national IP/CFT construction catalogue delivered at this sede; arancel varies by programme; intake not published",
+    "graduatesEstimateBasis": "national IP/CFT construction catalogue delivered at this sede; arancel varies by programme; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "BIM",
       "CAD/CAM",
@@ -34663,7 +32913,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://www.duoc.cl/",
     "lat": -33.513,
     "lon": -70.718,
@@ -34689,7 +32939,7 @@
     "cost": null,
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national IP/CFT construction catalogue delivered at this sede; arancel varies by programme; intake not published",
+    "graduatesEstimateBasis": "national IP/CFT construction catalogue delivered at this sede; arancel varies by programme; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "BIM",
       "CAD/CAM",
@@ -34706,7 +32956,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://www.duoc.cl/",
     "lat": -33.611,
     "lon": -70.575,
@@ -34732,7 +32982,7 @@
     "cost": null,
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national IP/CFT construction catalogue delivered at this sede; arancel varies by programme; intake not published",
+    "graduatesEstimateBasis": "national IP/CFT construction catalogue delivered at this sede; arancel varies by programme; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "BIM",
       "CAD/CAM",
@@ -34749,7 +32999,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://www.duoc.cl/",
     "lat": -33.592,
     "lon": -70.699,
@@ -34775,7 +33025,7 @@
     "cost": null,
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national IP/CFT construction catalogue delivered at this sede; arancel varies by programme; intake not published",
+    "graduatesEstimateBasis": "national IP/CFT construction catalogue delivered at this sede; arancel varies by programme; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "BIM",
       "CAD/CAM",
@@ -34792,7 +33042,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://www.duoc.cl/",
     "lat": -33.498,
     "lon": -70.628,
@@ -34818,7 +33068,7 @@
     "cost": null,
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national IP/CFT construction catalogue delivered at this sede; arancel varies by programme; intake not published",
+    "graduatesEstimateBasis": "national IP/CFT construction catalogue delivered at this sede; arancel varies by programme; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "BIM",
       "CAD/CAM",
@@ -34835,7 +33085,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://www.duoc.cl/",
     "lat": -33.427,
     "lon": -70.618,
@@ -34861,7 +33111,7 @@
     "cost": null,
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national IP/CFT construction catalogue delivered at this sede; arancel varies by programme; intake not published",
+    "graduatesEstimateBasis": "national IP/CFT construction catalogue delivered at this sede; arancel varies by programme; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "BIM",
       "CAD/CAM",
@@ -34878,7 +33128,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://www.duoc.cl/",
     "lat": -33.045,
     "lon": -71.619,
@@ -34904,7 +33154,7 @@
     "cost": null,
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national IP/CFT construction catalogue delivered at this sede; arancel varies by programme; intake not published",
+    "graduatesEstimateBasis": "national IP/CFT construction catalogue delivered at this sede; arancel varies by programme; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "BIM",
       "CAD/CAM",
@@ -34921,7 +33171,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://www.duoc.cl/",
     "lat": -33.015,
     "lon": -71.551,
@@ -34947,7 +33197,7 @@
     "cost": null,
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national IP/CFT construction catalogue delivered at this sede; arancel varies by programme; intake not published",
+    "graduatesEstimateBasis": "national IP/CFT construction catalogue delivered at this sede; arancel varies by programme; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "BIM",
       "CAD/CAM",
@@ -34964,7 +33214,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://www.duoc.cl/",
     "lat": -36.829,
     "lon": -73.036,
@@ -34990,7 +33240,7 @@
     "cost": null,
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national IP/CFT construction catalogue delivered at this sede; arancel varies by programme; intake not published",
+    "graduatesEstimateBasis": "national IP/CFT construction catalogue delivered at this sede; arancel varies by programme; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "BIM",
       "CAD/CAM",
@@ -35007,7 +33257,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://www.duoc.cl/",
     "lat": -39.286,
     "lon": -72.228,
@@ -35033,7 +33283,7 @@
     "cost": null,
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national IP/CFT construction catalogue delivered at this sede; arancel varies by programme; intake not published",
+    "graduatesEstimateBasis": "national IP/CFT construction catalogue delivered at this sede; arancel varies by programme; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "BIM",
       "CAD/CAM",
@@ -35050,7 +33300,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://www.duoc.cl/",
     "lat": -33.687,
     "lon": -71.215,
@@ -35076,7 +33326,7 @@
     "cost": null,
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national IP/CFT construction catalogue delivered at this sede; arancel varies by programme; intake not published",
+    "graduatesEstimateBasis": "national IP/CFT construction catalogue delivered at this sede; arancel varies by programme; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "BIM",
       "CAD/CAM",
@@ -35093,7 +33343,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://www.duoc.cl/",
     "lat": -37.246,
     "lon": -73.317,
@@ -35158,7 +33408,7 @@
     "cost": null,
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national IP/CFT construction catalogue at this regional sede; arancel varies; intake not published",
+    "graduatesEstimateBasis": "national IP/CFT construction catalogue at this regional sede; arancel varies; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "BIM",
       "CAD/CAM",
@@ -35175,7 +33425,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://www.santotomas.cl/",
     "lat": -18.4783,
     "lon": -70.3126,
@@ -35201,7 +33451,7 @@
     "cost": null,
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national IP/CFT construction catalogue at this regional sede; arancel varies; intake not published",
+    "graduatesEstimateBasis": "national IP/CFT construction catalogue at this regional sede; arancel varies; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "BIM",
       "CAD/CAM",
@@ -35218,7 +33468,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://www.santotomas.cl/",
     "lat": -20.2133,
     "lon": -70.1503,
@@ -35244,7 +33494,7 @@
     "cost": null,
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national IP/CFT construction catalogue at this regional sede; arancel varies; intake not published",
+    "graduatesEstimateBasis": "national IP/CFT construction catalogue at this regional sede; arancel varies; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "BIM",
       "CAD/CAM",
@@ -35261,7 +33511,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://www.santotomas.cl/",
     "lat": -23.6509,
     "lon": -70.3975,
@@ -35287,7 +33537,7 @@
     "cost": null,
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national IP/CFT construction catalogue at this regional sede; arancel varies; intake not published",
+    "graduatesEstimateBasis": "national IP/CFT construction catalogue at this regional sede; arancel varies; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "BIM",
       "CAD/CAM",
@@ -35304,7 +33554,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://www.santotomas.cl/",
     "lat": -27.3668,
     "lon": -70.3323,
@@ -35330,7 +33580,7 @@
     "cost": null,
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national IP/CFT construction catalogue at this regional sede; arancel varies; intake not published",
+    "graduatesEstimateBasis": "national IP/CFT construction catalogue at this regional sede; arancel varies; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "BIM",
       "CAD/CAM",
@@ -35347,7 +33597,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://www.santotomas.cl/",
     "lat": -29.9027,
     "lon": -71.2519,
@@ -35373,7 +33623,7 @@
     "cost": null,
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national IP/CFT construction catalogue at this regional sede; arancel varies; intake not published",
+    "graduatesEstimateBasis": "national IP/CFT construction catalogue at this regional sede; arancel varies; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "BIM",
       "CAD/CAM",
@@ -35390,7 +33640,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://www.santotomas.cl/",
     "lat": -33.0246,
     "lon": -71.5518,
@@ -35416,7 +33666,7 @@
     "cost": null,
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national IP/CFT construction catalogue at this regional sede; arancel varies; intake not published",
+    "graduatesEstimateBasis": "national IP/CFT construction catalogue at this regional sede; arancel varies; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "BIM",
       "CAD/CAM",
@@ -35433,7 +33683,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://www.santotomas.cl/",
     "lat": -33.4489,
     "lon": -70.6693,
@@ -35459,7 +33709,7 @@
     "cost": null,
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national IP/CFT construction catalogue at this regional sede; arancel varies; intake not published",
+    "graduatesEstimateBasis": "national IP/CFT construction catalogue at this regional sede; arancel varies; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "BIM",
       "CAD/CAM",
@@ -35476,7 +33726,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://www.santotomas.cl/",
     "lat": -34.1708,
     "lon": -70.7444,
@@ -35502,7 +33752,7 @@
     "cost": null,
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national IP/CFT construction catalogue at this regional sede; arancel varies; intake not published",
+    "graduatesEstimateBasis": "national IP/CFT construction catalogue at this regional sede; arancel varies; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "BIM",
       "CAD/CAM",
@@ -35519,7 +33769,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://www.santotomas.cl/",
     "lat": -35.4264,
     "lon": -71.6554,
@@ -35545,7 +33795,7 @@
     "cost": null,
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national IP/CFT construction catalogue at this regional sede; arancel varies; intake not published",
+    "graduatesEstimateBasis": "national IP/CFT construction catalogue at this regional sede; arancel varies; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "BIM",
       "CAD/CAM",
@@ -35562,7 +33812,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://www.santotomas.cl/",
     "lat": -36.827,
     "lon": -73.0503,
@@ -35588,7 +33838,7 @@
     "cost": null,
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national IP/CFT construction catalogue at this regional sede; arancel varies; intake not published",
+    "graduatesEstimateBasis": "national IP/CFT construction catalogue at this regional sede; arancel varies; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "BIM",
       "CAD/CAM",
@@ -35605,7 +33855,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://www.santotomas.cl/",
     "lat": -38.7359,
     "lon": -72.5904,
@@ -35631,7 +33881,7 @@
     "cost": null,
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national IP/CFT construction catalogue at this regional sede; arancel varies; intake not published",
+    "graduatesEstimateBasis": "national IP/CFT construction catalogue at this regional sede; arancel varies; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "BIM",
       "CAD/CAM",
@@ -35648,7 +33898,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://www.santotomas.cl/",
     "lat": -39.8142,
     "lon": -73.2459,
@@ -35674,7 +33924,7 @@
     "cost": null,
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national IP/CFT construction catalogue at this regional sede; arancel varies; intake not published",
+    "graduatesEstimateBasis": "national IP/CFT construction catalogue at this regional sede; arancel varies; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "BIM",
       "CAD/CAM",
@@ -35691,7 +33941,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://www.santotomas.cl/",
     "lat": -41.4693,
     "lon": -72.9424,
@@ -35717,7 +33967,7 @@
     "cost": null,
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national IP/CFT construction catalogue at this regional sede; arancel varies; intake not published",
+    "graduatesEstimateBasis": "national IP/CFT construction catalogue at this regional sede; arancel varies; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "BIM",
       "CAD/CAM",
@@ -35734,7 +33984,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://www.santotomas.cl/",
     "lat": -53.1638,
     "lon": -70.9171,
@@ -35760,7 +34010,7 @@
     "cost": null,
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national IP/CFT construction catalogue at this regional sede; arancel varies; intake not published",
+    "graduatesEstimateBasis": "national IP/CFT construction catalogue at this regional sede; arancel varies; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "BIM",
       "CAD/CAM",
@@ -35777,7 +34027,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://www.aiep.cl/",
     "lat": -18.4783,
     "lon": -70.3126,
@@ -35803,7 +34053,7 @@
     "cost": null,
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national IP/CFT construction catalogue at this regional sede; arancel varies; intake not published",
+    "graduatesEstimateBasis": "national IP/CFT construction catalogue at this regional sede; arancel varies; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "BIM",
       "CAD/CAM",
@@ -35820,7 +34070,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://www.aiep.cl/",
     "lat": -20.2133,
     "lon": -70.1503,
@@ -35846,7 +34096,7 @@
     "cost": null,
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national IP/CFT construction catalogue at this regional sede; arancel varies; intake not published",
+    "graduatesEstimateBasis": "national IP/CFT construction catalogue at this regional sede; arancel varies; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "BIM",
       "CAD/CAM",
@@ -35863,7 +34113,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://www.aiep.cl/",
     "lat": -23.6509,
     "lon": -70.3975,
@@ -35889,7 +34139,7 @@
     "cost": null,
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national IP/CFT construction catalogue at this regional sede; arancel varies; intake not published",
+    "graduatesEstimateBasis": "national IP/CFT construction catalogue at this regional sede; arancel varies; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "BIM",
       "CAD/CAM",
@@ -35906,7 +34156,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://www.aiep.cl/",
     "lat": -22.4667,
     "lon": -68.9333,
@@ -35932,7 +34182,7 @@
     "cost": null,
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national IP/CFT construction catalogue at this regional sede; arancel varies; intake not published",
+    "graduatesEstimateBasis": "national IP/CFT construction catalogue at this regional sede; arancel varies; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "BIM",
       "CAD/CAM",
@@ -35949,7 +34199,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://www.aiep.cl/",
     "lat": -29.9027,
     "lon": -71.2519,
@@ -35975,7 +34225,7 @@
     "cost": null,
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national IP/CFT construction catalogue at this regional sede; arancel varies; intake not published",
+    "graduatesEstimateBasis": "national IP/CFT construction catalogue at this regional sede; arancel varies; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "BIM",
       "CAD/CAM",
@@ -35992,7 +34242,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://www.aiep.cl/",
     "lat": -33.0472,
     "lon": -71.6127,
@@ -36018,7 +34268,7 @@
     "cost": null,
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national IP/CFT construction catalogue at this regional sede; arancel varies; intake not published",
+    "graduatesEstimateBasis": "national IP/CFT construction catalogue at this regional sede; arancel varies; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "BIM",
       "CAD/CAM",
@@ -36035,7 +34285,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://www.aiep.cl/",
     "lat": -33.0246,
     "lon": -71.5518,
@@ -36061,7 +34311,7 @@
     "cost": null,
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national IP/CFT construction catalogue at this regional sede; arancel varies; intake not published",
+    "graduatesEstimateBasis": "national IP/CFT construction catalogue at this regional sede; arancel varies; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "BIM",
       "CAD/CAM",
@@ -36078,7 +34328,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://www.aiep.cl/",
     "lat": -33.4489,
     "lon": -70.6693,
@@ -36104,7 +34354,7 @@
     "cost": null,
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national IP/CFT construction catalogue at this regional sede; arancel varies; intake not published",
+    "graduatesEstimateBasis": "national IP/CFT construction catalogue at this regional sede; arancel varies; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "BIM",
       "CAD/CAM",
@@ -36121,7 +34371,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://www.aiep.cl/",
     "lat": -34.1708,
     "lon": -70.7444,
@@ -36147,7 +34397,7 @@
     "cost": null,
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national IP/CFT construction catalogue at this regional sede; arancel varies; intake not published",
+    "graduatesEstimateBasis": "national IP/CFT construction catalogue at this regional sede; arancel varies; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "BIM",
       "CAD/CAM",
@@ -36164,7 +34414,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://www.aiep.cl/",
     "lat": -35.4264,
     "lon": -71.6554,
@@ -36190,7 +34440,7 @@
     "cost": null,
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national IP/CFT construction catalogue at this regional sede; arancel varies; intake not published",
+    "graduatesEstimateBasis": "national IP/CFT construction catalogue at this regional sede; arancel varies; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "BIM",
       "CAD/CAM",
@@ -36207,7 +34457,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://www.aiep.cl/",
     "lat": -36.827,
     "lon": -73.0503,
@@ -36233,7 +34483,7 @@
     "cost": null,
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national IP/CFT construction catalogue at this regional sede; arancel varies; intake not published",
+    "graduatesEstimateBasis": "national IP/CFT construction catalogue at this regional sede; arancel varies; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "BIM",
       "CAD/CAM",
@@ -36250,7 +34500,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://www.aiep.cl/",
     "lat": -38.7359,
     "lon": -72.5904,
@@ -36276,7 +34526,7 @@
     "cost": null,
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "national IP/CFT construction catalogue at this regional sede; arancel varies; intake not published",
+    "graduatesEstimateBasis": "national IP/CFT construction catalogue at this regional sede; arancel varies; intake not published [DELIVERY INFERRED from the institution's national construction catalogue; not individually verified at this specific location]",
     "topics": [
       "BIM",
       "CAD/CAM",
@@ -36293,7 +34543,7 @@
       "Construction Management",
       "Civil Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://www.aiep.cl/",
     "lat": -41.4693,
     "lon": -72.9424,
@@ -36337,6 +34587,766 @@
     "lat": -41.4693,
     "lon": -72.9424,
     "geoSource": "manual:regional capital",
+    "lastChecked": "2026-07-27",
+    "region": "South America",
+    "costCurrency": "CLP"
+  },
+  {
+    "name": "CFT Estatal Región de Coquimbo",
+    "country": "Chile",
+    "city": "Ovalle",
+    "programs": [
+      "Técnico de Nivel Superior en Construcción / Edificación"
+    ],
+    "programLinks": [
+      "https://cftregioncoquimbo.cl/carreras/tns-construccion/"
+    ],
+    "accreditation": [],
+    "language": "Spanish",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "0",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "state CFT (gratuidad); TNS en Construcción/Edificación with construction software; intake not published",
+    "topics": [
+      "CAD/CAM",
+      "Construction Management",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Construction Management",
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://cftregioncoquimbo.cl/carreras/tns-construccion/",
+    "lat": -30.6017,
+    "lon": -71.1996,
+    "geoSource": "manual:city",
+    "lastChecked": "2026-07-27",
+    "region": "South America",
+    "costCurrency": "CLP"
+  },
+  {
+    "name": "CFT Estatal Región del Biobío",
+    "country": "Chile",
+    "city": "Los Ángeles",
+    "programs": [
+      "Técnico de Nivel Superior en Construcción / Edificación"
+    ],
+    "programLinks": [
+      "https://www.cftestatalbiobio.cl/carreras/tns-construccion/"
+    ],
+    "accreditation": [],
+    "language": "Spanish",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "0",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "state CFT (gratuidad); TNS en Construcción/Edificación with construction software; intake not published",
+    "topics": [
+      "CAD/CAM",
+      "Construction Management",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Construction Management",
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.cftestatalbiobio.cl/carreras/tns-construccion/",
+    "lat": -37.4697,
+    "lon": -72.3536,
+    "geoSource": "manual:city",
+    "lastChecked": "2026-07-27",
+    "region": "South America",
+    "costCurrency": "CLP"
+  },
+  {
+    "name": "SENCICO — Sede Lima",
+    "country": "Peru",
+    "city": "Lima",
+    "programs": [
+      "Edificaciones y Obras Civiles",
+      "Topografía y Geodesia",
+      "Administración de Obras de Construcción Civil",
+      "Dibujo Digital Aplicado a la Construcción (BIM)",
+      "Geomática"
+    ],
+    "programLinks": [
+      "https://escuela.sencico.gob.pe/edificacines/",
+      "https://escuela.sencico.gob.pe/topografia-y-geodesia/",
+      "https://escuela.sencico.gob.pe/adminstracion-de-obras/",
+      "https://escuela.sencico.gob.pe/dibujo_digital/",
+      "https://escuela.sencico.gob.pe/geomatica/"
+    ],
+    "accreditation": [],
+    "language": "Spanish",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "2,300",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "SENCICO EST construction carreras (título a nombre de la nación); monthly fee S/230 annualised x10; intake not published",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "GIS & BIM Integration",
+      "3D Modeling & Scanning",
+      "Construction Management",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM",
+      "GIS & BIM Integration",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Construction Management",
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://escuela.sencico.gob.pe/",
+    "lat": -12.0464,
+    "lon": -77.0428,
+    "geoSource": "manual:city",
+    "lastChecked": "2026-07-27",
+    "region": "South America",
+    "costCurrency": "PEN"
+  },
+  {
+    "name": "SENCICO — Sede Arequipa",
+    "country": "Peru",
+    "city": "Arequipa",
+    "programs": [
+      "Edificaciones y Obras Civiles",
+      "Topografía y Geodesia",
+      "Administración de Obras de Construcción Civil",
+      "Dibujo Digital Aplicado a la Construcción (BIM)",
+      "Geomática"
+    ],
+    "programLinks": [
+      "https://escuela.sencico.gob.pe/edificacines/",
+      "https://escuela.sencico.gob.pe/topografia-y-geodesia/",
+      "https://escuela.sencico.gob.pe/adminstracion-de-obras/",
+      "https://escuela.sencico.gob.pe/dibujo_digital/",
+      "https://escuela.sencico.gob.pe/geomatica/"
+    ],
+    "accreditation": [],
+    "language": "Spanish",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "2,300",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "SENCICO EST construction carreras (título a nombre de la nación); monthly fee S/230 annualised x10; intake not published",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "GIS & BIM Integration",
+      "3D Modeling & Scanning",
+      "Construction Management",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM",
+      "GIS & BIM Integration",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Construction Management",
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://escuela.sencico.gob.pe/",
+    "lat": -16.409,
+    "lon": -71.5375,
+    "geoSource": "manual:city",
+    "lastChecked": "2026-07-27",
+    "region": "South America",
+    "costCurrency": "PEN"
+  },
+  {
+    "name": "SENCICO — Sede Chiclayo",
+    "country": "Peru",
+    "city": "Chiclayo",
+    "programs": [
+      "Edificaciones y Obras Civiles",
+      "Topografía y Geodesia",
+      "Administración de Obras de Construcción Civil",
+      "Dibujo Digital Aplicado a la Construcción (BIM)",
+      "Geomática"
+    ],
+    "programLinks": [
+      "https://escuela.sencico.gob.pe/edificacines/",
+      "https://escuela.sencico.gob.pe/topografia-y-geodesia/",
+      "https://escuela.sencico.gob.pe/adminstracion-de-obras/",
+      "https://escuela.sencico.gob.pe/dibujo_digital/",
+      "https://escuela.sencico.gob.pe/geomatica/"
+    ],
+    "accreditation": [],
+    "language": "Spanish",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "2,300",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "SENCICO EST construction carreras (título a nombre de la nación); monthly fee S/230 annualised x10; intake not published",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "GIS & BIM Integration",
+      "3D Modeling & Scanning",
+      "Construction Management",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM",
+      "GIS & BIM Integration",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Construction Management",
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://escuela.sencico.gob.pe/",
+    "lat": -6.7714,
+    "lon": -79.8409,
+    "geoSource": "manual:city",
+    "lastChecked": "2026-07-27",
+    "region": "South America",
+    "costCurrency": "PEN"
+  },
+  {
+    "name": "SENCICO — Sede Cusco",
+    "country": "Peru",
+    "city": "Cusco",
+    "programs": [
+      "Edificaciones y Obras Civiles",
+      "Topografía y Geodesia",
+      "Administración de Obras de Construcción Civil",
+      "Dibujo Digital Aplicado a la Construcción (BIM)",
+      "Geomática"
+    ],
+    "programLinks": [
+      "https://escuela.sencico.gob.pe/edificacines/",
+      "https://escuela.sencico.gob.pe/topografia-y-geodesia/",
+      "https://escuela.sencico.gob.pe/adminstracion-de-obras/",
+      "https://escuela.sencico.gob.pe/dibujo_digital/",
+      "https://escuela.sencico.gob.pe/geomatica/"
+    ],
+    "accreditation": [],
+    "language": "Spanish",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "2,300",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "SENCICO EST construction carreras (título a nombre de la nación); monthly fee S/230 annualised x10; intake not published",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "GIS & BIM Integration",
+      "3D Modeling & Scanning",
+      "Construction Management",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM",
+      "GIS & BIM Integration",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Construction Management",
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://escuela.sencico.gob.pe/",
+    "lat": -13.5319,
+    "lon": -71.9675,
+    "geoSource": "manual:city",
+    "lastChecked": "2026-07-27",
+    "region": "South America",
+    "costCurrency": "PEN"
+  },
+  {
+    "name": "SENCICO — Sede Piura",
+    "country": "Peru",
+    "city": "Piura",
+    "programs": [
+      "Edificaciones y Obras Civiles",
+      "Topografía y Geodesia",
+      "Administración de Obras de Construcción Civil",
+      "Dibujo Digital Aplicado a la Construcción (BIM)",
+      "Geomática"
+    ],
+    "programLinks": [
+      "https://escuela.sencico.gob.pe/edificacines/",
+      "https://escuela.sencico.gob.pe/topografia-y-geodesia/",
+      "https://escuela.sencico.gob.pe/adminstracion-de-obras/",
+      "https://escuela.sencico.gob.pe/dibujo_digital/",
+      "https://escuela.sencico.gob.pe/geomatica/"
+    ],
+    "accreditation": [],
+    "language": "Spanish",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "2,300",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "SENCICO EST construction carreras (título a nombre de la nación); monthly fee S/230 annualised x10; intake not published",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "GIS & BIM Integration",
+      "3D Modeling & Scanning",
+      "Construction Management",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM",
+      "GIS & BIM Integration",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Construction Management",
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://escuela.sencico.gob.pe/",
+    "lat": -5.1945,
+    "lon": -80.6328,
+    "geoSource": "manual:city",
+    "lastChecked": "2026-07-27",
+    "region": "South America",
+    "costCurrency": "PEN"
+  },
+  {
+    "name": "SENCICO — Sede Trujillo",
+    "country": "Peru",
+    "city": "Trujillo",
+    "programs": [
+      "Edificaciones y Obras Civiles",
+      "Topografía y Geodesia",
+      "Administración de Obras de Construcción Civil",
+      "Dibujo Digital Aplicado a la Construcción (BIM)",
+      "Geomática"
+    ],
+    "programLinks": [
+      "https://escuela.sencico.gob.pe/edificacines/",
+      "https://escuela.sencico.gob.pe/topografia-y-geodesia/",
+      "https://escuela.sencico.gob.pe/adminstracion-de-obras/",
+      "https://escuela.sencico.gob.pe/dibujo_digital/",
+      "https://escuela.sencico.gob.pe/geomatica/"
+    ],
+    "accreditation": [],
+    "language": "Spanish",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "2,300",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "SENCICO EST construction carreras (título a nombre de la nación); monthly fee S/230 annualised x10; intake not published",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "GIS & BIM Integration",
+      "3D Modeling & Scanning",
+      "Construction Management",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM",
+      "GIS & BIM Integration",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Construction Management",
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://escuela.sencico.gob.pe/",
+    "lat": -8.109,
+    "lon": -79.0215,
+    "geoSource": "manual:city",
+    "lastChecked": "2026-07-27",
+    "region": "South America",
+    "costCurrency": "PEN"
+  },
+  {
+    "name": "SENCICO — Sede Ayacucho",
+    "country": "Peru",
+    "city": "Ayacucho",
+    "programs": [
+      "Edificaciones y Obras Civiles",
+      "Topografía y Geodesia",
+      "Administración de Obras de Construcción Civil"
+    ],
+    "programLinks": [
+      "https://escuela.sencico.gob.pe/edificacines/",
+      "https://escuela.sencico.gob.pe/topografia-y-geodesia/",
+      "https://escuela.sencico.gob.pe/adminstracion-de-obras/"
+    ],
+    "accreditation": [],
+    "language": "Spanish",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "2,300",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "SENCICO EST construction carreras (título a nombre de la nación); monthly fee S/230 annualised x10; intake not published",
+    "topics": [
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Construction Management",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Construction Management",
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://escuela.sencico.gob.pe/",
+    "lat": -13.1583,
+    "lon": -74.2239,
+    "geoSource": "manual:city",
+    "lastChecked": "2026-07-27",
+    "region": "South America",
+    "costCurrency": "PEN"
+  },
+  {
+    "name": "SENCICO — Sede Tacna",
+    "country": "Peru",
+    "city": "Tacna",
+    "programs": [
+      "Edificaciones y Obras Civiles",
+      "Topografía y Geodesia",
+      "Administración de Obras de Construcción Civil"
+    ],
+    "programLinks": [
+      "https://escuela.sencico.gob.pe/edificacines/",
+      "https://escuela.sencico.gob.pe/topografia-y-geodesia/",
+      "https://escuela.sencico.gob.pe/adminstracion-de-obras/"
+    ],
+    "accreditation": [],
+    "language": "Spanish",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "2,300",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "SENCICO EST construction carreras (título a nombre de la nación); monthly fee S/230 annualised x10; intake not published",
+    "topics": [
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Construction Management",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Construction Management",
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://escuela.sencico.gob.pe/",
+    "lat": -18.0066,
+    "lon": -70.2463,
+    "geoSource": "manual:city",
+    "lastChecked": "2026-07-27",
+    "region": "South America",
+    "costCurrency": "PEN"
+  },
+  {
+    "name": "SENCICO — Sede Huancayo",
+    "country": "Peru",
+    "city": "Huancayo",
+    "programs": [
+      "Edificaciones y Obras Civiles",
+      "Topografía y Geodesia",
+      "Administración de Obras de Construcción Civil"
+    ],
+    "programLinks": [
+      "https://escuela.sencico.gob.pe/edificacines/",
+      "https://escuela.sencico.gob.pe/topografia-y-geodesia/",
+      "https://escuela.sencico.gob.pe/adminstracion-de-obras/"
+    ],
+    "accreditation": [],
+    "language": "Spanish",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "2,300",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "SENCICO EST construction carreras (título a nombre de la nación); monthly fee S/230 annualised x10; intake not published",
+    "topics": [
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Construction Management",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Construction Management",
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://escuela.sencico.gob.pe/",
+    "lat": -12.0686,
+    "lon": -75.2103,
+    "geoSource": "manual:city",
+    "lastChecked": "2026-07-27",
+    "region": "South America",
+    "costCurrency": "PEN"
+  },
+  {
+    "name": "SENCICO — Sede Iquitos",
+    "country": "Peru",
+    "city": "Iquitos",
+    "programs": [
+      "Edificaciones y Obras Civiles",
+      "Topografía y Geodesia",
+      "Administración de Obras de Construcción Civil"
+    ],
+    "programLinks": [
+      "https://escuela.sencico.gob.pe/edificacines/",
+      "https://escuela.sencico.gob.pe/topografia-y-geodesia/",
+      "https://escuela.sencico.gob.pe/adminstracion-de-obras/"
+    ],
+    "accreditation": [],
+    "language": "Spanish",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "2,300",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "SENCICO EST construction carreras (título a nombre de la nación); monthly fee S/230 annualised x10; intake not published",
+    "topics": [
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Construction Management",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Construction Management",
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://escuela.sencico.gob.pe/",
+    "lat": -3.7491,
+    "lon": -73.2538,
+    "geoSource": "manual:city",
+    "lastChecked": "2026-07-27",
+    "region": "South America",
+    "costCurrency": "PEN"
+  },
+  {
+    "name": "SENCICO — Sede Cajamarca",
+    "country": "Peru",
+    "city": "Cajamarca",
+    "programs": [
+      "Edificaciones y Obras Civiles",
+      "Topografía y Geodesia",
+      "Administración de Obras de Construcción Civil"
+    ],
+    "programLinks": [
+      "https://escuela.sencico.gob.pe/edificacines/",
+      "https://escuela.sencico.gob.pe/topografia-y-geodesia/",
+      "https://escuela.sencico.gob.pe/adminstracion-de-obras/"
+    ],
+    "accreditation": [],
+    "language": "Spanish",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "2,300",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "SENCICO EST construction carreras (título a nombre de la nación); monthly fee S/230 annualised x10; intake not published",
+    "topics": [
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Construction Management",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Construction Management",
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://escuela.sencico.gob.pe/",
+    "lat": -7.1638,
+    "lon": -78.5003,
+    "geoSource": "manual:city",
+    "lastChecked": "2026-07-27",
+    "region": "South America",
+    "costCurrency": "PEN"
+  },
+  {
+    "name": "SENCICO — Sede Pucallpa",
+    "country": "Peru",
+    "city": "Pucallpa",
+    "programs": [
+      "Edificaciones y Obras Civiles",
+      "Topografía y Geodesia",
+      "Administración de Obras de Construcción Civil"
+    ],
+    "programLinks": [
+      "https://escuela.sencico.gob.pe/edificacines/",
+      "https://escuela.sencico.gob.pe/topografia-y-geodesia/",
+      "https://escuela.sencico.gob.pe/adminstracion-de-obras/"
+    ],
+    "accreditation": [],
+    "language": "Spanish",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "2,300",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "SENCICO EST construction carreras (título a nombre de la nación); monthly fee S/230 annualised x10; intake not published",
+    "topics": [
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Construction Management",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Construction Management",
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://escuela.sencico.gob.pe/",
+    "lat": -8.3791,
+    "lon": -74.5539,
+    "geoSource": "manual:city",
+    "lastChecked": "2026-07-27",
+    "region": "South America",
+    "costCurrency": "PEN"
+  },
+  {
+    "name": "SENCICO — Sede Puno",
+    "country": "Peru",
+    "city": "Puno",
+    "programs": [
+      "Edificaciones y Obras Civiles",
+      "Topografía y Geodesia",
+      "Administración de Obras de Construcción Civil"
+    ],
+    "programLinks": [
+      "https://escuela.sencico.gob.pe/edificacines/",
+      "https://escuela.sencico.gob.pe/topografia-y-geodesia/",
+      "https://escuela.sencico.gob.pe/adminstracion-de-obras/"
+    ],
+    "accreditation": [],
+    "language": "Spanish",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "2,300",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "SENCICO EST construction carreras (título a nombre de la nación); monthly fee S/230 annualised x10; intake not published",
+    "topics": [
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Construction Management",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Construction Management",
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://escuela.sencico.gob.pe/",
+    "lat": -15.8402,
+    "lon": -70.0219,
+    "geoSource": "manual:city",
+    "lastChecked": "2026-07-27",
+    "region": "South America",
+    "costCurrency": "PEN"
+  },
+  {
+    "name": "INACAP (Instituto Profesional / CFT)",
+    "country": "Chile",
+    "city": "Santiago",
+    "programs": [
+      "Técnico en Construcción",
+      "Ingeniería en Construcción",
+      "Construcción Civil"
+    ],
+    "programLinks": [
+      "https://portal.inacap.cl/carreras/area-construccion/tecnico-en-construccion",
+      "https://portal.inacap.cl/carreras/area-construccion/ingenieria-en-construccion",
+      "https://portal.inacap.cl/carreras/area-construccion/construccion-civil"
+    ],
+    "accreditation": [],
+    "language": "Spanish",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "cost": "870,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "INACAP Área Construcción carreras (BIM/Revit/AutoCAD/ARCGIS); delivered nationally across ~19 sedes per INACAP — no accessible per-sede delivery list published, so represented at national level; diploma arancel ~CLP 870,000/yr; intake not published",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "GIS & BIM Integration",
+      "3D Modeling & Scanning",
+      "Construction Management",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM",
+      "GIS & BIM Integration",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Construction Management",
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://portal.inacap.cl/carreras/area-construccion",
+    "lat": -33.3897,
+    "lon": -70.568,
+    "geoSource": "national HQ (Sede Central, Vitacura)",
     "lastChecked": "2026-07-27",
     "region": "South America",
     "costCurrency": "CLP"
