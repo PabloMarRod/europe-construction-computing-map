@@ -2207,16 +2207,17 @@
         
         // Parse cost into range category
         // Local-currency -> EUR multipliers (indicative, ~Jul 2026) for cost normalisation & display
-        const TO_EUR = { EUR:1, GBP:1.183, CHF:1.064, SEK:0.0885, NOK:0.0862, DKK:0.134, ISK:0.00667,
+        const TO_EUR = { CAD:0.68, PYG:0.00012, EUR:1, GBP:1.183, CHF:1.064, SEK:0.0885, NOK:0.0862, DKK:0.134, ISK:0.00667,
             PLN:0.2353, CZK:0.0403, HUF:0.002532, TRY:0.02083, RON:0.1976, RSD:0.008532, ALL:0.010204,
-            MDL:0.05155, BAM:0.5113, MKD:0.01626, RUB:0.01115, UAH:0.0196, BYN:0.303, CLP:0.00098 };
-        const CUR_SYMBOL = { EUR:'\u20AC', GBP:'\u00A3', USD:'$', CLP:'$' };
+            MDL:0.05155, BAM:0.5113, MKD:0.01626, RUB:0.01115, UAH:0.0196, BYN:0.303, CLP:0.00098, PEN:0.24, USD:0.92, COP:0.00023, ARS:0.0008, UYU:0.022, BRL:0.16, GYD:0.0044 };
+        const CUR_SYMBOL = { ALL:'L',BAM:'KM',BYN:'Br',CHF:'CHF',CZK:'Kč',DKK:'kr',HUF:'Ft',ISK:'kr',MDL:'L',MKD:'ден',NOK:'kr',PLN:'zł',RON:'lei',RSD:'дин',RUB:'₽',SEK:'kr',TRY:'₺',UAH:'₴', CAD:'C$', PYG:'₲', EUR:'\u20AC', GBP:'\u00A3', USD:'$', CLP:'$', PEN:'S/', COP:'$', ARS:'$', UYU:'$U', BRL:'R$', GYD:'G$' };
 
         // Format a cost string with its currency (symbol prefix for €/£/$, ISO-code suffix otherwise)
         function formatCost(cost, cur) {
             cur = cur || 'EUR';
             const c = (cost === undefined || cost === null || cost === '') ? '—' : String(cost);
             const sym = CUR_SYMBOL[cur];
+            if (!/\d/.test(c)) return c;   // Free / Variable / — : no currency symbol
             return sym ? sym + c : c + '\u00A0' + cur;
         }
 

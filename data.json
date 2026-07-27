@@ -17498,10 +17498,10 @@
     "language": "Spanish",
     "mode": "Part-time",
     "delivery": "Hybrid",
-    "cost": null,
+    "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations) ; free continuing-education diplomado (open to UDP alumni only) — UDP",
     "topics": [
       "BIM",
       "BIM Software",
@@ -17674,10 +17674,10 @@
     "language": "Spanish",
     "mode": "Part-time",
     "delivery": "Online",
-    "cost": null,
+    "cost": "1,170,000",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "intake not published (intake, not graduations)",
+    "graduatesEstimateBasis": "intake not published (intake, not graduations) ; cost: Diplomado BIM CLP 1,170,000 (published)",
     "topics": [
       "BIM",
       "BIM Software",
@@ -22655,10 +22655,10 @@
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "2,710,000",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations) ; cost: Diplomado BIM COP 2,710,000 (published)",
     "topics": [
       "BIM",
       "BIM Software",
@@ -22698,10 +22698,10 @@
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "1,800,000",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations) ; cost: Diplomado Metodología BIM COP 1,800,000 (published)",
     "topics": [
       "BIM",
       "BIM Software",
@@ -22741,10 +22741,10 @@
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "Online",
-    "cost": null,
+    "cost": "12,368,000",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations) ; Especialización BIM: COP 6,184,000/semestre x 2 semestres = 12,368,000 total (UTADEO published)",
     "topics": [
       "BIM",
       "BIM Software",
@@ -24184,10 +24184,10 @@
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "12,066,000",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations) ; Ing. Civil arancel: matrícula ARS 1,446,000 + cuota ARS 1,062,000/mes x10 (published)",
     "topics": [
       "CAD/CAM",
       "Civil Engineering",
@@ -24223,10 +24223,10 @@
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "7,217,520",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations) ; Ing. Civil arancel: matrícula ARS 1,000,000 + cuota ARS 621,752/mes x10 (published)",
     "topics": [
       "CAD/CAM",
       "Civil Engineering",
@@ -24262,10 +24262,10 @@
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "3,864,480",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations) ; Ing. Civil arancel: matrícula ARS 377,600 + cuota ARS 348,688/mes x10 (published)",
     "topics": [
       "CAD/CAM",
       "Civil Engineering",
@@ -24301,10 +24301,10 @@
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "8,402,000",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations) ; Ing. Civil arancel: matrícula ARS 1,122,000 + cuota ARS 728,000/mes x10 (published)",
     "topics": [
       "CAD/CAM",
       "Civil Engineering",
@@ -24340,10 +24340,10 @@
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "2,735,250-3,300,000",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations) ; Ing. Civil arancel: matrícula ARS 300,000 + cuota ARS 243,525–300,000/mes x10 (published)",
     "topics": [
       "CAD/CAM",
       "Civil Engineering",
@@ -24574,10 +24574,10 @@
     "language": "English",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "6,916-9,571",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "research/PhD record; intake not published",
+    "graduatesEstimateBasis": "research/PhD record; intake not published ; PhD Civil Eng annual tuition CAD 6,916 (domestic) – 9,571 (intl) (UVic published)",
     "topics": [
       "Construction Informatics",
       "Data Management",
@@ -31075,10 +31075,10 @@
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "2,000,000",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "AIEP construction carreras (CAD/BIM); delivered across AIEP sedes nationally — no accessible per-carrera sede list published, represented at national level; intake not published",
+    "graduatesEstimateBasis": "AIEP construction carreras (CAD/BIM); delivered across AIEP sedes nationally — no accessible per-carrera sede list published, represented at national level; intake not published ; cost: arancel CLP 2,000,000/yr (published)",
     "topics": [
       "BIM",
       "CAD/CAM",
@@ -31120,10 +31120,10 @@
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "0-6,400,000",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "Santo Tomás CFT/IP construction carreras (Construcciones Civiles uses BIM; Topografía); delivered across ST sedes nationally — no accessible per-carrera sede list, national level; intake not published",
+    "graduatesEstimateBasis": "Santo Tomás CFT/IP construction carreras (Construcciones Civiles uses BIM; Topografía); delivered across ST sedes nationally — no accessible per-carrera sede list, national level; intake not published ; cost: arancel CLP 0 (gratuidad) – 6,400,000/yr (published)",
     "topics": [
       "BIM",
       "CAD/CAM",
@@ -31169,10 +31169,10 @@
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "3,460,000",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "DUOC UC Escuela de Construcción; carreras verified as delivered at this sede per DUOC official carrera brochure; intake not published",
+    "graduatesEstimateBasis": "DUOC UC Escuela de Construcción; carreras verified as delivered at this sede per DUOC official carrera brochure; intake not published ; arancel Ing. en Construcción $346.000/mes annualised x10 = CLP 3,460,000/yr (DUOC published)",
     "topics": [
       "3D Modeling & Scanning",
       "Architecture",
@@ -31220,10 +31220,10 @@
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "3,460,000",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "DUOC UC Escuela de Construcción; carreras verified as delivered at this sede per DUOC official carrera brochure; intake not published",
+    "graduatesEstimateBasis": "DUOC UC Escuela de Construcción; carreras verified as delivered at this sede per DUOC official carrera brochure; intake not published ; arancel Ing. en Construcción $346.000/mes annualised x10 = CLP 3,460,000/yr (DUOC published)",
     "topics": [
       "3D Modeling & Scanning",
       "Architecture",
@@ -31267,10 +31267,10 @@
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "3,460,000",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "DUOC UC Escuela de Construcción; carreras verified as delivered at this sede per DUOC official carrera brochure; intake not published",
+    "graduatesEstimateBasis": "DUOC UC Escuela de Construcción; carreras verified as delivered at this sede per DUOC official carrera brochure; intake not published ; arancel Ing. en Construcción $346.000/mes annualised x10 = CLP 3,460,000/yr (DUOC published)",
     "topics": [
       "BIM",
       "CAD/CAM",
@@ -31310,10 +31310,10 @@
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "3,460,000",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "DUOC UC Escuela de Construcción; carreras verified as delivered at this sede per DUOC official carrera brochure; intake not published",
+    "graduatesEstimateBasis": "DUOC UC Escuela de Construcción; carreras verified as delivered at this sede per DUOC official carrera brochure; intake not published ; arancel Ing. en Construcción $346.000/mes annualised x10 = CLP 3,460,000/yr (DUOC published)",
     "topics": [
       "BIM",
       "CAD/CAM",
@@ -31355,10 +31355,10 @@
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "3,460,000",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "DUOC UC Escuela de Construcción; carreras verified as delivered at this sede per DUOC official carrera brochure; intake not published",
+    "graduatesEstimateBasis": "DUOC UC Escuela de Construcción; carreras verified as delivered at this sede per DUOC official carrera brochure; intake not published ; arancel Ing. en Construcción $346.000/mes annualised x10 = CLP 3,460,000/yr (DUOC published)",
     "topics": [
       "3D Modeling & Scanning",
       "Architecture",
@@ -31406,10 +31406,10 @@
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "3,460,000",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "DUOC UC Escuela de Construcción; carreras verified as delivered at this sede per DUOC official carrera brochure; intake not published",
+    "graduatesEstimateBasis": "DUOC UC Escuela de Construcción; carreras verified as delivered at this sede per DUOC official carrera brochure; intake not published ; arancel Ing. en Construcción $346.000/mes annualised x10 = CLP 3,460,000/yr (DUOC published)",
     "topics": [
       "3D Modeling & Scanning",
       "Architecture",
@@ -31457,10 +31457,10 @@
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "3,460,000",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "DUOC UC Escuela de Construcción; carreras verified as delivered at this sede per DUOC official carrera brochure; intake not published",
+    "graduatesEstimateBasis": "DUOC UC Escuela de Construcción; carreras verified as delivered at this sede per DUOC official carrera brochure; intake not published ; arancel Ing. en Construcción $346.000/mes annualised x10 = CLP 3,460,000/yr (DUOC published)",
     "topics": [
       "3D Modeling & Scanning",
       "Architecture",
@@ -31506,10 +31506,10 @@
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "3,460,000",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "DUOC UC Escuela de Construcción; carreras verified as delivered at this sede per DUOC official carrera brochure; intake not published",
+    "graduatesEstimateBasis": "DUOC UC Escuela de Construcción; carreras verified as delivered at this sede per DUOC official carrera brochure; intake not published ; arancel Ing. en Construcción $346.000/mes annualised x10 = CLP 3,460,000/yr (DUOC published)",
     "topics": [
       "3D Modeling & Scanning",
       "BIM",
@@ -33553,5 +33553,128 @@
     "lastChecked": "2026-07-27",
     "region": "South America",
     "costCurrency": "COP"
+  },
+  {
+    "name": "Universidad Nacional de Asunción (UNA) — FADA",
+    "country": "Paraguay",
+    "city": "San Lorenzo",
+    "programs": [
+      "Diplomado en Modelado de Información para la Construcción (BIM)"
+    ],
+    "programLinks": [
+      "https://fada.una.py/diplomado-modelado-de-informacion-para-la-construccion/"
+    ],
+    "accreditation": [],
+    "language": "Spanish",
+    "mode": "Part-time",
+    "delivery": "In person",
+    "cost": "2,400,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "FADA/UNA BIM diploma (Modelado de Información para la Construcción), 216 hours; computing content (BIM) is the programme's core; postgraduate diploma; intake not published ; cost: Diplomado BIM PYG 2,400,000 (total) (published)",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://fada.una.py/diplomado-modelado-de-informacion-para-la-construccion/",
+    "lat": -25.3419,
+    "lon": -57.5089,
+    "geoSource": "manual:city",
+    "lastChecked": "2026-07-27",
+    "region": "South America",
+    "costCurrency": "PYG"
+  },
+  {
+    "name": "Universidad Autónoma del Paraguay (UAP)",
+    "country": "Paraguay",
+    "city": "Asunción",
+    "programs": [
+      "Diplomado en Modelación BIM"
+    ],
+    "programLinks": [
+      "https://uap.edu.py/diplomado-en-modelacion-bim/"
+    ],
+    "accreditation": [],
+    "language": "Spanish",
+    "mode": "Part-time",
+    "delivery": "In person",
+    "cost": "1,900,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "BIM modelling diploma; computing content (BIM) is the programme's core; user-supplied URL, site bot-blocks automated checks so content not auto-verified; postgraduate diploma; intake not published ; cost: Diplomado Modelación BIM PYG 1,900,000 (total) (published)",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://uap.edu.py/diplomado-en-modelacion-bim/",
+    "lat": -25.2637,
+    "lon": -57.5759,
+    "geoSource": "manual:city",
+    "lastChecked": "2026-07-27",
+    "region": "South America",
+    "costCurrency": "PYG"
+  },
+  {
+    "name": "Universidad Paraguayo Alemana (UPA)",
+    "country": "Paraguay",
+    "city": "San Lorenzo",
+    "programs": [
+      "Diplomado en Metodología BIM"
+    ],
+    "programLinks": [
+      "https://upabs.edu.py/business-information-modelling-bim/"
+    ],
+    "accreditation": [],
+    "language": "Spanish",
+    "mode": "Part-time",
+    "delivery": "In person",
+    "cost": "1,099",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "UPA (binational PY-DE) BIM methodology diploma via UPA Business School; computing content (BIM for construction coordination/planning) is the programme's core; postgraduate diploma; intake not published ; cost: USD 1,099 (UPA published)",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://upabs.edu.py/business-information-modelling-bim/",
+    "lat": -25.3419,
+    "lon": -57.5089,
+    "geoSource": "manual:city",
+    "lastChecked": "2026-07-27",
+    "region": "South America",
+    "costCurrency": "USD"
   }
 ]
