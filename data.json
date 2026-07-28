@@ -24877,9 +24877,9 @@
       "Doutorado em Engenharia Civil"
     ],
     "programLinks": [
-      "https://www.usp.br/",
-      "https://www.usp.br/",
-      "https://www.usp.br/"
+      "https://www5.usp.br/ensino/graduacao/cursos-oferecidos/engenharia-civil/",
+      "https://www.fau.usp.br/ensino/graduacao/arquitetura-e-urbanismo/",
+      "https://ppgec.poli.usp.br/"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -24906,7 +24906,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.usp.br/",
+    "website": "https://www5.usp.br/ensino/graduacao/cursos-oferecidos/engenharia-civil/",
     "lat": -23.5595,
     "lon": -46.7292,
     "geoSource": "manual:city",
@@ -24924,9 +24924,9 @@
       "Doutorado em Engenharia Civil"
     ],
     "programLinks": [
-      "https://www.unicamp.br/",
-      "https://www.unicamp.br/",
-      "https://www.unicamp.br/"
+      "https://upa.unicamp.br/engenharia-civil/",
+      "https://upa.unicamp.br/arquitetura-e-urbanismo/",
+      "https://www.fec.unicamp.br/"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -24953,7 +24953,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.unicamp.br/",
+    "website": "https://upa.unicamp.br/engenharia-civil/",
     "lat": -22.8175,
     "lon": -47.0694,
     "geoSource": "manual:city",
@@ -24971,9 +24971,9 @@
       "Arquitetura e Urbanismo"
     ],
     "programLinks": [
-      "https://www.unesp.br/",
-      "https://www.unesp.br/",
-      "https://www.unesp.br/"
+      "https://www.feg.unesp.br/#!/ensino/graduacao/cursos/graduacao-em-engenharia-civil/",
+      "https://www.fct.unesp.br/",
+      "https://www.faac.unesp.br/"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -25000,7 +25000,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.unesp.br/",
+    "website": "https://www.feg.unesp.br/#!/ensino/graduacao/cursos/graduacao-em-engenharia-civil/",
     "lat": -22.3126,
     "lon": -49.0685,
     "geoSource": "manual:city",
@@ -25018,9 +25018,9 @@
       "Doutorado em Engenharia Civil (COPPE)"
     ],
     "programLinks": [
-      "https://www.ufrj.br/",
-      "https://www.ufrj.br/",
-      "https://www.ufrj.br/"
+      "http://www.civil.poli.ufrj.br/",
+      "https://fau.ufrj.br/",
+      "http://www.coc.ufrj.br/"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -25047,7 +25047,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.ufrj.br/",
+    "website": "http://www.civil.poli.ufrj.br/",
     "lat": -22.8595,
     "lon": -43.2306,
     "geoSource": "manual:city",
@@ -25064,8 +25064,8 @@
       "Arquitetura e Urbanismo"
     ],
     "programLinks": [
-      "https://www.ufmg.br/",
-      "https://www.ufmg.br/"
+      "http://cms.ufmg.br/cursos/graduacao/2401/91074",
+      "https://sites.arq.ufmg.br/ea/ensino/graduacao/arquitetura-e-urbanismo/"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -25092,7 +25092,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.ufmg.br/",
+    "website": "http://cms.ufmg.br/cursos/graduacao/2401/91074",
     "lat": -19.87,
     "lon": -43.967,
     "geoSource": "manual:city",
@@ -25110,9 +25110,9 @@
       "Doutorado em Engenharia Civil (PPGEC-CI)"
     ],
     "programLinks": [
-      "https://www.ufrgs.br/",
-      "https://www.ufrgs.br/",
-      "https://www.ufrgs.br/"
+      "https://www.ufrgs.br/site/ensino/graduacao/engenharia-civil/",
+      "https://www.ufrgs.br/site/ensino/graduacao/arquitetura-e-urbanismo/",
+      "https://www.ufrgs.br/ppgec/"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -25139,7 +25139,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.ufrgs.br/",
+    "website": "https://www.ufrgs.br/site/ensino/graduacao/engenharia-civil/",
     "lat": -30.0346,
     "lon": -51.2177,
     "geoSource": "manual:city",
@@ -25157,9 +25157,9 @@
       "Doutorado em Arquitetura e Urbanismo (PósARQ)"
     ],
     "programLinks": [
-      "https://www.ufsc.br/",
-      "https://www.ufsc.br/",
-      "https://www.ufsc.br/"
+      "https://ecv.grad.ufsc.br/o-curso/",
+      "https://arquitetura.paginas.ufsc.br/",
+      "https://posarq.ufsc.br/"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -25186,7 +25186,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.ufsc.br/",
+    "website": "https://ecv.grad.ufsc.br/o-curso/",
     "lat": -27.6006,
     "lon": -48.52,
     "geoSource": "manual:city",
@@ -25204,9 +25204,9 @@
       "Doutorado em Ciências Geodésicas"
     ],
     "programLinks": [
-      "https://www.ufpr.br/",
-      "https://www.ufpr.br/",
-      "https://www.ufpr.br/"
+      "https://tecnologia.ufpr.br/ccec/",
+      "https://geomatica.ufpr.br/",
+      "http://www.cienciasgeodesicas.ufpr.br/portal/"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -25233,7 +25233,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.ufpr.br/",
+    "website": "https://tecnologia.ufpr.br/ccec/",
     "lat": -25.4489,
     "lon": -49.231,
     "geoSource": "manual:city",
@@ -25250,8 +25250,8 @@
       "Arquitetura e Urbanismo"
     ],
     "programLinks": [
-      "https://www.ufpe.br/",
-      "https://www.ufpe.br/"
+      "https://www.ufpe.br/engenharia-civil-bacharelado-caa",
+      "https://www.ufpe.br/arquitetura-e-urbanismo-bacharelado-cac"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -25278,7 +25278,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.ufpe.br/",
+    "website": "https://www.ufpe.br/engenharia-civil-bacharelado-caa",
     "lat": -8.0522,
     "lon": -34.9531,
     "geoSource": "manual:city",
@@ -25295,8 +25295,8 @@
       "Arquitetura e Urbanismo"
     ],
     "programLinks": [
-      "https://www.ufba.br/",
-      "https://www.ufba.br/"
+      "https://eng.ufba.br/curso-graduacao/engenharia-civil",
+      "https://ufba.br/cursos/arquitetura-e-urbanismo-0"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -25323,7 +25323,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.ufba.br/",
+    "website": "https://eng.ufba.br/curso-graduacao/engenharia-civil",
     "lat": -13.0026,
     "lon": -38.5089,
     "geoSource": "manual:city",
@@ -25340,8 +25340,8 @@
       "Arquitetura e Urbanismo"
     ],
     "programLinks": [
-      "https://www.ufc.br/",
-      "https://www.ufc.br/"
+      "https://prograd.ufc.br/pt/cursos-de-graduacao/engenharia-civil-fortaleza/",
+      "https://prograd.ufc.br/pt/cursos-de-graduacao/arquitetura-e-urbanismo-fortaleza/"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -25368,7 +25368,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.ufc.br/",
+    "website": "https://prograd.ufc.br/pt/cursos-de-graduacao/engenharia-civil-fortaleza/",
     "lat": -3.7448,
     "lon": -38.5742,
     "geoSource": "manual:city",
@@ -25385,8 +25385,8 @@
       "Arquitetura e Urbanismo"
     ],
     "programLinks": [
-      "https://www.ufpa.br/",
-      "https://www.ufpa.br/"
+      "https://ufpa.br/orgaos/engenharia-civil-bacharelado/",
+      "https://ufpa.br/orgaos/arquitetura-e-urbanismo-bacharelado/"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -25413,7 +25413,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.ufpa.br/",
+    "website": "https://ufpa.br/orgaos/engenharia-civil-bacharelado/",
     "lat": -1.4744,
     "lon": -48.455,
     "geoSource": "manual:city",
@@ -25430,8 +25430,8 @@
       "Arquitetura e Urbanismo"
     ],
     "programLinks": [
-      "https://www.uff.br/",
-      "https://www.uff.br/"
+      "https://www.uff.br/curso/engenharia-civil/",
+      "https://www.uff.br/curso/arquitetura-e-urbanismo/"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -25458,7 +25458,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.uff.br/",
+    "website": "https://www.uff.br/curso/engenharia-civil/",
     "lat": -22.9035,
     "lon": -43.1266,
     "geoSource": "manual:city",
@@ -25475,8 +25475,8 @@
       "Arquitetura e Urbanismo"
     ],
     "programLinks": [
-      "https://www.unb.br/",
-      "https://www.unb.br/"
+      "https://enc.unb.br/index.php/graduacao/cursos/engenharia-civil",
+      "https://fau.unb.br/graduacao/"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -25503,7 +25503,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.unb.br/",
+    "website": "https://enc.unb.br/index.php/graduacao/cursos/engenharia-civil",
     "lat": -15.765,
     "lon": -47.87,
     "geoSource": "manual:city",
@@ -25520,8 +25520,8 @@
       "Doutorado em Engenharia Civil (PPGECiv)"
     ],
     "programLinks": [
-      "https://www.ufscar.br/",
-      "https://www.ufscar.br/"
+      "https://www.deciv.ufscar.br/",
+      "http://www.ppgeciv.ufscar.br/"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -25544,7 +25544,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.ufscar.br/",
+    "website": "https://www.deciv.ufscar.br/",
     "lat": -21.984,
     "lon": -47.881,
     "geoSource": "manual:city",
@@ -25561,8 +25561,8 @@
       "Arquitetura e Urbanismo"
     ],
     "programLinks": [
-      "https://www.ufes.br/",
-      "https://www.ufes.br/"
+      "https://civil.ufes.br/pt-br/o-curso",
+      "https://arquitetura.ufes.br/"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -25589,7 +25589,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.ufes.br/",
+    "website": "https://civil.ufes.br/pt-br/o-curso",
     "lat": -20.277,
     "lon": -40.304,
     "geoSource": "manual:city",
@@ -25605,7 +25605,7 @@
       "Engenharia Civil"
     ],
     "programLinks": [
-      "https://www.ufg.br/"
+      "https://ufg.br/n/60517-cursos-engenharia-civil"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -25628,7 +25628,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.ufg.br/",
+    "website": "https://ufg.br/n/60517-cursos-engenharia-civil",
     "lat": -16.603,
     "lon": -49.265,
     "geoSource": "manual:city",
@@ -25645,8 +25645,8 @@
       "Arquitetura e Urbanismo"
     ],
     "programLinks": [
-      "https://www.ufpb.br/",
-      "https://www.ufpb.br/"
+      "http://www.ct.ufpb.br/ccec",
+      "https://www.ct.ufpb.br/ccau/"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -25673,7 +25673,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.ufpb.br/",
+    "website": "http://www.ct.ufpb.br/ccec",
     "lat": -7.137,
     "lon": -34.846,
     "geoSource": "manual:city",
@@ -25690,8 +25690,8 @@
       "Arquitetura e Urbanismo"
     ],
     "programLinks": [
-      "https://www.ufrn.br/",
-      "https://www.ufrn.br/"
+      "https://ct.ufrn.br/ensino/graduacao/civil/",
+      "https://www.ct.ufrn.br/ensino/graduacao/arquitetura/"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -25718,7 +25718,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.ufrn.br/",
+    "website": "https://ct.ufrn.br/ensino/graduacao/civil/",
     "lat": -5.843,
     "lon": -35.199,
     "geoSource": "manual:city",
@@ -25734,7 +25734,7 @@
       "Engenharia Civil"
     ],
     "programLinks": [
-      "https://www.ufam.edu.br/"
+      "https://www.arquivosdec.ufam.edu.br/excivis.html"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -25757,7 +25757,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.ufam.edu.br/",
+    "website": "https://www.arquivosdec.ufam.edu.br/excivis.html",
     "lat": -3.093,
     "lon": -59.972,
     "geoSource": "manual:city",
@@ -25774,8 +25774,8 @@
       "Arquitetura e Urbanismo"
     ],
     "programLinks": [
-      "https://www.ufu.br/",
-      "https://www.ufu.br/"
+      "https://feciv.ufu.br/",
+      "http://www0.ufu.br/catalogo_graduacao/cur_arquiteturaeurbanismo.html"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -25802,7 +25802,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.ufu.br/",
+    "website": "http://www0.ufu.br/catalogo_graduacao/cur_arquiteturaeurbanismo.html",
     "lat": -18.919,
     "lon": -48.257,
     "geoSource": "manual:city",
@@ -25819,8 +25819,8 @@
       "Arquitetura e Urbanismo"
     ],
     "programLinks": [
-      "https://www.ufjf.br/",
-      "https://www.ufjf.br/"
+      "https://www2.ufjf.br/engenhariacivil/",
+      "https://www2.ufjf.br/arquitetura/"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -25847,7 +25847,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.ufjf.br/",
+    "website": "https://www2.ufjf.br/engenhariacivil/",
     "lat": -21.777,
     "lon": -43.37,
     "geoSource": "manual:city",
@@ -25864,8 +25864,8 @@
       "Arquitetura e Urbanismo"
     ],
     "programLinks": [
-      "https://www.ufv.br/",
-      "https://www.ufv.br/"
+      "https://civ.ufv.br/",
+      "https://dau.ufv.br/"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -25892,7 +25892,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.ufv.br/",
+    "website": "https://civ.ufv.br/",
     "lat": -20.754,
     "lon": -42.869,
     "geoSource": "manual:city",
@@ -25908,7 +25908,7 @@
       "Engenharia Civil"
     ],
     "programLinks": [
-      "https://www.ufop.br/"
+      "https://seja.ufop.br/cursos"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -25931,7 +25931,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.ufop.br/",
+    "website": "https://seja.ufop.br/cursos",
     "lat": -20.398,
     "lon": -43.504,
     "geoSource": "manual:city",
@@ -25948,8 +25948,8 @@
       "Arquitetura e Urbanismo"
     ],
     "programLinks": [
-      "https://www.ufsm.br/",
-      "https://www.ufsm.br/"
+      "https://www.ufsm.br/cursos/graduacao/santa-maria/engenharia-civil",
+      "https://www.ufsm.br/cursos/graduacao/santa-maria/arquitetura-e-urbanismo"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -25976,7 +25976,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.ufsm.br/",
+    "website": "https://www.ufsm.br/cursos/graduacao/santa-maria/engenharia-civil",
     "lat": -29.715,
     "lon": -53.716,
     "geoSource": "manual:city",
@@ -25993,8 +25993,8 @@
       "Arquitetura e Urbanismo"
     ],
     "programLinks": [
-      "https://www.ufpel.edu.br/",
-      "https://www.ufpel.edu.br/"
+      "https://wp.ufpel.edu.br/engciv/curso/",
+      "http://faurb.ufpel.edu.br/"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -26021,7 +26021,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.ufpel.edu.br/",
+    "website": "https://wp.ufpel.edu.br/engciv/curso/",
     "lat": -31.771,
     "lon": -52.342,
     "geoSource": "manual:city",
@@ -26034,12 +26034,10 @@
     "country": "Brazil",
     "city": "Rio Grande",
     "programs": [
-      "Engenharia Civil",
-      "Arquitetura e Urbanismo"
+      "Engenharia Civil"
     ],
     "programLinks": [
-      "https://www.furg.br/",
-      "https://www.furg.br/"
+      "https://www.furg.br/graduacao/engenharia-civil"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -26066,7 +26064,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.furg.br/",
+    "website": "https://www.furg.br/graduacao/engenharia-civil",
     "lat": -32.077,
     "lon": -52.168,
     "geoSource": "manual:city",
@@ -26082,7 +26080,7 @@
       "Engenharia Civil"
     ],
     "programLinks": [
-      "https://www.ufcg.edu.br/"
+      "https://portal.ufcg.edu.br/graduacao/cursos-graduacao/297-engenharia-civil-2.html"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -26105,7 +26103,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.ufcg.edu.br/",
+    "website": "https://portal.ufcg.edu.br/graduacao/cursos-graduacao/297-engenharia-civil-2.html",
     "lat": -7.214,
     "lon": -35.904,
     "geoSource": "manual:city",
@@ -26122,8 +26120,8 @@
       "Arquitetura e Urbanismo"
     ],
     "programLinks": [
-      "https://www.ufs.br/",
-      "https://www.ufs.br/"
+      "https://dec.ufs.br/",
+      "https://www.sigaa.ufs.br/sigaa/public/curso/portal.jsf?id=320171&lc=pt_BR"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -26150,7 +26148,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.ufs.br/",
+    "website": "https://www.sigaa.ufs.br/sigaa/public/curso/portal.jsf?id=320171&lc=pt_BR",
     "lat": -10.925,
     "lon": -37.101,
     "geoSource": "manual:city",
@@ -26167,8 +26165,8 @@
       "Arquitetura e Urbanismo"
     ],
     "programLinks": [
-      "https://www.ufal.br/",
-      "https://www.ufal.br/"
+      "https://ctec.ufal.br/graduacao/engenharia-civil",
+      "https://fau.ufal.br/graduacao/arquitetura-e-urbanismo"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -26195,7 +26193,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.ufal.br/",
+    "website": "https://ctec.ufal.br/graduacao/engenharia-civil",
     "lat": -9.554,
     "lon": -35.773,
     "geoSource": "manual:city",
@@ -26212,8 +26210,8 @@
       "Arquitetura e Urbanismo"
     ],
     "programLinks": [
-      "https://www.ufpi.br/",
-      "https://www.ufpi.br/"
+      "https://ufpi.br/eng-civil",
+      "https://ufpi.br/arquitetura-ct"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -26240,7 +26238,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.ufpi.br/",
+    "website": "https://ufpi.br/eng-civil",
     "lat": -5.057,
     "lon": -42.796,
     "geoSource": "manual:city",
@@ -26257,8 +26255,8 @@
       "Arquitetura e Urbanismo"
     ],
     "programLinks": [
-      "https://www.ufma.br/",
-      "https://www.ufma.br/"
+      "https://portalpadrao.ufma.br/proen/campi-cursos/centro-de-ciencias-de-balsas/engenharia-civil",
+      "https://portalpadrao.ufma.br/site/ensino/graduacao/cursos"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -26285,7 +26283,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.ufma.br/",
+    "website": "https://portalpadrao.ufma.br/proen/campi-cursos/centro-de-ciencias-de-balsas/engenharia-civil",
     "lat": -2.559,
     "lon": -44.307,
     "geoSource": "manual:city",
@@ -26302,8 +26300,8 @@
       "Arquitetura e Urbanismo"
     ],
     "programLinks": [
-      "https://www.ufmt.br/",
-      "https://www.ufmt.br/"
+      "https://www.ufmt.br/ensino/busca/PRESENCIAL",
+      "https://www.ufmt.br/ensino/busca/PRESENCIAL"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -26330,7 +26328,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.ufmt.br/",
+    "website": "https://www.ufmt.br/ensino/busca/PRESENCIAL",
     "lat": -15.61,
     "lon": -56.064,
     "geoSource": "manual:city",
@@ -26347,8 +26345,8 @@
       "Arquitetura e Urbanismo"
     ],
     "programLinks": [
-      "https://www.ufms.br/",
-      "https://www.ufms.br/"
+      "https://www.ufms.br/cursos/graduacao/",
+      "https://www.ufms.br/cursos/graduacao/"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -26375,7 +26373,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.ufms.br/",
+    "website": "https://www.ufms.br/cursos/graduacao/",
     "lat": -20.502,
     "lon": -54.614,
     "geoSource": "manual:city",
@@ -26391,7 +26389,7 @@
       "Engenharia Civil"
     ],
     "programLinks": [
-      "https://www.utfpr.edu.br/"
+      "https://www.utfpr.edu.br/cursos/graduacao/bacharelado/engenharia-civil"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -26414,7 +26412,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.utfpr.edu.br/",
+    "website": "https://www.utfpr.edu.br/cursos/graduacao/bacharelado/engenharia-civil",
     "lat": -25.439,
     "lon": -49.269,
     "geoSource": "manual:city",
@@ -26430,7 +26428,7 @@
       "Engenharia Civil"
     ],
     "programLinks": [
-      "https://unifei.edu.br/"
+      "https://prg.unifei.edu.br/cursos/cursos-itajuba/"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -26453,7 +26451,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://unifei.edu.br/",
+    "website": "https://prg.unifei.edu.br/cursos/cursos-itajuba/",
     "lat": -22.413,
     "lon": -45.447,
     "geoSource": "manual:city",
@@ -26466,12 +26464,10 @@
     "country": "Brazil",
     "city": "Lavras",
     "programs": [
-      "Engenharia Civil",
-      "Arquitetura e Urbanismo"
+      "Engenharia Civil"
     ],
     "programLinks": [
-      "https://www.ufla.br/",
-      "https://www.ufla.br/"
+      "http://www.deg.ufla.br/graduacao/curso-eng-civil"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -26498,7 +26494,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.ufla.br/",
+    "website": "http://www.deg.ufla.br/graduacao/curso-eng-civil",
     "lat": -21.226,
     "lon": -44.978,
     "geoSource": "manual:city",
@@ -26514,7 +26510,7 @@
       "Engenharia Civil"
     ],
     "programLinks": [
-      "https://www.ufrrj.br/"
+      "https://portal.ufrrj.br/pro-reitoria-de-graduacao/cursos/"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -26537,7 +26533,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.ufrrj.br/",
+    "website": "https://portal.ufrrj.br/pro-reitoria-de-graduacao/cursos/",
     "lat": -22.768,
     "lon": -43.685,
     "geoSource": "manual:city",
@@ -26553,7 +26549,7 @@
       "Engenharia Civil"
     ],
     "programLinks": [
-      "https://www.univasf.edu.br/"
+      "http://www.civil.univasf.edu.br/"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -26576,7 +26572,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.univasf.edu.br/",
+    "website": "http://www.civil.univasf.edu.br/",
     "lat": -9.389,
     "lon": -40.503,
     "geoSource": "manual:city",
@@ -26592,7 +26588,7 @@
       "Engenharia Civil"
     ],
     "programLinks": [
-      "https://www.uft.edu.br/"
+      "https://www.uft.edu.br/campus/palmas/cursos/graduacao/engenharia-civil"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -26615,7 +26611,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.uft.edu.br/",
+    "website": "https://www.uft.edu.br/campus/palmas/cursos/graduacao/engenharia-civil",
     "lat": -10.184,
     "lon": -48.3336,
     "geoSource": "manual:city",
@@ -26631,7 +26627,7 @@
       "Engenharia Civil"
     ],
     "programLinks": [
-      "https://www.ufac.br/"
+      "https://www.ufac.br/site/ufac/prograd/cursos/rio-branco/bacharelado/engenharia-civil"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -26654,7 +26650,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.ufac.br/",
+    "website": "https://www.ufac.br/site/ufac/prograd/cursos/rio-branco/bacharelado/engenharia-civil",
     "lat": -9.956,
     "lon": -67.87,
     "geoSource": "manual:city",
@@ -26670,7 +26666,7 @@
       "Engenharia Civil"
     ],
     "programLinks": [
-      "https://www.ufrr.br/"
+      "https://ufrr.br/engcivil/"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -26693,7 +26689,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.ufrr.br/",
+    "website": "https://ufrr.br/engcivil/",
     "lat": 2.846,
     "lon": -60.7,
     "geoSource": "manual:city",
@@ -26709,7 +26705,7 @@
       "Engenharia Civil"
     ],
     "programLinks": [
-      "https://www.ufvjm.edu.br/"
+      "https://www.ufvjm.edu.br/cursos/engenharia-civil"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -26732,7 +26728,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.ufvjm.edu.br/",
+    "website": "https://www.ufvjm.edu.br/cursos/engenharia-civil",
     "lat": -17.857,
     "lon": -41.505,
     "geoSource": "manual:city",
@@ -26748,7 +26744,7 @@
       "Engenharia Civil"
     ],
     "programLinks": [
-      "https://www.ufersa.edu.br/"
+      "https://engcivil.ufersa.edu.br/"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -26771,7 +26767,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.ufersa.edu.br/",
+    "website": "https://engcivil.ufersa.edu.br/",
     "lat": -5.203,
     "lon": -37.325,
     "geoSource": "manual:city",
@@ -26787,7 +26783,7 @@
       "Engenharia Civil de Infraestrutura"
     ],
     "programLinks": [
-      "https://unila.edu.br/"
+      "https://portal.unila.edu.br/graduacao/engenharia-civil-infraestrutura"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -26810,7 +26806,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://unila.edu.br/",
+    "website": "https://portal.unila.edu.br/graduacao/engenharia-civil-infraestrutura",
     "lat": -25.547,
     "lon": -54.586,
     "geoSource": "manual:city",
@@ -26826,7 +26822,7 @@
       "Engenharia Civil"
     ],
     "programLinks": [
-      "https://www.ufca.edu.br/"
+      "https://www.ufca.edu.br/cursos/graduacao/engenharia-civil/"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -26849,7 +26845,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.ufca.edu.br/",
+    "website": "https://www.ufca.edu.br/cursos/graduacao/engenharia-civil/",
     "lat": -7.214,
     "lon": -39.315,
     "geoSource": "manual:city",
@@ -26865,7 +26861,7 @@
       "Engenharia Civil"
     ],
     "programLinks": [
-      "https://www.unir.br/"
+      "https://sigaa.unir.br/sigaa/public/curso/ppp.jsf?lc=pt_BR&id=4836937"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -26888,7 +26884,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.unir.br/",
+    "website": "https://sigaa.unir.br/sigaa/public/curso/ppp.jsf?lc=pt_BR&id=4836937",
     "lat": -8.761,
     "lon": -63.9,
     "geoSource": "manual:city",
@@ -26904,7 +26900,7 @@
       "Engenharia Civil"
     ],
     "programLinks": [
-      "https://www.unifap.br/"
+      "https://www2.unifap.br/engcivil/"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -26927,7 +26923,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.unifap.br/",
+    "website": "https://www2.unifap.br/engcivil/",
     "lat": 0.034,
     "lon": -51.07,
     "geoSource": "manual:city",
@@ -26943,7 +26939,7 @@
       "Engenharia Civil"
     ],
     "programLinks": [
-      "https://www.unifesspa.edu.br/"
+      "https://civil.unifesspa.edu.br/"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -26966,7 +26962,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.unifesspa.edu.br/",
+    "website": "https://civil.unifesspa.edu.br/",
     "lat": -5.368,
     "lon": -49.118,
     "geoSource": "manual:city",
@@ -26983,8 +26979,8 @@
       "Arquitetura e Urbanismo"
     ],
     "programLinks": [
-      "https://www.uerj.br/",
-      "https://www.uerj.br/"
+      "https://www.eng.uerj.br/cursos/civil.php",
+      "https://www.esdi.uerj.br/arquitetura-e-urbanismo/graduacao/curso"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -27011,7 +27007,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.uerj.br/",
+    "website": "https://www.eng.uerj.br/cursos/civil.php",
     "lat": -22.912,
     "lon": -43.236,
     "geoSource": "manual:city",
@@ -27027,7 +27023,7 @@
       "Engenharia Civil"
     ],
     "programLinks": [
-      "https://www.uenf.br/"
+      "https://uenf.br/graduacao/engenharia-civil/"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -27050,7 +27046,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.uenf.br/",
+    "website": "https://uenf.br/graduacao/engenharia-civil/",
     "lat": -21.762,
     "lon": -41.321,
     "geoSource": "manual:city",
@@ -27067,8 +27063,8 @@
       "Arquitetura e Urbanismo"
     ],
     "programLinks": [
-      "https://www.uel.br/",
-      "https://www.uel.br/"
+      "https://graduacao.uel.br/engenharia-civil/",
+      "https://graduacao.uel.br/arquitetura-e-urbanismo/"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -27095,7 +27091,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.uel.br/",
+    "website": "https://graduacao.uel.br/engenharia-civil/",
     "lat": -23.326,
     "lon": -51.199,
     "geoSource": "manual:city",
@@ -27112,8 +27108,8 @@
       "Arquitetura e Urbanismo"
     ],
     "programLinks": [
-      "https://www.uem.br/",
-      "https://www.uem.br/"
+      "https://cpr.uem.br/index.php/catalogos/graduacao/2516-engenharia-civil-maringa",
+      "https://dau.uem.br/graduacao/graduacao"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -27140,7 +27136,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.uem.br/",
+    "website": "https://cpr.uem.br/index.php/catalogos/graduacao/2516-engenharia-civil-maringa",
     "lat": -23.405,
     "lon": -51.941,
     "geoSource": "manual:city",
@@ -27156,7 +27152,7 @@
       "Engenharia Civil"
     ],
     "programLinks": [
-      "https://www.uepg.br/"
+      "https://www.uepg.br/engenharia-civil/"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -27179,7 +27175,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.uepg.br/",
+    "website": "https://www.uepg.br/engenharia-civil/",
     "lat": -25.095,
     "lon": -50.105,
     "geoSource": "manual:city",
@@ -27195,7 +27191,7 @@
       "Engenharia Civil"
     ],
     "programLinks": [
-      "https://www.unioeste.br/"
+      "https://www.unioeste.br/portal/prograd-outros/cursos-campus-todos/cascavelcursos/engenharia-civil-bacharelado"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -27218,7 +27214,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.unioeste.br/",
+    "website": "https://www.unioeste.br/portal/prograd-outros/cursos-campus-todos/cascavelcursos/engenharia-civil-bacharelado",
     "lat": -24.987,
     "lon": -53.459,
     "geoSource": "manual:city",
@@ -27234,7 +27230,7 @@
       "Engenharia Civil"
     ],
     "programLinks": [
-      "https://ueg.br/"
+      "https://ueg.br/cliente/paginas_cursos/engenharia_civil.php"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -27257,7 +27253,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://ueg.br/",
+    "website": "https://ueg.br/cliente/paginas_cursos/engenharia_civil.php",
     "lat": -16.328,
     "lon": -48.953,
     "geoSource": "manual:city",
@@ -27273,7 +27269,7 @@
       "Engenharia Civil"
     ],
     "programLinks": [
-      "https://www.uea.edu.br/"
+      "https://cursos2.uea.edu.br/index.php?dest=info&curso=59"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -27296,7 +27292,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.uea.edu.br/",
+    "website": "https://cursos2.uea.edu.br/index.php?dest=info&curso=59",
     "lat": -3.102,
     "lon": -60.025,
     "geoSource": "manual:city",
@@ -27312,7 +27308,7 @@
       "Engenharia Civil"
     ],
     "programLinks": [
-      "https://www.uepa.br/"
+      "https://sigaa.uepa.br/sigaa/public/curso/lista.jsf?nivel=G&aba=p-ensino"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -27335,7 +27331,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.uepa.br/",
+    "website": "https://sigaa.uepa.br/sigaa/public/curso/lista.jsf?nivel=G&aba=p-ensino",
     "lat": -1.456,
     "lon": -48.49,
     "geoSource": "manual:city",
@@ -27348,12 +27344,10 @@
     "country": "Brazil",
     "city": "Feira de Santana",
     "programs": [
-      "Engenharia Civil",
-      "Arquitetura e Urbanismo"
+      "Engenharia Civil"
     ],
     "programLinks": [
-      "https://www.uefs.br/",
-      "https://www.uefs.br/"
+      "http://civil.uefs.br/"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -27380,7 +27374,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.uefs.br/",
+    "website": "https://feiradegraduacao.uefs.br/cursos-de-graduacao/",
     "lat": -12.198,
     "lon": -38.97,
     "geoSource": "manual:city",
@@ -27397,8 +27391,8 @@
       "Arquitetura e Urbanismo"
     ],
     "programLinks": [
-      "https://www.uema.br/",
-      "https://www.uema.br/"
+      "https://www.prog.uema.br/engenharia-civil-cct/",
+      "https://www.arquitetura.uema.br/"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -27425,7 +27419,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.uema.br/",
+    "website": "https://www.prog.uema.br/engenharia-civil-cct/",
     "lat": -2.591,
     "lon": -44.21,
     "geoSource": "manual:city",
@@ -27441,7 +27435,7 @@
       "Engenharia Civil"
     ],
     "programLinks": [
-      "https://www.upe.br/"
+      "https://poli.br/en/civil-engineering/"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -27464,7 +27458,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.upe.br/",
+    "website": "https://poli.br/en/civil-engineering/",
     "lat": -8.055,
     "lon": -34.951,
     "geoSource": "manual:city",
@@ -27480,7 +27474,7 @@
       "Engenharia Civil"
     ],
     "programLinks": [
-      "https://www.uemg.br/"
+      "https://www.uemg.br/cursos-jm/graduacao-jm"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -27503,7 +27497,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.uemg.br/",
+    "website": "https://www.uemg.br/cursos-jm/graduacao-jm",
     "lat": -19.932,
     "lon": -43.935,
     "geoSource": "manual:city",
@@ -27519,7 +27513,7 @@
       "Engenharia Civil"
     ],
     "programLinks": [
-      "https://www.uneb.br/"
+      "https://dcet.salvador.uneb.br/engenharia-producao-civil/"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -27542,7 +27536,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.uneb.br/",
+    "website": "https://dcet.salvador.uneb.br/engenharia-producao-civil/",
     "lat": -12.95,
     "lon": -38.47,
     "geoSource": "manual:city",
@@ -27559,8 +27553,8 @@
       "Arquitetura e Urbanismo"
     ],
     "programLinks": [
-      "https://www.puc-rio.br/",
-      "https://www.puc-rio.br/"
+      "https://www.puc-rio.br/ensinopesq/ccg/eng_civil.html",
+      "https://www.puc-rio.br/ensinopesq/ccg/cursos.html"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -27587,7 +27581,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.puc-rio.br/",
+    "website": "https://www.puc-rio.br/ensinopesq/ccg/eng_civil.html",
     "lat": -22.979,
     "lon": -43.233,
     "geoSource": "manual:city",
@@ -27604,8 +27598,8 @@
       "Arquitetura e Urbanismo"
     ],
     "programLinks": [
-      "https://www.puc-campinas.edu.br/",
-      "https://www.puc-campinas.edu.br/"
+      "https://www.puc-campinas.edu.br/graduacao/engenharia-civil/",
+      "https://www.puc-campinas.edu.br/graduacao/arquitetura-e-urbanismo/"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -27632,7 +27626,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.puc-campinas.edu.br/",
+    "website": "https://www.puc-campinas.edu.br/graduacao/engenharia-civil/",
     "lat": -22.834,
     "lon": -47.051,
     "geoSource": "manual:city",
@@ -27649,8 +27643,8 @@
       "Arquitetura e Urbanismo"
     ],
     "programLinks": [
-      "https://www.pucpr.br/",
-      "https://www.pucpr.br/"
+      "https://www.pucpr.br/cursos-graduacao/engenharia-civil/",
+      "https://www.pucpr.br/cursos-graduacao/arquitetura-e-urbanismo/"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -27677,7 +27671,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.pucpr.br/",
+    "website": "https://www.pucpr.br/cursos-graduacao/engenharia-civil/",
     "lat": -25.451,
     "lon": -49.305,
     "geoSource": "manual:city",
@@ -27694,8 +27688,8 @@
       "Arquitetura e Urbanismo"
     ],
     "programLinks": [
-      "https://www.pucminas.br/",
-      "https://www.pucminas.br/"
+      "https://vemprapuc.pucminas.br/graduacao/engenharia-civil",
+      "https://vemprapuc.pucminas.br/graduacao/arquitetura-e-urbanismo"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -27722,7 +27716,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.pucminas.br/",
+    "website": "https://vemprapuc.pucminas.br/graduacao/engenharia-civil",
     "lat": -19.923,
     "lon": -43.992,
     "geoSource": "manual:city",
@@ -27739,8 +27733,8 @@
       "Arquitetura e Urbanismo"
     ],
     "programLinks": [
-      "https://www.pucrs.br/",
-      "https://www.pucrs.br/"
+      "https://portal.pucrs.br/ensino/cursos/graduacao/engenharia-civil/",
+      "https://portal.pucrs.br/ensino/cursos/graduacao/arquitetura-e-urbanismo/"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -27767,7 +27761,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.pucrs.br/",
+    "website": "https://portal.pucrs.br/ensino/cursos/graduacao/engenharia-civil/",
     "lat": -30.059,
     "lon": -51.174,
     "geoSource": "manual:city",
@@ -27784,8 +27778,8 @@
       "Arquitetura e Urbanismo"
     ],
     "programLinks": [
-      "https://www.pucgoias.edu.br/",
-      "https://www.pucgoias.edu.br/"
+      "https://www.pucgoias.edu.br/cursos/graduacao/engenharia-civil/",
+      "https://www.pucgoias.edu.br/cursos/graduacao/arquitetura-e-urbanismo/"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -27812,7 +27806,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.pucgoias.edu.br/",
+    "website": "https://www.pucgoias.edu.br/cursos/graduacao/engenharia-civil/",
     "lat": -16.68,
     "lon": -49.255,
     "geoSource": "manual:city",
@@ -27829,8 +27823,8 @@
       "Arquitetura e Urbanismo"
     ],
     "programLinks": [
-      "https://www.mackenzie.br/",
-      "https://www.mackenzie.br/"
+      "https://www.mackenzie.br/en/undergraduate-programs/sao-paulo-higienopolis/civil-engineering",
+      "https://www.mackenzie.br/en/undergraduate-programs/sao-paulo-higienopolis/architecture-and-urbanism"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -27857,7 +27851,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.mackenzie.br/",
+    "website": "https://www.mackenzie.br/en/undergraduate-programs/sao-paulo-higienopolis/civil-engineering",
     "lat": -23.548,
     "lon": -46.652,
     "geoSource": "manual:city",
@@ -27873,7 +27867,7 @@
       "Engenharia Civil"
     ],
     "programLinks": [
-      "https://www.fei.edu.br/"
+      "https://www.fei.edu.br/curso/engenharia-civil"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -27896,7 +27890,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.fei.edu.br/",
+    "website": "https://www.fei.edu.br/curso/engenharia-civil",
     "lat": -23.666,
     "lon": -46.563,
     "geoSource": "manual:city",
@@ -27913,8 +27907,8 @@
       "Arquitetura e Urbanismo"
     ],
     "programLinks": [
-      "https://www.unisinos.br/",
-      "https://www.unisinos.br/"
+      "https://www.unisinos.br/graduacao/engenharia-civil",
+      "https://www.unisinos.br/graduacao/arquitetura-e-urbanismo"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -27941,7 +27935,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.unisinos.br/",
+    "website": "https://www.unisinos.br/graduacao/engenharia-civil",
     "lat": -29.796,
     "lon": -51.154,
     "geoSource": "manual:city",
@@ -27957,7 +27951,7 @@
       "Engenharia Civil"
     ],
     "programLinks": [
-      "https://www.maua.br/"
+      "https://maua.br/graduacao/engenharia-civil"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -27980,7 +27974,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.maua.br/",
+    "website": "https://maua.br/graduacao/engenharia-civil",
     "lat": -23.618,
     "lon": -46.565,
     "geoSource": "manual:city",
@@ -27997,8 +27991,8 @@
       "Arquitetura e Urbanismo"
     ],
     "programLinks": [
-      "https://www.unifor.br/",
-      "https://www.unifor.br/"
+      "https://unifor.br/web/graduacao/engenharia-civil",
+      "https://unifor.br/web/graduacao/arquitetura-e-urbanismo"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -28025,7 +28019,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.unifor.br/",
+    "website": "https://unifor.br/web/graduacao/engenharia-civil",
     "lat": -3.769,
     "lon": -38.478,
     "geoSource": "manual:city",
@@ -28042,8 +28036,8 @@
       "Arquitetura e Urbanismo"
     ],
     "programLinks": [
-      "https://www.fumec.br/",
-      "https://www.fumec.br/"
+      "https://www.fumec.br/a-fumec/faculdades/faculdade-de-engenharia-e-arquitetura/",
+      "https://www.fumec.br/a-fumec/faculdades/faculdade-de-engenharia-e-arquitetura/"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -28070,7 +28064,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.fumec.br/",
+    "website": "https://www.fumec.br/a-fumec/faculdades/faculdade-de-engenharia-e-arquitetura/",
     "lat": -19.928,
     "lon": -43.936,
     "geoSource": "manual:city",
@@ -28087,8 +28081,8 @@
       "Arquitetura e Urbanismo"
     ],
     "programLinks": [
-      "https://www.uniceub.br/",
-      "https://www.uniceub.br/"
+      "https://www.uniceub.br/pdp/graduacao/engenharia/engenharia-civil",
+      "https://www.uniceub.br/pdp/graduacao/arquitetura-e-design/arquitetura-e-urbanismo"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -28115,7 +28109,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.uniceub.br/",
+    "website": "https://www.uniceub.br/pdp/graduacao/engenharia/engenharia-civil",
     "lat": -15.735,
     "lon": -47.883,
     "geoSource": "manual:city",
@@ -28132,8 +28126,8 @@
       "Arquitetura e Urbanismo"
     ],
     "programLinks": [
-      "https://www.up.edu.br/",
-      "https://www.up.edu.br/"
+      "https://up.edu.br/graduacao/engenharia-civil",
+      "https://up.edu.br/graduacao/arquitetura-e-urbanismo"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -28160,7 +28154,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.up.edu.br/",
+    "website": "https://up.edu.br/graduacao/engenharia-civil",
     "lat": -25.464,
     "lon": -49.352,
     "geoSource": "manual:city",
@@ -28177,8 +28171,8 @@
       "Arquitetura e Urbanismo"
     ],
     "programLinks": [
-      "https://www.ucs.br/",
-      "https://www.ucs.br/"
+      "https://www.ucs.br/site/portalcurso/preco/160/1/918/",
+      "https://www.ucs.br/site/portalcurso/119/"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -28205,7 +28199,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.ucs.br/",
+    "website": "https://www.ucs.br/site/portalcurso/preco/160/1/918/",
     "lat": -29.164,
     "lon": -51.179,
     "geoSource": "manual:city",
@@ -28222,8 +28216,8 @@
       "Arquitetura e Urbanismo"
     ],
     "programLinks": [
-      "https://www.furb.br/",
-      "https://www.furb.br/"
+      "https://www.furb.br/pt/graduacao/engenharia-civil",
+      "https://www.furb.br/pt/graduacao/arquitetura-e-urbanismo"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -28250,7 +28244,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.furb.br/",
+    "website": "https://www.furb.br/pt/graduacao/engenharia-civil",
     "lat": -26.902,
     "lon": -49.079,
     "geoSource": "manual:city",
@@ -28267,8 +28261,8 @@
       "Arquitetura e Urbanismo"
     ],
     "programLinks": [
-      "https://www.upf.br/",
-      "https://www.upf.br/"
+      "https://www.upf.br/fear/curso/engenharia-civil",
+      "https://www.upf.br/fear/curso/arquitetura-e-urbanismo"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -28295,7 +28289,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.upf.br/",
+    "website": "https://www.upf.br/fear/curso/engenharia-civil",
     "lat": -28.228,
     "lon": -52.388,
     "geoSource": "manual:city",
@@ -28312,8 +28306,8 @@
       "Arquitetura e Urbanismo"
     ],
     "programLinks": [
-      "https://www.feevale.br/",
-      "https://www.feevale.br/"
+      "https://graduacao.feevale.br/cursos/engenharia-civil/",
+      "https://graduacao.feevale.br/cursos/arquitetura-e-urbanismo/"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -28340,7 +28334,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.feevale.br/",
+    "website": "https://graduacao.feevale.br/cursos/engenharia-civil/",
     "lat": -29.644,
     "lon": -51.118,
     "geoSource": "manual:city",
@@ -28357,8 +28351,8 @@
       "Arquitetura e Urbanismo"
     ],
     "programLinks": [
-      "https://www.univali.br/",
-      "https://www.univali.br/"
+      "https://www.univali.br/graduacao/engenharia-civil-itajai",
+      "https://www.univali.br/graduacao/arquitetura-e-urbanismo-itajai"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -28385,7 +28379,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.univali.br/",
+    "website": "https://www.univali.br/graduacao/engenharia-civil-itajai",
     "lat": -26.908,
     "lon": -48.662,
     "geoSource": "manual:city",
@@ -28401,7 +28395,7 @@
       "Engenharia Civil"
     ],
     "programLinks": [
-      "https://www.saojudas.br/"
+      "https://www.usjt.br/cursos/graduacao/engenharia-civil-bacharelado/"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -28424,7 +28418,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.saojudas.br/",
+    "website": "https://www.usjt.br/cursos/graduacao/engenharia-civil-bacharelado/",
     "lat": -23.626,
     "lon": -46.572,
     "geoSource": "manual:city",
@@ -28441,8 +28435,8 @@
       "Arquitetura e Urbanismo"
     ],
     "programLinks": [
-      "https://www.unip.br/",
-      "https://www.unip.br/"
+      "https://www.unip.br/cursos/graduacao/tradicionais/engenharia_civil.aspx",
+      "https://www.unip.br/cursos/graduacao/tradicionais/arquitetura_e_urbanismo.aspx"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -28469,7 +28463,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.unip.br/",
+    "website": "https://www.unip.br/cursos/graduacao/tradicionais/engenharia_civil.aspx",
     "lat": -23.65,
     "lon": -46.66,
     "geoSource": "manual:city",
@@ -28486,8 +28480,8 @@
       "Arquitetura e Urbanismo"
     ],
     "programLinks": [
-      "https://www.estacio.br/",
-      "https://www.estacio.br/"
+      "https://estacio.br/cursos/graduacao/engenharia-civil",
+      "https://estacio.br/cursos/graduacao/arquitetura-e-urbanismo"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -28514,7 +28508,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.estacio.br/",
+    "website": "https://estacio.br/cursos/graduacao/engenharia-civil",
     "lat": -22.91,
     "lon": -43.18,
     "geoSource": "manual:city",
@@ -28531,8 +28525,8 @@
       "Arquitetura e Urbanismo"
     ],
     "programLinks": [
-      "https://www.anhembi.br/",
-      "https://www.anhembi.br/"
+      "https://portal.anhembi.br/graduacao/engenharia-civil/",
+      "https://portal.anhembi.br/graduacao/arquitetura-e-urbanismo/"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -28559,7 +28553,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.anhembi.br/",
+    "website": "https://portal.anhembi.br/graduacao/engenharia-civil/",
     "lat": -23.6,
     "lon": -46.68,
     "geoSource": "manual:city",
@@ -28576,8 +28570,8 @@
       "Arquitetura e Urbanismo"
     ],
     "programLinks": [
-      "https://www.unicesumar.edu.br/",
-      "https://www.unicesumar.edu.br/"
+      "https://www.unicesumar.edu.br/presencial/cursos-graduacao/engenharia-civil/",
+      "https://www.unicesumar.edu.br/presencial/cursos-graduacao/arquitetura-e-urbanismo/"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -28604,7 +28598,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.unicesumar.edu.br/",
+    "website": "https://www.unicesumar.edu.br/presencial/cursos-graduacao/engenharia-civil/",
     "lat": -23.42,
     "lon": -51.94,
     "geoSource": "manual:city",
@@ -28621,8 +28615,8 @@
       "Arquitetura e Urbanismo"
     ],
     "programLinks": [
-      "https://www.unit.br/",
-      "https://www.unit.br/"
+      "https://www.unit.br/engenharia-civil",
+      "https://www.unit.br/arquitetura-e-urbanismo"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -28649,7 +28643,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.unit.br/",
+    "website": "https://www.unit.br/engenharia-civil",
     "lat": -10.92,
     "lon": -37.08,
     "geoSource": "manual:city",
@@ -28666,8 +28660,8 @@
       "Arquitetura e Urbanismo"
     ],
     "programLinks": [
-      "https://www.unifacs.br/",
-      "https://www.unifacs.br/"
+      "https://www.unifacs.br/cursos/graduacao/engenharia-civil-bacharelado/",
+      "https://www.unifacs.br/cursos/graduacao/arquitetura-e-urbanismo-bacharelado/"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -28694,7 +28688,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.unifacs.br/",
+    "website": "https://www.unifacs.br/cursos/graduacao/engenharia-civil-bacharelado/",
     "lat": -12.98,
     "lon": -38.46,
     "geoSource": "manual:city",
@@ -28711,8 +28705,8 @@
       "Arquitetura e Urbanismo"
     ],
     "programLinks": [
-      "https://www.uninove.br/",
-      "https://www.uninove.br/"
+      "https://www.uninove.br/cursos/graduacao/presencial/engenharia-civil",
+      "https://www.uninove.br/cursos/graduacao/presencial/arquitetura-e-urbanismo"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -28739,7 +28733,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.uninove.br/",
+    "website": "https://www.uninove.br/cursos/graduacao/presencial/engenharia-civil",
     "lat": -23.52,
     "lon": -46.66,
     "geoSource": "manual:city",
@@ -28755,7 +28749,7 @@
       "Engenharia Civil"
     ],
     "programLinks": [
-      "https://www.cruzeirodosul.edu.br/"
+      "https://cursos.cruzeirodosul.edu.br/grad-engenharia-civil-cruzeiro-do-sul/p"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -28778,7 +28772,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.cruzeirodosul.edu.br/",
+    "website": "https://cursos.cruzeirodosul.edu.br/grad-engenharia-civil-cruzeiro-do-sul/p",
     "lat": -23.53,
     "lon": -46.47,
     "geoSource": "manual:city",
@@ -28795,8 +28789,8 @@
       "Arquitetura e Urbanismo"
     ],
     "programLinks": [
-      "https://www.unp.br/",
-      "https://www.unp.br/"
+      "https://www.unp.br/cursos/graduacao/engenharia-civil-bacharelado/",
+      "https://www.unp.br/cursos/graduacao/arquitetura-e-urbanismo-bacharelado/"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -28823,7 +28817,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.unp.br/",
+    "website": "https://www.unp.br/cursos/graduacao/engenharia-civil-bacharelado/",
     "lat": -5.81,
     "lon": -35.21,
     "geoSource": "manual:city",
@@ -28840,8 +28834,8 @@
       "Arquitetura e Urbanismo"
     ],
     "programLinks": [
-      "https://www.uniritter.edu.br/",
-      "https://www.uniritter.edu.br/"
+      "https://www.uniritter.edu.br/graduacao/engenharia-civil/",
+      "https://www.uniritter.edu.br/graduacao/arquitetura-e-urbanismo/"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -28868,7 +28862,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.uniritter.edu.br/",
+    "website": "https://www.uniritter.edu.br/graduacao/engenharia-civil/",
     "lat": -30.03,
     "lon": -51.2,
     "geoSource": "manual:city",
@@ -28885,8 +28879,8 @@
       "Arquitetura e Urbanismo"
     ],
     "programLinks": [
-      "https://www.unimep.br/",
-      "https://www.unimep.br/"
+      "https://www.unimep.br/feau-aberta/",
+      "https://www.unimep.br/feau-aberta/"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -28913,7 +28907,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.unimep.br/",
+    "website": "https://www.unimep.br/feau-aberta/",
     "lat": -22.7,
     "lon": -47.62,
     "geoSource": "manual:city",
@@ -28929,7 +28923,7 @@
       "Engenharia Civil"
     ],
     "programLinks": [
-      "https://www.usf.edu.br/"
+      "https://www.usf.edu.br/vestibular/curso.vm?curso=Engenharia+Civil&id=582E03"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -28952,7 +28946,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.usf.edu.br/",
+    "website": "https://www.usf.edu.br/vestibular/curso.vm?curso=Engenharia+Civil&id=582E03",
     "lat": -23.0,
     "lon": -46.84,
     "geoSource": "manual:city",
@@ -28969,8 +28963,8 @@
       "Arquitetura e Urbanismo"
     ],
     "programLinks": [
-      "https://www.univates.br/",
-      "https://www.univates.br/"
+      "https://www.univates.br/graduacao/engenharia-civil",
+      "https://www.univates.br/graduacao/arquitetura-e-urbanismo"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -28997,7 +28991,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.univates.br/",
+    "website": "https://www.univates.br/graduacao/engenharia-civil",
     "lat": -29.45,
     "lon": -51.96,
     "geoSource": "manual:city",
@@ -29014,8 +29008,8 @@
       "Arquitetura e Urbanismo"
     ],
     "programLinks": [
-      "https://www.unisc.br/",
-      "https://www.unisc.br/"
+      "https://www.unisc.br/pt/cursos/todos-os-cursos/graduacao/bacharelado/engenharia-civil",
+      "https://www.unisc.br/pt/cursos/todos-os-cursos/graduacao/bacharelado/arquitetura-e-urbanismo"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -29042,7 +29036,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.unisc.br/",
+    "website": "https://www.unisc.br/pt/cursos/todos-os-cursos/graduacao/bacharelado/engenharia-civil",
     "lat": -29.72,
     "lon": -52.43,
     "geoSource": "manual:city",
@@ -29059,8 +29053,8 @@
       "Arquitetura e Urbanismo"
     ],
     "programLinks": [
-      "https://www.unijui.edu.br/",
-      "https://www.unijui.edu.br/"
+      "https://www.unijui.edu.br/estude/graduacao/cursos/engenharia-civil-bacharelado",
+      "https://www.unijui.edu.br/estude/graduacao/cursos/arquitetura-e-urbanismo-bacharelado"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -29087,7 +29081,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.unijui.edu.br/",
+    "website": "https://www.unijui.edu.br/estude/graduacao/cursos/engenharia-civil-bacharelado",
     "lat": -28.39,
     "lon": -53.91,
     "geoSource": "manual:city",
@@ -29104,8 +29098,8 @@
       "Arquitetura e Urbanismo"
     ],
     "programLinks": [
-      "https://www.unochapeco.edu.br/",
-      "https://www.unochapeco.edu.br/"
+      "https://uno.edu.br/graduacao/engenharia-civil",
+      "https://uno.edu.br/graduacao/arquitetura-e-urbanismo"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -29132,7 +29126,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.unochapeco.edu.br/",
+    "website": "https://uno.edu.br/graduacao/engenharia-civil",
     "lat": -27.1,
     "lon": -52.62,
     "geoSource": "manual:city",
@@ -29149,8 +29143,8 @@
       "Arquitetura e Urbanismo"
     ],
     "programLinks": [
-      "https://www.unesc.net/",
-      "https://www.unesc.net/"
+      "https://unesc.br/cursos/engenharia-civil",
+      "https://unesc.br/cursos/arquitetura"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -29177,7 +29171,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.unesc.net/",
+    "website": "https://unesc.br/cursos/engenharia-civil",
     "lat": -28.68,
     "lon": -49.37,
     "geoSource": "manual:city",
@@ -29193,7 +29187,7 @@
       "Engenharia Civil"
     ],
     "programLinks": [
-      "https://www.univille.edu.br/"
+      "https://seja.univille.br/curso/presencial/engenharia-civil/"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -29216,7 +29210,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.univille.edu.br/",
+    "website": "https://seja.univille.br/curso/presencial/engenharia-civil/",
     "lat": -26.3,
     "lon": -48.85,
     "geoSource": "manual:city",
@@ -29232,7 +29226,7 @@
       "Engenharia Civil"
     ],
     "programLinks": [
-      "https://www.unoesc.edu.br/"
+      "https://www.unoesc.edu.br/cursos/curso/engenharia-civil/"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -29255,7 +29249,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.unoesc.edu.br/",
+    "website": "https://www.unoesc.edu.br/cursos/curso/engenharia-civil/",
     "lat": -27.17,
     "lon": -51.5,
     "geoSource": "manual:city",
@@ -29271,7 +29265,7 @@
       "Engenharia Civil"
     ],
     "programLinks": [
-      "https://uricer.edu.br/"
+      "https://www.reitoria.uri.br/pt/cursos/graduacao/engenharia-civil"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -29294,7 +29288,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://uricer.edu.br/",
+    "website": "https://www.reitoria.uri.br/pt/cursos/graduacao/engenharia-civil",
     "lat": -27.63,
     "lon": -52.27,
     "geoSource": "manual:city",
@@ -29311,8 +29305,8 @@
       "Arquitetura e Urbanismo"
     ],
     "programLinks": [
-      "https://www.uninassau.edu.br/",
-      "https://www.uninassau.edu.br/"
+      "https://www.uninassau.edu.br/tags/engenharia-civil",
+      "https://www.uninassau.edu.br/tags/arquitetura-e-urbanismo"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -29339,7 +29333,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.uninassau.edu.br/",
+    "website": "https://www.uninassau.edu.br/tags/engenharia-civil",
     "lat": -8.05,
     "lon": -34.9,
     "geoSource": "manual:city",
@@ -29356,8 +29350,8 @@
       "Arquitetura e Urbanismo"
     ],
     "programLinks": [
-      "https://www.unicap.br/",
-      "https://www.unicap.br/"
+      "https://portal.unicap.br/w/engenharia-civil",
+      "https://portal.unicap.br/w/arquitetura-e-urbanismo"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -29384,7 +29378,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.unicap.br/",
+    "website": "https://portal.unicap.br/w/engenharia-civil",
     "lat": -8.06,
     "lon": -34.89,
     "geoSource": "manual:city",
@@ -29401,8 +29395,8 @@
       "Arquitetura e Urbanismo"
     ],
     "programLinks": [
-      "https://www.ucb.br/",
-      "https://www.ucb.br/"
+      "https://ucb.catolica.edu.br/cursos/presencial/engenharia-civil",
+      "https://ucb.catolica.edu.br/cursos/presencial/arquitetura-e-urbanismo"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -29429,7 +29423,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.ucb.br/",
+    "website": "https://ucb.catolica.edu.br/cursos/presencial/engenharia-civil",
     "lat": -15.66,
     "lon": -47.89,
     "geoSource": "manual:city",
@@ -29445,7 +29439,7 @@
       "Engenharia Civil"
     ],
     "programLinks": [
-      "https://www.unisantos.br/"
+      "https://www.unisantos.br/graduacao/engenharia-civil/"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -29468,7 +29462,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.unisantos.br/",
+    "website": "https://www.unisantos.br/graduacao/engenharia-civil/",
     "lat": -23.96,
     "lon": -46.33,
     "geoSource": "manual:city",
@@ -29485,8 +29479,8 @@
       "Arquitetura e Urbanismo"
     ],
     "programLinks": [
-      "https://www.ucpel.edu.br/",
-      "https://www.ucpel.edu.br/"
+      "https://ucpel.edu.br/servicos/engenharia-civil",
+      "https://ucpel.edu.br/servicos/arquitetura-e-urbanismo"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -29513,7 +29507,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.ucpel.edu.br/",
+    "website": "https://ucpel.edu.br/servicos/engenharia-civil",
     "lat": -31.77,
     "lon": -52.34,
     "geoSource": "manual:city",
@@ -29529,7 +29523,7 @@
       "Tecnologia em Construção de Edifícios"
     ],
     "programLinks": [
-      "https://www.ifrn.edu.br/"
+      "https://portal.ifrn.edu.br/cursos"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -29552,7 +29546,7 @@
       "Civil Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.ifrn.edu.br/",
+    "website": "https://portal.ifrn.edu.br/cursos",
     "lat": -5.79,
     "lon": -35.21,
     "geoSource": "manual:city",
@@ -29568,7 +29562,7 @@
       "Tecnologia em Construção de Edifícios"
     ],
     "programLinks": [
-      "https://www.ifce.edu.br/"
+      "https://www.ifce.edu.br/cursos"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -29591,7 +29585,7 @@
       "Civil Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.ifce.edu.br/",
+    "website": "https://www.ifce.edu.br/cursos",
     "lat": -3.74,
     "lon": -38.54,
     "geoSource": "manual:city",
@@ -29607,7 +29601,7 @@
       "Tecnologia em Construção de Edifícios"
     ],
     "programLinks": [
-      "https://www.ifpb.edu.br/"
+      "https://estudante.ifpb.edu.br/cursos/16/"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -29630,7 +29624,7 @@
       "Civil Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.ifpb.edu.br/",
+    "website": "https://estudante.ifpb.edu.br/cursos/16/",
     "lat": -7.14,
     "lon": -34.87,
     "geoSource": "manual:city",
@@ -29646,7 +29640,7 @@
       "Tecnologia em Construção de Edifícios"
     ],
     "programLinks": [
-      "https://www.ifpe.edu.br/"
+      "https://www.ifpe.edu.br/cursos/graduacao"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -29669,7 +29663,7 @@
       "Civil Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.ifpe.edu.br/",
+    "website": "https://www.ifpe.edu.br/cursos/graduacao",
     "lat": -8.05,
     "lon": -34.95,
     "geoSource": "manual:city",
@@ -29685,7 +29679,7 @@
       "Engenharia Civil"
     ],
     "programLinks": [
-      "https://www.ifba.edu.br/"
+      "https://portal.ifba.edu.br/euclides-da-cunha/ensino/engenharia-civil"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -29708,7 +29702,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.ifba.edu.br/",
+    "website": "https://portal.ifba.edu.br/euclides-da-cunha/ensino/engenharia-civil",
     "lat": -12.99,
     "lon": -38.51,
     "geoSource": "manual:city",
@@ -29763,7 +29757,7 @@
       "Tecnologia em Construção de Edifícios"
     ],
     "programLinks": [
-      "https://www.ifg.edu.br/"
+      "https://www.ifg.edu.br/cursos/graduacao"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -29786,7 +29780,7 @@
       "Civil Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.ifg.edu.br/",
+    "website": "https://www.ifg.edu.br/cursos/graduacao",
     "lat": -16.68,
     "lon": -49.26,
     "geoSource": "manual:city",
@@ -29802,7 +29796,7 @@
       "Tecnologia em Construção de Edifícios"
     ],
     "programLinks": [
-      "https://www.ifsp.edu.br/"
+      "https://www.ifsp.edu.br/cursos"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -29825,7 +29819,7 @@
       "Civil Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.ifsp.edu.br/",
+    "website": "https://www.ifsp.edu.br/cursos",
     "lat": -23.53,
     "lon": -46.63,
     "geoSource": "manual:city",
@@ -29841,7 +29835,7 @@
       "Tecnologia em Construção de Edifícios"
     ],
     "programLinks": [
-      "https://www.ifsc.edu.br/"
+      "https://www.ifsc.edu.br/graduacao"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -29864,7 +29858,7 @@
       "Civil Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.ifsc.edu.br/",
+    "website": "https://www.ifsc.edu.br/graduacao",
     "lat": -27.6,
     "lon": -48.55,
     "geoSource": "manual:city",
@@ -29880,7 +29874,7 @@
       "Engenharia Civil"
     ],
     "programLinks": [
-      "https://www.ifmg.edu.br/"
+      "https://www2.ifmg.edu.br/governadorvaladares/cursos/superior/informacoes-do-curso-bacharelado-em-engenharia-civil"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -29903,7 +29897,7 @@
       "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.ifmg.edu.br/",
+    "website": "https://www2.ifmg.edu.br/governadorvaladares/cursos/superior/informacoes-do-curso-bacharelado-em-engenharia-civil",
     "lat": -19.92,
     "lon": -43.94,
     "geoSource": "manual:city",
@@ -29955,10 +29949,10 @@
     "country": "Brazil",
     "city": "Maceió",
     "programs": [
-      "Tecnologia em Construção de Edifícios"
+      "Engenharia Civil"
     ],
     "programLinks": [
-      "https://www.ifal.edu.br/"
+      "https://www2.ifal.edu.br/campus/maceio/ensino/cursos/superior/bacharelado-em-engenharia-civil"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -29967,7 +29961,7 @@
     "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
+    "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations) ; programme updated CST Construção de Edifícios -> Bacharelado em Engenharia Civil (IFAL Maceió; CST phased out)",
     "topics": [
       "CAD/CAM",
       "Construction Management",
@@ -29981,7 +29975,7 @@
       "Civil Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.ifal.edu.br/",
+    "website": "https://www2.ifal.edu.br/campus/maceio/ensino/cursos/superior/bacharelado-em-engenharia-civil",
     "lat": -9.66,
     "lon": -35.74,
     "geoSource": "manual:city",
@@ -29997,7 +29991,7 @@
       "Tecnologia em Construção de Edifícios"
     ],
     "programLinks": [
-      "https://www.ifto.edu.br/"
+      "https://www.ifto.edu.br/cursos"
     ],
     "accreditation": [],
     "language": "Portuguese",
@@ -30020,7 +30014,7 @@
       "Civil Engineering"
     ],
     "verificationLevel": 2,
-    "website": "https://www.ifto.edu.br/",
+    "website": "https://www.ifto.edu.br/cursos",
     "lat": -10.18,
     "lon": -48.33,
     "geoSource": "manual:city",
