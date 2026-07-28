@@ -35828,7 +35828,7 @@
     ],
     "programLinks": [
       "https://www.ing.ucv.ve/",
-      "http://www.ucv.ve/?id=1552"
+      "http://www.ucv.ve/estructura/facultades/facultad-de-arquitectura-y-urbanismo.html"
     ],
     "accreditation": [
       "CNU"
@@ -35877,7 +35877,7 @@
     ],
     "programLinks": [
       "https://ingenieria.ucab.edu.ve/civil/",
-      "https://ingenieria.ucab.edu.ve/"
+      "https://arquitectura.ucab.edu.ve/"
     ],
     "accreditation": [
       "CNU"
@@ -35933,10 +35933,10 @@
       "Urbanismo"
     ],
     "programLinks": [
-      "http://www.usb.ve/",
-      "http://www.usb.ve/"
+      "https://www.arq.coord.usb.ve/",
+      "https://www.urb.coord.usb.ve/"
     ],
-    "verificationLevel": 1,
+    "verificationLevel": 2,
     "graduatesEstimateBasis": "public research university (Sede Sartenejas, Baruta); Arquitectura + Urbanismo (no Civil Engineering programme); matrix organisation, faculty-level links; free (gratuita); intake not published",
     "topics": [
       "CAD/CAM",
@@ -35979,7 +35979,7 @@
     ],
     "programLinks": [
       "https://www.ula.ve/ingenieria/civil/",
-      "https://www.ula.ve/"
+      "http://www.ula.ve/institucion/dependencias/dependencias-facultades/facultad-de-arquitectura-y-diseno-fadula"
     ],
     "verificationLevel": 2,
     "graduatesEstimateBasis": "public autonomous university (2nd oldest, Mérida); Escuela de Ingeniería Civil (Facultad de Ingeniería, verified) + Arquitectura (FADULA); free (gratuita); intake not published",
@@ -36029,7 +36029,7 @@
       "Arquitectura"
     ],
     "programLinks": [
-      "https://www.luz.edu.ve/",
+      "https://fing.luz.edu.ve/",
       "https://www.luz.edu.ve/"
     ],
     "verificationLevel": 1,
@@ -36079,7 +36079,7 @@
       "Ingeniería Civil"
     ],
     "programLinks": [
-      "https://www.uc.edu.ve/"
+      "http://www.uc.edu.ve/facul_ingenieria.php"
     ],
     "verificationLevel": 1,
     "graduatesEstimateBasis": "public autonomous university (Valencia, Campus Bárbula); Facultad de Ingeniería (Escuela de Ingeniería Civil); faculty-level link; free (gratuita); intake not published",
@@ -36187,5 +36187,2207 @@
     "lat": 10.503,
     "lon": -66.836,
     "geoSource": "manual:campus"
+  },
+  {
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "country": "Australia",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "lastChecked": "2026-07-28",
+    "region": "Oceania",
+    "costCurrency": "AUD",
+    "name": "UNSW Sydney (University of New South Wales)",
+    "city": "Sydney",
+    "programs": [
+      "Bachelor of Engineering (Honours) (Civil with Architecture)",
+      "Bachelor of Construction Management and Property",
+      "Master of Construction Project Management",
+      "Doctor of Philosophy (Built Environment)"
+    ],
+    "programLinks": [
+      "https://www.unsw.edu.au/study/undergraduate/bachelor-of-engineering-honours-civil-architecture",
+      "https://www.unsw.edu.au/study/undergraduate/bachelor-of-construction-management-and-property",
+      "https://www.unsw.edu.au/study/postgraduate/master-of-construction-project-management",
+      "https://www.unsw.edu.au/arts-design-architecture/study-with-us/postgraduate-research/doctor-of-philosophy-phd/built-environment"
+    ],
+    "accreditation": [
+      "TEQSA",
+      "Engineers Australia",
+      "AACA",
+      "AIB",
+      "AIQS",
+      "RICS"
+    ],
+    "cost": "11,000 - 58,000",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "Parametric & Generative Design",
+      "Digital Fabrication",
+      "Digital Construction",
+      "Construction Management",
+      "Project Management",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering",
+      "Data Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM",
+      "Parametric & Generative Design",
+      "Digital Fabrication",
+      "Digital Construction",
+      "Data Management"
+    ],
+    "domains": [
+      "Construction Management",
+      "Project Management",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering"
+    ],
+    "verificationLevel": 2,
+    "lat": -33.9173,
+    "lon": 151.2313,
+    "geoSource": "manual:campus",
+    "website": "https://www.unsw.edu.au/",
+    "graduatesEstimateBasis": "public Go8 research university (School of Built Environment, ADA, Kensington); Civil Engineering (Engineers Australia/Washington Accord), Construction Management & Property (AIB/AIQS/RICS), Construction Project Management; strong BIM/computational design/digital fabrication; cost = indicative domestic CSP–international AUD range; intake not published"
+  },
+  {
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "country": "Australia",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "lastChecked": "2026-07-28",
+    "region": "Oceania",
+    "costCurrency": "AUD",
+    "name": "University of Sydney",
+    "city": "Sydney",
+    "programs": [
+      "Bachelor of Engineering (Honours) (Civil Engineering)",
+      "Master of Architecture",
+      "Master of Project Management",
+      "Doctor of Philosophy (Civil Engineering)"
+    ],
+    "programLinks": [
+      "https://www.sydney.edu.au/courses/subject-areas/major/construction.html",
+      "https://www.sydney.edu.au/courses/",
+      "https://www.sydney.edu.au/courses/",
+      "https://www.sydney.edu.au/courses/courses/pr/doctor-of-philosophy-engineering.html"
+    ],
+    "accreditation": [
+      "TEQSA",
+      "Engineers Australia",
+      "AACA",
+      "AIB"
+    ],
+    "cost": "11,000 - 58,000",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "Digital Construction",
+      "Construction Management",
+      "Project Management",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering",
+      "Digital Design",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM",
+      "Digital Construction",
+      "Digital Design"
+    ],
+    "domains": [
+      "Construction Management",
+      "Project Management",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering",
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "lat": -33.8886,
+    "lon": 151.1873,
+    "geoSource": "manual:campus",
+    "website": "https://www.sydney.edu.au/",
+    "graduatesEstimateBasis": "public Go8 university (Camperdown/Darlington); Civil Engineering (Construction major), Architecture, Project Management; construction major page verified, other links via course portal; cost = indicative domestic CSP–international AUD range (intl ~AUD 57,700/yr); intake not published"
+  },
+  {
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "country": "Australia",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "lastChecked": "2026-07-28",
+    "region": "Oceania",
+    "costCurrency": "AUD",
+    "name": "University of Melbourne",
+    "city": "Melbourne",
+    "programs": [
+      "Bachelor of Design (Construction major)",
+      "Master of Construction Management",
+      "Master of Civil Engineering",
+      "Doctor of Philosophy (Built Environment)"
+    ],
+    "programLinks": [
+      "https://study.unimelb.edu.au/find/courses/major/construction/",
+      "https://study.unimelb.edu.au/find/courses/graduate/master-of-construction-management/",
+      "https://study.unimelb.edu.au/find/courses/graduate/master-of-civil-engineering/",
+      "https://study.unimelb.edu.au/find/courses/graduate/doctor-of-philosophy-engineering-and-it/"
+    ],
+    "accreditation": [
+      "TEQSA",
+      "Engineers Australia",
+      "AACA",
+      "AIB"
+    ],
+    "cost": "11,000 - 55,000",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "Digital Design",
+      "Parametric & Generative Design",
+      "Construction Management",
+      "Project Management",
+      "Architecture",
+      "Sustainability",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM",
+      "Digital Design",
+      "Parametric & Generative Design"
+    ],
+    "domains": [
+      "Construction Management",
+      "Project Management",
+      "Architecture",
+      "Sustainability",
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "lat": -37.7963,
+    "lon": 144.9614,
+    "geoSource": "manual:campus",
+    "website": "https://study.unimelb.edu.au/",
+    "graduatesEstimateBasis": "public Go8 university (Parkville, Melbourne Model: Bachelor of Design + graduate schools); Architecture, Construction Management & Property, Civil (Master of Engineering); study-portal links pending exact programme URLs; cost = indicative domestic CSP–international AUD range; intake not published"
+  },
+  {
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "country": "Australia",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "lastChecked": "2026-07-28",
+    "region": "Oceania",
+    "costCurrency": "AUD",
+    "name": "Monash University",
+    "city": "Melbourne",
+    "programs": [
+      "Bachelor of Civil Engineering (Honours)",
+      "Bachelor of Architectural Design",
+      "Doctor of Philosophy (Civil Engineering)"
+    ],
+    "programLinks": [
+      "https://www.monash.edu/study/courses/find-a-course/engineering-and-architectural-design-e3009",
+      "https://www.monash.edu/study/courses/find-a-course/engineering-and-architectural-design-e3009",
+      "https://www.monash.edu/study/courses/find-a-course/engineering-3291"
+    ],
+    "accreditation": [
+      "TEQSA",
+      "Engineers Australia",
+      "AACA"
+    ],
+    "cost": "10,000 - 52,000",
+    "topics": [
+      "CAD/CAM",
+      "BIM",
+      "Digital Design",
+      "Parametric & Generative Design",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "BIM",
+      "Digital Design",
+      "Parametric & Generative Design"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering",
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "lat": -37.9105,
+    "lon": 145.1363,
+    "geoSource": "manual:campus",
+    "website": "https://www.monash.edu/",
+    "graduatesEstimateBasis": "public Go8 university (Clayton; MADA art/design/architecture + Engineering); Civil Engineering, Architectural Design; study-portal links pending exact programme URLs; cost = indicative domestic CSP–international AUD range; intake not published"
+  },
+  {
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "country": "Australia",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "lastChecked": "2026-07-28",
+    "region": "Oceania",
+    "costCurrency": "AUD",
+    "name": "University of Queensland (UQ)",
+    "city": "Brisbane",
+    "programs": [
+      "Bachelor of Engineering (Honours) (Civil Engineering)",
+      "Master of Architecture",
+      "Bachelor of Construction Management (Honours)",
+      "Doctor of Philosophy (Civil Engineering)"
+    ],
+    "programLinks": [
+      "https://study.uq.edu.au/study-options/programs/bachelor-engineering-honours-2455/civil-engineering-civile2455",
+      "https://study.uq.edu.au/study-options/programs",
+      "https://study.uq.edu.au/study-options/programs",
+      "https://study.uq.edu.au/study-options/programs/doctor-philosophy-7516"
+    ],
+    "accreditation": [
+      "TEQSA",
+      "Engineers Australia",
+      "AACA",
+      "AIB"
+    ],
+    "cost": "10,000 - 50,000",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "Digital Construction",
+      "Construction Management",
+      "Project Management",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering",
+      "Architecture",
+      "Digital Design"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM",
+      "Digital Construction",
+      "Digital Design"
+    ],
+    "domains": [
+      "Construction Management",
+      "Project Management",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering",
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "lat": -27.4975,
+    "lon": 153.0137,
+    "geoSource": "manual:campus",
+    "website": "https://study.uq.edu.au/",
+    "graduatesEstimateBasis": "public Go8 university (St Lucia, Brisbane); Civil Engineering, Architecture, Construction Management; study-portal links pending exact programme URLs; cost = indicative domestic CSP–international AUD range; intake not published"
+  },
+  {
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "country": "Australia",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "lastChecked": "2026-07-28",
+    "region": "Oceania",
+    "costCurrency": "AUD",
+    "name": "University of Western Australia (UWA)",
+    "city": "Perth",
+    "programs": [
+      "Bachelor of Engineering (Honours) (Civil Engineering)",
+      "Master of Architecture",
+      "Master of Building Information Modelling",
+      "Doctor of Philosophy (Civil Engineering)"
+    ],
+    "programLinks": [
+      "https://www.uwa.edu.au/study/courses",
+      "https://www.uwa.edu.au/study/courses",
+      "https://www.uwa.edu.au/study/courses/master-of-building-information-modelling",
+      "https://www.uwa.edu.au/study/courses/doctor-of-philosophy"
+    ],
+    "accreditation": [
+      "TEQSA",
+      "Engineers Australia",
+      "AACA"
+    ],
+    "cost": "10,000 - 48,000",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "Digital Construction",
+      "Digital Twins",
+      "Collaborative Workflows",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering",
+      "Architecture",
+      "Digital Design"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM",
+      "Digital Construction",
+      "Digital Twins",
+      "Collaborative Workflows",
+      "Digital Design"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering",
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "lat": -31.98,
+    "lon": 115.818,
+    "geoSource": "manual:campus",
+    "website": "https://www.uwa.edu.au/",
+    "graduatesEstimateBasis": "public Go8 university (Crawley, Perth); Civil Engineering, Architecture, and a dedicated Master of Building Information Modelling; study-portal links pending exact programme URLs; cost = indicative domestic CSP–international AUD range; intake not published"
+  },
+  {
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "country": "Australia",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "lastChecked": "2026-07-28",
+    "region": "Oceania",
+    "costCurrency": "AUD",
+    "name": "University of Adelaide",
+    "city": "Adelaide",
+    "programs": [
+      "Bachelor of Engineering (Honours) (Civil & Structural)",
+      "Master of Architecture",
+      "Doctor of Philosophy (Civil Engineering)"
+    ],
+    "programLinks": [
+      "https://adelaide.edu.au/study/degrees/bachelor-of-engineering-civil-honours/",
+      "https://adelaide.edu.au/study/degrees",
+      "https://adelaide.edu.au/study/degrees/doctor-of-philosophy/"
+    ],
+    "accreditation": [
+      "TEQSA",
+      "Engineers Australia",
+      "AACA"
+    ],
+    "cost": "10,000 - 50,000",
+    "topics": [
+      "CAD/CAM",
+      "BIM",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering",
+      "Architecture",
+      "Digital Design"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "BIM",
+      "Digital Design"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering",
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "lat": -34.921,
+    "lon": 138.6042,
+    "geoSource": "manual:campus",
+    "website": "https://www.adelaide.edu.au/",
+    "graduatesEstimateBasis": "public Go8 university (North Terrace, Adelaide; merging into Adelaide University 2026); Civil & Structural Engineering, Architecture; study-portal links pending exact programme URLs; cost = indicative domestic CSP–international AUD range; intake not published"
+  },
+  {
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "country": "Australia",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "lastChecked": "2026-07-28",
+    "region": "Oceania",
+    "costCurrency": "AUD",
+    "name": "RMIT University",
+    "city": "Melbourne",
+    "programs": [
+      "Bachelor of Construction Management (Honours)",
+      "Bachelor of Architectural Design",
+      "Bachelor of Engineering (Honours) (Civil and Infrastructure Engineering)",
+      "Doctor of Philosophy (Built Environment)"
+    ],
+    "programLinks": [
+      "https://www.rmit.edu.au/study-with-us/levels-of-study/undergraduate-study/honours-degrees/bachelor-of-applied-science-construction-management-honours-bh114",
+      "https://www.rmit.edu.au/study-with-us",
+      "https://www.rmit.edu.au/study-with-us",
+      "https://www.rmit.edu.au/about/schools-colleges/property-construction-and-project-management/research/postgraduate-research"
+    ],
+    "accreditation": [
+      "TEQSA",
+      "Engineers Australia",
+      "AACA",
+      "AIB",
+      "AIQS",
+      "RICS",
+      "CIOB"
+    ],
+    "cost": "9,000 - 42,000",
+    "topics": [
+      "BIM",
+      "VR/AR",
+      "Digital Construction",
+      "Lean & Integrated Delivery",
+      "Prefabrication & Modular Construction",
+      "Construction Management",
+      "Project Management",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Architecture",
+      "Digital Design",
+      "Parametric & Generative Design"
+    ],
+    "computingTopics": [
+      "BIM",
+      "VR/AR",
+      "Digital Construction",
+      "Digital Design",
+      "Parametric & Generative Design"
+    ],
+    "domains": [
+      "Lean & Integrated Delivery",
+      "Prefabrication & Modular Construction",
+      "Construction Management",
+      "Project Management",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "lat": -37.8076,
+    "lon": 144.9632,
+    "geoSource": "manual:campus",
+    "website": "https://www.rmit.edu.au/",
+    "graduatesEstimateBasis": "public university (School of Property, Construction and Project Management, Melbourne City); Construction Management (Hons) — RICS/CIOB/AIQS/AIB, early adopter of VR/BIM/Lean in CM education — plus Architectural Design and Civil & Infrastructure Engineering; CM page verified, others via study portal; cost = indicative domestic CSP–international AUD range; intake not published"
+  },
+  {
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "country": "Australia",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "lastChecked": "2026-07-28",
+    "region": "Oceania",
+    "costCurrency": "AUD",
+    "name": "University of Technology Sydney (UTS)",
+    "city": "Sydney",
+    "programs": [
+      "Bachelor of Construction Project Management",
+      "Bachelor of Design in Architecture",
+      "Bachelor of Engineering (Honours) (Civil Engineering)",
+      "Doctor of Philosophy (Built Environment)"
+    ],
+    "programLinks": [
+      "https://www.uts.edu.au/courses/bachelor-of-construction-project-management",
+      "https://www.uts.edu.au/study/find-a-course",
+      "https://www.uts.edu.au/study/find-a-course",
+      "https://www.uts.edu.au/courses/doctor-of-philosophy-phd-thesis-built-environment"
+    ],
+    "accreditation": [
+      "TEQSA",
+      "Engineers Australia",
+      "AACA",
+      "AIB",
+      "AIQS",
+      "RICS"
+    ],
+    "cost": "9,000 - 42,000",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "Digital Construction",
+      "Construction Management",
+      "Project Management",
+      "Data Management",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering",
+      "Architecture",
+      "Digital Design"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM",
+      "Digital Construction",
+      "Data Management",
+      "Digital Design"
+    ],
+    "domains": [
+      "Construction Management",
+      "Project Management",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering",
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "lat": -33.8833,
+    "lon": 151.2005,
+    "geoSource": "manual:campus",
+    "website": "https://www.uts.edu.au/",
+    "graduatesEstimateBasis": "public university (School of Built Environment, Ultimo); Construction Project Management, Architecture, Civil Engineering; study-portal links pending exact programme URLs; cost = indicative domestic CSP–international AUD range; intake not published"
+  },
+  {
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "country": "Australia",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "lastChecked": "2026-07-28",
+    "region": "Oceania",
+    "costCurrency": "AUD",
+    "name": "Queensland University of Technology (QUT)",
+    "city": "Brisbane",
+    "programs": [
+      "Bachelor of Built Environment (Honours) (Construction Management and Quantity Surveying)",
+      "Bachelor of Architectural Design",
+      "Bachelor of Engineering (Honours) (Civil)",
+      "Doctor of Philosophy (Built Environment)"
+    ],
+    "programLinks": [
+      "https://www.qut.edu.au/courses/bachelor-of-built-environment-honours-construction-management-and-quantity-surveying",
+      "https://www.qut.edu.au/courses/bachelor-of-architectural-design-bachelor-of-built-environment-honours-construction-management-and-quantity-surveying",
+      "https://www.qut.edu.au/courses",
+      "https://www.qut.edu.au/research/study-with-us/phd"
+    ],
+    "accreditation": [
+      "TEQSA",
+      "Engineers Australia",
+      "AACA",
+      "AIB",
+      "AIQS",
+      "RICS"
+    ],
+    "cost": "9,000 - 43,000",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "Digital Construction",
+      "Construction Management",
+      "Project Management",
+      "Procurement & Contracts",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering",
+      "Architecture",
+      "Digital Design"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM",
+      "Digital Construction",
+      "Digital Design"
+    ],
+    "domains": [
+      "Construction Management",
+      "Project Management",
+      "Procurement & Contracts",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering",
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "lat": -27.4776,
+    "lon": 153.0281,
+    "geoSource": "manual:campus",
+    "website": "https://www.qut.edu.au/",
+    "graduatesEstimateBasis": "public university (Gardens Point, Brisbane); Construction Management & Quantity Surveying (AIB/AIQS/RICS, verified) + Architectural Design + Civil Engineering; cost = indicative domestic CSP–international AUD range (intl ~AUD 43,200/yr); intake not published"
+  },
+  {
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "country": "Australia",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "lastChecked": "2026-07-28",
+    "region": "Oceania",
+    "costCurrency": "AUD",
+    "name": "Curtin University",
+    "city": "Perth",
+    "programs": [
+      "Bachelor of Applied Science (Construction Management)",
+      "Bachelor of Engineering (Honours) (Civil and Construction Engineering)",
+      "Master of Architecture",
+      "Doctor of Philosophy (Civil Engineering)"
+    ],
+    "programLinks": [
+      "https://www.curtin.edu.au/study/offering/course-ug-bachelor-of-applied-science-construction-management--b-conm/",
+      "https://study.curtin.edu.au/",
+      "https://study.curtin.edu.au/",
+      "https://www.curtin.edu.au/study/offering/course-research-doctor-of-philosophy---civil-engineering--dr-cvengrv1/"
+    ],
+    "accreditation": [
+      "TEQSA",
+      "Engineers Australia",
+      "AACA",
+      "AIB",
+      "AIQS",
+      "RICS",
+      "CIOB"
+    ],
+    "cost": "9,000 - 40,000",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "Digital Construction",
+      "Construction Management",
+      "Project Management",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering",
+      "Architecture",
+      "Digital Design"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM",
+      "Digital Construction",
+      "Digital Design"
+    ],
+    "domains": [
+      "Construction Management",
+      "Project Management",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering",
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "lat": -32.0057,
+    "lon": 115.8944,
+    "geoSource": "manual:campus",
+    "website": "https://www.curtin.edu.au/",
+    "graduatesEstimateBasis": "public university (Bentley, Perth); Construction Management, Civil & Construction Engineering, Architecture; study-portal links pending exact programme URLs; cost = indicative domestic CSP–international AUD range; intake not published"
+  },
+  {
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "country": "Australia",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "lastChecked": "2026-07-28",
+    "region": "Oceania",
+    "costCurrency": "AUD",
+    "name": "Deakin University",
+    "city": "Geelong",
+    "programs": [
+      "Bachelor of Construction Management (Honours)",
+      "Bachelor of Design (Architecture)",
+      "Bachelor of Engineering (Honours) (Civil)",
+      "Doctor of Philosophy (Built Environment)"
+    ],
+    "programLinks": [
+      "https://www.deakin.edu.au/course/bachelor-construction-management-honours",
+      "https://www.deakin.edu.au/courses",
+      "https://www.deakin.edu.au/courses",
+      "https://www.deakin.edu.au/course/doctor-philosophy-architecture-built-environment"
+    ],
+    "accreditation": [
+      "TEQSA",
+      "Engineers Australia",
+      "AACA",
+      "AIB",
+      "AIQS",
+      "RICS",
+      "CIOB"
+    ],
+    "cost": "9,000 - 41,000",
+    "topics": [
+      "BIM",
+      "Digital Construction",
+      "Digital Twins",
+      "Construction Management",
+      "Project Management",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Architecture",
+      "Digital Design"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Digital Construction",
+      "Digital Twins",
+      "Digital Design"
+    ],
+    "domains": [
+      "Construction Management",
+      "Project Management",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "lat": -38.147,
+    "lon": 144.361,
+    "geoSource": "manual:campus",
+    "website": "https://www.deakin.edu.au/",
+    "graduatesEstimateBasis": "public university (School of Architecture & Built Environment, Geelong Waterfront / Melbourne Burwood); Construction Management (Hons), Architecture, Civil Engineering; study-portal links pending exact programme URLs; cost = indicative domestic CSP–international AUD range; intake not published"
+  },
+  {
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "country": "Australia",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "lastChecked": "2026-07-28",
+    "region": "Oceania",
+    "costCurrency": "AUD",
+    "name": "Bond University",
+    "city": "Gold Coast",
+    "programs": [
+      "Bachelor of Construction Management and Quantity Surveying",
+      "Bachelor of Architecture",
+      "Doctor of Philosophy (Built Environment)"
+    ],
+    "programLinks": [
+      "https://bond.edu.au/program/bachelor-of-construction-management-and-quantity-surveying",
+      "https://bond.edu.au/programs",
+      "https://bond.edu.au/program/doctor-of-philosophy"
+    ],
+    "accreditation": [
+      "TEQSA",
+      "AACA",
+      "AIQS",
+      "RICS",
+      "CIOB"
+    ],
+    "cost": "45,000 - 64,000",
+    "topics": [
+      "BIM",
+      "Digital Construction",
+      "Construction Management",
+      "Project Management",
+      "Architecture",
+      "Digital Design",
+      "Sustainability"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Digital Construction",
+      "Digital Design"
+    ],
+    "domains": [
+      "Construction Management",
+      "Project Management",
+      "Architecture",
+      "Sustainability"
+    ],
+    "verificationLevel": 2,
+    "lat": -28.0786,
+    "lon": 153.4147,
+    "geoSource": "manual:campus",
+    "website": "https://bond.edu.au/",
+    "graduatesEstimateBasis": "private university (Robina, Gold Coast; accelerated 3-semester year, full-fee — no domestic CSP); Construction Management + Architecture; study-portal links pending exact programme URLs; cost = full-fee AUD range; intake not published"
+  },
+  {
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "country": "Australia",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "lastChecked": "2026-07-28",
+    "region": "Oceania",
+    "costCurrency": "AUD",
+    "name": "Griffith University",
+    "city": "Gold Coast",
+    "programs": [
+      "Bachelor of Construction Management (Honours)",
+      "Bachelor of Architectural Design",
+      "Bachelor of Engineering (Honours) (Civil Engineering)",
+      "Doctor of Philosophy (Built Environment)"
+    ],
+    "programLinks": [
+      "https://www.griffith.edu.au/study/degrees/bachelor-of-construction-management-honours-1598",
+      "https://www.griffith.edu.au/study/degrees/bachelor-of-architectural-design-bachelor-of-construction-management-honours-1688",
+      "https://www.griffith.edu.au/study/degrees",
+      "https://www.griffith.edu.au/study/degrees/doctor-of-philosophy-6001"
+    ],
+    "accreditation": [
+      "TEQSA",
+      "Engineers Australia",
+      "AACA",
+      "AIB"
+    ],
+    "cost": "9,000 - 40,000",
+    "topics": [
+      "BIM",
+      "Digital Construction",
+      "Construction Management",
+      "Project Management",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Architecture",
+      "Digital Design"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Digital Construction",
+      "Digital Design"
+    ],
+    "domains": [
+      "Construction Management",
+      "Project Management",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "lat": -27.9644,
+    "lon": 153.382,
+    "geoSource": "manual:campus",
+    "website": "https://www.griffith.edu.au/",
+    "graduatesEstimateBasis": "public university (Gold Coast); Construction Management (Hons), Architectural Design, Civil Engineering; CM + Architectural Design/CM course pages verified; civil via degree-finder; cost = indicative domestic CSP–international AUD range; intake not published"
+  },
+  {
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "country": "Australia",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "lastChecked": "2026-07-28",
+    "region": "Oceania",
+    "costCurrency": "AUD",
+    "name": "University of Newcastle",
+    "city": "Newcastle",
+    "programs": [
+      "Bachelor of Construction Management (Building) (Honours)",
+      "Bachelor of Engineering (Honours) (Civil Engineering)",
+      "Bachelor of Design (Architecture)",
+      "Doctor of Philosophy (Built Environment)"
+    ],
+    "programLinks": [
+      "https://www.newcastle.edu.au/degrees/bachelor-of-construction-management-building-honours",
+      "https://www.newcastle.edu.au/degrees",
+      "https://www.newcastle.edu.au/degrees",
+      "https://www.newcastle.edu.au/school/engineering/research/phd-and-research-masters/nested-content/doctor-of-philosophy-phd-degrees"
+    ],
+    "accreditation": [
+      "TEQSA",
+      "Engineers Australia",
+      "AACA",
+      "AIB",
+      "AIQS",
+      "RICS"
+    ],
+    "cost": "9,000 - 40,000",
+    "topics": [
+      "BIM",
+      "Digital Construction",
+      "Construction Management",
+      "Project Management",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering",
+      "Architecture",
+      "Digital Design"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Digital Construction",
+      "Digital Design"
+    ],
+    "domains": [
+      "Construction Management",
+      "Project Management",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering",
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "lat": -32.8926,
+    "lon": 151.705,
+    "geoSource": "manual:campus",
+    "website": "https://www.newcastle.edu.au/",
+    "graduatesEstimateBasis": "public university (Callaghan, Newcastle NSW); Construction Management (Building, Hons, verified) + Civil Engineering + Architecture; cost = indicative domestic CSP–international AUD range; intake not published"
+  },
+  {
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "country": "Australia",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "lastChecked": "2026-07-28",
+    "region": "Oceania",
+    "costCurrency": "AUD",
+    "name": "University of Wollongong (UOW)",
+    "city": "Wollongong",
+    "programs": [
+      "Bachelor of Engineering (Honours) (Civil Engineering)",
+      "Bachelor of Engineering (Honours) (Architectural Engineering)",
+      "Doctor of Philosophy (Civil Engineering)"
+    ],
+    "programLinks": [
+      "https://coursefinder.uow.edu.au/information/index.html?course=bachelor-engineering-honours-civil",
+      "https://coursefinder.uow.edu.au/",
+      "https://www.uow.edu.au/study/courses/doctor-of-philosophy/"
+    ],
+    "accreditation": [
+      "TEQSA",
+      "Engineers Australia"
+    ],
+    "cost": "9,000 - 40,000",
+    "topics": [
+      "CAD/CAM",
+      "BIM",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering",
+      "Sustainability",
+      "Energy Performance",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "BIM",
+      "Energy Performance"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering",
+      "Sustainability",
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "lat": -34.4053,
+    "lon": 150.8784,
+    "geoSource": "manual:campus",
+    "website": "https://www.uow.edu.au/",
+    "graduatesEstimateBasis": "public university (Wollongong NSW); Civil Engineering + Architectural Engineering (net-zero/retrofit focus) majors of BE(Hons); Engineers Australia; cost = indicative domestic CSP–international AUD range; intake not published"
+  },
+  {
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "country": "Australia",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "lastChecked": "2026-07-28",
+    "region": "Oceania",
+    "costCurrency": "AUD",
+    "name": "University of South Australia (UniSA)",
+    "city": "Adelaide",
+    "programs": [
+      "Bachelor of Construction Management (Honours)",
+      "Bachelor of Architectural Studies",
+      "Bachelor of Engineering (Honours) (Civil)",
+      "Doctor of Philosophy (Built Environment)"
+    ],
+    "programLinks": [
+      "https://online.unisa.edu.au/degrees/bachelor-of-construction-management-honours/",
+      "https://study.unisa.edu.au/",
+      "https://study.unisa.edu.au/",
+      "https://study.unisa.edu.au/degrees/doctor-of-philosophy-mpde"
+    ],
+    "accreditation": [
+      "TEQSA",
+      "Engineers Australia",
+      "AACA",
+      "AIB",
+      "AIQS",
+      "RICS",
+      "CIOB"
+    ],
+    "cost": "9,000 - 40,000",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "Digital Construction",
+      "Construction Management",
+      "Project Management",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Architecture",
+      "Digital Design"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM",
+      "Digital Construction",
+      "Digital Design"
+    ],
+    "domains": [
+      "Construction Management",
+      "Project Management",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "lat": -34.9205,
+    "lon": 138.5896,
+    "geoSource": "manual:campus",
+    "website": "https://www.unisa.edu.au/",
+    "graduatesEstimateBasis": "public university (City West, Adelaide; merging into Adelaide University 2026); Construction Management (Hons), Architectural Studies, Civil Engineering; study-portal links pending exact programme URLs; cost = indicative domestic CSP–international AUD range; intake not published"
+  },
+  {
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "country": "Australia",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "lastChecked": "2026-07-28",
+    "region": "Oceania",
+    "costCurrency": "AUD",
+    "name": "Western Sydney University",
+    "city": "Sydney",
+    "programs": [
+      "Bachelor of Construction Management (Honours)",
+      "Bachelor of Engineering (Honours) (Civil Engineering)",
+      "Bachelor of Design (Architecture)",
+      "Doctor of Philosophy (Built Environment)"
+    ],
+    "programLinks": [
+      "https://www.westernsydney.edu.au/future/study/courses/undergraduate/bachelor-of-construction-management-honours",
+      "https://www.westernsydney.edu.au/future/study/courses",
+      "https://www.westernsydney.edu.au/future/study/courses",
+      "https://www.westernsydney.edu.au/future/study/courses/research/doctor-of-philosophy"
+    ],
+    "accreditation": [
+      "TEQSA",
+      "Engineers Australia",
+      "AACA",
+      "AIB",
+      "AIQS",
+      "RICS",
+      "CIOB"
+    ],
+    "cost": "9,000 - 38,000",
+    "topics": [
+      "BIM",
+      "Digital Construction",
+      "Construction Management",
+      "Project Management",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Architecture",
+      "Digital Design"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Digital Construction",
+      "Digital Design"
+    ],
+    "domains": [
+      "Construction Management",
+      "Project Management",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "lat": -33.8148,
+    "lon": 151.003,
+    "geoSource": "manual:campus",
+    "website": "https://www.westernsydney.edu.au/",
+    "graduatesEstimateBasis": "public university (Greater Western Sydney, Parramatta); Construction Management, Civil Engineering, Architecture; study-portal links pending exact programme URLs; cost = indicative domestic CSP–international AUD range; intake not published"
+  },
+  {
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "country": "Australia",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "lastChecked": "2026-07-28",
+    "region": "Oceania",
+    "costCurrency": "AUD",
+    "name": "Swinburne University of Technology",
+    "city": "Melbourne",
+    "programs": [
+      "Bachelor of Construction Management (Honours)",
+      "Master of Construction Management Practice",
+      "Bachelor of Engineering (Honours) (Civil)",
+      "Doctor of Philosophy (Built Environment)"
+    ],
+    "programLinks": [
+      "https://www.swinburne.edu.au/course/undergraduate/bachelor-of-construction-management-honours/",
+      "https://www.swinburne.edu.au/study/",
+      "https://www.swinburne.edu.au/study/",
+      "https://www.swinburne.edu.au/courses/study-levels-explained/doctor-of-philosophy/"
+    ],
+    "accreditation": [
+      "TEQSA",
+      "Engineers Australia",
+      "AIB",
+      "AIQS",
+      "RICS"
+    ],
+    "cost": "9,000 - 42,000",
+    "topics": [
+      "BIM",
+      "Digital Construction",
+      "Construction Management",
+      "Project Management",
+      "Prefabrication & Modular Construction",
+      "Digital Fabrication",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Digital Design"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Digital Construction",
+      "Digital Fabrication",
+      "Digital Design"
+    ],
+    "domains": [
+      "Construction Management",
+      "Project Management",
+      "Prefabrication & Modular Construction",
+      "Civil Engineering",
+      "Structural Engineering"
+    ],
+    "verificationLevel": 2,
+    "lat": -37.8221,
+    "lon": 145.0389,
+    "geoSource": "manual:campus",
+    "website": "https://www.swinburne.edu.au/",
+    "graduatesEstimateBasis": "public university (Hawthorn, Melbourne); Construction Management (Hons + Master of CM Practice), Civil Engineering; study-portal links pending exact programme URLs; cost = indicative domestic CSP–international AUD range; intake not published"
+  },
+  {
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "country": "Australia",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "lastChecked": "2026-07-28",
+    "region": "Oceania",
+    "costCurrency": "AUD",
+    "name": "Victoria University",
+    "city": "Melbourne",
+    "programs": [
+      "Bachelor of Construction Management (Honours)",
+      "Doctor of Philosophy (Built Environment)"
+    ],
+    "programLinks": [
+      "https://www.vu.edu.au/courses/bachelor-of-construction-management-honours-nhcm",
+      "https://www.vu.edu.au/courses/doctor-of-philosophy-upad"
+    ],
+    "accreditation": [
+      "TEQSA",
+      "AIB",
+      "AIQS",
+      "RICS"
+    ],
+    "cost": "9,000 - 36,000",
+    "topics": [
+      "BIM",
+      "Digital Construction",
+      "Construction Management",
+      "Project Management",
+      "Sustainability"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Digital Construction"
+    ],
+    "domains": [
+      "Construction Management",
+      "Project Management",
+      "Sustainability"
+    ],
+    "verificationLevel": 2,
+    "lat": -37.8007,
+    "lon": 144.889,
+    "geoSource": "manual:campus",
+    "website": "https://www.vu.edu.au/",
+    "graduatesEstimateBasis": "public university (Footscray Park, Melbourne; Block Model teaching); Construction Management (Hons); study-portal link pending exact programme URL; cost = indicative domestic CSP–international AUD range; intake not published"
+  },
+  {
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "country": "Australia",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "verificationLevel": 2,
+    "accreditation": [
+      "ASQA"
+    ],
+    "cost": "0 - 18,000",
+    "lastChecked": "2026-07-28",
+    "region": "Oceania",
+    "costCurrency": "AUD",
+    "name": "TAFE NSW",
+    "city": "Sydney",
+    "programs": [
+      "CPC50220 Diploma of Building and Construction (Building)"
+    ],
+    "programLinks": [
+      "https://www.tafensw.edu.au/course-areas/building-and-construction-trades/courses/diploma-of-building-and-construction-building--CPC50220-01"
+    ],
+    "topics": [
+      "CAD/CAM",
+      "Construction Management",
+      "Project Management",
+      "Construction Engineering",
+      "Risk & Safety Management",
+      "Sustainability"
+    ],
+    "computingTopics": [
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Construction Management",
+      "Project Management",
+      "Construction Engineering",
+      "Risk & Safety Management",
+      "Sustainability"
+    ],
+    "lat": -33.8836,
+    "lon": 151.1996,
+    "geoSource": "manual:campus",
+    "website": "https://www.tafensw.edu.au/",
+    "graduatesEstimateBasis": "public VET provider (statewide, multi-campus); nationally-recognised CPC Building & Construction quals — Cert IV (CPC40120), Diploma (CPC50220), Advanced Diploma (CPC60220); ASQA-regulated RTO; fee-free/subsidised (domestic) to international fee; intake not published"
+  },
+  {
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "country": "Australia",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "verificationLevel": 2,
+    "accreditation": [
+      "ASQA"
+    ],
+    "cost": "0 - 18,000",
+    "lastChecked": "2026-07-28",
+    "region": "Oceania",
+    "costCurrency": "AUD",
+    "name": "TAFE Queensland",
+    "city": "Brisbane",
+    "programs": [
+      "CPC50220 Diploma of Building and Construction (Building)"
+    ],
+    "programLinks": [
+      "https://tafeqld.edu.au/course/17/17711/diploma-of-building-and-construction-building"
+    ],
+    "topics": [
+      "CAD/CAM",
+      "Construction Management",
+      "Project Management",
+      "Construction Engineering",
+      "Risk & Safety Management",
+      "Sustainability"
+    ],
+    "computingTopics": [
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Construction Management",
+      "Project Management",
+      "Construction Engineering",
+      "Risk & Safety Management",
+      "Sustainability"
+    ],
+    "lat": -27.4809,
+    "lon": 153.023,
+    "geoSource": "manual:campus",
+    "website": "https://tafeqld.edu.au/",
+    "graduatesEstimateBasis": "public VET provider (statewide, multi-campus); CPC Building & Construction quals incl. Diploma (Building/Management) and Advanced Diploma (Management); ASQA-regulated RTO; subsidised (domestic) to international fee; intake not published"
+  },
+  {
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "country": "Australia",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "verificationLevel": 2,
+    "accreditation": [
+      "ASQA"
+    ],
+    "cost": "0 - 18,000",
+    "lastChecked": "2026-07-28",
+    "region": "Oceania",
+    "costCurrency": "AUD",
+    "name": "TAFE SA",
+    "city": "Adelaide",
+    "programs": [
+      "CPC50220 Diploma of Building and Construction (Building)"
+    ],
+    "programLinks": [
+      "https://www.tafesa.edu.au/xml/course/aw/aw_TP01345.aspx"
+    ],
+    "topics": [
+      "CAD/CAM",
+      "Construction Management",
+      "Project Management",
+      "Construction Engineering",
+      "Risk & Safety Management",
+      "Sustainability"
+    ],
+    "computingTopics": [
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Construction Management",
+      "Project Management",
+      "Construction Engineering",
+      "Risk & Safety Management",
+      "Sustainability"
+    ],
+    "lat": -34.9285,
+    "lon": 138.6007,
+    "geoSource": "manual:campus",
+    "website": "https://www.tafesa.edu.au/",
+    "graduatesEstimateBasis": "public VET provider (statewide); CPC Building & Construction quals; Fee-Free TAFE + subsidised (domestic) to international fee; university pathway partnerships (UniSA/Adelaide/Flinders); intake not published"
+  },
+  {
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "country": "Australia",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "verificationLevel": 2,
+    "accreditation": [
+      "ASQA"
+    ],
+    "cost": "0 - 18,000",
+    "lastChecked": "2026-07-28",
+    "region": "Oceania",
+    "costCurrency": "AUD",
+    "name": "Melbourne Polytechnic",
+    "city": "Melbourne",
+    "programs": [
+      "CPC50220 Diploma of Building and Construction (Building)"
+    ],
+    "programLinks": [
+      "https://www.melbournepolytechnic.edu.au/study/diploma/building-and-construction-building/"
+    ],
+    "topics": [
+      "CAD/CAM",
+      "Construction Management",
+      "Project Management",
+      "Construction Engineering",
+      "Risk & Safety Management",
+      "Sustainability"
+    ],
+    "computingTopics": [
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Construction Management",
+      "Project Management",
+      "Construction Engineering",
+      "Risk & Safety Management",
+      "Sustainability"
+    ],
+    "lat": -37.738,
+    "lon": 145.001,
+    "geoSource": "manual:campus",
+    "website": "https://www.melbournepolytechnic.edu.au/",
+    "graduatesEstimateBasis": "public VET provider (Preston/Epping, Melbourne); CPC Building & Construction quals, recognised by the Victorian Building Authority; Free TAFE priority course (domestic) to international; intake not published"
+  },
+  {
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "country": "Australia",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "verificationLevel": 2,
+    "accreditation": [
+      "ASQA"
+    ],
+    "cost": "0 - 18,000",
+    "lastChecked": "2026-07-28",
+    "region": "Oceania",
+    "costCurrency": "AUD",
+    "name": "Holmesglen Institute",
+    "city": "Melbourne",
+    "programs": [
+      "CPC50220 Diploma of Building and Construction (Building)",
+      "Advanced Diploma of Building Design (Architectural)"
+    ],
+    "programLinks": [
+      "https://www.holmesglen.edu.au/explore-courses/building-and-construction/building-and-construction-management/vocational-education/diploma-of-building-and-construction-building-int",
+      "https://www.holmesglen.edu.au/explore-courses/building-and-construction/building-design-and-drafting/vocational-education/advanced-diploma-of-building-design-architectural"
+    ],
+    "topics": [
+      "CAD/CAM",
+      "Digital Design",
+      "BIM",
+      "Architecture",
+      "Construction Management",
+      "Project Management",
+      "Construction Engineering",
+      "Sustainability"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "Digital Design",
+      "BIM"
+    ],
+    "domains": [
+      "Architecture",
+      "Construction Management",
+      "Project Management",
+      "Construction Engineering",
+      "Sustainability"
+    ],
+    "lat": -37.888,
+    "lon": 145.087,
+    "geoSource": "manual:campus",
+    "website": "https://www.holmesglen.edu.au/",
+    "graduatesEstimateBasis": "public VET provider (Chadstone, Melbourne); strong building design & drafting stream (CAD/BIM) alongside Diploma of Building & Construction and Advanced Diploma of Building Design (Architectural); ASQA-regulated; subsidised (domestic) to international fee; intake not published"
+  },
+  {
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "country": "Australia",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "verificationLevel": 2,
+    "accreditation": [
+      "ASQA"
+    ],
+    "cost": "0 - 18,000",
+    "lastChecked": "2026-07-28",
+    "region": "Oceania",
+    "costCurrency": "AUD",
+    "name": "South Metropolitan TAFE",
+    "city": "Perth",
+    "programs": [
+      "CPC50220 Diploma of Building and Construction (Building)"
+    ],
+    "programLinks": [
+      "https://www.southmetrotafe.wa.edu.au/courses/diploma-building-and-construction-building"
+    ],
+    "topics": [
+      "CAD/CAM",
+      "Construction Management",
+      "Project Management",
+      "Construction Engineering",
+      "Risk & Safety Management",
+      "Sustainability"
+    ],
+    "computingTopics": [
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Construction Management",
+      "Project Management",
+      "Construction Engineering",
+      "Risk & Safety Management",
+      "Sustainability"
+    ],
+    "lat": -32.0569,
+    "lon": 115.7439,
+    "geoSource": "manual:campus",
+    "website": "https://www.southmetrotafe.wa.edu.au/",
+    "graduatesEstimateBasis": "public VET provider (Fremantle/Perth, multi-campus); CPC Building & Construction quals incl. Builders Registration stream; WA-subsidised (domestic ~AUD 1,758) to international; intake not published"
+  },
+  {
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "country": "Australia",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "verificationLevel": 2,
+    "accreditation": [
+      "ASQA"
+    ],
+    "cost": "0 - 18,000",
+    "lastChecked": "2026-07-28",
+    "region": "Oceania",
+    "costCurrency": "AUD",
+    "name": "Canberra Institute of Technology (CIT)",
+    "city": "Canberra",
+    "programs": [
+      "CPC50220 Diploma of Building and Construction (Building)",
+      "CPC40120 Certificate IV in Building and Construction"
+    ],
+    "programLinks": [
+      "https://cit.edu.au/courses/professional/building-management/DP-TS37",
+      "https://cit.edu.au/courses/professional/building-management/C4-TS37"
+    ],
+    "topics": [
+      "CAD/CAM",
+      "Digital Design",
+      "Construction Management",
+      "Project Management",
+      "Construction Engineering",
+      "Risk & Safety Management"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "Digital Design"
+    ],
+    "domains": [
+      "Construction Management",
+      "Project Management",
+      "Construction Engineering",
+      "Risk & Safety Management"
+    ],
+    "lat": -35.282,
+    "lon": 149.133,
+    "geoSource": "manual:campus",
+    "website": "https://cit.edu.au/",
+    "graduatesEstimateBasis": "public VET provider (largest TAFE in the ACT); CPC Building & Construction quals + Building Design stream; pathway to University of Canberra Bachelor of Building & Construction Management; ASQA-regulated; intake not published"
+  },
+  {
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "country": "Australia",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "verificationLevel": 2,
+    "accreditation": [
+      "ASQA"
+    ],
+    "cost": "0 - 18,000",
+    "lastChecked": "2026-07-28",
+    "region": "Oceania",
+    "costCurrency": "AUD",
+    "name": "Charles Darwin University (CDU)",
+    "city": "Darwin",
+    "programs": [
+      "CPC40120 Certificate IV in Building and Construction",
+      "CPC50220 Diploma of Building and Construction (Building)"
+    ],
+    "programLinks": [
+      "https://www.cdu.edu.au/study/course/cpc40120-certificate-iv-building-construction-cpc40120",
+      "https://www.cdu.edu.au/study/tafe-trades/building-construction"
+    ],
+    "topics": [
+      "CAD/CAM",
+      "Construction Management",
+      "Project Management",
+      "Construction Engineering",
+      "Risk & Safety Management",
+      "Sustainability"
+    ],
+    "computingTopics": [
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Construction Management",
+      "Project Management",
+      "Construction Engineering",
+      "Risk & Safety Management",
+      "Sustainability"
+    ],
+    "lat": -12.372,
+    "lon": 130.867,
+    "geoSource": "manual:campus",
+    "website": "https://www.cdu.edu.au/",
+    "graduatesEstimateBasis": "dual-sector university (VET + higher ed), Casuarina, Darwin NT; TAFE Building & Construction quals (Cert IV, Diploma); ASQA-regulated; subsidised (domestic) to international fee; intake not published"
+  },
+  {
+    "name": "TasTAFE",
+    "country": "Australia",
+    "city": "Hobart",
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "programs": [
+      "CPC40120 Certificate IV in Building and Construction",
+      "CPP50921 Diploma of Building Design"
+    ],
+    "programLinks": [
+      "https://www.tastafe.tas.edu.au/courses/course/cpc40120",
+      "https://www.tastafe.tas.edu.au/courses/course/cpp50921"
+    ],
+    "accreditation": [
+      "ASQA"
+    ],
+    "cost": "0 - 18,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "public VET provider (Tasmania; Hobart & Launceston); Certificate IV in Building and Construction + Diploma of Building Design (drafting/digital design), also Diploma of Building & Construction (Building/Management); ASQA-regulated; subsidised (domestic) to commercial fee; intake not published",
+    "topics": [
+      "CAD/CAM",
+      "Digital Design",
+      "Construction Management",
+      "Project Management",
+      "Construction Engineering",
+      "Risk & Safety Management"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "Digital Design"
+    ],
+    "domains": [
+      "Construction Management",
+      "Project Management",
+      "Construction Engineering",
+      "Risk & Safety Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.tastafe.tas.edu.au/",
+    "lat": -42.8794,
+    "lon": 147.3294,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-07-28",
+    "region": "Oceania",
+    "costCurrency": "AUD"
+  },
+  {
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "country": "New Zealand",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "lastChecked": "2026-07-28",
+    "region": "Oceania",
+    "costCurrency": "NZD",
+    "name": "University of Auckland",
+    "city": "Auckland",
+    "programs": [
+      "Bachelor of Engineering (Honours) (Civil Engineering)",
+      "Doctor of Philosophy (Civil Engineering)"
+    ],
+    "programLinks": [
+      "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/civil-engineering/undergraduate.html",
+      "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/doctor-of-philosophy-phd.html"
+    ],
+    "accreditation": [
+      "NZQA",
+      "Engineering New Zealand"
+    ],
+    "cost": "8,000 - 48,000",
+    "topics": [
+      "CAD/CAM",
+      "BIM",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering",
+      "Construction Management",
+      "Project Management"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "BIM"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering",
+      "Construction Management",
+      "Project Management"
+    ],
+    "verificationLevel": 2,
+    "lat": -36.8523,
+    "lon": 174.7691,
+    "geoSource": "manual:campus",
+    "website": "https://www.auckland.ac.nz/",
+    "graduatesEstimateBasis": "public research university; BE(Hons) Civil Engineering (Engineers NZ/Washington Accord) with Construction Management specialisation; also Bachelor of Architectural Studies; cost = indicative domestic–international NZD range; intake not published"
+  },
+  {
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "country": "New Zealand",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "lastChecked": "2026-07-28",
+    "region": "Oceania",
+    "costCurrency": "NZD",
+    "name": "Auckland University of Technology (AUT)",
+    "city": "Auckland",
+    "programs": [
+      "Bachelor of Construction",
+      "Bachelor of Engineering (Honours) (Civil Construction Engineering)",
+      "Doctor of Philosophy (Built Environment)"
+    ],
+    "programLinks": [
+      "https://www.aut.ac.nz/study/study-options/architecture-and-built-environment/courses/bachelor-of-construction",
+      "https://www.aut.ac.nz/courses/bachelor-of-engineering-honours/construction-engineering-major",
+      "https://www.aut.ac.nz/courses/doctor-of-philosophy"
+    ],
+    "accreditation": [
+      "NZQA",
+      "Engineering New Zealand",
+      "NZIQS"
+    ],
+    "cost": "8,000 - 42,000",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "Digital Construction",
+      "Construction Management",
+      "Project Management",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering",
+      "Data Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM",
+      "Digital Construction",
+      "Data Management"
+    ],
+    "domains": [
+      "Construction Management",
+      "Project Management",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering"
+    ],
+    "verificationLevel": 2,
+    "lat": -36.8531,
+    "lon": 174.7665,
+    "geoSource": "manual:campus",
+    "website": "https://www.aut.ac.nz/",
+    "graduatesEstimateBasis": "public university; Bachelor of Construction (Construction Management + Quantity Surveying, NZIQS) and BE(Hons) Civil Construction Engineering (BIM scaffolded across the major); Master of Construction Management; cost = indicative domestic–international NZD range; intake not published"
+  },
+  {
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "country": "New Zealand",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "lastChecked": "2026-07-28",
+    "region": "Oceania",
+    "costCurrency": "NZD",
+    "name": "Massey University",
+    "city": "Palmerston North",
+    "programs": [
+      "Bachelor of Construction",
+      "Doctor of Philosophy (Built Environment)"
+    ],
+    "programLinks": [
+      "https://www.massey.ac.nz/study/all-qualifications-and-degrees/bachelor-of-construction-UBCNS/",
+      "https://www.massey.ac.nz/study/all-qualifications-and-degrees/doctor-of-philosophy-PLPHD/"
+    ],
+    "accreditation": [
+      "NZQA",
+      "NZIQS"
+    ],
+    "cost": "8,000 - 46,000",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "VR/AR",
+      "Digital Construction",
+      "Construction Management",
+      "Project Management",
+      "Data Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM",
+      "VR/AR",
+      "Digital Construction",
+      "Data Management"
+    ],
+    "domains": [
+      "Construction Management",
+      "Project Management"
+    ],
+    "verificationLevel": 2,
+    "lat": -40.385,
+    "lon": 175.61,
+    "geoSource": "manual:campus",
+    "website": "https://www.massey.ac.nz/",
+    "graduatesEstimateBasis": "public university (Manawatū/Albany); Bachelor of Construction with majors incl. Construction Management, Quantity Surveying, Construction Project Management, and Digital Built Environment (BIM/CAD/AR/VR, CostX); cost = indicative domestic–international NZD range; intake not published"
+  },
+  {
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "country": "New Zealand",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "lastChecked": "2026-07-28",
+    "region": "Oceania",
+    "costCurrency": "NZD",
+    "name": "Victoria University of Wellington",
+    "city": "Wellington",
+    "programs": [
+      "Bachelor of Building Science",
+      "Bachelor of Construction",
+      "Doctor of Philosophy (Built Environment)"
+    ],
+    "programLinks": [
+      "https://www.wgtn.ac.nz/explore/study-areas/building-science/overview",
+      "https://www.wgtn.ac.nz/explore/degrees/construction/overview",
+      "https://www.wgtn.ac.nz/explore/postgraduate-programmes/doctor-of-philosophy/overview"
+    ],
+    "accreditation": [
+      "NZQA",
+      "RICS"
+    ],
+    "cost": "8,000 - 45,000",
+    "topics": [
+      "CAD/CAM",
+      "Digital Design",
+      "Digital Fabrication",
+      "BIM",
+      "Construction Management",
+      "Project Management",
+      "Sustainability",
+      "Energy Performance"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "Digital Design",
+      "Digital Fabrication",
+      "BIM",
+      "Energy Performance"
+    ],
+    "domains": [
+      "Construction Management",
+      "Project Management",
+      "Sustainability"
+    ],
+    "verificationLevel": 2,
+    "lat": -41.29,
+    "lon": 174.768,
+    "geoSource": "manual:campus",
+    "website": "https://www.wgtn.ac.nz/",
+    "graduatesEstimateBasis": "public university (Te Herenga Waka); Bachelor of Building Science + Bachelor of Construction (majors incl. Construction Management/QS/PM, several RICS-accredited); School of Architecture with CAD workstations, 3D-modelling & digital-fabrication labs; cost = indicative domestic–international NZD range; intake not published"
+  },
+  {
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "country": "New Zealand",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "lastChecked": "2026-07-28",
+    "region": "Oceania",
+    "costCurrency": "NZD",
+    "name": "University of Canterbury",
+    "city": "Christchurch",
+    "programs": [
+      "Bachelor of Engineering (Honours) (Civil Engineering)",
+      "Master of Civil Engineering (Construction Management)",
+      "Doctor of Philosophy (Civil Engineering)"
+    ],
+    "programLinks": [
+      "https://www.canterbury.ac.nz/courseinfo/GetCourses.aspx?subjectnames=Civil+Engineering",
+      "https://www.canterbury.ac.nz/study/qualifications-and-courses/masters-degrees/master-of-civil-engineering/",
+      "https://www.canterbury.ac.nz/study/qualifications-and-courses/phds-and-doctoral-degrees/doctor-of-philosophy/"
+    ],
+    "accreditation": [
+      "NZQA",
+      "Engineering New Zealand"
+    ],
+    "cost": "8,000 - 48,000",
+    "topics": [
+      "CAD/CAM",
+      "BIM",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering",
+      "Construction Management",
+      "Risk & Safety Management"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "BIM"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering",
+      "Construction Management",
+      "Risk & Safety Management"
+    ],
+    "verificationLevel": 2,
+    "lat": -43.522,
+    "lon": 172.584,
+    "geoSource": "manual:campus",
+    "website": "https://www.canterbury.ac.nz/",
+    "graduatesEstimateBasis": "public university (NZ's oldest engineering school, 1887; strong structural/earthquake engineering); BE(Hons) Civil (Engineers NZ) + Master of Civil Engineering (Construction Management); faculty-level link (exact course URL not exposed); cost = indicative domestic–international NZD range; intake not published"
+  },
+  {
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "country": "New Zealand",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "lastChecked": "2026-07-28",
+    "region": "Oceania",
+    "costCurrency": "NZD",
+    "name": "Unitec Institute of Technology",
+    "city": "Auckland",
+    "programs": [
+      "Bachelor of Construction (Construction Management)"
+    ],
+    "programLinks": [
+      "https://www.unitec.ac.nz/career-and-study-options/construction/construction-management/bachelor-of-construction-construction-management/"
+    ],
+    "accreditation": [
+      "NZQA",
+      "NZIOB"
+    ],
+    "cost": "8,000 - 30,000",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "Construction Management",
+      "Project Management",
+      "Construction Engineering",
+      "Data Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM",
+      "Data Management"
+    ],
+    "domains": [
+      "Construction Management",
+      "Project Management",
+      "Construction Engineering"
+    ],
+    "verificationLevel": 2,
+    "lat": -36.894,
+    "lon": 174.718,
+    "geoSource": "manual:campus",
+    "website": "https://www.unitec.ac.nz/",
+    "graduatesEstimateBasis": "public institute of technology (Mt Albert, Auckland); Bachelor of Construction (Construction Management, Construction Economics/QS, Property Development) + NZ Diploma in Architectural Technology (Revit/BIM); cost = indicative domestic–international NZD range; intake not published"
+  },
+  {
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "country": "New Zealand",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "verificationLevel": 2,
+    "accreditation": [
+      "NZQA"
+    ],
+    "lastChecked": "2026-07-28",
+    "region": "Oceania",
+    "costCurrency": "NZD",
+    "name": "Ara Institute of Canterbury",
+    "city": "Christchurch",
+    "programs": [
+      "New Zealand Diploma in Architectural Technology",
+      "Graduate Certificate in Building Information Modelling (BIM)",
+      "Graduate Diploma in Building Information Modelling (BIM)"
+    ],
+    "programLinks": [
+      "https://www.ara.ac.nz/products/programme/nz2416-stru-new-zealand-diploma-in-architectural-technology/",
+      "https://www.ara.ac.nz/study-interest-areas/architecture-and-construction-management/architecture/",
+      "https://www.ara.ac.nz/study-interest-areas/architecture-and-construction-management/architecture/"
+    ],
+    "cost": "7,000 - 23,000",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "Digital Design",
+      "3D Modeling & Scanning",
+      "Collaborative Workflows",
+      "Digital Construction",
+      "Construction Management",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM",
+      "Digital Design",
+      "3D Modeling & Scanning",
+      "Collaborative Workflows",
+      "Digital Construction"
+    ],
+    "domains": [
+      "Construction Management",
+      "Architecture"
+    ],
+    "lat": -43.529,
+    "lon": 172.637,
+    "geoSource": "manual:campus",
+    "website": "https://www.ara.ac.nz/",
+    "graduatesEstimateBasis": "institute of technology (Christchurch); NZ Diploma in Architectural Technology (Virtual Design & Construction / BIM) plus dedicated Graduate Certificate & Graduate Diploma in BIM (Systems & Technologies, 3D Documentation & Collaboration, MEP Integration, applied BIM project); NZQA; Fees Free (domestic) to international; intake not published"
+  },
+  {
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "country": "New Zealand",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "verificationLevel": 2,
+    "accreditation": [
+      "NZQA"
+    ],
+    "lastChecked": "2026-07-28",
+    "region": "Oceania",
+    "costCurrency": "NZD",
+    "name": "Waikato Institute of Technology (Wintec)",
+    "city": "Hamilton",
+    "programs": [
+      "New Zealand Diploma in Architectural Technology (Level 6)"
+    ],
+    "programLinks": [
+      "https://www.wintec.ac.nz/study-at-wintec/courses/architectural-technology/new-zealand-diploma-in-architectural-technology-(level-6)"
+    ],
+    "cost": "7,000 - 23,000",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "Digital Design",
+      "3D Modeling & Scanning",
+      "Construction Engineering",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM",
+      "Digital Design",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Construction Engineering",
+      "Architecture"
+    ],
+    "lat": -37.783,
+    "lon": 175.282,
+    "geoSource": "manual:campus",
+    "website": "https://www.wintec.ac.nz/",
+    "graduatesEstimateBasis": "institute of technology (Hamilton); NZ Diploma in Architectural Technology (Level 6) using ArchiCAD/Revit and standard BIM software; NZQA; domestic to international fee; intake not published"
+  },
+  {
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "country": "New Zealand",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "verificationLevel": 2,
+    "accreditation": [
+      "NZQA"
+    ],
+    "lastChecked": "2026-07-28",
+    "region": "Oceania",
+    "costCurrency": "NZD",
+    "name": "Otago Polytechnic",
+    "city": "Dunedin",
+    "programs": [
+      "Bachelor of Architectural Studies (Architectural Technology)"
+    ],
+    "programLinks": [
+      "https://www.op.ac.nz/programmes/nzqa/bachelor-of-architectural-studies-architectural-technology-or-interior-architecture"
+    ],
+    "cost": "7,000 - 24,000",
+    "topics": [
+      "CAD/CAM",
+      "Digital Design",
+      "Architecture",
+      "Construction Engineering",
+      "Sustainability"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "Digital Design"
+    ],
+    "domains": [
+      "Architecture",
+      "Construction Engineering",
+      "Sustainability"
+    ],
+    "lat": -45.874,
+    "lon": 170.514,
+    "geoSource": "manual:campus",
+    "website": "https://www.op.ac.nz/",
+    "graduatesEstimateBasis": "institute of technology (Dunedin); Bachelor of Architectural Studies (Architectural Technology / Interior Architecture) with CAD & building science; also Construction Management and carpentry programmes; NZQA; domestic to international fee; intake not published"
+  },
+  {
+    "name": "Southern Institute of Technology (SIT)",
+    "country": "New Zealand",
+    "city": "Invercargill",
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "programs": [
+      "Bachelor of Architectural Technology",
+      "Bachelor of Construction"
+    ],
+    "programLinks": [
+      "https://sit.ac.nz/programme/course/Bachelor%20of%20Architectural%20Technology",
+      "https://www.sit.ac.nz/Courses/Construction/PID/6457/evl/0/CategoryID/7/CategoryName/Architectural-Technology"
+    ],
+    "accreditation": [
+      "NZQA"
+    ],
+    "cost": "0 - 22,000",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "institute of technology (Invercargill; also Queenstown/Christchurch/Gore + SIT2LRN distance); Bachelor of Architectural Technology + Bachelor of Construction (Level 7); NZQA; SIT Zero Fees Scheme (free tuition for domestic students at all levels) to international fee; intake not published",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "Digital Design",
+      "Architecture",
+      "Construction Management",
+      "Construction Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM",
+      "Digital Design"
+    ],
+    "domains": [
+      "Architecture",
+      "Construction Management",
+      "Construction Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.sit.ac.nz/",
+    "lat": -46.4132,
+    "lon": 168.3538,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-07-28",
+    "region": "Oceania",
+    "costCurrency": "NZD"
   }
 ]
