@@ -34630,5 +34630,973 @@
     "lastChecked": "2026-07-27",
     "region": "South America",
     "costCurrency": "USD"
+  },
+  {
+    "language": "Spanish",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "verificationLevel": 2,
+    "lastChecked": "2026-07-28",
+    "region": "South America",
+    "costCurrency": "BOB",
+    "name": "Universidad Mayor de San Andrés (UMSA)",
+    "country": "Bolivia",
+    "city": "La Paz",
+    "programs": [
+      "Ingeniería Civil",
+      "Especialidad Superior en Gestión de Proyectos de Edificación bajo la Metodología BIM y Lean Construction"
+    ],
+    "programLinks": [
+      "https://ingenieriacivil.umsa.bo/en/plan-de-estudios",
+      "https://dipgis.umsa.bo/?page_id=4230"
+    ],
+    "accreditation": [
+      "CNACU"
+    ],
+    "cost": "0",
+    "graduatesEstimateBasis": "public autonomous university (free); intake/graduation not published on programme page",
+    "topics": [
+      "CAD/CAM",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering",
+      "BIM",
+      "Digital Construction",
+      "Construction Management",
+      "Lean & Integrated Delivery"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "BIM",
+      "Digital Construction"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering",
+      "Construction Management",
+      "Lean & Integrated Delivery"
+    ],
+    "website": "https://ingenieriacivil.umsa.bo/en/plan-de-estudios",
+    "lat": -16.5059,
+    "lon": -68.1271,
+    "geoSource": "manual:campus"
+  },
+  {
+    "language": "Spanish",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "verificationLevel": 2,
+    "lastChecked": "2026-07-28",
+    "region": "South America",
+    "costCurrency": "BOB",
+    "name": "Universidad Mayor de San Simón (UMSS)",
+    "country": "Bolivia",
+    "city": "Cochabamba",
+    "programs": [
+      "Arquitectura",
+      "Ingeniería Civil"
+    ],
+    "programLinks": [
+      "http://www.arquitectura.fach.umss.edu.bo/plan-de-estudios/",
+      "https://civil.fcyt.umss.edu.bo/malla-curricular/"
+    ],
+    "accreditation": [
+      "CNACU"
+    ],
+    "cost": "0",
+    "graduatesEstimateBasis": "public autonomous university (free); Arquitectura (FACH) + Ingeniería Civil (FCyT); intake/graduation not published",
+    "topics": [
+      "CAD/CAM",
+      "Digital Design",
+      "Architecture",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "Digital Design"
+    ],
+    "domains": [
+      "Architecture",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering"
+    ],
+    "website": "http://www.arquitectura.fach.umss.edu.bo/plan-de-estudios/",
+    "lat": -17.3895,
+    "lon": -66.1568,
+    "geoSource": "manual:city"
+  },
+  {
+    "language": "Spanish",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "verificationLevel": 2,
+    "lastChecked": "2026-07-28",
+    "region": "South America",
+    "costCurrency": "BOB",
+    "name": "Universidad Privada Boliviana (UPB) — La Paz",
+    "country": "Bolivia",
+    "city": "La Paz",
+    "programs": [
+      "Ingeniería Civil"
+    ],
+    "programLinks": [
+      "https://www.upb.edu/pregrado/facultad-de-ingenierias-y-arquitectura-fia/la-paz/ingenieria-civil"
+    ],
+    "accreditation": [
+      "CNACU",
+      "ARCU-SUR"
+    ],
+    "cost": "25,000 - 40,000",
+    "graduatesEstimateBasis": "private university; tuition and intake not published on programme page",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Structural Engineering",
+      "Construction Management"
+    ],
+    "website": "https://www.upb.edu/pregrado/facultad-de-ingenierias-y-arquitectura-fia/la-paz/ingenieria-civil",
+    "lat": -16.58,
+    "lon": -68.105,
+    "geoSource": "manual:city"
+  },
+  {
+    "language": "Spanish",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "verificationLevel": 2,
+    "lastChecked": "2026-07-28",
+    "region": "South America",
+    "costCurrency": "BOB",
+    "name": "Universidad Autónoma Gabriel René Moreno (UAGRM)",
+    "country": "Bolivia",
+    "city": "Santa Cruz de la Sierra",
+    "programs": [
+      "Ingeniería Civil",
+      "Ingeniería en Agrimensura",
+      "Técnico Superior en Construcciones Civiles"
+    ],
+    "programLinks": [
+      "https://www.uagrm.edu.bo/carreras/fcet-cic",
+      "https://www.uagrm.edu.bo/admisiones/facultades/02-politecnica",
+      "https://www.uagrm.edu.bo/admisiones/facultades/02-politecnica"
+    ],
+    "accreditation": [
+      "CNACU",
+      "ARCU-SUR"
+    ],
+    "cost": "0",
+    "graduatesEstimateBasis": "public autonomous university (free); Ingeniería Civil (FCET, ARCU-SUR) + Ingeniería en Agrimensura & Técnico Superior en Construcciones Civiles (Facultad Politécnica); intake/graduation not published",
+    "topics": [
+      "CAD/CAM",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering",
+      "3D Modeling & Scanning",
+      "GIS & BIM Integration",
+      "Programming",
+      "Construction Engineering"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "GIS & BIM Integration",
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering",
+      "Construction Engineering"
+    ],
+    "website": "https://www.uagrm.edu.bo/carreras/fcet-cic",
+    "lat": -17.7716,
+    "lon": -63.162,
+    "geoSource": "manual:campus"
+  },
+  {
+    "language": "Spanish",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "verificationLevel": 2,
+    "lastChecked": "2026-07-28",
+    "region": "South America",
+    "costCurrency": "BOB",
+    "name": "Universidad Mayor Real y Pontificia de San Francisco Xavier de Chuquisaca (USFX)",
+    "country": "Bolivia",
+    "city": "Sucre",
+    "programs": [
+      "Ingeniería Civil",
+      "Ingeniería Geomática",
+      "Técnico Universitario Superior en Topografía",
+      "Técnico Universitario en Construcción Civil"
+    ],
+    "programLinks": [
+      "https://civil.usfx.bo/",
+      "https://tecnica.usfx.bo/",
+      "https://tecnica.usfx.bo/",
+      "https://tecnica.usfx.bo/construccion-civil/"
+    ],
+    "accreditation": [
+      "CNACU"
+    ],
+    "cost": "0",
+    "graduatesEstimateBasis": "public autonomous university (free); Ingeniería Civil + Facultad Técnica (Geomática, Topografía, Construcción Civil); intake/graduation not published",
+    "topics": [
+      "CAD/CAM",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering",
+      "GIS & BIM Integration",
+      "3D Modeling & Scanning",
+      "Construction Engineering"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "GIS & BIM Integration",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering",
+      "Construction Engineering"
+    ],
+    "website": "https://civil.usfx.bo/",
+    "lat": -19.0433,
+    "lon": -65.2586,
+    "geoSource": "manual:city"
+  },
+  {
+    "language": "Spanish",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "verificationLevel": 2,
+    "lastChecked": "2026-07-28",
+    "region": "South America",
+    "costCurrency": "BOB",
+    "name": "Universidad Técnica de Oruro (UTO)",
+    "country": "Bolivia",
+    "city": "Oruro",
+    "programs": [
+      "Ingeniería Civil",
+      "Arquitectura"
+    ],
+    "programLinks": [
+      "https://www.uto.edu.bo/facultad-nacional-de-ingenieria/",
+      "https://fau.uto.edu.bo/arquitectura.html"
+    ],
+    "accreditation": [
+      "CNACU"
+    ],
+    "cost": "0",
+    "graduatesEstimateBasis": "public autonomous university (free); Ingeniería Civil (Facultad Nacional de Ingeniería) + Arquitectura (FAU); intake/graduation not published",
+    "topics": [
+      "CAD/CAM",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering",
+      "Digital Design",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "Digital Design"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering",
+      "Architecture"
+    ],
+    "website": "https://www.uto.edu.bo/facultad-nacional-de-ingenieria/",
+    "lat": -17.9647,
+    "lon": -67.1064,
+    "geoSource": "manual:city"
+  },
+  {
+    "language": "Spanish",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "verificationLevel": 2,
+    "lastChecked": "2026-07-28",
+    "region": "South America",
+    "costCurrency": "BOB",
+    "name": "Universidad Autónoma Juan Misael Saracho (UAJMS)",
+    "country": "Bolivia",
+    "city": "Tarija",
+    "programs": [
+      "Ingeniería Civil",
+      "Arquitectura"
+    ],
+    "programLinks": [
+      "https://www.uajms.edu.bo/fcyt/",
+      "https://www.uajms.edu.bo/fcyt/"
+    ],
+    "accreditation": [
+      "CNACU"
+    ],
+    "cost": "0",
+    "graduatesEstimateBasis": "public autonomous university (free); Ingeniería Civil + Arquitectura (Facultad de Ciencias y Tecnología); intake/graduation not published",
+    "topics": [
+      "CAD/CAM",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering",
+      "Digital Design",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "Digital Design"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering",
+      "Architecture"
+    ],
+    "website": "https://www.uajms.edu.bo/fcyt/",
+    "lat": -21.5355,
+    "lon": -64.7296,
+    "geoSource": "manual:city"
+  },
+  {
+    "language": "Spanish",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "lastChecked": "2026-07-28",
+    "region": "South America",
+    "costCurrency": "BOB",
+    "name": "Universidad Autónoma Tomás Frías (UATF)",
+    "country": "Bolivia",
+    "city": "Potosí",
+    "programs": [
+      "Ingeniería Civil",
+      "Ingeniería en Geodesia y Topografía",
+      "Técnico Superior en Construcciones Civiles"
+    ],
+    "programLinks": [
+      "https://www.uatf.edu.bo/",
+      "https://www.uatf.edu.bo/",
+      "https://www.uatf.edu.bo/"
+    ],
+    "accreditation": [
+      "CNACU"
+    ],
+    "cost": "0",
+    "graduatesEstimateBasis": "public autonomous university (free); Ingeniería Civil, Geodesia y Topografía, Construcciones Civiles; per-carrera pages not exposed (institution-level link)",
+    "topics": [
+      "CAD/CAM",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering",
+      "3D Modeling & Scanning",
+      "GIS & BIM Integration",
+      "Construction Engineering"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "GIS & BIM Integration"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering",
+      "Construction Engineering"
+    ],
+    "verificationLevel": 1,
+    "website": "https://www.uatf.edu.bo/",
+    "lat": -19.5839,
+    "lon": -65.7572,
+    "geoSource": "manual:city"
+  },
+  {
+    "language": "Spanish",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "lastChecked": "2026-07-28",
+    "region": "South America",
+    "costCurrency": "BOB",
+    "name": "Universidad Pública de El Alto (UPEA)",
+    "country": "Bolivia",
+    "city": "El Alto",
+    "programs": [
+      "Ingeniería Civil",
+      "Arquitectura"
+    ],
+    "programLinks": [
+      "https://www.upea.edu.bo/Carreras",
+      "https://www.upea.edu.bo/Carreras"
+    ],
+    "accreditation": [
+      "CNACU"
+    ],
+    "cost": "0",
+    "graduatesEstimateBasis": "public autonomous university (free); Ingeniería Civil + Arquitectura; per-carrera pages not exposed (carreras-listing link)",
+    "topics": [
+      "CAD/CAM",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering",
+      "Digital Design",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "Digital Design"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering",
+      "Architecture"
+    ],
+    "verificationLevel": 1,
+    "website": "https://www.upea.edu.bo/",
+    "lat": -16.4917,
+    "lon": -68.1936,
+    "geoSource": "manual:city"
+  },
+  {
+    "language": "Spanish",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "verificationLevel": 2,
+    "lastChecked": "2026-07-28",
+    "region": "South America",
+    "costCurrency": "BOB",
+    "name": "Universidad Privada Boliviana (UPB) — Cochabamba",
+    "country": "Bolivia",
+    "city": "Cochabamba",
+    "programs": [
+      "Ingeniería Civil"
+    ],
+    "programLinks": [
+      "https://www.upb.edu/pregrado/facultad-de-ingenierias-y-arquitectura-fia/cochabamba/ingenieria-civil"
+    ],
+    "accreditation": [
+      "CNACU",
+      "ARCU-SUR"
+    ],
+    "cost": "25,000 - 40,000",
+    "graduatesEstimateBasis": "private university (Campus Julio León Prado); FIA Ingeniería Civil (ARCU-SUR); tuition/intake not published",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Structural Engineering",
+      "Construction Management"
+    ],
+    "website": "https://www.upb.edu/pregrado/facultad-de-ingenierias-y-arquitectura-fia/cochabamba/ingenieria-civil",
+    "lat": -17.3925,
+    "lon": -66.225,
+    "geoSource": "manual:city"
+  },
+  {
+    "language": "Spanish",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "verificationLevel": 2,
+    "lastChecked": "2026-07-28",
+    "region": "South America",
+    "costCurrency": "BOB",
+    "name": "Universidad Católica Boliviana San Pablo (UCB) — Cochabamba",
+    "country": "Bolivia",
+    "city": "Cochabamba",
+    "programs": [
+      "Ingeniería Civil",
+      "Arquitectura"
+    ],
+    "programLinks": [
+      "https://cba.ucb.edu.bo/ingenieria-civil/",
+      "https://cba.ucb.edu.bo/arquitectura/"
+    ],
+    "accreditation": [
+      "CNACU"
+    ],
+    "cost": "17,000 - 24,000",
+    "graduatesEstimateBasis": "private university (Unidad Académica Regional Cochabamba); Ingeniería Civil (explicit CAD/GIS/BIM) + Arquitectura; tuition/intake not published",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "GIS & BIM Integration",
+      "Digital Design",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering",
+      "Architecture",
+      "Sustainability"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM",
+      "GIS & BIM Integration",
+      "Digital Design"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering",
+      "Architecture",
+      "Sustainability"
+    ],
+    "website": "https://cba.ucb.edu.bo/",
+    "lat": -17.373,
+    "lon": -66.155,
+    "geoSource": "manual:city"
+  },
+  {
+    "language": "Spanish",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "verificationLevel": 2,
+    "lastChecked": "2026-07-28",
+    "region": "South America",
+    "costCurrency": "BOB",
+    "name": "Universidad Católica Boliviana San Pablo (UCB) — Santa Cruz",
+    "country": "Bolivia",
+    "city": "Santa Cruz de la Sierra",
+    "programs": [
+      "Ingeniería Civil",
+      "Arquitectura"
+    ],
+    "programLinks": [
+      "https://scz.ucb.edu.bo/ingenieria-civil/",
+      "https://scz.ucb.edu.bo/arquitectura/"
+    ],
+    "accreditation": [
+      "CNACU"
+    ],
+    "cost": "17,000 - 24,000",
+    "graduatesEstimateBasis": "private university (Unidad Académica Regional Santa Cruz); Ingeniería Civil + Arquitectura; tuition/intake not published",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "GIS & BIM Integration",
+      "Digital Design",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering",
+      "Architecture",
+      "Sustainability"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM",
+      "GIS & BIM Integration",
+      "Digital Design"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering",
+      "Architecture",
+      "Sustainability"
+    ],
+    "website": "https://scz.ucb.edu.bo/",
+    "lat": -17.758,
+    "lon": -63.198,
+    "geoSource": "manual:city"
+  },
+  {
+    "language": "Spanish",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "verificationLevel": 2,
+    "lastChecked": "2026-07-28",
+    "region": "South America",
+    "costCurrency": "BOB",
+    "name": "Universidad Católica Boliviana San Pablo (UCB) — La Paz",
+    "country": "Bolivia",
+    "city": "La Paz",
+    "programs": [
+      "Ingeniería Civil",
+      "Arquitectura",
+      "Diplomado en BIM"
+    ],
+    "programLinks": [
+      "https://lpz.ucb.edu.bo/ingenieria-civil-u-c-b-la-paz/",
+      "https://lpz.ucb.edu.bo/pregrado/arquitectura/",
+      "https://crm.lpz.ucb.edu.bo/postgrados"
+    ],
+    "accreditation": [
+      "CNACU"
+    ],
+    "cost": "17,000 - 24,000",
+    "graduatesEstimateBasis": "private university (Unidad Académica Regional La Paz); Ingeniería Civil + Arquitectura; tuition/intake not published",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "GIS & BIM Integration",
+      "Digital Design",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering",
+      "Architecture",
+      "Sustainability",
+      "Collaborative Workflows"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM",
+      "GIS & BIM Integration",
+      "Digital Design",
+      "Collaborative Workflows"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering",
+      "Architecture",
+      "Sustainability"
+    ],
+    "website": "https://lpz.ucb.edu.bo/",
+    "lat": -16.5227,
+    "lon": -68.1118,
+    "geoSource": "manual:city"
+  },
+  {
+    "language": "Spanish",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "verificationLevel": 2,
+    "lastChecked": "2026-07-28",
+    "region": "South America",
+    "costCurrency": "BOB",
+    "name": "Universidad Católica Boliviana San Pablo (UCB) — Tarija",
+    "country": "Bolivia",
+    "city": "Tarija",
+    "programs": [
+      "Arquitectura"
+    ],
+    "programLinks": [
+      "https://tja.ucb.edu.bo/carreras/arquitectura/"
+    ],
+    "accreditation": [
+      "CNACU"
+    ],
+    "cost": "17,000 - 24,000",
+    "graduatesEstimateBasis": "private university (Unidad Académica Regional Tarija); Arquitectura verified (Ingeniería Civil also offered, URL pending); tuition/intake not published",
+    "topics": [
+      "CAD/CAM",
+      "Digital Design",
+      "Architecture",
+      "Sustainability"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "Digital Design"
+    ],
+    "domains": [
+      "Architecture",
+      "Sustainability"
+    ],
+    "website": "https://tja.ucb.edu.bo/carreras/arquitectura/",
+    "lat": -21.5355,
+    "lon": -64.7296,
+    "geoSource": "manual:city"
+  },
+  {
+    "language": "Spanish",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "verificationLevel": 2,
+    "lastChecked": "2026-07-28",
+    "region": "South America",
+    "costCurrency": "BOB",
+    "name": "Universidad Privada de Santa Cruz de la Sierra (UPSA)",
+    "country": "Bolivia",
+    "city": "Santa Cruz de la Sierra",
+    "programs": [
+      "Arquitectura",
+      "Técnico Superior en Construcciones"
+    ],
+    "programLinks": [
+      "https://www.upsa.edu.bo/facultades/arquitectura-diseno-y-urbanismo/",
+      "https://www.upsa.edu.bo/facultades/arquitectura-diseno-y-urbanismo/"
+    ],
+    "accreditation": [
+      "CNACU",
+      "ARCU-SUR"
+    ],
+    "cost": "31,000 - 34,000",
+    "graduatesEstimateBasis": "private university (FADU); Arquitectura (ARCU-SUR, 3rd re-accreditation) + Técnico Superior en Construcciones; Ingeniería Civil (Facultad de Ingeniería) URL pending; tuition/intake not published",
+    "topics": [
+      "CAD/CAM",
+      "Digital Design",
+      "Architecture",
+      "Sustainability",
+      "Construction Engineering"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "Digital Design"
+    ],
+    "domains": [
+      "Architecture",
+      "Sustainability",
+      "Construction Engineering"
+    ],
+    "website": "https://www.upsa.edu.bo/facultades/arquitectura-diseno-y-urbanismo/",
+    "lat": -17.7566,
+    "lon": -63.1719,
+    "geoSource": "manual:city"
+  },
+  {
+    "language": "Spanish",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "verificationLevel": 2,
+    "lastChecked": "2026-07-28",
+    "region": "South America",
+    "costCurrency": "BOB",
+    "name": "Escuela Militar de Ingeniería (EMI)",
+    "country": "Bolivia",
+    "city": "La Paz",
+    "programs": [
+      "Ingeniería Civil",
+      "Ingeniería Geográfica",
+      "Diplomado en Building Information Modeling (BIM)"
+    ],
+    "programLinks": [
+      "https://www.emi.edu.bo/index.php/universidad/licenciatura",
+      "https://www.emi.edu.bo/index.php/universidad/licenciatura",
+      "https://posgrado.lapaz.emi.edu.bo/course/index.php?categoryid=46"
+    ],
+    "accreditation": [
+      "CNACU"
+    ],
+    "cost": "12,000 - 14,000",
+    "graduatesEstimateBasis": "specialised engineering university (régimen especial), CEUB-accredited; multi-sede (La Paz HQ, Santa Cruz, Cochabamba, Riberalta, Trópico) recorded as one HQ entry; tuition/intake not published",
+    "topics": [
+      "CAD/CAM",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering",
+      "GIS & BIM Integration",
+      "3D Modeling & Scanning",
+      "BIM"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "GIS & BIM Integration",
+      "3D Modeling & Scanning",
+      "BIM"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering"
+    ],
+    "website": "https://www.emi.edu.bo/",
+    "lat": -16.5,
+    "lon": -68.1193,
+    "geoSource": "manual:city"
+  },
+  {
+    "language": "Spanish",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "lastChecked": "2026-07-28",
+    "region": "South America",
+    "costCurrency": "BOB",
+    "name": "Universidad Privada del Valle (Univalle)",
+    "country": "Bolivia",
+    "city": "Cochabamba",
+    "programs": [
+      "Ingeniería Civil",
+      "Arquitectura y Urbanismo"
+    ],
+    "programLinks": [
+      "https://www.univalle.edu/",
+      "https://www.univalle.edu/"
+    ],
+    "accreditation": [
+      "CNACU",
+      "ARCU-SUR"
+    ],
+    "cost": "12,000 - 20,000",
+    "graduatesEstimateBasis": "private university, most ARCU-SUR/MERCOSUR accreditations in Bolivia (incl. Ingeniería Civil + Arquitectura y Urbanismo); FABLAB with BIM as central paradigm; multi-sede (Cochabamba HQ/Tiquipaya, La Paz, Sucre, Trinidad, Santa Cruz) recorded as one HQ entry; per-carrera pages not exposed; tuition/intake not published",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "Digital Fabrication",
+      "Digital Design",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM",
+      "Digital Fabrication",
+      "Digital Design"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering",
+      "Architecture"
+    ],
+    "verificationLevel": 1,
+    "website": "https://www.univalle.edu/",
+    "lat": -17.34,
+    "lon": -66.22,
+    "geoSource": "manual:city"
+  },
+  {
+    "language": "Spanish",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "verificationLevel": 2,
+    "lastChecked": "2026-07-28",
+    "region": "South America",
+    "costCurrency": "BOB",
+    "name": "Universidad Privada Franz Tamayo (UNIFRANZ)",
+    "country": "Bolivia",
+    "city": "La Paz",
+    "programs": [
+      "Arquitectura",
+      "Diplomado en Construcción y Gestión de Obras Civiles"
+    ],
+    "programLinks": [
+      "https://ux.unifranz.edu.bo/arquitectura",
+      "https://postgrado.unifranz.edu.bo/programa/diplomado-online-en-construccion-y-gestion-de-obras-civiles/"
+    ],
+    "accreditation": [
+      "CNACU"
+    ],
+    "cost": "7,000 - 12,000",
+    "graduatesEstimateBasis": "private university; Arquitectura (bioclimatic/sustainable focus, Facultad de Diseño y Tecnologías Crossmedia); no Civil Engineering grado; multi-sede (La Paz HQ, Cochabamba, Santa Cruz, El Alto); tuition/intake not published",
+    "topics": [
+      "CAD/CAM",
+      "Digital Design",
+      "Architecture",
+      "Sustainability",
+      "Energy Performance",
+      "Digital Construction",
+      "Construction Management",
+      "Lean & Integrated Delivery"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "Digital Design",
+      "Energy Performance",
+      "Digital Construction"
+    ],
+    "domains": [
+      "Architecture",
+      "Sustainability",
+      "Construction Management",
+      "Lean & Integrated Delivery"
+    ],
+    "website": "https://unifranz.edu.bo/",
+    "lat": -16.506,
+    "lon": -68.1326,
+    "geoSource": "manual:campus"
+  },
+  {
+    "language": "Spanish",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "lastChecked": "2026-07-28",
+    "region": "South America",
+    "costCurrency": "BOB",
+    "name": "Universidad de Aquino Bolivia (UDABOL)",
+    "country": "Bolivia",
+    "city": "La Paz",
+    "programs": [
+      "Arquitectura"
+    ],
+    "programLinks": [
+      "https://www.udabol.edu.bo/"
+    ],
+    "accreditation": [
+      "CNACU"
+    ],
+    "cost": "10,000 - 16,000",
+    "graduatesEstimateBasis": "private university; Arquitectura (Facultad de Arquitectura, Hábitat y Diseño) at La Paz & Cochabamba; no Civil Engineering grado; multi-sede (Santa Cruz, La Paz, Cochabamba, Oruro); per-carrera page not exposed; tuition/intake not published",
+    "topics": [
+      "CAD/CAM",
+      "Digital Design",
+      "Architecture",
+      "Sustainability"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "Digital Design"
+    ],
+    "domains": [
+      "Architecture",
+      "Sustainability"
+    ],
+    "verificationLevel": 1,
+    "website": "https://www.udabol.edu.bo/",
+    "lat": -16.5,
+    "lon": -68.1193,
+    "geoSource": "manual:city"
   }
 ]
