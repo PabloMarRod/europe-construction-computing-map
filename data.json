@@ -16900,7 +16900,9 @@
       "https://ingcivil.uchile.cl/cursos/157519/curso-bim-en-infraestructura-y-mineria",
       "https://ingcivil.uchile.cl/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CNA-Chile"
+    ],
     "language": "Spanish",
     "mode": "Part-time",
     "delivery": "Online",
@@ -16959,7 +16961,9 @@
       "https://obrasciviles.usach.cl/diplomado-internacional-bim-en-infraestructura/",
       "https://obrasciviles.usach.cl/diplomado-ingenieria-vial/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "-"
+    ],
     "language": "Spanish",
     "mode": "Part-time",
     "delivery": "Online",
@@ -17010,7 +17014,9 @@
     "programLinks": [
       "https://postgrado.utem.cl/magister-bim/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CNA-Chile"
+    ],
     "language": "Spanish",
     "mode": "Part-time",
     "delivery": "Online",
@@ -17071,7 +17077,9 @@
     "programLinks": [
       "https://ubiobio.cl/admision/todas_las_carreras/2/Ingenieria_en_Construccion/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CNA-Chile"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "Presential",
@@ -17112,7 +17120,9 @@
     "programLinks": [
       "https://postgrados.uv.cl/diplomados-uv/facultad-de-ingenieria/bim-construccion"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "-"
+    ],
     "language": "Spanish",
     "mode": "Part-time",
     "delivery": "Presential",
@@ -17163,7 +17173,9 @@
       "https://educacionprofesional.ing.uc.cl/?diplomado=diplomado-en-vdc-bim-en-la-gestion-de-organizaciones-y-proyectos",
       "https://gepuc.cl/investigacion/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CNA-Chile"
+    ],
     "language": "Spanish",
     "mode": "Part-time",
     "delivery": "Online",
@@ -17220,7 +17232,9 @@
       "https://eic.pucv.cl/estudia-con-nosotros/",
       "https://www.pucv.cl/uuaa/diplomado-modelado-y-revision-de-proyectos-en-bim-para-la-industria-de"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CNA-Chile"
+    ],
     "language": "Spanish",
     "mode": "Full-time / Part-time",
     "delivery": "Presential / Online",
@@ -17269,7 +17283,9 @@
     "programLinks": [
       "http://faug.udec.cl/?g1_work=inscripciones-abiertas-diplomado-modelacion-y-coordinacion-bim-2"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "-"
+    ],
     "language": "Spanish",
     "mode": "Part-time",
     "delivery": "Presential",
@@ -17314,7 +17330,9 @@
     "programLinks": [
       "https://educacioncontinua2.usm.cl/diplomas-y-capacitacion/program/363"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "-"
+    ],
     "language": "Spanish",
     "mode": "Part-time",
     "delivery": "Online",
@@ -17363,7 +17381,9 @@
     "programLinks": [
       "https://postgrado.ucn.cl/diplomados/diplomado-coordinacion-y-gestion-para-proyectos-bim/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "-"
+    ],
     "language": "Spanish",
     "mode": "Part-time",
     "delivery": "Online",
@@ -17410,7 +17430,9 @@
     "programLinks": [
       "https://formacioncontinua.ucsc.cl/carreras/diplomado-en-tecnologias-bim-aplicadas-a-proyectos-de-construccion/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "-"
+    ],
     "language": "Spanish",
     "mode": "Part-time",
     "delivery": "Online",
@@ -17451,7 +17473,9 @@
     "programLinks": [
       "https://postgrados.uautonoma.cl/programas/magisteres/magister-en-tecnologias-aplicadas-a-la-construccion/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CNA-Chile"
+    ],
     "language": "Spanish",
     "mode": "Part-time",
     "delivery": "Presential",
@@ -17494,7 +17518,9 @@
     "programLinks": [
       "https://posgrados.udp.cl/programas/diplomado-diseno-y-certificacion-bim-udp-graphisoft/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "-"
+    ],
     "language": "Spanish",
     "mode": "Part-time",
     "delivery": "Hybrid",
@@ -17535,7 +17561,9 @@
     "programLinks": [
       "https://postgrados.udd.cl/programas/diplomado-bim-modelacion-coordinacion-y-gestion-de-datos-241143/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "-"
+    ],
     "language": "Spanish",
     "mode": "Part-time",
     "delivery": "Online",
@@ -17580,7 +17608,9 @@
     "programLinks": [
       "https://postgrados.uss.cl/programa/diplomado-en-modelacion-y-gestion-integrada-de-proyectos-bim/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "-"
+    ],
     "language": "Spanish",
     "mode": "Part-time",
     "delivery": "Online",
@@ -17625,7 +17655,9 @@
     "programLinks": [
       "https://www.uvm.cl/diplomado-gerenciamiento-proyectos-ingenieria-bim/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "-"
+    ],
     "language": "Spanish",
     "mode": "Part-time",
     "delivery": "Online",
@@ -17670,7 +17702,9 @@
     "programLinks": [
       "https://econtinua.udla.cl/programas/diplomado-en-bim-en-integracion-del-diseno-coordinacion-y-revision-para-proyectos-aec/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "-"
+    ],
     "language": "Spanish",
     "mode": "Part-time",
     "delivery": "Online",
@@ -21663,7 +21697,12 @@
       "https://posgrado.pucp.edu.pe/maestria/ingenieria-civil/",
       "https://posgrado.pucp.edu.pe/doctorado/ingenieria/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "SUNEDU",
+      "CIP",
+      "ABET",
+      "ICACIT"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -21714,7 +21753,11 @@
       "https://posgrado.uni.edu.pe/",
       "https://fic.uni.edu.pe/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "SUNEDU",
+      "CIP",
+      "ABET"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -21765,7 +21808,12 @@
       "https://postgrado.upc.edu.pe/landings/programas-especializados/construccion-y-proyectos/bim-management/",
       "https://postgrado.upc.edu.pe/landings/programas-especializados/construccion-y-proyectos/modelamiento-bim-edificaciones/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "SUNEDU",
+      "CIP",
+      "ABET",
+      "ICACIT"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -21816,7 +21864,10 @@
     "programLinks": [
       "https://www.ulima.edu.pe/pregrado/ingenieria-civil"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "SUNEDU",
+      "CIP"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -21865,7 +21916,9 @@
     "programLinks": [
       "https://posgrado.ucontinental.edu.pe/programas/programa-de-especializacion-en-modelamiento-bim/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "-"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -21912,7 +21965,10 @@
     "programLinks": [
       "https://fic.unsa.edu.pe/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "SUNEDU",
+      "CIP"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -21957,7 +22013,10 @@
     "programLinks": [
       "https://fia.usmp.edu.pe/plan-de-estudios-civil/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "SUNEDU",
+      "CIP"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -22008,7 +22067,11 @@
       "https://www.udep.edu.pe/ingenieria/",
       "https://posgradosingenieriaudep.pe/bim/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "SUNEDU",
+      "CIP",
+      "ICACIT"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -22057,7 +22120,10 @@
       "https://ucsp.edu.pe/carreras/ingenieria-civil/",
       "https://postgrado.ucsp.edu.pe/cursos/modelador-bim-revit/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "SUNEDU",
+      "CIP"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -22104,7 +22170,10 @@
     "programLinks": [
       "https://ci.unsaac.edu.pe/malla-curricular/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "SUNEDU",
+      "CIP"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -22147,7 +22216,10 @@
     "programLinks": [
       "https://upao.edu.pe/facultades/facultad-de-ingenieria/ing-civil/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "SUNEDU",
+      "CIP"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -22196,7 +22268,9 @@
     ],
     "accreditation": [
       "ABET",
-      "ICACIT"
+      "ICACIT",
+      "SUNEDU",
+      "CIP"
     ],
     "language": "Spanish",
     "mode": "Full-time",
@@ -22242,7 +22316,9 @@
     "programLinks": [
       "https://fica.epn.edu.ec/index.php/oferta-academica/pregrado/27-ingenieria-civil-mencion-estructuras"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CACES"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -22287,7 +22363,9 @@
     "programLinks": [
       "https://www.fict.espol.edu.ec/en/undergraduate-programs/civil-engineering"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CACES"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -22334,7 +22412,9 @@
     "programLinks": [
       "https://www.ucuenca.edu.ec/posgrado/maestria-en-gerencia-de-proyectos-bim/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CACES"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -22377,7 +22457,9 @@
     "programLinks": [
       "https://www.usfq.edu.ec/en/node/10381"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "-"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -22420,7 +22502,9 @@
       "https://www.uce.edu.ec/web/fing",
       "https://www.uce.edu.ec/web/fing"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CACES"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -22465,7 +22549,9 @@
     "programLinks": [
       "https://utpl.edu.ec/tecnologia-modelado-bim"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CACES"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "Online",
@@ -22512,7 +22598,11 @@
     "programLinks": [
       "https://civilyambiental.uniandes.edu.co/es/pregrado/ingenieria-civil"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEN",
+      "COPNIA",
+      "CNA Colombia"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -22561,7 +22651,11 @@
       "https://educacionvirtual.javeriana.edu.co/building-information-modeling-bim-oriente",
       "https://www.javeriana.edu.co/doctorado-ingenieria"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEN",
+      "COPNIA",
+      "CNA Colombia"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -22608,7 +22702,9 @@
     "programLinks": [
       "https://estudia-virtual.unipiloto.edu.co/especializacion-en-bim/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEN"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "Online",
@@ -22651,7 +22747,9 @@
     "programLinks": [
       "https://www.ucatolica.edu.co/portal/Educacion_Continuada/diplomado-en-modelado-y-gerencia-de-proyectos-de-construccion-con-implementacion-bim/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "-"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -22694,7 +22792,9 @@
     "programLinks": [
       "https://www.upb.edu.co/es/formacioncontinua/diplomado-metodologia-bim"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "-"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -22737,7 +22837,9 @@
     "programLinks": [
       "https://www.utadeo.edu.co/es/facultad/artes-y-diseno/programa/virtual/especializacion-en-metodologia-bim-para-proyectos-de-construccion-virtual"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEN"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "Online",
@@ -22784,7 +22886,12 @@
       "https://www.escuelaing.edu.co/es/programas/maestria-en-ingenieria-civil/",
       "https://www.escuelaing.edu.co/es/programas/curso-bim-estructural/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEN",
+      "COPNIA",
+      "CNA Colombia",
+      "ARCU-SUR"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -22833,7 +22940,11 @@
       "https://usantotomas.edu.co/ingenieria-civil",
       "https://usantotomas.edu.co/maestria-en-ingenieria-estructural-y-procesos-constructivos-metodologia-bim"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEN",
+      "COPNIA",
+      "CNA Colombia"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -22892,7 +23003,11 @@
       "https://eicg.univalle.edu.co/postgrado/mic/orientacion-construccion/estructura-curricular/",
       "https://eicg.univalle.edu.co/postgrado/dms"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEN",
+      "COPNIA",
+      "CNA Colombia"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -22939,7 +23054,11 @@
       "https://grupos.uis.edu.co/gerenciadeproyectos/es",
       "https://ingenieriacivil.uis.edu.co/eisi/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEN",
+      "COPNIA",
+      "CNA Colombia"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -22986,7 +23105,11 @@
       "https://www.eafit.edu.co/en/pregrados/escuela-ciencias-aplicadas-ingenieria/ingenieria-civil",
       "https://www.eafit.edu.co/plan-de-estudio/doctorado-en-ingenieria"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEN",
+      "COPNIA",
+      "CNA Colombia"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -23031,7 +23154,9 @@
       "https://www.fi.uba.ar/grado/carreras/ingenieria-civil/plan-de-estudios",
       "https://www.fi.uba.ar/grado/carreras/ingenieria-en-agrimensura/plan-de-estudios"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CONEAU"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -23078,7 +23203,9 @@
       "https://fcefyn.unc.edu.ar/facultad/secretarias/academica/escuelas/escuela-de-ingenieria-civil/carrera-ingenieria-civil/plan-de-estudios-2025/",
       "https://fcefyn.unc.edu.ar/documents/5198/Ing._en_Agrimensura_Plan_de_estudio_2025.pdf"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CONEAU"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -23123,7 +23250,9 @@
     "programLinks": [
       "https://web.fceia.unr.edu.ar/es/agrimensura/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CONEAU"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -23166,7 +23295,9 @@
     "programLinks": [
       "https://frba.utn.edu.ar/civil/plan-de-estudios/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CONEAU"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -23205,7 +23336,9 @@
     "programLinks": [
       "https://fra.utn.edu.ar/index.php/carreras/ingenieria-civil/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CONEAU"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -23244,7 +23377,9 @@
     "programLinks": [
       "https://www.frbb.utn.edu.ar/frbb/sacad/carreras/ic/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CONEAU"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -23283,7 +23418,10 @@
     "programLinks": [
       "https://www.frcu.utn.edu.ar/index.php/estudiar/carreras-de-grado"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CONEAU",
+      "ARCU-SUR"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -23322,7 +23460,9 @@
     "programLinks": [
       "https://www.frcon.utn.edu.ar/ingenieria-civil/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CONEAU"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -23361,7 +23501,10 @@
     "programLinks": [
       "https://www.frc.utn.edu.ar/carreras/ingenieria-civil/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CONEAU",
+      "ARCU-SUR"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -23400,7 +23543,9 @@
     "programLinks": [
       "https://www.frgp.utn.edu.ar/carreras/ingenieria_civil"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CONEAU"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -23439,7 +23584,9 @@
     "programLinks": [
       "https://www.frlp.utn.edu.ar/carrera-civil"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CONEAU"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -23478,7 +23625,9 @@
     "programLinks": [
       "https://www.frlr.utn.edu.ar/carreras/ingenieria-civil/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CONEAU"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -23517,7 +23666,9 @@
     "programLinks": [
       "https://www4.frm.utn.edu.ar/plan-de-estudio-ing-civil/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CONEAU"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -23556,7 +23707,9 @@
     "programLinks": [
       "https://www.frp.utn.edu.ar/ingenieria-civil/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CONEAU"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -23595,7 +23748,9 @@
     "programLinks": [
       "https://utnrafaela.com.ar/sitio/contenidos/ver/17/civil.html"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CONEAU"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -23634,7 +23789,9 @@
     "programLinks": [
       "https://www.frro.utn.edu.ar/carreras/ingenieria-civil/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CONEAU"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -23673,7 +23830,9 @@
     "programLinks": [
       "https://www.frsr.utn.edu.ar/carreras/ingenieria-civil/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CONEAU"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -23712,7 +23871,10 @@
     "programLinks": [
       "https://www.frsf.utn.edu.ar/institucional/departamentos/departamento-ingenieria-civil"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CONEAU",
+      "ARCU-SUR"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -23751,7 +23913,9 @@
     "programLinks": [
       "https://ingreso.frt.utn.edu.ar/ingenieria-civil/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CONEAU"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -23790,7 +23954,9 @@
     "programLinks": [
       "https://frvt.utn.edu.ar/civil/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CONEAU"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -23829,7 +23995,9 @@
     "programLinks": [
       "https://www.ing.unlp.edu.ar/carreras/ingenieria-civil/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CONEAU"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -23868,7 +24036,9 @@
     "programLinks": [
       "https://www.uncuyo.edu.ar/estudios/carrera/ingenieria-civil"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CONEAU"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -23907,7 +24077,9 @@
     "programLinks": [
       "https://www.fi.unsj.edu.ar/carreras/carrera/29"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CONEAU"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -23946,7 +24118,9 @@
     "programLinks": [
       "https://www.unlar.edu.ar/index.php/oferta-academica/carreras-de-grado/323-ingenieria-civil"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CONEAU"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -23985,7 +24159,9 @@
     "programLinks": [
       "https://www.uns.edu.ar/ingreso/carreras/carrera-detalle%7Ccarrera=4"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CONEAU"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -24024,7 +24200,9 @@
     "programLinks": [
       "https://www.facet.unt.edu.ar/carreras/ingenieria-civil/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CONEAU"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -24063,7 +24241,9 @@
     "programLinks": [
       "https://www.ing.unne.edu.ar/ingenieria-civil/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CONEAU"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -24102,7 +24282,9 @@
     "programLinks": [
       "https://ing.unsa.edu.ar/index.php/oferta/grado?view=article&id=13:carrera-de-ingenieria-civil"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CONEAU"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -24141,7 +24323,9 @@
     "programLinks": [
       "https://www.unicen.edu.ar/content/ingenier%C3%AD-civil"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CONEAU"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -24180,7 +24364,9 @@
     "programLinks": [
       "https://uca.edu.ar/es/facultades/facultad-de-ingenieria-y-ciencias-agrarias/carrera-de-grado/ingenieria-civil"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CONEAU"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -24219,7 +24405,9 @@
     "programLinks": [
       "https://ub.edu.ar/facultad-de-ingenieria-y-tecnologia-informatica/ingenieria-civil"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CONEAU"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -24258,7 +24446,9 @@
     "programLinks": [
       "https://venialaum.unimoron.edu.ar/carreras/ingenieria-informatica-y-cs-agroalimentarias/de-grado/ingenieria-civil/2006"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CONEAU"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -24297,7 +24487,9 @@
     "programLinks": [
       "https://ucc.edu.ar/carreras/ingenieria-civil/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CONEAU"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -24336,7 +24528,9 @@
     "programLinks": [
       "https://www.ucasal.edu.ar/carrera/nivel/carreras-grado/ingenieria-civil"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CONEAU"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -24375,7 +24569,9 @@
     "programLinks": [
       "https://www.fio.unam.edu.ar/index.php?option=com_content&view=article&id=95&Itemid=573"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CONEAU"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -24414,7 +24610,9 @@
     "programLinks": [
       "https://www.ing.unp.edu.ar/ing-civil-construcciones.html"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CONEAU"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -24453,7 +24651,9 @@
     "programLinks": [
       "https://www.unse.edu.ar/ingenieria-civil/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CONEAU"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -24492,7 +24692,9 @@
     "programLinks": [
       "https://frn.unf.edu.ar/ingenieria-civil/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CONEAU"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -24531,7 +24733,9 @@
     "programLinks": [
       "https://uncoma.edu.ar/carreras/ingenieria-civil/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CONEAU"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -24664,7 +24868,9 @@
       "https://www.fing.edu.uy/es/carrera/grado/agrimensura",
       "https://www.fing.edu.uy/es/ensenanza/carreras-de-posgrado"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "ARCU-SUR"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -24709,7 +24915,9 @@
       "https://www.fadu.edu.uy/carrera/arquitectura/",
       "https://www.fadu.edu.uy/carreras-posgrado/doctorado/portada/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "ARCU-SUR"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -24752,7 +24960,9 @@
     "programLinks": [
       "https://fa.ort.edu.uy/carrera-de-arquitectura/plan-de-estudios"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC Uruguay"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -24793,7 +25003,9 @@
     "programLinks": [
       "https://www.um.edu.uy/facultad-de-ingenieria/oferta-academica/grado/ingenieria-civil"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC Uruguay"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -24834,7 +25046,9 @@
       "https://carreras.ucu.edu.uy/programas/ver/carrera-en-arquitectura",
       "https://carreras.ucu.edu.uy/programas/ver/carrera-en-ingenieria-civil--mvd--presencial"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC Uruguay"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -24881,7 +25095,13 @@
       "https://www.fau.usp.br/ensino/graduacao/arquitetura-e-urbanismo/",
       "https://ppgec.poli.usp.br/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA",
+      "CAU/BR",
+      "CAPES"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -24928,7 +25148,13 @@
       "https://upa.unicamp.br/arquitetura-e-urbanismo/",
       "https://www.fec.unicamp.br/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA",
+      "CAU/BR",
+      "CAPES"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -24975,7 +25201,12 @@
       "https://www.fct.unesp.br/",
       "https://www.faac.unesp.br/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA",
+      "CAU/BR"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -25022,7 +25253,13 @@
       "https://fau.ufrj.br/",
       "http://www.coc.ufrj.br/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA",
+      "CAU/BR",
+      "CAPES"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -25067,7 +25304,13 @@
       "http://cms.ufmg.br/cursos/graduacao/2401/91074",
       "https://sites.arq.ufmg.br/ea/ensino/graduacao/arquitetura-e-urbanismo/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA",
+      "CAU/BR",
+      "ARCU-SUR"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -25114,7 +25357,13 @@
       "https://www.ufrgs.br/site/ensino/graduacao/arquitetura-e-urbanismo/",
       "https://www.ufrgs.br/ppgec/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA",
+      "CAU/BR",
+      "CAPES"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -25161,7 +25410,13 @@
       "https://arquitetura.paginas.ufsc.br/",
       "https://posarq.ufsc.br/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA",
+      "CAU/BR",
+      "CAPES"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -25208,7 +25463,12 @@
       "https://geomatica.ufpr.br/",
       "http://www.cienciasgeodesicas.ufpr.br/portal/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA",
+      "CAPES"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -25253,7 +25513,12 @@
       "https://www.ufpe.br/engenharia-civil-bacharelado-caa",
       "https://www.ufpe.br/arquitetura-e-urbanismo-bacharelado-cac"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA",
+      "CAU/BR"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -25298,7 +25563,12 @@
       "https://eng.ufba.br/curso-graduacao/engenharia-civil",
       "https://ufba.br/cursos/arquitetura-e-urbanismo-0"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA",
+      "CAU/BR"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -25343,7 +25613,12 @@
       "https://prograd.ufc.br/pt/cursos-de-graduacao/engenharia-civil-fortaleza/",
       "https://prograd.ufc.br/pt/cursos-de-graduacao/arquitetura-e-urbanismo-fortaleza/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA",
+      "CAU/BR"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -25388,7 +25663,12 @@
       "https://ufpa.br/orgaos/engenharia-civil-bacharelado/",
       "https://ufpa.br/orgaos/arquitetura-e-urbanismo-bacharelado/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA",
+      "CAU/BR"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -25433,7 +25713,12 @@
       "https://www.uff.br/curso/engenharia-civil/",
       "https://www.uff.br/curso/arquitetura-e-urbanismo/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA",
+      "CAU/BR"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -25478,7 +25763,12 @@
       "https://enc.unb.br/index.php/graduacao/cursos/engenharia-civil",
       "https://fau.unb.br/graduacao/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA",
+      "CAU/BR"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -25523,7 +25813,12 @@
       "https://www.deciv.ufscar.br/",
       "http://www.ppgeciv.ufscar.br/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA",
+      "CAPES"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -25564,7 +25859,12 @@
       "https://civil.ufes.br/pt-br/o-curso",
       "https://arquitetura.ufes.br/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA",
+      "CAU/BR"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -25607,7 +25907,11 @@
     "programLinks": [
       "https://ufg.br/n/60517-cursos-engenharia-civil"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -25648,7 +25952,12 @@
       "http://www.ct.ufpb.br/ccec",
       "https://www.ct.ufpb.br/ccau/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA",
+      "CAU/BR"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -25693,7 +26002,12 @@
       "https://ct.ufrn.br/ensino/graduacao/civil/",
       "https://www.ct.ufrn.br/ensino/graduacao/arquitetura/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA",
+      "CAU/BR"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -25736,7 +26050,11 @@
     "programLinks": [
       "https://www.arquivosdec.ufam.edu.br/excivis.html"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -25777,7 +26095,12 @@
       "https://feciv.ufu.br/",
       "http://www0.ufu.br/catalogo_graduacao/cur_arquiteturaeurbanismo.html"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA",
+      "CAU/BR"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -25822,7 +26145,12 @@
       "https://www2.ufjf.br/engenhariacivil/",
       "https://www2.ufjf.br/arquitetura/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA",
+      "CAU/BR"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -25867,7 +26195,13 @@
       "https://civ.ufv.br/",
       "https://dau.ufv.br/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA",
+      "CAU/BR",
+      "ARCU-SUR"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -25910,7 +26244,11 @@
     "programLinks": [
       "https://seja.ufop.br/cursos"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -25951,7 +26289,12 @@
       "https://www.ufsm.br/cursos/graduacao/santa-maria/engenharia-civil",
       "https://www.ufsm.br/cursos/graduacao/santa-maria/arquitetura-e-urbanismo"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA",
+      "CAU/BR"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -25996,7 +26339,12 @@
       "https://wp.ufpel.edu.br/engciv/curso/",
       "http://faurb.ufpel.edu.br/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA",
+      "CAU/BR"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -26039,7 +26387,11 @@
     "programLinks": [
       "https://www.furg.br/graduacao/engenharia-civil"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -26082,7 +26434,11 @@
     "programLinks": [
       "https://portal.ufcg.edu.br/graduacao/cursos-graduacao/297-engenharia-civil-2.html"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -26123,7 +26479,12 @@
       "https://dec.ufs.br/",
       "https://www.sigaa.ufs.br/sigaa/public/curso/portal.jsf?id=320171&lc=pt_BR"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA",
+      "CAU/BR"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -26168,7 +26529,12 @@
       "https://ctec.ufal.br/graduacao/engenharia-civil",
       "https://fau.ufal.br/graduacao/arquitetura-e-urbanismo"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA",
+      "CAU/BR"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -26213,7 +26579,12 @@
       "https://ufpi.br/eng-civil",
       "https://ufpi.br/arquitetura-ct"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA",
+      "CAU/BR"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -26258,7 +26629,12 @@
       "https://portalpadrao.ufma.br/proen/campi-cursos/centro-de-ciencias-de-balsas/engenharia-civil",
       "https://portalpadrao.ufma.br/site/ensino/graduacao/cursos"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA",
+      "CAU/BR"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -26303,7 +26679,12 @@
       "https://www.ufmt.br/ensino/busca/PRESENCIAL",
       "https://www.ufmt.br/ensino/busca/PRESENCIAL"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA",
+      "CAU/BR"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -26348,7 +26729,12 @@
       "https://www.ufms.br/cursos/graduacao/",
       "https://www.ufms.br/cursos/graduacao/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA",
+      "CAU/BR"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -26391,7 +26777,11 @@
     "programLinks": [
       "https://www.utfpr.edu.br/cursos/graduacao/bacharelado/engenharia-civil"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -26430,7 +26820,11 @@
     "programLinks": [
       "https://prg.unifei.edu.br/cursos/cursos-itajuba/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -26469,7 +26863,11 @@
     "programLinks": [
       "http://www.deg.ufla.br/graduacao/curso-eng-civil"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -26512,7 +26910,11 @@
     "programLinks": [
       "https://portal.ufrrj.br/pro-reitoria-de-graduacao/cursos/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -26551,7 +26953,11 @@
     "programLinks": [
       "http://www.civil.univasf.edu.br/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -26590,7 +26996,11 @@
     "programLinks": [
       "https://www.uft.edu.br/campus/palmas/cursos/graduacao/engenharia-civil"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -26629,7 +27039,11 @@
     "programLinks": [
       "https://www.ufac.br/site/ufac/prograd/cursos/rio-branco/bacharelado/engenharia-civil"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -26668,7 +27082,11 @@
     "programLinks": [
       "https://ufrr.br/engcivil/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -26707,7 +27125,11 @@
     "programLinks": [
       "https://www.ufvjm.edu.br/cursos/engenharia-civil"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -26746,7 +27168,11 @@
     "programLinks": [
       "https://engcivil.ufersa.edu.br/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -26785,7 +27211,11 @@
     "programLinks": [
       "https://portal.unila.edu.br/graduacao/engenharia-civil-infraestrutura"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -26824,7 +27254,11 @@
     "programLinks": [
       "https://www.ufca.edu.br/cursos/graduacao/engenharia-civil/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -26863,7 +27297,11 @@
     "programLinks": [
       "https://sigaa.unir.br/sigaa/public/curso/ppp.jsf?lc=pt_BR&id=4836937"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -26902,7 +27340,11 @@
     "programLinks": [
       "https://www2.unifap.br/engcivil/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -26941,7 +27383,11 @@
     "programLinks": [
       "https://civil.unifesspa.edu.br/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -26982,7 +27428,12 @@
       "https://www.eng.uerj.br/cursos/civil.php",
       "https://www.esdi.uerj.br/arquitetura-e-urbanismo/graduacao/curso"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA",
+      "CAU/BR"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -27025,7 +27476,11 @@
     "programLinks": [
       "https://uenf.br/graduacao/engenharia-civil/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -27066,7 +27521,12 @@
       "https://graduacao.uel.br/engenharia-civil/",
       "https://graduacao.uel.br/arquitetura-e-urbanismo/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA",
+      "CAU/BR"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -27111,7 +27571,12 @@
       "https://cpr.uem.br/index.php/catalogos/graduacao/2516-engenharia-civil-maringa",
       "https://dau.uem.br/graduacao/graduacao"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA",
+      "CAU/BR"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -27154,7 +27619,11 @@
     "programLinks": [
       "https://www.uepg.br/engenharia-civil/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -27193,7 +27662,11 @@
     "programLinks": [
       "https://www.unioeste.br/portal/prograd-outros/cursos-campus-todos/cascavelcursos/engenharia-civil-bacharelado"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -27232,7 +27705,11 @@
     "programLinks": [
       "https://ueg.br/cliente/paginas_cursos/engenharia_civil.php"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -27271,7 +27748,11 @@
     "programLinks": [
       "https://cursos2.uea.edu.br/index.php?dest=info&curso=59"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -27310,7 +27791,11 @@
     "programLinks": [
       "https://sigaa.uepa.br/sigaa/public/curso/lista.jsf?nivel=G&aba=p-ensino"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -27349,7 +27834,11 @@
     "programLinks": [
       "http://civil.uefs.br/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -27394,7 +27883,12 @@
       "https://www.prog.uema.br/engenharia-civil-cct/",
       "https://www.arquitetura.uema.br/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA",
+      "CAU/BR"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -27437,7 +27931,11 @@
     "programLinks": [
       "https://poli.br/en/civil-engineering/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -27476,7 +27974,11 @@
     "programLinks": [
       "https://www.uemg.br/cursos-jm/graduacao-jm"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -27515,7 +28017,11 @@
     "programLinks": [
       "https://dcet.salvador.uneb.br/engenharia-producao-civil/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -27556,7 +28062,12 @@
       "https://www.puc-rio.br/ensinopesq/ccg/eng_civil.html",
       "https://www.puc-rio.br/ensinopesq/ccg/cursos.html"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA",
+      "CAU/BR"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -27601,7 +28112,12 @@
       "https://www.puc-campinas.edu.br/graduacao/engenharia-civil/",
       "https://www.puc-campinas.edu.br/graduacao/arquitetura-e-urbanismo/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA",
+      "CAU/BR"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -27646,7 +28162,12 @@
       "https://www.pucpr.br/cursos-graduacao/engenharia-civil/",
       "https://www.pucpr.br/cursos-graduacao/arquitetura-e-urbanismo/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA",
+      "CAU/BR"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -27691,7 +28212,12 @@
       "https://vemprapuc.pucminas.br/graduacao/engenharia-civil",
       "https://vemprapuc.pucminas.br/graduacao/arquitetura-e-urbanismo"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA",
+      "CAU/BR"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -27736,7 +28262,12 @@
       "https://portal.pucrs.br/ensino/cursos/graduacao/engenharia-civil/",
       "https://portal.pucrs.br/ensino/cursos/graduacao/arquitetura-e-urbanismo/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA",
+      "CAU/BR"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -27781,7 +28312,12 @@
       "https://www.pucgoias.edu.br/cursos/graduacao/engenharia-civil/",
       "https://www.pucgoias.edu.br/cursos/graduacao/arquitetura-e-urbanismo/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA",
+      "CAU/BR"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -27826,7 +28362,12 @@
       "https://www.mackenzie.br/en/undergraduate-programs/sao-paulo-higienopolis/civil-engineering",
       "https://www.mackenzie.br/en/undergraduate-programs/sao-paulo-higienopolis/architecture-and-urbanism"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA",
+      "CAU/BR"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -27869,7 +28410,11 @@
     "programLinks": [
       "https://www.fei.edu.br/curso/engenharia-civil"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -27910,7 +28455,13 @@
       "https://www.unisinos.br/graduacao/engenharia-civil",
       "https://www.unisinos.br/graduacao/arquitetura-e-urbanismo"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA",
+      "CAU/BR",
+      "ARCU-SUR"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -27953,7 +28504,11 @@
     "programLinks": [
       "https://maua.br/graduacao/engenharia-civil"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -27994,7 +28549,13 @@
       "https://unifor.br/web/graduacao/engenharia-civil",
       "https://unifor.br/web/graduacao/arquitetura-e-urbanismo"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA",
+      "CAU/BR",
+      "ARCU-SUR"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -28039,7 +28600,12 @@
       "https://www.fumec.br/a-fumec/faculdades/faculdade-de-engenharia-e-arquitetura/",
       "https://www.fumec.br/a-fumec/faculdades/faculdade-de-engenharia-e-arquitetura/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA",
+      "CAU/BR"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -28084,7 +28650,12 @@
       "https://www.uniceub.br/pdp/graduacao/engenharia/engenharia-civil",
       "https://www.uniceub.br/pdp/graduacao/arquitetura-e-design/arquitetura-e-urbanismo"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA",
+      "CAU/BR"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -28129,7 +28700,12 @@
       "https://up.edu.br/graduacao/engenharia-civil",
       "https://up.edu.br/graduacao/arquitetura-e-urbanismo"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA",
+      "CAU/BR"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -28174,7 +28750,12 @@
       "https://www.ucs.br/site/portalcurso/preco/160/1/918/",
       "https://www.ucs.br/site/portalcurso/119/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA",
+      "CAU/BR"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -28219,7 +28800,12 @@
       "https://www.furb.br/pt/graduacao/engenharia-civil",
       "https://www.furb.br/pt/graduacao/arquitetura-e-urbanismo"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA",
+      "CAU/BR"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -28264,7 +28850,12 @@
       "https://www.upf.br/fear/curso/engenharia-civil",
       "https://www.upf.br/fear/curso/arquitetura-e-urbanismo"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA",
+      "CAU/BR"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -28309,7 +28900,12 @@
       "https://graduacao.feevale.br/cursos/engenharia-civil/",
       "https://graduacao.feevale.br/cursos/arquitetura-e-urbanismo/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA",
+      "CAU/BR"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -28354,7 +28950,12 @@
       "https://www.univali.br/graduacao/engenharia-civil-itajai",
       "https://www.univali.br/graduacao/arquitetura-e-urbanismo-itajai"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA",
+      "CAU/BR"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -28397,7 +28998,11 @@
     "programLinks": [
       "https://www.usjt.br/cursos/graduacao/engenharia-civil-bacharelado/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -28438,7 +29043,12 @@
       "https://www.unip.br/cursos/graduacao/tradicionais/engenharia_civil.aspx",
       "https://www.unip.br/cursos/graduacao/tradicionais/arquitetura_e_urbanismo.aspx"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA",
+      "CAU/BR"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -28483,7 +29093,12 @@
       "https://estacio.br/cursos/graduacao/engenharia-civil",
       "https://estacio.br/cursos/graduacao/arquitetura-e-urbanismo"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA",
+      "CAU/BR"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -28528,7 +29143,12 @@
       "https://portal.anhembi.br/graduacao/engenharia-civil/",
       "https://portal.anhembi.br/graduacao/arquitetura-e-urbanismo/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA",
+      "CAU/BR"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -28573,7 +29193,12 @@
       "https://www.unicesumar.edu.br/presencial/cursos-graduacao/engenharia-civil/",
       "https://www.unicesumar.edu.br/presencial/cursos-graduacao/arquitetura-e-urbanismo/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA",
+      "CAU/BR"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -28618,7 +29243,12 @@
       "https://www.unit.br/engenharia-civil",
       "https://www.unit.br/arquitetura-e-urbanismo"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA",
+      "CAU/BR"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -28663,7 +29293,12 @@
       "https://www.unifacs.br/cursos/graduacao/engenharia-civil-bacharelado/",
       "https://www.unifacs.br/cursos/graduacao/arquitetura-e-urbanismo-bacharelado/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA",
+      "CAU/BR"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -28708,7 +29343,12 @@
       "https://www.uninove.br/cursos/graduacao/presencial/engenharia-civil",
       "https://www.uninove.br/cursos/graduacao/presencial/arquitetura-e-urbanismo"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA",
+      "CAU/BR"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -28751,7 +29391,11 @@
     "programLinks": [
       "https://cursos.cruzeirodosul.edu.br/grad-engenharia-civil-cruzeiro-do-sul/p"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -28792,7 +29436,12 @@
       "https://www.unp.br/cursos/graduacao/engenharia-civil-bacharelado/",
       "https://www.unp.br/cursos/graduacao/arquitetura-e-urbanismo-bacharelado/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA",
+      "CAU/BR"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -28837,7 +29486,12 @@
       "https://www.uniritter.edu.br/graduacao/engenharia-civil/",
       "https://www.uniritter.edu.br/graduacao/arquitetura-e-urbanismo/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA",
+      "CAU/BR"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -28882,7 +29536,12 @@
       "https://www.unimep.br/feau-aberta/",
       "https://www.unimep.br/feau-aberta/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA",
+      "CAU/BR"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -28925,7 +29584,11 @@
     "programLinks": [
       "https://www.usf.edu.br/vestibular/curso.vm?curso=Engenharia+Civil&id=582E03"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -28966,7 +29629,12 @@
       "https://www.univates.br/graduacao/engenharia-civil",
       "https://www.univates.br/graduacao/arquitetura-e-urbanismo"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA",
+      "CAU/BR"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -29011,7 +29679,12 @@
       "https://www.unisc.br/pt/cursos/todos-os-cursos/graduacao/bacharelado/engenharia-civil",
       "https://www.unisc.br/pt/cursos/todos-os-cursos/graduacao/bacharelado/arquitetura-e-urbanismo"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA",
+      "CAU/BR"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -29056,7 +29729,12 @@
       "https://www.unijui.edu.br/estude/graduacao/cursos/engenharia-civil-bacharelado",
       "https://www.unijui.edu.br/estude/graduacao/cursos/arquitetura-e-urbanismo-bacharelado"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA",
+      "CAU/BR"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -29101,7 +29779,12 @@
       "https://uno.edu.br/graduacao/engenharia-civil",
       "https://uno.edu.br/graduacao/arquitetura-e-urbanismo"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA",
+      "CAU/BR"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -29146,7 +29829,12 @@
       "https://unesc.br/cursos/engenharia-civil",
       "https://unesc.br/cursos/arquitetura"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA",
+      "CAU/BR"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -29189,7 +29877,11 @@
     "programLinks": [
       "https://seja.univille.br/curso/presencial/engenharia-civil/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -29228,7 +29920,11 @@
     "programLinks": [
       "https://www.unoesc.edu.br/cursos/curso/engenharia-civil/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -29267,7 +29963,11 @@
     "programLinks": [
       "https://www.reitoria.uri.br/pt/cursos/graduacao/engenharia-civil"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -29308,7 +30008,12 @@
       "https://www.uninassau.edu.br/tags/engenharia-civil",
       "https://www.uninassau.edu.br/tags/arquitetura-e-urbanismo"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA",
+      "CAU/BR"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -29353,7 +30058,12 @@
       "https://portal.unicap.br/w/engenharia-civil",
       "https://portal.unicap.br/w/arquitetura-e-urbanismo"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA",
+      "CAU/BR"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -29398,7 +30108,12 @@
       "https://ucb.catolica.edu.br/cursos/presencial/engenharia-civil",
       "https://ucb.catolica.edu.br/cursos/presencial/arquitetura-e-urbanismo"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA",
+      "CAU/BR"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -29441,7 +30156,11 @@
     "programLinks": [
       "https://www.unisantos.br/graduacao/engenharia-civil/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -29482,7 +30201,12 @@
       "https://ucpel.edu.br/servicos/engenharia-civil",
       "https://ucpel.edu.br/servicos/arquitetura-e-urbanismo"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA",
+      "CAU/BR"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -29525,7 +30249,11 @@
     "programLinks": [
       "https://portal.ifrn.edu.br/cursos"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -29564,7 +30292,11 @@
     "programLinks": [
       "https://www.ifce.edu.br/cursos"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -29603,7 +30335,11 @@
     "programLinks": [
       "https://estudante.ifpb.edu.br/cursos/16/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -29642,7 +30378,11 @@
     "programLinks": [
       "https://www.ifpe.edu.br/cursos/graduacao"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -29681,7 +30421,11 @@
     "programLinks": [
       "https://portal.ifba.edu.br/euclides-da-cunha/ensino/engenharia-civil"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -29720,7 +30464,11 @@
     "programLinks": [
       "https://www.ifes.edu.br/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -29759,7 +30507,11 @@
     "programLinks": [
       "https://www.ifg.edu.br/cursos/graduacao"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -29798,7 +30550,11 @@
     "programLinks": [
       "https://www.ifsp.edu.br/cursos"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -29837,7 +30593,11 @@
     "programLinks": [
       "https://www.ifsc.edu.br/graduacao"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -29876,7 +30636,11 @@
     "programLinks": [
       "https://www2.ifmg.edu.br/governadorvaladares/cursos/superior/informacoes-do-curso-bacharelado-em-engenharia-civil"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -29915,7 +30679,11 @@
     "programLinks": [
       "https://www.ifmt.edu.br/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -29954,7 +30722,11 @@
     "programLinks": [
       "https://www2.ifal.edu.br/campus/maceio/ensino/cursos/superior/bacharelado-em-engenharia-civil"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -29993,7 +30765,11 @@
     "programLinks": [
       "https://www.ifto.edu.br/cursos"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -30032,7 +30808,11 @@
     "programLinks": [
       "https://www.ifpa.edu.br/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -30274,7 +31054,9 @@
     "programLinks": [
       "https://eduterciaria.utu.edu.uy/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC Uruguay"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -30313,7 +31095,9 @@
     "programLinks": [
       "https://cftregionloslagos.cl/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CNA-Chile"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -30352,7 +31136,9 @@
     "programLinks": [
       "https://cftregioncoquimbo.cl/carreras/tns-construccion/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CNA-Chile"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -30391,7 +31177,9 @@
     "programLinks": [
       "https://www.cftestatalbiobio.cl/carreras/tns-construccion/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CNA-Chile"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -30438,7 +31226,9 @@
       "https://escuela.sencico.gob.pe/dibujo_digital/",
       "https://escuela.sencico.gob.pe/geomatica/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MINEDU"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -30491,7 +31281,9 @@
       "https://escuela.sencico.gob.pe/dibujo_digital/",
       "https://escuela.sencico.gob.pe/geomatica/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MINEDU"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -30544,7 +31336,9 @@
       "https://escuela.sencico.gob.pe/dibujo_digital/",
       "https://escuela.sencico.gob.pe/geomatica/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MINEDU"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -30597,7 +31391,9 @@
       "https://escuela.sencico.gob.pe/dibujo_digital/",
       "https://escuela.sencico.gob.pe/geomatica/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MINEDU"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -30650,7 +31446,9 @@
       "https://escuela.sencico.gob.pe/dibujo_digital/",
       "https://escuela.sencico.gob.pe/geomatica/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MINEDU"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -30703,7 +31501,9 @@
       "https://escuela.sencico.gob.pe/dibujo_digital/",
       "https://escuela.sencico.gob.pe/geomatica/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MINEDU"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -30752,7 +31552,9 @@
       "https://escuela.sencico.gob.pe/topografia-y-geodesia/",
       "https://escuela.sencico.gob.pe/adminstracion-de-obras/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MINEDU"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -30797,7 +31599,9 @@
       "https://escuela.sencico.gob.pe/topografia-y-geodesia/",
       "https://escuela.sencico.gob.pe/adminstracion-de-obras/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MINEDU"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -30842,7 +31646,9 @@
       "https://escuela.sencico.gob.pe/topografia-y-geodesia/",
       "https://escuela.sencico.gob.pe/adminstracion-de-obras/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MINEDU"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -30887,7 +31693,9 @@
       "https://escuela.sencico.gob.pe/topografia-y-geodesia/",
       "https://escuela.sencico.gob.pe/adminstracion-de-obras/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MINEDU"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -30932,7 +31740,9 @@
       "https://escuela.sencico.gob.pe/topografia-y-geodesia/",
       "https://escuela.sencico.gob.pe/adminstracion-de-obras/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MINEDU"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -30977,7 +31787,9 @@
       "https://escuela.sencico.gob.pe/topografia-y-geodesia/",
       "https://escuela.sencico.gob.pe/adminstracion-de-obras/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MINEDU"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -31022,7 +31834,9 @@
       "https://escuela.sencico.gob.pe/topografia-y-geodesia/",
       "https://escuela.sencico.gob.pe/adminstracion-de-obras/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MINEDU"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -31065,7 +31879,9 @@
       "https://www.aiep.cl/admision/carrera/tecnico-en-construccion/",
       "https://www.aiep.cl/admision/carrera/construccion-civil/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CNA-Chile"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -31110,7 +31926,9 @@
       "https://www.cftsantotomas.cl/carreras/topografia/",
       "https://www.ipsantotomas.cl/carreras/construccion-civil/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CNA-Chile"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -31159,7 +31977,9 @@
       "https://www.duoc.cl/carreras/dibujo-y-modelamiento-arquitectonico-y-estructural/",
       "https://www.duoc.cl/carreras/tecnico-topografo-geomatico/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CNA-Chile"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -31210,7 +32030,9 @@
       "https://www.duoc.cl/carreras/tecnico-en-construccion/",
       "https://www.duoc.cl/carreras/dibujo-y-modelamiento-arquitectonico-y-estructural/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CNA-Chile"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -31257,7 +32079,9 @@
       "https://www.duoc.cl/carreras/ingenieria-en-construccion-2/",
       "https://www.duoc.cl/carreras/tecnico-en-construccion/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CNA-Chile"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -31300,7 +32124,9 @@
       "https://www.duoc.cl/carreras/ingenieria-en-construccion-2/",
       "https://www.duoc.cl/carreras/tecnico-en-construccion/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CNA-Chile"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -31345,7 +32171,9 @@
       "https://www.duoc.cl/carreras/tecnico-en-construccion/",
       "https://www.duoc.cl/carreras/dibujo-y-modelamiento-arquitectonico-y-estructural/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CNA-Chile"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -31396,7 +32224,9 @@
       "https://www.duoc.cl/carreras/dibujo-y-modelamiento-arquitectonico-y-estructural/",
       "https://www.duoc.cl/carreras/tecnico-topografo-geomatico/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CNA-Chile"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -31447,7 +32277,9 @@
       "https://www.duoc.cl/carreras/tecnico-en-construccion/",
       "https://www.duoc.cl/carreras/dibujo-y-modelamiento-arquitectonico-y-estructural/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CNA-Chile"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -31496,7 +32328,9 @@
       "https://www.duoc.cl/carreras/tecnico-en-construccion/",
       "https://www.duoc.cl/carreras/tecnico-topografo-geomatico/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CNA-Chile"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -31545,7 +32379,9 @@
       "https://portal.inacap.cl/carreras/area-construccion/tecnico-en-construccion",
       "https://portal.inacap.cl/carreras/area-construccion/tecnico-en-topografia-y-geomatica"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CNA-Chile"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -31592,7 +32428,9 @@
       "https://portal.inacap.cl/carreras/area-construccion/construccion-civil",
       "https://portal.inacap.cl/carreras/area-construccion/tecnico-en-construccion"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CNA-Chile"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -31639,7 +32477,9 @@
       "https://portal.inacap.cl/carreras/area-construccion/ingenieria-en-geomensura-y-geomatica",
       "https://portal.inacap.cl/carreras/area-construccion/tecnico-en-topografia-y-geomatica"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CNA-Chile"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -31686,7 +32526,9 @@
       "https://portal.inacap.cl/carreras/area-construccion/construccion-civil",
       "https://portal.inacap.cl/carreras/area-construccion/tecnico-en-construccion"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CNA-Chile"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -31729,7 +32571,9 @@
       "https://portal.inacap.cl/carreras/area-construccion/construccion-civil",
       "https://portal.inacap.cl/carreras/area-construccion/tecnico-en-construccion"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CNA-Chile"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -31772,7 +32616,9 @@
       "https://portal.inacap.cl/carreras/area-construccion/construccion-civil",
       "https://portal.inacap.cl/carreras/area-construccion/tecnico-en-construccion"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CNA-Chile"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -31815,7 +32661,9 @@
       "https://portal.inacap.cl/carreras/area-construccion/construccion-civil",
       "https://portal.inacap.cl/carreras/area-construccion/tecnico-en-construccion"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CNA-Chile"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -31858,7 +32706,9 @@
       "https://portal.inacap.cl/carreras/area-construccion/construccion-civil",
       "https://portal.inacap.cl/carreras/area-construccion/tecnico-en-construccion"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CNA-Chile"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -31901,7 +32751,9 @@
       "https://portal.inacap.cl/carreras/area-construccion/construccion-civil",
       "https://portal.inacap.cl/carreras/area-construccion/tecnico-en-construccion"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CNA-Chile"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -31944,7 +32796,9 @@
       "https://portal.inacap.cl/carreras/area-construccion/construccion-civil",
       "https://portal.inacap.cl/carreras/area-construccion/tecnico-en-construccion"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CNA-Chile"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -31991,7 +32845,9 @@
       "https://portal.inacap.cl/carreras/area-construccion/ingenieria-en-geomensura-y-geomatica",
       "https://portal.inacap.cl/carreras/area-construccion/tecnico-en-topografia-y-geomatica"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CNA-Chile"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -32038,7 +32894,9 @@
       "https://portal.inacap.cl/carreras/area-construccion/construccion-civil",
       "https://portal.inacap.cl/carreras/area-construccion/tecnico-en-construccion"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CNA-Chile"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -32083,7 +32941,9 @@
       "https://portal.inacap.cl/carreras/area-construccion/tecnico-en-construccion",
       "https://portal.inacap.cl/carreras/area-construccion/tecnico-en-topografia-y-geomatica"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CNA-Chile"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -32130,7 +32990,9 @@
       "https://portal.inacap.cl/carreras/area-construccion/construccion-civil",
       "https://portal.inacap.cl/carreras/area-construccion/tecnico-en-construccion"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CNA-Chile"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -32173,7 +33035,9 @@
       "https://portal.inacap.cl/carreras/area-construccion/construccion-civil",
       "https://portal.inacap.cl/carreras/area-construccion/tecnico-en-construccion"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CNA-Chile"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -32218,7 +33082,9 @@
       "https://portal.inacap.cl/carreras/area-construccion/tecnico-en-construccion",
       "https://portal.inacap.cl/carreras/area-construccion/tecnico-en-topografia-y-geomatica"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CNA-Chile"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -32267,7 +33133,9 @@
       "https://portal.inacap.cl/carreras/area-construccion/tecnico-en-construccion",
       "https://portal.inacap.cl/carreras/area-construccion/tecnico-en-topografia-y-geomatica"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CNA-Chile"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -32314,7 +33182,9 @@
       "https://portal.inacap.cl/carreras/area-construccion/construccion-civil",
       "https://portal.inacap.cl/carreras/area-construccion/tecnico-en-construccion"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CNA-Chile"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -32357,7 +33227,9 @@
       "https://portal.inacap.cl/carreras/area-construccion/construccion-civil",
       "https://portal.inacap.cl/carreras/area-construccion/tecnico-en-construccion"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CNA-Chile"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -32400,7 +33272,9 @@
       "https://portal.inacap.cl/carreras/area-construccion/construccion-civil",
       "https://portal.inacap.cl/carreras/area-construccion/tecnico-en-construccion"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CNA-Chile"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -32441,7 +33315,9 @@
     "programLinks": [
       "https://portal.inacap.cl/carreras/area-construccion/tecnico-en-construccion"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CNA-Chile"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -32480,7 +33356,10 @@
     "programLinks": [
       "https://sp.senai.br/curso/tecnico-em-edificacoes/107734"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "CONFEA/CREA"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -32521,7 +33400,10 @@
     "programLinks": [
       "https://www.senairs.org.br/cursos/tecnico-em-edificacoes"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "CONFEA/CREA"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -32562,7 +33444,10 @@
     "programLinks": [
       "https://www.sistemafiep.org.br/educacao/cursos-senai/curso-tecnico-em-edificacoes-18-33876-373882.shtml"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "CONFEA/CREA"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -32603,7 +33488,10 @@
     "programLinks": [
       "https://www.senaibahia.com.br/curso/tecnico-em-edificacoes/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "CONFEA/CREA"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -32644,7 +33532,10 @@
     "programLinks": [
       "https://al.senai.br/curso/tecnico-em-edificacoes/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "CONFEA/CREA"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -32685,7 +33576,10 @@
     "programLinks": [
       "https://senaies.com.br/tecnico-em-edificacoes/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "CONFEA/CREA"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -32726,7 +33620,10 @@
     "programLinks": [
       "https://www.senaigoias.com.br"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "CONFEA/CREA"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -32767,7 +33664,10 @@
     "programLinks": [
       "https://www.fiepb.com.br"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "CONFEA/CREA"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -32808,7 +33708,10 @@
     "programLinks": [
       "https://www.fiepi.com.br"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "CONFEA/CREA"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -32849,7 +33752,10 @@
     "programLinks": [
       "https://www.senaimg.com.br"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "CONFEA/CREA"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -32890,7 +33796,10 @@
     "programLinks": [
       "https://www.firjan.com.br"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "CONFEA/CREA"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -32931,7 +33840,10 @@
     "programLinks": [
       "https://www.sc.senai.br"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "CONFEA/CREA"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -32972,7 +33884,10 @@
     "programLinks": [
       "https://www.pe.senai.br"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "CONFEA/CREA"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -33013,7 +33928,10 @@
     "programLinks": [
       "https://www.senai-ce.org.br"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "CONFEA/CREA"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -33054,7 +33972,10 @@
     "programLinks": [
       "https://www.senaimt.ind.br"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "CONFEA/CREA"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -33095,7 +34016,10 @@
     "programLinks": [
       "https://www.senaipa.org.br"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "CONFEA/CREA"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -33136,7 +34060,10 @@
     "programLinks": [
       "https://www.rn.senai.br"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "CONFEA/CREA"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -33177,7 +34104,10 @@
     "programLinks": [
       "https://www.ap.senai.br"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "CONFEA/CREA"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -33218,7 +34148,10 @@
     "programLinks": [
       "https://www.rr.senai.br"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "CONFEA/CREA"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -33259,7 +34192,10 @@
     "programLinks": [
       "https://portal.fiero.org.br"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "CONFEA/CREA"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -33300,7 +34236,10 @@
     "programLinks": [
       "https://fiema.org.br"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "CONFEA/CREA"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -33341,7 +34280,10 @@
     "programLinks": [
       "http://www.senai-to.com.br"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "CONFEA/CREA"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -33382,7 +34324,10 @@
     "programLinks": [
       "https://www.ms.senai.br"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "CONFEA/CREA"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -33423,7 +34368,10 @@
     "programLinks": [
       "https://www.sistemafibra.org.br/senai"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "CONFEA/CREA"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -33464,7 +34412,10 @@
     "programLinks": [
       "https://www.se.senai.br"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEC",
+      "CONFEA/CREA"
+    ],
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
@@ -33515,7 +34466,10 @@
       "https://oferta.senasofiaplus.edu.co/sofia-oferta/",
       "https://oferta.senasofiaplus.edu.co/sofia-oferta/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "MEN",
+      "COPNIA"
+    ],
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
@@ -33558,7 +34512,9 @@
     "programLinks": [
       "https://fada.una.py/diplomado-modelado-de-informacion-para-la-construccion/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "-"
+    ],
     "language": "Spanish",
     "mode": "Part-time",
     "delivery": "In person",
@@ -33599,7 +34555,9 @@
     "programLinks": [
       "https://uap.edu.py/diplomado-en-modelacion-bim/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "-"
+    ],
     "language": "Spanish",
     "mode": "Part-time",
     "delivery": "In person",
@@ -33640,7 +34598,9 @@
     "programLinks": [
       "https://upabs.edu.py/business-information-modelling-bim/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "-"
+    ],
     "language": "Spanish",
     "mode": "Part-time",
     "delivery": "In person",
