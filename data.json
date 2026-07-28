@@ -35809,5 +35809,383 @@
     "lat": 5.1553,
     "lon": -52.6497,
     "geoSource": "manual:campus"
+  },
+  {
+    "language": "Spanish",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "lastChecked": "2026-07-28",
+    "region": "South America",
+    "costCurrency": "VES",
+    "name": "Universidad Central de Venezuela (UCV)",
+    "country": "Venezuela",
+    "city": "Caracas",
+    "programs": [
+      "Ingeniería Civil",
+      "Arquitectura"
+    ],
+    "programLinks": [
+      "https://www.ing.ucv.ve/",
+      "http://www.ucv.ve/?id=1552"
+    ],
+    "accreditation": [
+      "CNU"
+    ],
+    "cost": "0",
+    "verificationLevel": 1,
+    "graduatesEstimateBasis": "public autonomous university (oldest in Venezuela, UNESCO World Heritage campus); Facultad de Ingeniería (Escuela de Ingeniería Civil) + Facultad de Arquitectura y Urbanismo; faculty-level links (per-escuela pages not exposed); free (gratuita); intake not published",
+    "topics": [
+      "CAD/CAM",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering",
+      "Digital Design",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "Digital Design"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering",
+      "Architecture"
+    ],
+    "website": "http://www.ucv.ve/",
+    "lat": 10.4906,
+    "lon": -66.8911,
+    "geoSource": "manual:campus"
+  },
+  {
+    "language": "Spanish",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "lastChecked": "2026-07-28",
+    "region": "South America",
+    "costCurrency": "USD",
+    "name": "Universidad Católica Andrés Bello (UCAB)",
+    "country": "Venezuela",
+    "city": "Caracas",
+    "programs": [
+      "Ingeniería Civil",
+      "Arquitectura"
+    ],
+    "programLinks": [
+      "https://ingenieria.ucab.edu.ve/civil/",
+      "https://ingenieria.ucab.edu.ve/"
+    ],
+    "accreditation": [
+      "CNU"
+    ],
+    "cost": "Variable",
+    "verificationLevel": 2,
+    "graduatesEstimateBasis": "private university (Facultad de Ingeniería, sedes Caracas-Montalbán & Guayana); Ingeniería Civil (updated 2023, ArcGIS/GIS licence, photogrammetry with UAV/SIG, joint courses with Arquitectura) + Arquitectura (reopened 2022); unit-credit fee system priced in USD; intake not published",
+    "topics": [
+      "CAD/CAM",
+      "GIS & BIM Integration",
+      "3D Modeling & Scanning",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering",
+      "Digital Design",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "GIS & BIM Integration",
+      "3D Modeling & Scanning",
+      "Digital Design"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering",
+      "Architecture"
+    ],
+    "website": "https://ingenieria.ucab.edu.ve/",
+    "lat": 10.4707,
+    "lon": -66.9597,
+    "geoSource": "manual:campus"
+  },
+  {
+    "language": "Spanish",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "cost": "0",
+    "accreditation": [
+      "CNU"
+    ],
+    "lastChecked": "2026-07-28",
+    "region": "South America",
+    "costCurrency": "VES",
+    "name": "Universidad Simón Bolívar (USB)",
+    "country": "Venezuela",
+    "city": "Caracas",
+    "programs": [
+      "Arquitectura",
+      "Urbanismo"
+    ],
+    "programLinks": [
+      "http://www.usb.ve/",
+      "http://www.usb.ve/"
+    ],
+    "verificationLevel": 1,
+    "graduatesEstimateBasis": "public research university (Sede Sartenejas, Baruta); Arquitectura + Urbanismo (no Civil Engineering programme); matrix organisation, faculty-level links; free (gratuita); intake not published",
+    "topics": [
+      "CAD/CAM",
+      "Digital Design",
+      "Architecture",
+      "Smart Cities & Buildings"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "Digital Design",
+      "Smart Cities & Buildings"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "website": "http://www.usb.ve/",
+    "lat": 10.4089,
+    "lon": -66.8877,
+    "geoSource": "manual:campus"
+  },
+  {
+    "language": "Spanish",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "cost": "0",
+    "accreditation": [
+      "CNU"
+    ],
+    "lastChecked": "2026-07-28",
+    "region": "South America",
+    "costCurrency": "VES",
+    "name": "Universidad de Los Andes (ULA)",
+    "country": "Venezuela",
+    "city": "Mérida",
+    "programs": [
+      "Ingeniería Civil",
+      "Arquitectura"
+    ],
+    "programLinks": [
+      "https://www.ula.ve/ingenieria/civil/",
+      "https://www.ula.ve/"
+    ],
+    "verificationLevel": 2,
+    "graduatesEstimateBasis": "public autonomous university (2nd oldest, Mérida); Escuela de Ingeniería Civil (Facultad de Ingeniería, verified) + Arquitectura (FADULA); free (gratuita); intake not published",
+    "topics": [
+      "CAD/CAM",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering",
+      "Digital Design",
+      "Architecture",
+      "Sustainability"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "Digital Design"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering",
+      "Architecture",
+      "Sustainability"
+    ],
+    "website": "https://www.ula.ve/",
+    "lat": 8.615,
+    "lon": -71.15,
+    "geoSource": "manual:city"
+  },
+  {
+    "language": "Spanish",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "cost": "0",
+    "accreditation": [
+      "CNU"
+    ],
+    "lastChecked": "2026-07-28",
+    "region": "South America",
+    "costCurrency": "VES",
+    "name": "Universidad del Zulia (LUZ)",
+    "country": "Venezuela",
+    "city": "Maracaibo",
+    "programs": [
+      "Ingeniería Civil",
+      "Arquitectura"
+    ],
+    "programLinks": [
+      "https://www.luz.edu.ve/",
+      "https://www.luz.edu.ve/"
+    ],
+    "verificationLevel": 1,
+    "graduatesEstimateBasis": "public autonomous university (Maracaibo); Facultad de Ingeniería (Escuela de Ingeniería Civil, also Geodésica) + Facultad de Arquitectura y Diseño (Escuela de Arquitectura); faculty-level links; free (gratuita); intake not published",
+    "topics": [
+      "CAD/CAM",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering",
+      "GIS & BIM Integration",
+      "Digital Design",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "GIS & BIM Integration",
+      "Digital Design"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering",
+      "Architecture"
+    ],
+    "website": "https://www.luz.edu.ve/",
+    "lat": 10.682,
+    "lon": -71.644,
+    "geoSource": "manual:campus"
+  },
+  {
+    "language": "Spanish",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "cost": "0",
+    "accreditation": [
+      "CNU"
+    ],
+    "lastChecked": "2026-07-28",
+    "region": "South America",
+    "costCurrency": "VES",
+    "name": "Universidad de Carabobo (UC)",
+    "country": "Venezuela",
+    "city": "Valencia",
+    "programs": [
+      "Ingeniería Civil"
+    ],
+    "programLinks": [
+      "https://www.uc.edu.ve/"
+    ],
+    "verificationLevel": 1,
+    "graduatesEstimateBasis": "public autonomous university (Valencia, Campus Bárbula); Facultad de Ingeniería (Escuela de Ingeniería Civil); faculty-level link; free (gratuita); intake not published",
+    "topics": [
+      "CAD/CAM",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering"
+    ],
+    "computingTopics": [
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering"
+    ],
+    "website": "https://www.uc.edu.ve/",
+    "lat": 10.268,
+    "lon": -68.004,
+    "geoSource": "manual:campus"
+  },
+  {
+    "language": "Spanish",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "cost": "Variable",
+    "accreditation": [
+      "CNU"
+    ],
+    "lastChecked": "2026-07-28",
+    "region": "South America",
+    "costCurrency": "USD",
+    "name": "Universidad Metropolitana (UNIMET)",
+    "country": "Venezuela",
+    "city": "Caracas",
+    "programs": [
+      "Ingeniería Civil"
+    ],
+    "programLinks": [
+      "https://www.unimet.edu.ve/facultad_ingenieria/ingenieria-civil/"
+    ],
+    "verificationLevel": 2,
+    "graduatesEstimateBasis": "private university (Terrazas del Ávila); Facultad de Ingeniería, Ingeniería Civil (12-trimester model, ICT/TIC emphasis, materials & soils labs); USD fees (~USD 400 per subject/trimester, varies by load); intake not published",
+    "topics": [
+      "CAD/CAM",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering"
+    ],
+    "computingTopics": [
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering"
+    ],
+    "website": "https://www.unimet.edu.ve/",
+    "lat": 10.4983,
+    "lon": -66.8175,
+    "geoSource": "manual:campus"
+  },
+  {
+    "language": "Spanish",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "cost": "Variable",
+    "accreditation": [
+      "CNU"
+    ],
+    "lastChecked": "2026-07-28",
+    "region": "South America",
+    "costCurrency": "USD",
+    "name": "Universidad José María Vargas (UJMV)",
+    "country": "Venezuela",
+    "city": "Caracas",
+    "programs": [
+      "Licenciatura en Arquitectura"
+    ],
+    "programLinks": [
+      "https://www.ujmv.edu/licenciatura-en-arquitectura"
+    ],
+    "verificationLevel": 2,
+    "graduatesEstimateBasis": "private university (Los Dos Caminos, Municipio Sucre); Licenciatura en Arquitectura (diseño arquitectónico, tecnologías constructivas, urbanismo, sustainability); USD fees; intake not published",
+    "topics": [
+      "CAD/CAM",
+      "Digital Design",
+      "Architecture",
+      "Sustainability"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "Digital Design"
+    ],
+    "domains": [
+      "Architecture",
+      "Sustainability"
+    ],
+    "website": "https://www.ujmv.edu/",
+    "lat": 10.503,
+    "lon": -66.836,
+    "geoSource": "manual:campus"
   }
 ]
