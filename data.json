@@ -30857,7 +30857,10 @@
       "https://fot.uog.edu.gy/",
       "https://fot.uog.edu.gy/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "NAC",
+      "GIA"
+    ],
     "language": "English",
     "mode": "Full-time",
     "delivery": "In person",
@@ -30898,7 +30901,9 @@
     "programLinks": [
       "http://www.gtigeorgetown.com/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CTVET"
+    ],
     "language": "English",
     "mode": "Full-time",
     "delivery": "In person",
@@ -30937,7 +30942,9 @@
     "programLinks": [
       "https://ltigy.com/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CTVET"
+    ],
     "language": "English",
     "mode": "Full-time",
     "delivery": "In person",
@@ -30976,7 +30983,9 @@
     "programLinks": [
       "https://www.education.gov.gy/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CTVET"
+    ],
     "language": "English",
     "mode": "Full-time",
     "delivery": "In person",
@@ -31015,7 +31024,9 @@
     "programLinks": [
       "https://www.education.gov.gy/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CTVET"
+    ],
     "language": "English",
     "mode": "Full-time",
     "delivery": "In person",
@@ -35598,5 +35609,205 @@
     "lat": -16.5,
     "lon": -68.1193,
     "geoSource": "manual:city"
+  },
+  {
+    "language": "Dutch",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "verificationLevel": 2,
+    "lastChecked": "2026-07-28",
+    "region": "South America",
+    "costCurrency": "SRD",
+    "name": "Anton de Kom University of Suriname (AdeKUS)",
+    "country": "Suriname",
+    "city": "Paramaribo",
+    "programs": [
+      "Bachelor Civiele Techniek",
+      "Bachelor Infrastructuur"
+    ],
+    "programLinks": [
+      "https://www.uvs.edu/wp-content/uploads/2026/01/Studiegids-van-de-opleiding-Civiele-Techniek-20256-2027-jan-26.pdf",
+      "https://www.uvs.edu/wp-content/uploads/2019/11/Studiegids-Infrastructuur-2018-2019.pdf"
+    ],
+    "accreditation": [
+      "NOVA"
+    ],
+    "cost": "0",
+    "graduatesEstimateBasis": "public state university (Suriname's only university), Faculteit der Technologische Wetenschappen; Bachelor Civiele Techniek (2025-2026 curriculum: structural/hydraulic/transport) + Infrastructuur (Bouwkunde, Geodesie, Land- en Waterbeheersing, LIMP tracks); NOVA is the national accreditation body; tuition nominal (state-subsidised)",
+    "topics": [
+      "CAD/CAM",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering",
+      "Architecture",
+      "GIS & BIM Integration",
+      "3D Modeling & Scanning",
+      "Data Management"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "GIS & BIM Integration",
+      "3D Modeling & Scanning",
+      "Data Management"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering",
+      "Architecture"
+    ],
+    "website": "https://www.uvs.edu/",
+    "lat": 5.8236,
+    "lon": -55.1679,
+    "geoSource": "manual:campus"
+  },
+  {
+    "language": "Dutch",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "verificationLevel": 2,
+    "lastChecked": "2026-07-28",
+    "region": "South America",
+    "costCurrency": "SRD",
+    "name": "Polytechnic College Suriname (PTC)",
+    "country": "Suriname",
+    "city": "Paramaribo",
+    "programs": [
+      "Bachelor Infrastructuur"
+    ],
+    "programLinks": [
+      "https://www.ptc.edu.sr/nieuws-2/infrastructuur/"
+    ],
+    "accreditation": [
+      "NOVA"
+    ],
+    "cost": "32,000 - 51,000",
+    "graduatesEstimateBasis": "HBO college; Bachelor Infrastructuur with Bouwkunde (building/architecture) and Civiele Techniek specialisaties; NOVA framework; evening/blended delivery; annual collegegeld USD 1,350 (fysiek) / USD 850 (afstandsonderwijs, yr3+) at koers SRD 37.50/USD (excl. USD 150 inschrijfgeld)",
+    "topics": [
+      "CAD/CAM",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering",
+      "Architecture",
+      "Construction Engineering"
+    ],
+    "computingTopics": [
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering",
+      "Architecture",
+      "Construction Engineering"
+    ],
+    "website": "https://www.ptc.edu.sr/",
+    "lat": 5.829,
+    "lon": -55.177,
+    "geoSource": "manual:city"
+  },
+  {
+    "language": "French",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "verificationLevel": 2,
+    "lastChecked": "2026-07-28",
+    "region": "South America",
+    "costCurrency": "EUR",
+    "name": "Université de Guyane — Cayenne (Campus de Troubiran)",
+    "country": "French Guiana",
+    "city": "Cayenne",
+    "programs": [
+      "Licence Professionnelle Génie Civil et Construction en Zone Intertropicale",
+      "Master Génie Civil — Transitions Numérique et Environnementale dans le Bâtiment"
+    ],
+    "programLinks": [
+      "https://www.univ-guyane.fr/en/choisir-sa-formation/dfr-sciences-et-technologies/lp-genie-civil-et-construction-en-zone-intertropicale/",
+      "https://www.univ-guyane.fr/en/choisir-sa-formation/dfr-sciences-et-technologies/master-genie-civil/"
+    ],
+    "accreditation": [
+      "HCÉRES"
+    ],
+    "cost": "0",
+    "graduatesEstimateBasis": "public university (Université de Guyane, DFR Sciences et Technologies, Campus de Troubiran); Licence Pro Génie Civil (professional CAD) + Master Génie Civil parcours Transitions Numérique et Environnementale dans le Bâtiment (digital/BIM + sustainable tropical construction); French national diplomas (HCÉRES-evaluated); nominal public fees; intake not published",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "Digital Construction",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Construction Engineering",
+      "Sustainability",
+      "Energy Performance"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM",
+      "Digital Construction",
+      "Energy Performance"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Structural Engineering",
+      "Construction Engineering",
+      "Sustainability"
+    ],
+    "website": "https://www.univ-guyane.fr/",
+    "lat": 4.9247,
+    "lon": -52.3141,
+    "geoSource": "manual:campus"
+  },
+  {
+    "language": "French",
+    "mode": "Full-time",
+    "delivery": "In person",
+    "graduatesPerYear": "Not published",
+    "graduatesEstimated": true,
+    "verificationLevel": 2,
+    "lastChecked": "2026-07-28",
+    "region": "South America",
+    "costCurrency": "EUR",
+    "name": "Université de Guyane — IUT de Kourou",
+    "country": "French Guiana",
+    "city": "Kourou",
+    "programs": [
+      "BUT Génie Civil et Construction Durable"
+    ],
+    "programLinks": [
+      "https://www.univ-guyane.fr/en/choisir-sa-formation/iut/but-genie-civil-et-construction-durable/"
+    ],
+    "accreditation": [
+      "HCÉRES"
+    ],
+    "cost": "0",
+    "graduatesEstimateBasis": "public university (Université de Guyane, IUT de Kourou, Campus Bois Chaudat); BUT Génie Civil et Construction Durable (3-yr, routes Bâtiment + Travaux Publics); French national diploma (HCÉRES-evaluated); nominal public fees; intake not published",
+    "topics": [
+      "CAD/CAM",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering",
+      "Construction Engineering",
+      "Sustainability"
+    ],
+    "computingTopics": [
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering",
+      "Construction Engineering",
+      "Sustainability"
+    ],
+    "website": "https://www.univ-guyane.fr/",
+    "lat": 5.1553,
+    "lon": -52.6497,
+    "geoSource": "manual:campus"
   }
 ]
