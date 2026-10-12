@@ -1289,6 +1289,11 @@
                             <label for="cost-high">≈ €10,000+</label>
                             <span class="filter-count" id="count-cost-high"></span>
                         </div>
+                        <div class="filter-option">
+                            <input type="checkbox" id="cost-unknown" value="unknown" onchange="applyFilters()">
+                            <label for="cost-unknown">Fee not published</label>
+                            <span class="filter-count" id="count-cost-unknown"></span>
+                        </div>
                     </div>
                 </div>
                 
@@ -2103,6 +2108,7 @@
             if (document.getElementById('cost-low')?.checked) activeFilters.cost.add('low');
             if (document.getElementById('cost-medium')?.checked) activeFilters.cost.add('medium');
             if (document.getElementById('cost-high')?.checked) activeFilters.cost.add('high');
+            if (document.getElementById('cost-unknown')?.checked) activeFilters.cost.add('unknown');
             
             // Re-render markers with filters and clustering
             rerenderMarkers();
@@ -2225,7 +2231,7 @@
             const s = (costStr || '').toString();
             if (s.toLowerCase().includes('free')) return 'free';
             const m = s.replace(/,/g, '').match(/\d+/);   // first number = lower bound
-            if (!m) return 'free';
+            if (!m) return 'unknown';   // '-' (fee not published), empty or other non-numeric
             const eur = parseInt(m[0], 10) * (TO_EUR[cur || 'EUR'] || 1);  // normalise to EUR
             if (eur <= 200) return 'free';
             if (eur <= 2000) return 'low';
@@ -2293,6 +2299,7 @@
             setC('count-cost-low',    coC.low);
             setC('count-cost-medium', coC.medium);
             setC('count-cost-high',   coC.high);
+            setC('count-cost-unknown', coC.unknown);
         }
         
         // Clear all filters
