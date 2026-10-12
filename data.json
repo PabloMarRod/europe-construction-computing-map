@@ -8059,6 +8059,8 @@
       "MSc Buildings and Environment",
       "MSc Management and Economics in Civil Engineering",
       "MSc Civil Engineering - Project Management",
+      "Ing. Digitalizace ve stavebnictví",
+      "Bc. Stavitelství",
       "PhD Civil Engineering"
     ],
     "programLinks": [
@@ -8067,6 +8069,8 @@
       "https://www.fsv.cvut.cz/prospective-students/master-study/buildings-and-environment/?lang=en",
       "https://www.fsv.cvut.cz/uchazeci/magisterske-studium/management-a-ekonomika-ve-stavebnictvi/",
       "https://www.fsv.cvut.cz/uchazeci/magisterske-studium/stavebni-inzenyrstvi-rizeni-projektu/",
+      "https://www.fsv.cvut.cz/uchazeci/magisterske-studium/digitalizace-ve-stavebnictvi/",
+      "https://www.fsv.cvut.cz/uchazeci/bakalarske-studium/stavitelstvi/",
       "https://www.fsv.cvut.cz/prospective-students/doctoral-study/?lang=en"
     ],
     "accreditation": [
@@ -8079,7 +8083,6 @@
     "graduatesPerYear": "80-120",
     "topics": [
       "BIM Software",
-      "Construction Management",
       "Digital Construction",
       "Energy Performance",
       "openBIM & IFC",
@@ -8087,7 +8090,13 @@
       "BIM",
       "ISO 19650",
       "AI & Machine Learning",
-      "Data Management"
+      "Data Management",
+      "Robotics & Automation",
+      "Parametric & Generative Design",
+      "VR/AR",
+      "3D Modeling & Scanning",
+      "Construction Management",
+      "Facility & Asset Management"
     ],
     "computingTopics": [
       "BIM Software",
@@ -8098,17 +8107,22 @@
       "BIM",
       "ISO 19650",
       "AI & Machine Learning",
-      "Data Management"
+      "Data Management",
+      "Robotics & Automation",
+      "Parametric & Generative Design",
+      "VR/AR",
+      "3D Modeling & Scanning"
     ],
     "domains": [
-      "Construction Management"
+      "Construction Management",
+      "Facility & Asset Management"
     ],
     "verificationLevel": 2,
     "website": "https://www.cvut.cz/en/faculty-of-civil-engineering",
     "lat": 50.1029,
     "lon": 14.39464,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20",
+    "lastChecked": "2026-10-12",
     "region": "Europe",
     "costCurrency": "CZK",
     "graduatesEstimated": true,
@@ -8142,28 +8156,36 @@
     "graduatesPerYear": "60-80",
     "topics": [
       "BIM Software",
-      "Construction Management",
       "Digital Construction",
       "CAD/CAM",
       "3D Modeling & Scanning",
-      "GIS & BIM Integration"
+      "GIS & BIM Integration",
+      "BIM",
+      "Digital Twins",
+      "Collaborative Workflows",
+      "Construction Management",
+      "Facility & Asset Management"
     ],
     "computingTopics": [
       "BIM Software",
       "Digital Construction",
       "CAD/CAM",
       "3D Modeling & Scanning",
-      "GIS & BIM Integration"
+      "GIS & BIM Integration",
+      "BIM",
+      "Digital Twins",
+      "Collaborative Workflows"
     ],
     "domains": [
-      "Construction Management"
+      "Construction Management",
+      "Facility & Asset Management"
     ],
     "verificationLevel": 2,
     "website": "https://www.fce.vutbr.cz/en/",
     "lat": 49.22655,
     "lon": 16.59543,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20",
+    "lastChecked": "2026-10-12",
     "region": "Europe",
     "costCurrency": "CZK",
     "graduatesEstimated": true,
@@ -8175,11 +8197,13 @@
     "city": "Ostrava",
     "programs": [
       "MSc Civil Engineering — BIM Engineering",
-      "MSc Civil Engineering (Building Structures, Municipal, Geotechnics, Underground)"
+      "MSc Civil Engineering (Building Structures, Municipal, Geotechnics, Underground)",
+      "Bc. Chytré a zelené budovy v cirkulárním stavitelství"
     ],
     "programLinks": [
       "https://www.vsb.cz/en/study/degree-students/degree-studies/master-degree/master-degree-detail/?programmeId=957",
-      "https://www.fast.vsb.cz/en/"
+      "https://www.fast.vsb.cz/en/",
+      "https://www.vsb.cz/cs/uchazec/studijni-programy/?programmeId=1202"
     ],
     "accreditation": [
       "NAÚ Czech Republic"
@@ -8193,28 +8217,36 @@
     "graduatesEstimateBasis": "peer median, type:technical (n=37)",
     "topics": [
       "BIM",
-      "Civil Engineering",
       "Digital Construction",
-      "Facility & Asset Management",
       "Data Management",
-      "Energy Performance"
+      "Energy Performance",
+      "VR/AR",
+      "GIS & BIM Integration",
+      "Smart Cities & Buildings",
+      "Civil Engineering",
+      "Facility & Asset Management",
+      "Sustainability"
     ],
     "computingTopics": [
       "BIM",
       "Digital Construction",
       "Data Management",
-      "Energy Performance"
+      "Energy Performance",
+      "VR/AR",
+      "GIS & BIM Integration",
+      "Smart Cities & Buildings"
     ],
     "domains": [
       "Civil Engineering",
-      "Facility & Asset Management"
+      "Facility & Asset Management",
+      "Sustainability"
     ],
     "verificationLevel": 2,
     "website": "https://www.fast.vsb.cz/en/",
     "lat": 49.8354,
     "lon": 18.29298,
     "geoSource": "nominatim:city",
-    "lastChecked": "2026-07-20",
+    "lastChecked": "2026-10-12",
     "region": "Europe",
     "costCurrency": "CZK"
   },
@@ -8225,11 +8257,15 @@
     "programs": [
       "BSc Civil Engineering",
       "MSc Civil Engineering",
+      "Bc. Technológie a manažérstvo stavieb",
+      "Bc. Matematicko-počítačové modelovanie",
       "PhD Civil Engineering"
     ],
     "programLinks": [
       "https://www.svf.stuba.sk/en/for-applicants/bachelor-studies.html?page_id=8306",
       "https://www.stuba.sk/english/applicants/study-programmes/register-of-accredited-study-programs.html?d=104338-civil-engineering&page_id=16326",
+      "https://www.svf.stuba.sk/sk/uchadzaci/studijne-programy/bakalarske-studijne-programy/technologie-a-manazerstvo-stavieb",
+      "https://www.svf.stuba.sk/sk/uchadzaci/studijne-programy/bakalarske-studijne-programy/matematicko-pocitacove-modelovanie",
       "https://www.svf.stuba.sk/sk/studenti/doktorandske-studium.html?page_id=10868"
     ],
     "accreditation": [
@@ -8243,20 +8279,25 @@
     "topics": [
       "BIM",
       "Digital Construction",
-      "CAD/CAM"
+      "CAD/CAM",
+      "Programming",
+      "Construction Management"
     ],
     "computingTopics": [
       "BIM",
       "Digital Construction",
-      "CAD/CAM"
+      "CAD/CAM",
+      "Programming"
     ],
-    "domains": [],
+    "domains": [
+      "Construction Management"
+    ],
     "verificationLevel": 2,
     "website": "https://www.svf.stuba.sk/en",
     "lat": 48.1517,
     "lon": 17.10931,
     "geoSource": "nominatim:city",
-    "lastChecked": "2026-07-20",
+    "lastChecked": "2026-10-12",
     "region": "Europe",
     "costCurrency": "EUR",
     "graduatesEstimated": true,
@@ -8317,12 +8358,14 @@
       "MSc Civil Engineering — Structures",
       "MSc Civil Engineering — Building Construction",
       "BSc Civil Engineering",
+      "Ing. Technológia a manažment stavieb",
       "PhD Civil Engineering"
     ],
     "programLinks": [
       "https://svf.uniza.sk/index.php?lang=en",
       "https://svf2.uniza.sk/index.php/en/",
       "https://www.uniza.sk/index.php/en/",
+      "https://www.uniza.sk/images/pdf/vnutorny-system-kvality/opis-SP/2025/21427_OpisStudijnehoProgramu.pdf",
       "https://www.uniza.sk/index.php/en/university/general-information/university-profile"
     ],
     "accreditation": [
@@ -8337,13 +8380,16 @@
     "graduatesEstimateBasis": "peer median, type:university (n=194)",
     "topics": [
       "BIM",
-      "Civil Engineering",
       "GIS & BIM Integration",
       "Digital Construction",
       "Infrastructure BIM",
       "CAD/CAM",
       "Collaborative Workflows",
-      "Digital Twins"
+      "Digital Twins",
+      "Construction Informatics",
+      "Civil Engineering",
+      "Construction Management",
+      "Facility & Asset Management"
     ],
     "computingTopics": [
       "BIM",
@@ -8352,17 +8398,20 @@
       "Infrastructure BIM",
       "CAD/CAM",
       "Collaborative Workflows",
-      "Digital Twins"
+      "Digital Twins",
+      "Construction Informatics"
     ],
     "domains": [
-      "Civil Engineering"
+      "Civil Engineering",
+      "Construction Management",
+      "Facility & Asset Management"
     ],
     "verificationLevel": 2,
     "website": "https://www.uniza.sk/index.php/en/university/general-information/university-profile",
     "lat": 49.22347,
     "lon": 18.73931,
     "geoSource": "nominatim:city",
-    "lastChecked": "2026-07-20",
+    "lastChecked": "2026-10-12",
     "region": "Europe",
     "costCurrency": "EUR"
   },
@@ -8375,6 +8424,8 @@
       "MSc Construction Information Technology Engineering",
       "MSc Structural Engineering",
       "MSc Infrastructure Engineering",
+      "MSc Infrastruktúra- és településinformatikai mérnök",
+      "BIM szakmérnök",
       "PhD Civil Engineering and Earth Sciences"
     ],
     "programLinks": [
@@ -8382,15 +8433,17 @@
       "https://xplore.bme.hu/programme/consrtuction-information-technology-engineer-msc/",
       "https://xplore.bme.hu/programme/structural-engineer-msc/",
       "https://xplore.bme.hu/programme/infrastructural-engineer-msc/",
+      "https://epito.bme.hu/MSc",
+      "https://epito.bme.hu/szakiranyu-tovabbkepzesek/BIM-szakmernok",
       "https://xplore.bme.hu/programme/phd-in-civil-engineering-and-earth-sciences/"
     ],
     "accreditation": [
       "-"
     ],
     "language": "English / Hungarian",
-    "mode": "Full-time",
+    "mode": "Full-time / Part-time",
     "delivery": "Presential",
-    "cost": "2,528,000 - 3,555,000",
+    "cost": "1,000,000 - 3,555,000",
     "graduatesPerYear": "150-200",
     "topics": [
       "BIM",
@@ -8403,7 +8456,10 @@
       "Data Management",
       "Construction Informatics",
       "IoT",
-      "3D Modeling & Scanning"
+      "3D Modeling & Scanning",
+      "Smart Cities & Buildings",
+      "Infrastructure BIM",
+      "Collaborative Workflows"
     ],
     "computingTopics": [
       "BIM",
@@ -8416,7 +8472,10 @@
       "Data Management",
       "Construction Informatics",
       "IoT",
-      "3D Modeling & Scanning"
+      "3D Modeling & Scanning",
+      "Smart Cities & Buildings",
+      "Infrastructure BIM",
+      "Collaborative Workflows"
     ],
     "domains": [],
     "verificationLevel": 2,
@@ -8424,7 +8483,7 @@
     "lat": 47.47844,
     "lon": 19.05771,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20",
+    "lastChecked": "2026-10-12",
     "region": "Europe",
     "costCurrency": "HUF",
     "graduatesEstimated": true,
@@ -8483,13 +8542,15 @@
       "MSc Architecture (OTM)",
       "MSc Architectural Engineering",
       "MSc Structural Engineering",
-      "BSc Architectural Engineering"
+      "BSc Architectural Engineering",
+      "BIM szakmérnök"
     ],
     "programLinks": [
       "https://english.mik.pte.hu/architecture/",
       "https://english.mik.pte.hu/architectural-engineering-msc/",
       "https://english.mik.pte.hu/architectural-engineering-bsc/",
-      "https://international.pte.hu/study-programs/bsc-architectural-engineering"
+      "https://international.pte.hu/study-programs/bsc-architectural-engineering",
+      "https://mik.pte.hu/bim-szakmernok"
     ],
     "accreditation": [
       "MAB Hungary",
@@ -8504,14 +8565,16 @@
     "graduatesEstimateBasis": "peer median, type:university (n=194)",
     "topics": [
       "BIM",
+      "CAD/CAM",
+      "Collaborative Workflows",
       "Architecture",
       "Civil Engineering",
-      "Sustainability",
-      "CAD/CAM"
+      "Sustainability"
     ],
     "computingTopics": [
       "BIM",
-      "CAD/CAM"
+      "CAD/CAM",
+      "Collaborative Workflows"
     ],
     "domains": [
       "Architecture",
@@ -8523,7 +8586,7 @@
     "lat": 46.07651,
     "lon": 18.22803,
     "geoSource": "nominatim:city",
-    "lastChecked": "2026-07-20",
+    "lastChecked": "2026-10-12",
     "region": "Europe",
     "costCurrency": "HUF"
   },
@@ -16021,6 +16084,51 @@
     "costCurrency": "RON"
   },
   {
+    "name": "Transilvania University of Brașov — Faculty of Construction",
+    "country": "Romania",
+    "city": "Brașov",
+    "programs": [
+      "Master Ingineria construcțiilor sustenabile"
+    ],
+    "programLinks": [
+      "https://constructii.unitbv.ro/en/programe-de-studii/masterat.html"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Romanian",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "-",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Project Management",
+      "Construction Engineering",
+      "Structural Engineering",
+      "Sustainability"
+    ],
+    "computingTopics": [
+      "BIM"
+    ],
+    "domains": [
+      "Project Management",
+      "Construction Engineering",
+      "Structural Engineering",
+      "Sustainability"
+    ],
+    "verificationLevel": 2,
+    "website": "https://constructii.unitbv.ro",
+    "lat": 45.66608,
+    "lon": 25.61362,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Europe",
+    "costCurrency": "RON",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme intake places not published on the programme page (intake, not graduations)"
+  },
+  {
     "name": "Technical University of Moldova (UTM) — Faculty of Cadaster, Geodesy and Civil Engineering / Faculty of Urbanism and Architecture",
     "country": "Moldova",
     "city": "Chișinău",
@@ -16170,6 +16278,49 @@
     "lastChecked": "2026-07-20",
     "region": "Europe",
     "costCurrency": "EUR"
+  },
+  {
+    "name": "Higher School of Civil Engineering \"Lyuben Karavelov\" (VSU)",
+    "country": "Bulgaria",
+    "city": "Sofia",
+    "programs": [
+      "Магистър Фасаден инженеринг"
+    ],
+    "programLinks": [
+      "https://priem.vsu.bg/fasaden-injenering/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Bulgarian",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential",
+    "cost": "-",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Construction Engineering",
+      "Structural Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Construction Engineering",
+      "Structural Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://vsu.bg",
+    "lat": 42.69443,
+    "lon": 23.24816,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Europe",
+    "costCurrency": "EUR",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme intake places not published on the programme page (intake, not graduations)"
   },
   {
     "name": "National Technical University of Athens (NTUA)",
@@ -16386,12 +16537,14 @@
     "programs": [
       "BSc/MSc Construction & Civil Engineering",
       "BSc/MSc Architecture & Urban Planning",
-      "BSc/MSc Geodesy & Land Management / GIS Engineering"
+      "BSc/MSc Geodesy & Land Management / GIS Engineering",
+      "Магістр Інформаційне моделювання в будівництві (ВІМ-технології)"
     ],
     "programLinks": [
       "https://lpnu.ua/ibis/oznaiomcha-informatsiia-pro-instytut",
       "https://directory-new.lpnu.ua/majors/subject/iard/6.191.00.00/8/2024/ua/full/4/18224",
-      "https://vstup.lpnu.ua/bakalavr-denna"
+      "https://vstup.lpnu.ua/bakalavr-denna",
+      "https://vstup.osvita.ua/y2025/r14/97/1532360/"
     ],
     "accreditation": [
       "Ministry of Education and Science of Ukraine (state accreditation)"
@@ -16410,7 +16563,8 @@
       "3D Modeling & Scanning",
       "GIS & BIM Integration",
       "Architecture",
-      "Construction Management"
+      "Construction Management",
+      "Facility & Asset Management"
     ],
     "computingTopics": [
       "Digital Construction",
@@ -16423,14 +16577,15 @@
     ],
     "domains": [
       "Architecture",
-      "Construction Management"
+      "Construction Management",
+      "Facility & Asset Management"
     ],
     "verificationLevel": 2,
     "website": "https://lpnu.ua/",
     "lat": 49.8359,
     "lon": 24.01451,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20",
+    "lastChecked": "2026-10-12",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "Documented floor: retrieved 2026 licensed capacity for Geodesy & Land Management (122). The Construction & Civil Engineering (192) and Architecture & Urban Planning (191) programmes are also confirmed computing-in-construction (2026 tuition 52,000 and 75,000 UAH/yr respectively) but their individual licensed capacities were not separately retrieved (university has ~200 programmes; full catalogue not pulled), so the true sum is higher. Licensed capacity = intake ceiling, not graduations. Cost: 2026/27 domestic contract 52,000 UAH/yr (construction/geodesy) to 75,000 UAH/yr (architecture) @0.0196 EUR; state-funded places free.",
     "region": "Europe",
@@ -16486,6 +16641,96 @@
     "graduatesEstimateBasis": "Confirmed computing-in-construction: Architectural-Building Engineering programme (192) with a named \"Building Information Modelling (BIM)\" course, Autodesk Revit continuing-education courses, and building energy-efficiency assessment. Per-programme licensed capacities and OSACEA-specific tuition were not separately retrieved; graduatesPerYear and cost are indicative (cost = Ukrainian domestic construction norm, state-funded places free).",
     "region": "Europe",
     "costCurrency": "UAH"
+  },
+  {
+    "name": "Ukrainian State University of Science and Technologies (USUST) — Prydniprovska State Academy of Civil Engineering and Architecture",
+    "country": "Ukraine",
+    "city": "Dnipro",
+    "programs": [
+      "Магістр ВІМ технології в будівництві та цивільній інженерії"
+    ],
+    "programLinks": [
+      "https://pgasa.dp.ua/wp-content/uploads/2025/03/Programme-Handbook_USUST-VIM-25.pdf"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Ukrainian",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "-",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Collaborative Workflows",
+      "Civil Engineering",
+      "Sustainability"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Collaborative Workflows"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Sustainability"
+    ],
+    "verificationLevel": 2,
+    "website": "https://pgasa.dp.ua",
+    "lat": 48.4532,
+    "lon": 35.05375,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Europe",
+    "costCurrency": "UAH",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme intake places not published on the programme page (intake, not graduations)"
+  },
+  {
+    "name": "State University \"Kyiv Aviation Institute\" (KAI) — Faculty of Architecture, Construction and Design",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "programs": [
+      "Бакалавр Промислове і цивільне будівництво"
+    ],
+    "programLinks": [
+      "https://fabd.kai.edu.ua/kafedra-ktb/osvitnia-dokumentatsiia/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Ukrainian",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential",
+    "cost": "-",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "Programming",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://fabd.kai.edu.ua",
+    "lat": 50.43903,
+    "lon": 30.43061,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Europe",
+    "costCurrency": "UAH",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme intake places not published on the programme page (intake, not graduations)"
   },
   {
     "name": "POLIS University",
