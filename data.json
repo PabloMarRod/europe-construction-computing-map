@@ -2464,11 +2464,13 @@
     "city": "Warsaw",
     "programs": [
       "MSc Civil Engineering",
-      "PhD in Civil Engineering / Architecture"
+      "PhD in Civil Engineering / Architecture",
+      "Postgraduate Studies Interdyscyplinarny BIM"
     ],
     "programLinks": [
       "https://www.students.pw.edu.pl/Studies-Offer/M.Sc.-offer/Civil-Engineering",
-      "https://www.pw.edu.pl/engpw/Education/Doctoral-School"
+      "https://www.pw.edu.pl/engpw/Education/Doctoral-School",
+      "https://www.pw.edu.pl/studia/studia-podyplomowe/interdyscyplinarny-bim-studia-miedzywydzialowe"
     ],
     "accreditation": [
       "Polish Accreditation Committee"
@@ -2483,13 +2485,19 @@
       "Parametric & Generative Design",
       "Programming",
       "CAD/CAM",
-      "Energy Performance"
+      "Energy Performance",
+      "BIM",
+      "Collaborative Workflows",
+      "openBIM & IFC"
     ],
     "computingTopics": [
       "Parametric & Generative Design",
       "Programming",
       "CAD/CAM",
-      "Energy Performance"
+      "Energy Performance",
+      "BIM",
+      "Collaborative Workflows",
+      "openBIM & IFC"
     ],
     "domains": [
       "Construction Management"
@@ -2725,11 +2733,13 @@
     "city": "Gliwice",
     "programs": [
       "MSc Civil Engineering (Civil and Industrial Structures, Bridges, Geotechnics)",
-      "MSc Architecture"
+      "MSc Architecture",
+      "Postgraduate Studies Zarządzanie projektami dla BIM managerów z elementami psychologii biznesu"
     ],
     "programLinks": [
       "https://www.polsl.pl/rb1/en/civil-engineering",
-      "https://www.polsl.pl/rar/en/"
+      "https://www.polsl.pl/rar/en/",
+      "https://rekrutacja.polsl.pl/kierunek/spd-zarzprojbim/"
     ],
     "accreditation": [
       "PKA Poland"
@@ -2747,17 +2757,35 @@
       "Digital Twins",
       "Digital Construction",
       "Programming",
-      "AI & Machine Learning"
+      "AI & Machine Learning",
+      "BIM Software",
+      "ISO 19650",
+      "nD BIM",
+      "Collaborative Workflows",
+      "VR/AR",
+      "Project Management",
+      "Facility & Asset Management",
+      "Procurement & Contracts",
+      "Risk & Safety Management"
     ],
     "computingTopics": [
       "BIM",
       "Digital Twins",
       "Digital Construction",
       "Programming",
-      "AI & Machine Learning"
+      "AI & Machine Learning",
+      "BIM Software",
+      "ISO 19650",
+      "nD BIM",
+      "Collaborative Workflows",
+      "VR/AR"
     ],
     "domains": [
-      "Civil Engineering"
+      "Civil Engineering",
+      "Project Management",
+      "Facility & Asset Management",
+      "Procurement & Contracts",
+      "Risk & Safety Management"
     ],
     "verificationLevel": 2,
     "website": "https://www.polsl.pl/en/",
@@ -3895,6 +3923,56 @@
     "costCurrency": "EUR",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "baseline range estimate; original dataset compilation"
+  },
+  {
+    "name": "Howest (Hogeschool West-Vlaanderen)",
+    "country": "Belgium",
+    "city": "Bruges",
+    "programs": [
+      "Postgraduaat BIM Expert Modeler"
+    ],
+    "programLinks": [
+      "https://www.howest.be/nl/opleidingen/postgraduaat/bim-expert-modeler"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Dutch",
+    "mode": "Part-time",
+    "delivery": "Online / Blended",
+    "cost": "2,820",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "openBIM & IFC",
+      "Collaborative Workflows",
+      "Parametric & Generative Design",
+      "Programming",
+      "3D Modeling & Scanning",
+      "VR/AR"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "openBIM & IFC",
+      "Collaborative Workflows",
+      "Parametric & Generative Design",
+      "Programming",
+      "3D Modeling & Scanning",
+      "VR/AR"
+    ],
+    "domains": [],
+    "verificationLevel": 2,
+    "website": "https://www.howest.be",
+    "lat": 51.19471,
+    "lon": 3.2168,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-10-12",
+    "region": "Europe",
+    "costCurrency": "EUR",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme intake places not published on the programme page (intake, not graduations)"
   },
   {
     "name": "University of Luxembourg",
@@ -6197,6 +6275,99 @@
     "graduatesEstimateBasis": "baseline range estimate; original dataset compilation"
   },
   {
+    "name": "University of Derby",
+    "country": "United Kingdom",
+    "city": "Derby",
+    "programs": [
+      "MSc Building Information Modelling (BIM) and Project Collaboration"
+    ],
+    "programLinks": [
+      "https://derby.ac.uk/postgraduate/architecture-architectural-technology-courses/building-info-modelling-project-collab-msc"
+    ],
+    "accreditation": [
+      "CIAT",
+      "RICS"
+    ],
+    "language": "English",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential",
+    "cost": "9,720 - 16,900",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "nD BIM",
+      "Parametric & Generative Design",
+      "Energy Performance",
+      "Collaborative Workflows",
+      "Sustainability",
+      "Project Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "nD BIM",
+      "Parametric & Generative Design",
+      "Energy Performance",
+      "Collaborative Workflows"
+    ],
+    "domains": [
+      "Sustainability",
+      "Project Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://derby.ac.uk",
+    "lat": 52.93795,
+    "lon": -1.498,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-10-12",
+    "region": "Europe",
+    "costCurrency": "GBP",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme intake places not published on the programme page (intake, not graduations)"
+  },
+  {
+    "name": "University of East London",
+    "country": "United Kingdom",
+    "city": "London",
+    "programs": [
+      "MSc Construction Asset Management with Digital Technologies",
+      "MSc Construction Asset Management with Digital Technologies with Industrial Placement"
+    ],
+    "programLinks": [
+      "https://cdn.uel.ac.uk/sites/default/files/course-specification---msc-construction-asset-management-with-digital-technologies.pdf",
+      "https://cdn.uel.ac.uk/sites/default/files/course-specification---msc-construction-asset-management-with-digital-technologies.pdf"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential",
+    "cost": "0",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "Data Management",
+      "Facility & Asset Management",
+      "Sustainability"
+    ],
+    "computingTopics": [
+      "Data Management"
+    ],
+    "domains": [
+      "Facility & Asset Management",
+      "Sustainability"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.uel.ac.uk",
+    "lat": 51.50709,
+    "lon": 0.07082,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-10-12",
+    "region": "Europe",
+    "costCurrency": "GBP",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme intake places not published on the programme page (intake, not graduations)"
+  },
+  {
     "name": "Czech Technical University in Prague (CTU)",
     "country": "Czech Republic",
     "city": "Prague",
@@ -6898,13 +7069,15 @@
       "BA Architecture",
       "MA Architecture",
       "MSc Integrated Building Systems (MIBS)",
-      "PhD Engineering"
+      "PhD Engineering",
+      "MAS ETH in Architecture and Digital Fabrication"
     ],
     "programLinks": [
       "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/architecture-and-civil-engineering/architecture.html",
       "https://ethz.ch/en/studies/master/degree-programmes/architecture-and-civil-engineering/architecture.html",
       "https://master-buildingsystems.ethz.ch/",
-      "https://ethz.ch/en/doctorate.html"
+      "https://ethz.ch/en/doctorate.html",
+      "https://sce.ethz.ch/en/programmes-and-courses/search-current-courses/mas/mas-eth-dfab.html"
     ],
     "accreditation": [
       "HEdA"
@@ -7389,7 +7562,7 @@
     "language": "German / English",
     "mode": "Full-time / Part-time",
     "delivery": "On-campus / Hybrid",
-    "cost": "Variable",
+    "cost": "6,850",
     "graduatesPerYear": "50-95",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "peer median, country:Austria (n=6)",
@@ -7512,6 +7685,59 @@
     "lastChecked": "2026-07-20",
     "region": "Europe",
     "costCurrency": "EUR"
+  },
+  {
+    "name": "Universität für Weiterbildung Krems",
+    "country": "Austria",
+    "city": "Krems an der Donau",
+    "programs": [
+      "BPr Building Information Modeling",
+      "BPr Bauleitung und Projektperformance"
+    ],
+    "programLinks": [
+      "https://www.donau-uni.ac.at/de/studium/building-information-modeling-bpr.html",
+      "https://www.donau-uni.ac.at/de/studium/bauleitung-und-projektperformance-bpr.html"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "German",
+    "mode": "Part-time",
+    "delivery": "Blended",
+    "cost": "9,400 - 9,500",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "nD BIM",
+      "AI & Machine Learning",
+      "Facility & Asset Management",
+      "Sustainability",
+      "Lean & Integrated Delivery",
+      "Construction Management",
+      "Project Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "nD BIM",
+      "AI & Machine Learning"
+    ],
+    "domains": [
+      "Facility & Asset Management",
+      "Sustainability",
+      "Lean & Integrated Delivery",
+      "Construction Management",
+      "Project Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.donau-uni.ac.at",
+    "lat": 48.40784,
+    "lon": 15.5863,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-10-12",
+    "region": "Europe",
+    "costCurrency": "EUR",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme intake places not published on the programme page (intake, not graduations)"
   },
   {
     "name": "Bern University of Applied Sciences (BFH)",
@@ -9724,6 +9950,200 @@
     "graduatesEstimateBasis": "baseline range estimate; original dataset compilation"
   },
   {
+    "name": "Ruhr-Universität Bochum",
+    "country": "Germany",
+    "city": "Bochum",
+    "programs": [
+      "BIM Professional – Knowledge (Certificate)",
+      "BIM Professional – Application (Certificate)"
+    ],
+    "programLinks": [
+      "https://akademie.rub.de/produkt/bim-professional-knowledge-buildingsmart-foundation/",
+      "https://akademie.rub.de/produkt/bim-professional-application/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "German",
+    "mode": "Part-time",
+    "delivery": "Presential / Online",
+    "cost": "5,400 - 7,100",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "GIS & BIM Integration",
+      "Infrastructure BIM"
+    ],
+    "computingTopics": [
+      "BIM",
+      "GIS & BIM Integration",
+      "Infrastructure BIM"
+    ],
+    "domains": [],
+    "verificationLevel": 2,
+    "website": "https://akademie.rub.de",
+    "lat": 51.44416,
+    "lon": 7.261,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-10-12",
+    "region": "Europe",
+    "costCurrency": "EUR",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme intake places not published on the programme page (intake, not graduations)"
+  },
+  {
+    "name": "Otto-Friedrich-Universität Bamberg",
+    "country": "Germany",
+    "city": "Bamberg",
+    "programs": [
+      "MSc Digitale Denkmaltechnologien"
+    ],
+    "programLinks": [
+      "https://www.uni-bamberg.de/ma-digitale-denkmaltechnologien/"
+    ],
+    "accreditation": [
+      "ACQUIN"
+    ],
+    "language": "German",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential",
+    "cost": "0",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "Heritage BIM",
+      "3D Modeling & Scanning",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "Heritage BIM",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.uni-bamberg.de",
+    "lat": 49.90739,
+    "lon": 10.9042,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-10-12",
+    "region": "Europe",
+    "costCurrency": "EUR",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme intake places not published on the programme page (intake, not graduations)"
+  },
+  {
+    "name": "Hochschule Karlsruhe (HKA)",
+    "country": "Germany",
+    "city": "Karlsruhe",
+    "programs": [
+      "BIM Professional (CAS)"
+    ],
+    "programLinks": [
+      "https://www.h-ka.de/iww/bim/ueberblick"
+    ],
+    "accreditation": [
+      "buildingSMART"
+    ],
+    "language": "German",
+    "mode": "Part-time",
+    "delivery": "Online / Blended",
+    "cost": "6,900",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Collaborative Workflows",
+      "nD BIM",
+      "Energy Performance",
+      "VR/AR",
+      "Infrastructure BIM",
+      "Lean & Integrated Delivery",
+      "Procurement & Contracts",
+      "Facility & Asset Management",
+      "Structural Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Collaborative Workflows",
+      "nD BIM",
+      "Energy Performance",
+      "VR/AR",
+      "Infrastructure BIM"
+    ],
+    "domains": [
+      "Lean & Integrated Delivery",
+      "Procurement & Contracts",
+      "Facility & Asset Management",
+      "Structural Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.h-ka.de",
+    "lat": 49.01641,
+    "lon": 8.39087,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-10-12",
+    "region": "Europe",
+    "costCurrency": "EUR",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme intake places not published on the programme page (intake, not graduations)"
+  },
+  {
+    "name": "Bergische Universität Wuppertal",
+    "country": "Germany",
+    "city": "Wuppertal",
+    "programs": [
+      "MSc Bauingenieurwesen – Planen, Bauen, Betreiben",
+      "MSc Architektur",
+      "MSc Verkehrswirtschaftsingenieurwesen",
+      "BSc Bauingenieurwesen",
+      "BSc Verkehrswirtschaftsingenieurwesen",
+      "BIM Basic E-Learning (Certificate)",
+      "BIMKommunal (Further Training)"
+    ],
+    "programLinks": [
+      "https://archbau.uni-wuppertal.de/de/studium/bauingenieurwesen-1/master-of-science/",
+      "https://archbau.uni-wuppertal.de/de/studium/architektur-1/master-of-science/",
+      "https://archbau.uni-wuppertal.de/de/studium/verkehrswirtschaftsingenieurwesen-1/master-of-science/",
+      "https://archbau.uni-wuppertal.de/de/studium/bauingenieurwesen-1/bachelor-of-science/",
+      "https://archbau.uni-wuppertal.de/de/studium/verkehrswirtschaftsingenieurwesen-1/bachelor-of-science/",
+      "https://dpbb.uni-wuppertal.de/en/studies/further-training-courses/bim-basic-e-learning/",
+      "https://dpbb.uni-wuppertal.de/en/studies/further-training-courses/bimkommunal/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "German",
+    "mode": "Full-time / Part-time / Online",
+    "delivery": "Presential / Online",
+    "cost": "0",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Collaborative Workflows",
+      "VR/AR",
+      "nD BIM"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Collaborative Workflows",
+      "VR/AR",
+      "nD BIM"
+    ],
+    "domains": [],
+    "verificationLevel": 2,
+    "website": "https://www.uni-wuppertal.de",
+    "lat": 51.25987,
+    "lon": 7.16678,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Europe",
+    "costCurrency": "EUR",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme intake places not published on the programme page (intake, not graduations)"
+  },
+  {
     "name": "Instituto Superior Técnico (IST), University of Lisbon",
     "country": "Portugal",
     "city": "Lisbon",
@@ -9844,7 +10264,7 @@
     "country": "Portugal",
     "city": "Braga/Guimarães",
     "programs": [
-      "BIM A+ European Master in Building Information Modelling (joint with University of Ljubljana and Politecnico di Milano - Erasmus Mundus)",
+      "BIM A+ European Master in Building Information Modelling (joint with University of Ljubljana - Erasmus Mundus)",
       "MSc Civil Engineering",
       "PhD Civil Engineering"
     ],
@@ -10148,12 +10568,14 @@
     "programs": [
       "Mestrado em Engenharia Civil (4 ramos: Gestão da Construção, Estruturas, Construções, Infraestruturas)",
       "Licenciatura em Engenharia Civil",
-      "Programa Doutoral em Engenharia Civil"
+      "Programa Doutoral em Engenharia Civil",
+      "Pós-graduação em Coordenação BIM"
     ],
     "programLinks": [
       "https://www.ipp.pt/ensino/cursos/mestrado/isep/189",
       "https://www.isep.ipp.pt/Course/Course/3",
-      "https://www.isep.ipp.pt/Course/Course/126"
+      "https://www.isep.ipp.pt/Course/Course/126",
+      "https://isep.ipp.pt/files/3A_Edital_PRES-EDT002-2026_PG%20BIM_2S_2025_26_signed.pdf"
     ],
     "accreditation": [
       "A3ES Portugal",
@@ -10367,7 +10789,7 @@
     "country": "Spain",
     "city": "Valencia",
     "programs": [
-      "Professional Master (P.MSc) BIM Management - Digital Transformation and New Business Models",
+      "Máster de Formación Permanente en BIM Management",
       "MSc Building Constructions",
       "PhD Construction Engineering"
     ],
@@ -11108,7 +11530,7 @@
     "country": "Spain",
     "city": "Madrid",
     "programs": [
-      "Máster en BIM Management",
+      "Máster Universitario en Modelado de Información de Construcción (BIM)",
       "Máster en Arquitectura Sostenible y Bioconstrucción",
       "Máster en Arquitectura"
     ],
@@ -11909,6 +12331,177 @@
     "costCurrency": "EUR",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "baseline range estimate; original dataset compilation"
+  },
+  {
+    "name": "Universidad Internacional de La Rioja (UNIR)",
+    "country": "Spain",
+    "city": "Logroño",
+    "programs": [
+      "Máster de Formación Permanente en BIM Management"
+    ],
+    "programLinks": [
+      "https://www.unir.net/ingenieria/master-bim-management/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Spanish",
+    "mode": "Part-time/Distance",
+    "delivery": "Online",
+    "cost": "0",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "openBIM & IFC",
+      "nD BIM",
+      "Digital Twins",
+      "IoT",
+      "AI & Machine Learning",
+      "Facility & Asset Management",
+      "Lean & Integrated Delivery",
+      "Project Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "openBIM & IFC",
+      "nD BIM",
+      "Digital Twins",
+      "IoT",
+      "AI & Machine Learning"
+    ],
+    "domains": [
+      "Facility & Asset Management",
+      "Lean & Integrated Delivery",
+      "Project Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.unir.net",
+    "lat": 42.46221,
+    "lon": -2.4242,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-10-12",
+    "region": "Europe",
+    "costCurrency": "EUR",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme intake places not published on the programme page (intake, not graduations)"
+  },
+  {
+    "name": "Universidad Tecnológica Atlántico-Mediterráneo (UTAMED)",
+    "country": "Spain",
+    "city": "Málaga",
+    "programs": [
+      "Máster BIM Manager + IA (delivered by The Factory School)"
+    ],
+    "programLinks": [
+      "https://thefactoryschool.com/cursos-master/master-bim-manager/"
+    ],
+    "accreditation": [
+      "buildingSMART"
+    ],
+    "language": "Spanish",
+    "mode": "Part-time",
+    "delivery": "Online",
+    "cost": "5,500",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "openBIM & IFC",
+      "ISO 19650",
+      "Collaborative Workflows",
+      "Programming",
+      "AI & Machine Learning",
+      "nD BIM",
+      "Energy Performance",
+      "Facility & Asset Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "openBIM & IFC",
+      "ISO 19650",
+      "Collaborative Workflows",
+      "Programming",
+      "AI & Machine Learning",
+      "nD BIM",
+      "Energy Performance"
+    ],
+    "domains": [
+      "Facility & Asset Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://utamed.es",
+    "lat": 36.73753,
+    "lon": -4.55701,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Europe",
+    "costCurrency": "EUR",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme intake places not published on the programme page (intake, not graduations)"
+  },
+  {
+    "name": "Universidad de León",
+    "country": "Spain",
+    "city": "León",
+    "programs": [
+      "Especialista en Procesos BIM"
+    ],
+    "programLinks": [
+      "https://www.unileon.es/estudiantes/oferta-academica/titulos-propios/oferta/especialista-en-procesos-bim"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Spanish",
+    "mode": "Part-time/Distance",
+    "delivery": "Online",
+    "cost": "2,810",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "ISO 19650",
+      "openBIM & IFC",
+      "Collaborative Workflows",
+      "Data Management",
+      "nD BIM",
+      "Smart Cities & Buildings",
+      "Energy Performance",
+      "Lean & Integrated Delivery",
+      "Procurement & Contracts",
+      "Project Management",
+      "Sustainability"
+    ],
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "ISO 19650",
+      "openBIM & IFC",
+      "Collaborative Workflows",
+      "Data Management",
+      "nD BIM",
+      "Smart Cities & Buildings",
+      "Energy Performance"
+    ],
+    "domains": [
+      "Lean & Integrated Delivery",
+      "Procurement & Contracts",
+      "Project Management",
+      "Sustainability"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.unileon.es",
+    "lat": 42.61331,
+    "lon": -5.56041,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-10-12",
+    "region": "Europe",
+    "costCurrency": "EUR",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme intake places not published on the programme page (intake, not graduations)"
   },
   {
     "name": "ESTP Paris",
@@ -13192,7 +13785,7 @@
     "language": "French",
     "mode": "Full-time / Part-time",
     "delivery": "On-campus / Hybrid",
-    "cost": "Variable",
+    "cost": "0 - 12,500",
     "graduatesPerYear": "20-100",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "peer median, country:France (n=23)",
@@ -13431,6 +14024,104 @@
     "lastChecked": "2026-07-20",
     "region": "Europe",
     "costCurrency": "EUR"
+  },
+  {
+    "name": "Conservatoire national des arts et métiers (Cnam) — Occitanie",
+    "country": "France",
+    "city": "Montpellier",
+    "programs": [
+      "Master Génie Civil parcours Transitions Numériques et Environnementales dans le Bâtiment (TNEB)"
+    ],
+    "programLinks": [
+      "https://bedeo.cnam.fr/public/cursus/pdf/7778"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "French",
+    "mode": "Apprenticeship",
+    "delivery": "Presential",
+    "cost": "0",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Programming",
+      "Data Management",
+      "Smart Cities & Buildings",
+      "Civil Engineering",
+      "Construction Management",
+      "Sustainability"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Programming",
+      "Data Management",
+      "Smart Cities & Buildings"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management",
+      "Sustainability"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.cnam.fr",
+    "lat": 43.64349,
+    "lon": 3.84343,
+    "geoSource": "nominatim:address",
+    "lastChecked": "2026-10-12",
+    "region": "Europe",
+    "costCurrency": "EUR",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme intake places not published on the programme page (intake, not graduations)"
+  },
+  {
+    "name": "Conservatoire national des arts et métiers (Cnam) — Pays de la Loire (Clisson)",
+    "country": "France",
+    "city": "Clisson",
+    "programs": [
+      "Licence Professionnelle Métiers du BTP parcours Économie de la Construction, option Management de Projet BIM"
+    ],
+    "programLinks": [
+      "https://bedeo.cnam.fr/public/cursus/pdf/8795"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "French",
+    "mode": "Apprenticeship",
+    "delivery": "Presential",
+    "cost": "0",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "nD BIM",
+      "Collaborative Workflows",
+      "Construction Management",
+      "Project Management",
+      "Procurement & Contracts",
+      "Sustainability"
+    ],
+    "computingTopics": [
+      "BIM",
+      "nD BIM",
+      "Collaborative Workflows"
+    ],
+    "domains": [
+      "Construction Management",
+      "Project Management",
+      "Procurement & Contracts",
+      "Sustainability"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.cnam.fr",
+    "lat": 47.09384,
+    "lon": -1.26775,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Europe",
+    "costCurrency": "EUR",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme intake places not published on the programme page (intake, not graduations)"
   },
   {
     "name": "Technical University of Civil Engineering Bucharest (UTCB)",
@@ -15228,13 +15919,15 @@
       "Professional Master (P.MSc) in BIM Management in Construction Works",
       "Professional Master (P.MSc) in Project Management in Construction Works with BIM",
       "Professional Master (P.MSc) in BIM for Project and Contract Management",
-      "PhD Architecture, Built Environment and Construction Engineering"
+      "PhD Architecture, Built Environment and Construction Engineering",
+      "Master di II livello BIM. Metodi, Modelli e Applicazioni"
     ],
     "programLinks": [
       "https://www.polimi.it/en/education/specializing-masters-and-postgraduate-programmes/master-detail/2863",
       "https://www.polimi.it/en/education/specializing-masters-and-postgraduate-programmes/master-detail/3008",
       "https://www.polimi.it/en/education/specializing-masters-and-postgraduate-programmes/master-detail/2865",
-      "https://www.dottorato.polimi.it/en/phd-programmes/architecture/architecture-built-environment-and-construction-engineering"
+      "https://www.dottorato.polimi.it/en/phd-programmes/architecture/architecture-built-environment-and-construction-engineering",
+      "https://www.polimi.it/en/education/specializing-masters-and-postgraduate-programmes/master-detail/3389"
     ],
     "accreditation": [
       "Bologna Process"
@@ -15689,13 +16382,13 @@
     "programs": [
       "BSc Civil, Construction and Environmental Engineering",
       "MSc Building Engineering",
-      "Master BIM Manager - Level II Professional Master",
+      "Master di II livello BIM per la Gestione Informativa del Ciclo di Vita degli Edifici",
       "PhD International Doctorate in Civil and Environmental Engineering"
     ],
     "programLinks": [
       "https://www.unifi.it/en/study-us/degree-programs/first-cycle-degree/civil-and-building-engineering-sustainability",
       "https://www.ingegneria.unifi.it/vp-131-lm-ingegneria-edile.html",
-      "https://www.lbimunifi.it/",
+      "https://www.unifi.it/sites/default/files/2026-08/m_dida_bim_gestione_edifici_26-27_scheda.pdf",
       "https://www.unifi.it/en/study-us/after-graduation/phd-programmes/phd-courses"
     ],
     "accreditation": [
@@ -15704,7 +16397,7 @@
     "language": "Italian / English",
     "mode": "Full-time",
     "delivery": "Presential / Online",
-    "cost": "157 - 2,650",
+    "cost": "157 - 3,900",
     "graduatesPerYear": "100",
     "topics": [
       "BIM",
@@ -22708,7 +23401,7 @@
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "Online",
-    "cost": "Variable",
+    "cost": "15,727,110",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
@@ -25088,12 +25781,14 @@
     "programs": [
       "Engenharia Civil",
       "Arquitetura e Urbanismo",
-      "Doutorado em Engenharia Civil"
+      "Doutorado em Engenharia Civil",
+      "Mestrado Profissional em Inovação na Construção Civil"
     ],
     "programLinks": [
       "https://www5.usp.br/ensino/graduacao/cursos-oferecidos/engenharia-civil/",
       "https://www.fau.usp.br/ensino/graduacao/arquitetura-e-urbanismo/",
-      "https://ppgec.poli.usp.br/"
+      "https://ppgec.poli.usp.br/",
+      "https://sites.usp.br/construinova/para-alunos/"
     ],
     "accreditation": [
       "MEC",
@@ -28071,7 +28766,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
@@ -28121,7 +28816,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
@@ -28171,7 +28866,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
@@ -28221,7 +28916,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
@@ -28271,7 +28966,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
@@ -28321,7 +29016,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
@@ -28371,7 +29066,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
@@ -28418,7 +29113,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
@@ -28465,7 +29160,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
@@ -28512,7 +29207,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
@@ -28559,7 +29254,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
@@ -28609,7 +29304,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
@@ -28659,7 +29354,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
@@ -28709,7 +29404,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
@@ -28759,7 +29454,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
@@ -28809,7 +29504,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
@@ -28859,7 +29554,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
@@ -28909,7 +29604,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
@@ -28959,7 +29654,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
@@ -29006,7 +29701,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
@@ -29052,7 +29747,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
@@ -29102,7 +29797,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
@@ -29152,7 +29847,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
@@ -29202,7 +29897,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
@@ -29252,7 +29947,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
@@ -29302,7 +29997,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
@@ -29352,7 +30047,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
@@ -29399,7 +30094,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
@@ -29445,7 +30140,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
@@ -29495,7 +30190,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
@@ -29545,7 +30240,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
@@ -29592,7 +30287,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
@@ -29638,7 +30333,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
@@ -29688,7 +30383,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
@@ -29738,7 +30433,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
@@ -29788,7 +30483,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
@@ -29838,7 +30533,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
@@ -29885,7 +30580,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
@@ -29928,7 +30623,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
@@ -29971,7 +30666,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
@@ -30017,7 +30712,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
@@ -30067,7 +30762,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
@@ -30117,7 +30812,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
@@ -30164,7 +30859,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
@@ -30210,7 +30905,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
@@ -30631,10 +31326,12 @@
     "country": "Brazil",
     "city": "Belo Horizonte",
     "programs": [
-      "Engenharia Civil"
+      "Engenharia Civil",
+      "Especialização em BIM - Projetos Aplicados às Edificações"
     ],
     "programLinks": [
-      "https://www2.ifmg.edu.br/governadorvaladares/cursos/superior/informacoes-do-curso-bacharelado-em-engenharia-civil"
+      "https://www2.ifmg.edu.br/governadorvaladares/cursos/superior/informacoes-do-curso-bacharelado-em-engenharia-civil",
+      "https://ifmg.edu.br/piumhi/cursos-1/pos-graduacao/docs/2025_PPC_Pos_BIM.pdf"
     ],
     "accreditation": [
       "MEC",
@@ -30650,11 +31347,13 @@
     "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
     "topics": [
       "CAD/CAM",
+      "BIM",
       "Civil Engineering",
       "Infrastructure Engineering"
     ],
     "computingTopics": [
-      "CAD/CAM"
+      "CAD/CAM",
+      "BIM"
     ],
     "domains": [
       "Civil Engineering",
@@ -31877,6 +32576,55 @@
     "lastChecked": "2026-07-27",
     "region": "South America",
     "costCurrency": "PEN"
+  },
+  {
+    "name": "Universidad Privada del Norte (UPN)",
+    "country": "Peru",
+    "city": "Lima",
+    "programs": [
+      "Maestría en Gerencia de la Construcción y Proyectos BIM"
+    ],
+    "programLinks": [
+      "https://upn.edu.pe/sites/default/files/brochure/posgrado-maestria/gerencia-de-la-construccion-y-proyectos-bim-distancia.pdf"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Spanish",
+    "mode": "Part-time/Distance",
+    "delivery": "Online",
+    "cost": "0",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Collaborative Workflows",
+      "Lean & Integrated Delivery",
+      "Construction Management",
+      "Project Management",
+      "Procurement & Contracts",
+      "Sustainability"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Collaborative Workflows"
+    ],
+    "domains": [
+      "Lean & Integrated Delivery",
+      "Construction Management",
+      "Project Management",
+      "Procurement & Contracts",
+      "Sustainability"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.upn.edu.pe",
+    "lat": -12.03873,
+    "lon": -76.89687,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-10-12",
+    "region": "South America",
+    "costCurrency": "PEN",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme intake places not published on the programme page (intake, not graduations)"
   },
   {
     "name": "AIEP (Instituto Profesional)",
@@ -33374,7 +34122,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "SENAI DR Técnico em Edificações; verified via the DR's own course page; fees vary by DR/turma (some gratuito); intake not published",
@@ -33418,7 +34166,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "SENAI DR Técnico em Edificações; verified via the DR's own course page; fees vary by DR/turma (some gratuito); intake not published",
@@ -33462,7 +34210,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "SENAI DR Técnico em Edificações; verified via the DR's own course page; fees vary by DR/turma (some gratuito); intake not published",
@@ -33506,7 +34254,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "SENAI DR Técnico em Edificações; verified via the DR's own course page; fees vary by DR/turma (some gratuito); intake not published",
@@ -33550,7 +34298,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "SENAI DR Técnico em Edificações; verified via the DR's own course page; fees vary by DR/turma (some gratuito); intake not published",
@@ -33594,7 +34342,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "SENAI-ES Técnico em Edificações; verified via the DR's own course page; fees vary; intake not published",
@@ -33638,7 +34386,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "Linked to the DR's official homepage; Técnico em Edificações is SENAI's standard national construction-technician course, but this DR's specific course page was not individually verified; intake not published",
@@ -33682,7 +34430,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "Linked to the DR's official homepage; Técnico em Edificações is SENAI's standard national construction-technician course, but this DR's specific course page was not individually verified; intake not published",
@@ -33726,7 +34474,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "Linked to the DR's official homepage; Técnico em Edificações is SENAI's standard national construction-technician course, but this DR's specific course page was not individually verified; intake not published",
@@ -33770,7 +34518,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "Linked to the DR's official homepage; Técnico em Edificações is SENAI's standard national construction-technician course, but this DR's specific course page was not individually verified; intake not published",
@@ -33814,7 +34562,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "Linked to the DR's official homepage; Técnico em Edificações is SENAI's standard national construction-technician course, but this DR's specific course page was not individually verified; intake not published",
@@ -33858,7 +34606,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "Linked to the DR's official homepage; Técnico em Edificações is SENAI's standard national construction-technician course, but this DR's specific course page was not individually verified; intake not published",
@@ -33902,7 +34650,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "Linked to the DR's official homepage; Técnico em Edificações is SENAI's standard national construction-technician course, but this DR's specific course page was not individually verified; intake not published",
@@ -33946,7 +34694,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "Linked to the DR's official homepage; Técnico em Edificações is SENAI's standard national construction-technician course, but this DR's specific course page was not individually verified; intake not published",
@@ -33990,7 +34738,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "Linked to the DR's official homepage; Técnico em Edificações is SENAI's standard national construction-technician course, but this DR's specific course page was not individually verified; intake not published",
@@ -34034,7 +34782,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "Linked to the DR's official homepage; Técnico em Edificações is SENAI's standard national construction-technician course, but this DR's specific course page was not individually verified; intake not published",
@@ -34078,7 +34826,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "Linked to the DR's official homepage; Técnico em Edificações is SENAI's standard national construction-technician course, but this DR's specific course page was not individually verified; intake not published",
@@ -34122,7 +34870,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "Linked to the DR's official homepage; Técnico em Edificações is SENAI's standard national construction-technician course, but this DR's specific course page was not individually verified; intake not published",
@@ -34166,7 +34914,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "Linked to the DR's official homepage; Técnico em Edificações is SENAI's standard national construction-technician course, but this DR's specific course page was not individually verified; intake not published",
@@ -34210,7 +34958,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "Linked to the DR's official homepage; Técnico em Edificações is SENAI's standard national construction-technician course, but this DR's specific course page was not individually verified; intake not published",
@@ -34254,7 +35002,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "Linked to the DR's official homepage; Técnico em Edificações is SENAI's standard national construction-technician course, but this DR's specific course page was not individually verified; intake not published",
@@ -34298,7 +35046,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "Linked to the DR's official homepage; Técnico em Edificações is SENAI's standard national construction-technician course, but this DR's specific course page was not individually verified; intake not published",
@@ -34342,7 +35090,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "Linked to the DR's official homepage; Técnico em Edificações is SENAI's standard national construction-technician course, but this DR's specific course page was not individually verified; intake not published",
@@ -34386,7 +35134,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "Linked to the DR's official homepage (user-supplied; site bot-blocks automated checks so not auto-verified); Técnico em Edificações is SENAI's standard national construction-technician course; DR-specific course page not individually verified",
@@ -34430,7 +35178,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": null,
+    "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "Linked to the DR's official homepage (user-supplied; site bot-blocks automated checks so not auto-verified); Técnico em Edificações is SENAI's standard national construction-technician course; DR-specific course page not individually verified",
@@ -34512,6 +35260,52 @@
     "lastChecked": "2026-07-27",
     "region": "South America",
     "costCurrency": "COP"
+  },
+  {
+    "name": "Universidad La Gran Colombia",
+    "country": "Colombia",
+    "city": "Bogotá",
+    "programs": [
+      "Diplomado BIM"
+    ],
+    "programLinks": [
+      "https://www.ugc.edu.co/bogota/documentos/brochures/Diplomado%20BIM.pdf"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Spanish",
+    "mode": "Part-time/Distance",
+    "delivery": "Online",
+    "cost": "0",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "openBIM & IFC",
+      "Collaborative Workflows",
+      "3D Modeling & Scanning",
+      "VR/AR",
+      "nD BIM"
+    ],
+    "computingTopics": [
+      "BIM",
+      "openBIM & IFC",
+      "Collaborative Workflows",
+      "3D Modeling & Scanning",
+      "VR/AR",
+      "nD BIM"
+    ],
+    "domains": [],
+    "verificationLevel": 2,
+    "website": "https://www.ugc.edu.co",
+    "lat": 4.59958,
+    "lon": -74.07271,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-10-12",
+    "region": "South America",
+    "costCurrency": "COP",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme intake places not published on the programme page (intake, not graduations)"
   },
   {
     "name": "Universidad Nacional de Asunción (UNA) — FADA",
@@ -35882,7 +36676,7 @@
     "accreditation": [
       "CNU"
     ],
-    "cost": "Variable",
+    "cost": "5,700 - 7,800",
     "verificationLevel": 2,
     "graduatesEstimateBasis": "private university (Facultad de Ingeniería, sedes Caracas-Montalbán & Guayana); Ingeniería Civil (updated 2023, ArcGIS/GIS licence, photogrammetry with UAV/SIG, joint courses with Arquitectura) + Arquitectura (reopened 2022); unit-credit fee system priced in USD; intake not published",
     "topics": [
@@ -36108,7 +36902,7 @@
     "delivery": "In person",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "cost": "Variable",
+    "cost": "3,500 - 5,000",
     "accreditation": [
       "CNU"
     ],
@@ -36151,7 +36945,7 @@
     "delivery": "In person",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
-    "cost": "Variable",
+    "cost": "1,000 - 2,500",
     "accreditation": [
       "CNU"
     ],
@@ -36336,13 +37130,15 @@
       "Bachelor of Design (Construction major)",
       "Master of Construction Management",
       "Master of Civil Engineering",
-      "Doctor of Philosophy (Built Environment)"
+      "Doctor of Philosophy (Built Environment)",
+      "Graduate Certificate in Digital Engineering (Infrastructure)"
     ],
     "programLinks": [
       "https://study.unimelb.edu.au/find/courses/major/construction/",
       "https://study.unimelb.edu.au/find/courses/graduate/master-of-construction-management/",
       "https://study.unimelb.edu.au/find/courses/graduate/master-of-civil-engineering/",
-      "https://study.unimelb.edu.au/find/courses/graduate/doctor-of-philosophy-engineering-and-it/"
+      "https://study.unimelb.edu.au/find/courses/graduate/doctor-of-philosophy-engineering-and-it/",
+      "https://handbook.unimelb.edu.au/courses/gc-diengin"
     ],
     "accreditation": [
       "TEQSA",
@@ -36356,24 +37152,30 @@
       "CAD/CAM",
       "Digital Design",
       "Parametric & Generative Design",
+      "IoT",
+      "3D Modeling & Scanning",
       "Construction Management",
       "Project Management",
       "Architecture",
       "Sustainability",
-      "Civil Engineering"
+      "Civil Engineering",
+      "Infrastructure Engineering"
     ],
     "computingTopics": [
       "BIM",
       "CAD/CAM",
       "Digital Design",
-      "Parametric & Generative Design"
+      "Parametric & Generative Design",
+      "IoT",
+      "3D Modeling & Scanning"
     ],
     "domains": [
       "Construction Management",
       "Project Management",
       "Architecture",
       "Sustainability",
-      "Civil Engineering"
+      "Civil Engineering",
+      "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
     "lat": -37.7963,
@@ -36519,13 +37321,15 @@
       "Bachelor of Engineering (Honours) (Civil Engineering)",
       "Master of Architecture",
       "Master of Building Information Modelling",
-      "Doctor of Philosophy (Civil Engineering)"
+      "Doctor of Philosophy (Civil Engineering)",
+      "Graduate Diploma in Building Information Modelling"
     ],
     "programLinks": [
       "https://www.uwa.edu.au/study/courses",
       "https://www.uwa.edu.au/study/courses",
       "https://www.uwa.edu.au/study/courses/master-of-building-information-modelling",
-      "https://www.uwa.edu.au/study/courses/doctor-of-philosophy"
+      "https://www.uwa.edu.au/study/courses/doctor-of-philosophy",
+      "https://www.uwa.edu.au/study/courses/graduate-diploma-in-building-information-modelling"
     ],
     "accreditation": [
       "TEQSA",
@@ -36543,7 +37347,8 @@
       "Structural Engineering",
       "Infrastructure Engineering",
       "Architecture",
-      "Digital Design"
+      "Digital Design",
+      "Sustainability"
     ],
     "computingTopics": [
       "BIM",
@@ -36557,7 +37362,8 @@
       "Civil Engineering",
       "Structural Engineering",
       "Infrastructure Engineering",
-      "Architecture"
+      "Architecture",
+      "Sustainability"
     ],
     "verificationLevel": 2,
     "lat": -31.98,
@@ -37872,6 +38678,55 @@
     "lastChecked": "2026-07-28",
     "region": "Oceania",
     "costCurrency": "AUD"
+  },
+  {
+    "name": "University of Canberra",
+    "country": "Australia",
+    "city": "Canberra",
+    "programs": [
+      "Master of Building and Construction Information Management"
+    ],
+    "programLinks": [
+      "https://www.canberra.edu.au/course/ABM101/2/2026.pdf"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential",
+    "cost": "38,000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "nD BIM",
+      "Data Management",
+      "Procurement & Contracts",
+      "Project Management",
+      "Construction Management",
+      "Innovation & Entrepreneurship"
+    ],
+    "computingTopics": [
+      "BIM",
+      "nD BIM",
+      "Data Management"
+    ],
+    "domains": [
+      "Procurement & Contracts",
+      "Project Management",
+      "Construction Management",
+      "Innovation & Entrepreneurship"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.canberra.edu.au",
+    "lat": -35.23659,
+    "lon": 149.08451,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-10-12",
+    "region": "Oceania",
+    "costCurrency": "AUD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme intake places not published on the programme page (intake, not graduations)"
   },
   {
     "language": "English",
