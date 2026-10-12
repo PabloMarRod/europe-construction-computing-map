@@ -1198,10 +1198,14 @@
     "city": "Trondheim/Gjøvik",
     "programs": [
       "MSc Civil and Environmental Engineering (Digital Building Processes specialization)",
+      "Bachelor i ingeniørfag, Byggkonstruksjoner (Gjøvik)",
+      "Bachelor i ingeniørfag, Byggkonstruksjoner (nettbasert)",
       "PhD Civil and Environmental Engineering"
     ],
     "programLinks": [
       "https://www.ntnu.no/studier/mibygg",
+      "https://www.ntnu.no/studier/bibyggk",
+      "https://www.ntnu.no/studier/bibygf",
       "https://www.ntnu.edu/ibm/phd"
     ],
     "accreditation": [
@@ -1209,7 +1213,7 @@
     ],
     "language": "Norwegian / English",
     "mode": "Full-time",
-    "delivery": "Presential",
+    "delivery": "Presential / Online",
     "cost": "0 - 174,000",
     "graduatesPerYear": "30-40",
     "topics": [
@@ -1244,7 +1248,7 @@
     "lat": 60.78786,
     "lon": 10.68034,
     "geoSource": "nominatim:city",
-    "lastChecked": "2026-07-20",
+    "lastChecked": "2026-10-12",
     "region": "Europe",
     "costCurrency": "NOK",
     "graduatesEstimated": true,
@@ -1256,11 +1260,13 @@
     "city": "Oslo",
     "programs": [
       "MSc Civil Engineering - Building Technology",
-      "PhD in Engineering Science (Built Environment)"
+      "PhD in Engineering Science (Built Environment)",
+      "Bachelor's Degree Programme in Civil Engineering"
     ],
     "programLinks": [
       "https://www.oslomet.no/en/study/tkd/building-technology",
-      "https://www.oslomet.no/en/study/tkd/engineering-science-phd"
+      "https://www.oslomet.no/en/study/tkd/engineering-science-phd",
+      "https://student.oslomet.no/en/studier/-/studieinfo/programplan/HINGBYGG/2026/H%C3%98ST"
     ],
     "accreditation": [
       "UHR-NRT"
@@ -1301,7 +1307,7 @@
     "lat": 59.92192,
     "lon": 10.7333,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20",
+    "lastChecked": "2026-10-12",
     "region": "Europe",
     "costCurrency": "NOK",
     "graduatesEstimated": true,
@@ -1359,6 +1365,453 @@
     "costCurrency": "NOK",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "baseline range estimate; original dataset compilation"
+  },
+  {
+    "name": "Fagskolen Oslo",
+    "country": "Norway",
+    "city": "Oslo",
+    "programs": [
+      "Fagskolegrad BIM-tekniker konstruksjon",
+      "Fagskolegrad BIM-tekniker installasjon",
+      "Fagskolegrad BIM-tekniker anlegg og infrastruktur"
+    ],
+    "programLinks": [
+      "https://www.fagskolen-oslo.no/utdanning/informasjonsmodellering-bim/bim-tekniker-konstruksjon",
+      "https://www.fagskolen-oslo.no/utdanning/informasjonsmodellering-bim/bim-tekniker-installasjon",
+      "https://www.fagskolen-oslo.no/utdanning/informasjonsmodellering-bim/bim-tekniker-anlegg-infrastruktur"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Norwegian",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential / Online",
+    "cost": "0",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "openBIM & IFC",
+      "Infrastructure BIM",
+      "3D Modeling & Scanning",
+      "Collaborative Workflows",
+      "Construction Engineering",
+      "Infrastructure Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "openBIM & IFC",
+      "Infrastructure BIM",
+      "3D Modeling & Scanning",
+      "Collaborative Workflows"
+    ],
+    "domains": [
+      "Construction Engineering",
+      "Infrastructure Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.fagskolen-oslo.no",
+    "lat": 59.92402,
+    "lon": 10.81018,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Europe",
+    "costCurrency": "NOK",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme intake places not published on the programme page (intake, not graduations)"
+  },
+  {
+    "name": "Fagskolen Innlandet",
+    "country": "Norway",
+    "city": "Gjøvik",
+    "programs": [
+      "Fagskolegrad BIM-tekniker konstruksjon"
+    ],
+    "programLinks": [
+      "https://www.fagskolen-innlandet.no/utdanninger/bim-tekniker-konstruksjon"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Norwegian",
+    "mode": "Part-time",
+    "delivery": "Blended",
+    "cost": "6,000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "openBIM & IFC",
+      "3D Modeling & Scanning",
+      "Digital Construction",
+      "Collaborative Workflows",
+      "Construction Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "openBIM & IFC",
+      "3D Modeling & Scanning",
+      "Digital Construction",
+      "Collaborative Workflows"
+    ],
+    "domains": [
+      "Construction Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.fagskolen-innlandet.no",
+    "lat": 60.78683,
+    "lon": 10.6796,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Europe",
+    "costCurrency": "NOK",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme intake places not published on the programme page (intake, not graduations)"
+  },
+  {
+    "name": "Fagskolen Viken",
+    "country": "Norway",
+    "city": "Kongsberg",
+    "programs": [
+      "Fagskolegrad BIM-tekniker konstruksjon"
+    ],
+    "programLinks": [
+      "https://fagskolen-viken.no/studier/informasjonsmodellering-bim/bim-tekniker-konstruksjon"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Norwegian",
+    "mode": "Part-time",
+    "delivery": "Presential / Blended",
+    "cost": "1,700",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "openBIM & IFC",
+      "Construction Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "openBIM & IFC"
+    ],
+    "domains": [
+      "Construction Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://fagskolen-viken.no",
+    "lat": 59.59455,
+    "lon": 9.67086,
+    "geoSource": "manual:city",
+    "lastChecked": "2026-10-12",
+    "region": "Europe",
+    "costCurrency": "NOK",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme intake places not published on the programme page (intake, not graduations)"
+  },
+  {
+    "name": "Fagskulen Vestland",
+    "country": "Norway",
+    "city": "Førde",
+    "programs": [
+      "Fagskulegrad BIM-teknikar"
+    ],
+    "programLinks": [
+      "https://www.fagskulen.no/utdanning/bygg-og-anlegg/bim-teknikar-forde/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Norwegian",
+    "mode": "Part-time/Distance",
+    "delivery": "Online",
+    "cost": "0",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "nD BIM",
+      "Infrastructure BIM",
+      "3D Modeling & Scanning",
+      "Collaborative Workflows",
+      "Construction Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "nD BIM",
+      "Infrastructure BIM",
+      "3D Modeling & Scanning",
+      "Collaborative Workflows"
+    ],
+    "domains": [
+      "Construction Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.fagskulen.no",
+    "lat": 61.45218,
+    "lon": 5.85717,
+    "geoSource": "manual:city",
+    "lastChecked": "2026-10-12",
+    "region": "Europe",
+    "costCurrency": "NOK",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme intake places not published on the programme page (intake, not graduations)"
+  },
+  {
+    "name": "Fagskolen i Agder",
+    "country": "Norway",
+    "city": "Grimstad",
+    "programs": [
+      "Fagskolegrad BIM konstruksjon",
+      "Fagskolegrad BIM konstruksjon (deltid/nettutdanning)"
+    ],
+    "programLinks": [
+      "https://studiekatalog.edutorium.no/agder/nb/program/FTI02H/2026-host",
+      "https://utdanning.no/utdanning/fagskoleniagder/bim_konstruksjon_deltidnettutdanning"
+    ],
+    "accreditation": [
+      "NOKUT"
+    ],
+    "language": "Norwegian",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential / Online",
+    "cost": "0",
+    "graduatesPerYear": "60",
+    "topics": [
+      "BIM",
+      "openBIM & IFC",
+      "BIM Software",
+      "Collaborative Workflows",
+      "Construction Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "openBIM & IFC",
+      "BIM Software",
+      "Collaborative Workflows"
+    ],
+    "domains": [
+      "Construction Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.fagskolen.no",
+    "lat": 58.33855,
+    "lon": 8.57184,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Europe",
+    "costCurrency": "NOK",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "sum of published study places: full-time 30, part-time online 30 (intake, not graduations)"
+  },
+  {
+    "name": "Fagskolen i Nord",
+    "country": "Norway",
+    "city": "Tromsø",
+    "programs": [
+      "Fagskolegrad BIM Konstruksjon",
+      "Fagskolegrad BIM Installasjon",
+      "Fagskolegrad BIM Anlegg"
+    ],
+    "programLinks": [
+      "https://www.fagskoleninord.no/studier-og-kurs/bygg-og-anlegg/bim-konstruksjon-60-stp/",
+      "https://www.fagskoleninord.no/studier-og-kurs/bygg-og-anlegg/bim-installasjon-60-stp/",
+      "https://www.fagskoleninord.no/studier-og-kurs/bygg-og-anlegg/bim-anlegg-60-stp/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Norwegian",
+    "mode": "Part-time",
+    "delivery": "Blended",
+    "cost": "0",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "openBIM & IFC",
+      "Infrastructure BIM",
+      "GIS & BIM Integration",
+      "3D Modeling & Scanning",
+      "Digital Construction",
+      "Collaborative Workflows",
+      "Construction Engineering",
+      "Infrastructure Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "openBIM & IFC",
+      "Infrastructure BIM",
+      "GIS & BIM Integration",
+      "3D Modeling & Scanning",
+      "Digital Construction",
+      "Collaborative Workflows"
+    ],
+    "domains": [
+      "Construction Engineering",
+      "Infrastructure Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.fagskoleninord.no",
+    "lat": 69.65511,
+    "lon": 18.95433,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Europe",
+    "costCurrency": "NOK",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme intake places not published on the programme page (intake, not graduations)"
+  },
+  {
+    "name": "Western Norway University of Applied Sciences (HVL)",
+    "country": "Norway",
+    "city": "Bergen",
+    "programs": [
+      "Bachelor i ingeniørfag, Bygg (Byggingeniør, Bergen)"
+    ],
+    "programLinks": [
+      "https://www.hvl.no/studier/studieprogram/byggingenior-bergen/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Norwegian",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0",
+    "graduatesPerYear": "100",
+    "topics": [
+      "BIM",
+      "GIS & BIM Integration",
+      "Infrastructure BIM",
+      "Digital Twins",
+      "3D Modeling & Scanning",
+      "Smart Cities & Buildings",
+      "Civil Engineering",
+      "Infrastructure Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "GIS & BIM Integration",
+      "Infrastructure BIM",
+      "Digital Twins",
+      "3D Modeling & Scanning",
+      "Smart Cities & Buildings"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Infrastructure Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.hvl.no",
+    "lat": 60.36919,
+    "lon": 5.35052,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Europe",
+    "costCurrency": "NOK",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "published study places (utdanning.no, updated by HVL): 100 (intake, not graduations)"
+  },
+  {
+    "name": "University of South-Eastern Norway (USN)",
+    "country": "Norway",
+    "city": "Porsgrunn",
+    "programs": [
+      "Bachelor i ingeniørfag, Byggingeniør – Konstruksjon og byggdesign",
+      "Bachelor i ingeniørfag, Byggingeniør – Plan og infrastruktur",
+      "Kunstig intelligens for bedre samordning og kvalitet i industri- og byggenæringen (bransjeprogram)"
+    ],
+    "programLinks": [
+      "https://www.usn.no/studier/bachelor-i-ingeniorfag-byggingenior/konstruksjon-og-byggdesign/",
+      "https://www.usn.no/studier/bachelor-i-ingeniorfag-byggingenior/plan-og-infrastruktur/",
+      "https://www.usn.no/studier/kunstig-intelligens-for-bedre-samordning-og-kvalitet-i-industri-og-byggenaringen/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Norwegian",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential / Online",
+    "cost": "0",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "3D Modeling & Scanning",
+      "VR/AR",
+      "AI & Machine Learning",
+      "Digital Construction",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering"
+    ],
+    "computingTopics": [
+      "3D Modeling & Scanning",
+      "VR/AR",
+      "AI & Machine Learning",
+      "Digital Construction"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Structural Engineering",
+      "Infrastructure Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.usn.no",
+    "lat": 59.13876,
+    "lon": 9.67216,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Europe",
+    "costCurrency": "NOK",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme intake places not published on the programme page (intake, not graduations)"
+  },
+  {
+    "name": "University of Agder (UiA)",
+    "country": "Norway",
+    "city": "Grimstad",
+    "programs": [
+      "Bachelor i ingeniørfag, Bygg (Byggdesign)"
+    ],
+    "programLinks": [
+      "https://www.uia.no/studier/program/byggdesign-bachelor/index.html"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Norwegian",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "nD BIM",
+      "Programming",
+      "3D Modeling & Scanning",
+      "Digital Construction",
+      "Civil Engineering",
+      "Lean & Integrated Delivery",
+      "Sustainability"
+    ],
+    "computingTopics": [
+      "BIM",
+      "nD BIM",
+      "Programming",
+      "3D Modeling & Scanning",
+      "Digital Construction"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Lean & Integrated Delivery",
+      "Sustainability"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.uia.no",
+    "lat": 58.33397,
+    "lon": 8.57768,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Europe",
+    "costCurrency": "NOK",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme intake places not published on the programme page (intake, not graduations)"
   },
   {
     "name": "Jönköping University",
@@ -1425,16 +1878,18 @@
     "city": "Stockholm",
     "programs": [
       "MSc Civil and Architectural Engineering",
-      "PhD Engineering"
+      "PhD Engineering",
+      "BSc in Engineering Constructional Engineering and Design (Högskoleingenjör)"
     ],
     "programLinks": [
       "https://www.kth.se/en/studies/master/civil-and-architectural-engineering",
-      "https://www.kth.se/en/studies/phd"
+      "https://www.kth.se/en/studies/phd",
+      "https://www.kth.se/student/kurser/program/TIBYH?l=en"
     ],
     "accreditation": [
       "-"
     ],
-    "language": "English",
+    "language": "English / Swedish",
     "mode": "Full-time",
     "delivery": "Presential",
     "cost": "0 - 382,000",
@@ -1468,7 +1923,7 @@
     "lat": 59.347,
     "lon": 18.0731,
     "geoSource": "manual:audited (main campus, Valhallavägen, central Stockholm)",
-    "lastChecked": "2026-07-20",
+    "lastChecked": "2026-10-12",
     "region": "Europe",
     "costCurrency": "SEK",
     "graduatesEstimated": true,
@@ -1801,10 +2256,14 @@
     "country": "Sweden",
     "city": "Lund",
     "programs": [
-      "MSc Architecture"
+      "MSc Architecture",
+      "BSc in Engineering Construction Engineering with Architecture (Högskoleingenjör i byggteknik med arkitektur)",
+      "BSc in Engineering Construction Engineering – Infrastructure (Högskoleingenjör i byggteknik – infrastruktur)"
     ],
     "programLinks": [
-      "https://www.lunduniversity.lu.se/lubas/i-uoh-lu-TAMAR"
+      "https://www.lunduniversity.lu.se/lubas/i-uoh-lu-TAMAR",
+      "https://www.lu.se/studera/hogskoleingenjorsutbildning-i-byggteknik-med-arkitektur-TGBYA",
+      "https://www.lu.se/studera/hogskoleingenjorsutbildning-i-byggteknik-infrastruktur-TGBYT"
     ],
     "accreditation": [
       "Bologna Process",
@@ -1844,11 +2303,258 @@
     "lat": 55.71013,
     "lon": 13.21371,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20",
+    "lastChecked": "2026-10-12",
     "region": "Europe",
     "costCurrency": "SEK",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "baseline range estimate; original dataset compilation"
+  },
+  {
+    "name": "Malmö University",
+    "country": "Sweden",
+    "city": "Malmö",
+    "programs": [
+      "Byggingenjör: Byggteknik med arkitektur (Högskoleingenjör)"
+    ],
+    "programLinks": [
+      "https://mau.se/sok-utbildning/program/thbyb-btar/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Swedish",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Construction Engineering",
+      "Architecture",
+      "Project Management",
+      "Sustainability"
+    ],
+    "computingTopics": [
+      "BIM"
+    ],
+    "domains": [
+      "Construction Engineering",
+      "Architecture",
+      "Project Management",
+      "Sustainability"
+    ],
+    "verificationLevel": 2,
+    "website": "https://mau.se",
+    "lat": 55.60901,
+    "lon": 12.99427,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Europe",
+    "costCurrency": "SEK",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme intake places not published on the programme page (intake, not graduations)"
+  },
+  {
+    "name": "Linköping University (LiU)",
+    "country": "Sweden",
+    "city": "Norrköping",
+    "programs": [
+      "Masterprogram i digitaliserat byggande (Master's Programme in Digital Construction Management)",
+      "Högskoleingenjör i byggnadsteknik"
+    ],
+    "programLinks": [
+      "https://liu.se/utbildning/program/6mdib",
+      "https://liu.se/utbildning/program/6ibyg"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Swedish",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 491,000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Digital Twins",
+      "Digital Construction",
+      "nD BIM",
+      "Collaborative Workflows",
+      "Construction Engineering",
+      "Construction Management",
+      "Sustainability"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Digital Twins",
+      "Digital Construction",
+      "nD BIM",
+      "Collaborative Workflows"
+    ],
+    "domains": [
+      "Construction Engineering",
+      "Construction Management",
+      "Sustainability"
+    ],
+    "verificationLevel": 2,
+    "website": "https://liu.se",
+    "lat": 58.58988,
+    "lon": 16.17661,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Europe",
+    "costCurrency": "SEK",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme intake places not published on the programme page (intake, not graduations)"
+  },
+  {
+    "name": "Mälardalen University (MDU)",
+    "country": "Sweden",
+    "city": "Västerås",
+    "programs": [
+      "Master's Programme in Building Engineering with specialisation in Sustainability and Digitalisation"
+    ],
+    "programLinks": [
+      "https://www.mdu.se/en/malardalen-university/education/international/programme/masters-programme-in-building-engineering-with-specialisation-in-sustainability-and-digitalisation"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 270,000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "Programming",
+      "AI & Machine Learning",
+      "Data Management",
+      "Smart Cities & Buildings",
+      "Energy Performance",
+      "Construction Engineering",
+      "Sustainability"
+    ],
+    "computingTopics": [
+      "Programming",
+      "AI & Machine Learning",
+      "Data Management",
+      "Smart Cities & Buildings",
+      "Energy Performance"
+    ],
+    "domains": [
+      "Construction Engineering",
+      "Sustainability"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.mdu.se",
+    "lat": 59.61753,
+    "lon": 16.542,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Europe",
+    "costCurrency": "SEK",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme intake places not published on the programme page (intake, not graduations)"
+  },
+  {
+    "name": "Karlstad University",
+    "country": "Sweden",
+    "city": "Karlstad",
+    "programs": [
+      "Högskoleingenjörsprogrammet i byggteknik, inriktning husbyggnad"
+    ],
+    "programLinks": [
+      "https://www.kau.se/byggteknik/utbildning/hogskoleingenjorsprogrammet-i-byggteknik-inriktning-husbyggnad"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Swedish",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 450,000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "nD BIM",
+      "CAD/CAM",
+      "Construction Engineering",
+      "Timber Construction"
+    ],
+    "computingTopics": [
+      "BIM",
+      "nD BIM",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Construction Engineering",
+      "Timber Construction"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.kau.se",
+    "lat": 59.40639,
+    "lon": 13.58092,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Europe",
+    "costCurrency": "SEK",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme intake places not published on the programme page (intake, not graduations)"
+  },
+  {
+    "name": "Linnaeus University",
+    "country": "Sweden",
+    "city": "Växjö",
+    "programs": [
+      "Byggteknik, högskoleingenjör",
+      "Civilingenjör i byggteknik"
+    ],
+    "programLinks": [
+      "https://www.lnu.se/program/byggteknik-hogskoleingenjor-tgi2b/vaxjo-ht/",
+      "https://www.lnu.se/program/byggteknik-civilingenjor/vaxjo-ht/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Swedish",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 875,000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "Programming",
+      "AI & Machine Learning",
+      "Construction Engineering",
+      "Structural Engineering",
+      "Sustainability",
+      "Facility & Asset Management",
+      "Timber Construction"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM",
+      "Programming",
+      "AI & Machine Learning"
+    ],
+    "domains": [
+      "Construction Engineering",
+      "Structural Engineering",
+      "Sustainability",
+      "Facility & Asset Management",
+      "Timber Construction"
+    ],
+    "verificationLevel": 2,
+    "website": "https://lnu.se",
+    "lat": 56.85473,
+    "lon": 14.831,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Europe",
+    "costCurrency": "SEK",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme intake places not published on the programme page (intake, not graduations)"
   },
   {
     "name": "Metropolia University of Applied Sciences",
@@ -2086,14 +2792,200 @@
     "graduatesEstimateBasis": "baseline range estimate; original dataset compilation"
   },
   {
-    "name": "Tallinn University of Technology (TalTech)",
-    "country": "Estonia",
-    "city": "Tallinn",
+    "name": "JAMK University of Applied Sciences",
+    "country": "Finland",
+    "city": "Jyväskylä",
     "programs": [
-      "PhD Building and Civil Engineering and Architecture"
+      "Insinööri (AMK), rakennus- ja yhdyskuntatekniikka",
+      "Rakennusmestari (AMK)",
+      "Insinööri (ylempi AMK) / Rakennusmestari (ylempi AMK), rakennusala"
     ],
     "programLinks": [
-      "https://taltech.ee/en/PhD/home"
+      "https://www.jamk.fi/fi/hae-opiskelemaan/amk-tutkinto/opiskele-rakennus-ja-yhdyskuntatekniikan-insinooriksi",
+      "https://www.jamk.fi/fi/hae-opiskelemaan/amk-tutkinto/opiskele-rakennusmestariksi-amk",
+      "https://www.jamk.fi/fi/hae-opiskelemaan/yamk-tutkinto/tahtaa-vaativiin-rakennusalan-tehtaviin"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Finnish",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential / Blended",
+    "cost": "0",
+    "graduatesPerYear": "110",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "openBIM & IFC",
+      "Collaborative Workflows",
+      "nD BIM",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "openBIM & IFC",
+      "Collaborative Workflows",
+      "nD BIM"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.jamk.fi",
+    "lat": 62.25097,
+    "lon": 25.7426,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Europe",
+    "costCurrency": "EUR",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "sum of published intake places: Insinööri (AMK) 40, Rakennusmestari (AMK) 40, YAMK 30 (intake, not graduations)"
+  },
+  {
+    "name": "South-Eastern Finland University of Applied Sciences (Xamk)",
+    "country": "Finland",
+    "city": "Kotka",
+    "programs": [
+      "Insinööri (AMK), rakennustekniikka"
+    ],
+    "programLinks": [
+      "https://www.xamk.fi/koulutukset/insinoori-amk-rakennustekniikka/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Finnish",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential / Blended",
+    "cost": "0",
+    "graduatesPerYear": "60",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "IoT",
+      "Civil Engineering",
+      "Timber Construction"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM",
+      "IoT"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Timber Construction"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.xamk.fi",
+    "lat": 60.47081,
+    "lon": 26.94853,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Europe",
+    "costCurrency": "EUR",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "sum of published intake places: Kotka day study 30, Savonlinna blended 30 (intake, not graduations)"
+  },
+  {
+    "name": "Tampere University of Applied Sciences (TAMK)",
+    "country": "Finland",
+    "city": "Tampere",
+    "programs": [
+      "Insinööri (AMK), rakennustekniikka"
+    ],
+    "programLinks": [
+      "https://tamk-study-guide.tuni.fi/167/fi/50/187064?lang=en"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Finnish",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "openBIM & IFC",
+      "nD BIM",
+      "CAD/CAM",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "openBIM & IFC",
+      "nD BIM",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.tuni.fi/en/tamk",
+    "lat": 61.50376,
+    "lon": 23.80893,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Europe",
+    "costCurrency": "EUR",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme intake places not published on the programme page (intake, not graduations)"
+  },
+  {
+    "name": "Turku University of Applied Sciences",
+    "country": "Finland",
+    "city": "Turku",
+    "programs": [
+      "Insinööri (AMK), rakennus- ja yhdyskuntatekniikka"
+    ],
+    "programLinks": [
+      "https://opinto-opas.turkuamk.fi/21632/fi/21680/21685?lang=en"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Finnish",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Infrastructure BIM",
+      "Civil Engineering",
+      "Infrastructure Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Infrastructure BIM"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Infrastructure Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.turkuamk.fi",
+    "lat": 60.44906,
+    "lon": 22.29602,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Europe",
+    "costCurrency": "EUR",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme intake places not published on the programme page (intake, not graduations)"
+  },
+  {
+    "name": "Häme University of Applied Sciences (HAMK)",
+    "country": "Finland",
+    "city": "Hämeenlinna",
+    "programs": [
+      "Bachelor of Engineering, Construction Engineering"
+    ],
+    "programLinks": [
+      "https://www.hamk.fi/en/degree/construction-engineering/"
     ],
     "accreditation": [
       "-"
@@ -2101,19 +2993,292 @@
     "language": "English",
     "mode": "Full-time",
     "delivery": "Presential",
+    "cost": "0 - 9,700",
+    "graduatesPerYear": "40",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Structural Engineering",
+      "Sustainability"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Structural Engineering",
+      "Sustainability"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.hamk.fi/en",
+    "lat": 60.9773,
+    "lon": 24.47942,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Europe",
+    "costCurrency": "EUR",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "sum of published intake places for autumn 2027: direct application 20, joint application 20 (intake, not graduations)"
+  },
+  {
+    "name": "Satakunta University of Applied Sciences (SAMK)",
+    "country": "Finland",
+    "city": "Pori",
+    "programs": [
+      "Insinööri (AMK), rakennus- ja yhdyskuntatekniikka",
+      "Insinööri (AMK), rakennus- ja yhdyskuntatekniikka (monimuotototeutus)"
+    ],
+    "programLinks": [
+      "https://www.samk.fi/tutkinto/rakennus-ja-yhdyskuntatekniikka-amk-paivatoteutus-pori/",
+      "https://www.samk.fi/tutkinto/rakennus-ja-yhdyskuntatekniikka-amk-monimuotototeutus-pori/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Finnish",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential / Blended",
+    "cost": "0",
+    "graduatesPerYear": "85",
+    "topics": [
+      "BIM",
+      "Energy Performance",
+      "Civil Engineering",
+      "Facility & Asset Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Energy Performance"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Facility & Asset Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.samk.fi",
+    "lat": 61.47705,
+    "lon": 21.79155,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Europe",
+    "costCurrency": "EUR",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "sum of published intake places: day study 45, blended 40 (intake, not graduations)"
+  },
+  {
+    "name": "Novia University of Applied Sciences",
+    "country": "Finland",
+    "city": "Raseborg",
+    "programs": [
+      "Ingenjör (YH), byggnads- och samhällsteknik"
+    ],
+    "programLinks": [
+      "https://www.novia.fi/utbildning/bachelorutbildningar/teknik-och-sjofart/ingenjor-yh-byggnads-och-samhallsteknik-raseborg"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Swedish",
+    "mode": "Part-time",
+    "delivery": "Blended",
+    "cost": "0",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Digital Construction",
+      "Civil Engineering",
+      "Sustainability"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Digital Construction"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Sustainability"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.novia.fi",
+    "lat": 59.97502,
+    "lon": 23.4514,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Europe",
+    "costCurrency": "EUR",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme intake places not published on the programme page (intake, not graduations)"
+  },
+  {
+    "name": "LAB University of Applied Sciences",
+    "country": "Finland",
+    "city": "Lahti",
+    "programs": [
+      "Bachelor of Engineering, Sustainable Construction Technology"
+    ],
+    "programLinks": [
+      "https://lab.fi/en/study/bachelor-engineering-sustainable-construction-technology"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 11,000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "CAD/CAM",
+      "Digital Construction",
+      "Construction Engineering",
+      "Sustainability"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "Digital Construction"
+    ],
+    "domains": [
+      "Construction Engineering",
+      "Sustainability"
+    ],
+    "verificationLevel": 2,
+    "website": "https://lab.fi/en",
+    "lat": 61.00572,
+    "lon": 25.66549,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Europe",
+    "costCurrency": "EUR",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme intake places not published on the programme page (intake, not graduations)"
+  },
+  {
+    "name": "Karelia University of Applied Sciences",
+    "country": "Finland",
+    "city": "Joensuu",
+    "programs": [
+      "Insinööri (AMK), rakennustekniikka"
+    ],
+    "programLinks": [
+      "https://www.karelia.fi/amk-tutkinnot/rakennustekniikka/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Finnish",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential / Blended",
+    "cost": "0",
+    "graduatesPerYear": "75",
+    "topics": [
+      "Digital Construction",
+      "Civil Engineering",
+      "Timber Construction",
+      "Sustainability"
+    ],
+    "computingTopics": [
+      "Digital Construction"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Timber Construction",
+      "Sustainability"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.karelia.fi",
+    "lat": 62.59643,
+    "lon": 29.77749,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Europe",
+    "costCurrency": "EUR",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "sum of published study places: day study 30, blended 45 (intake, not graduations)"
+  },
+  {
+    "name": "Seinäjoki University of Applied Sciences (SeAMK)",
+    "country": "Finland",
+    "city": "Seinäjoki",
+    "programs": [
+      "Rakennusmestari (AMK), rakennustekniikka"
+    ],
+    "programLinks": [
+      "https://www.seamk.fi/kaikki-koulutukset/rakennusmestari-amk/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Finnish",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential / Blended",
+    "cost": "0",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "CAD/CAM",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.seamk.fi",
+    "lat": 62.79006,
+    "lon": 22.82182,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Europe",
+    "costCurrency": "EUR",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme intake places not published on the programme page (intake, not graduations)"
+  },
+  {
+    "name": "Tallinn University of Technology (TalTech)",
+    "country": "Estonia",
+    "city": "Tallinn",
+    "programs": [
+      "PhD Building and Civil Engineering and Architecture",
+      "Integrated MSc Indoor Climate in Buildings and Water Engineering",
+      "Integrated MSc Road Engineering and Geodesy",
+      "MSc Building and Infrastructure Engineering",
+      "Integrated MSc Structural Engineering and Construction Management (Ehitiste projekteerimine ja ehitusjuhtimine)"
+    ],
+    "programLinks": [
+      "https://taltech.ee/en/PhD/home",
+      "https://ois2.taltech.ee/uusois/kava/EAKI02/26",
+      "https://ois2.taltech.ee/uusois/kava/EATI02/26",
+      "https://ois2.taltech.ee/uusois/kava/EAXM15/26",
+      "https://ois2.taltech.ee/uusois/kava/EAEI02/26"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Estonian / English",
+    "mode": "Full-time",
+    "delivery": "Presential",
     "cost": "0 - 6,000",
     "graduatesPerYear": "5-10",
     "topics": [
       "BIM",
-      "Construction Management",
       "Digital Twins",
       "Energy Performance",
-      "Prefabrication & Modular Construction",
-      "Sustainability",
       "nD BIM",
       "Data Management",
       "Construction Informatics",
-      "Smart Cities & Buildings"
+      "Smart Cities & Buildings",
+      "Collaborative Workflows",
+      "Infrastructure BIM",
+      "Programming",
+      "CAD/CAM",
+      "Construction Management",
+      "Prefabrication & Modular Construction",
+      "Sustainability",
+      "Project Management",
+      "Structural Engineering",
+      "Infrastructure Engineering"
     ],
     "computingTopics": [
       "BIM",
@@ -2122,19 +3287,26 @@
       "nD BIM",
       "Data Management",
       "Construction Informatics",
-      "Smart Cities & Buildings"
+      "Smart Cities & Buildings",
+      "Collaborative Workflows",
+      "Infrastructure BIM",
+      "Programming",
+      "CAD/CAM"
     ],
     "domains": [
       "Construction Management",
       "Prefabrication & Modular Construction",
-      "Sustainability"
+      "Sustainability",
+      "Project Management",
+      "Structural Engineering",
+      "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
     "website": "https://taltech.ee/en/department-civil-engineering-and-architecture",
     "lat": 59.39497,
     "lon": 24.66762,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20",
+    "lastChecked": "2026-10-12",
     "region": "Europe",
     "costCurrency": "EUR",
     "graduatesEstimated": true,
@@ -2235,6 +3407,47 @@
     "lastChecked": "2026-07-20",
     "region": "Europe",
     "costCurrency": "EUR"
+  },
+  {
+    "name": "TTK University of Applied Sciences (Tallinna Tehnikakõrgkool)",
+    "country": "Estonia",
+    "city": "Tallinn",
+    "programs": [
+      "Professional Higher Education Building Construction (Hoonete ehitus)"
+    ],
+    "programLinks": [
+      "https://tahvel.edu.ee/#/curriculum/2986"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Estonian",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Construction Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM"
+    ],
+    "domains": [
+      "Construction Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.tktk.ee",
+    "lat": 59.42568,
+    "lon": 24.74145,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Europe",
+    "costCurrency": "EUR",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme intake places not published on the programme page (intake, not graduations)"
   },
   {
     "name": "Kaunas University of Technology (KTU)",
@@ -2359,24 +3572,214 @@
     "graduatesEstimateBasis": "baseline range estimate; original dataset compilation"
   },
   {
+    "name": "Vilniaus kolegija (Vilnius University of Applied Sciences)",
+    "country": "Lithuania",
+    "city": "Vilnius",
+    "programs": [
+      "Profesinis bakalauras Statyba",
+      "Profesinis bakalauras Inžinerinės pastatų sistemos",
+      "Profesinis bakalauras Išmaniųjų pastatų inžinerija"
+    ],
+    "programLinks": [
+      "https://www.viko.lt/studentams/studiju-programos-lietuviskai/statyba/",
+      "https://www.viko.lt/studentams/studiju-programos-lietuviskai/inzinerines-pastatu-sistemos/",
+      "https://www.viko.lt/studentams/studiju-programos-lietuviskai/ismaniuju-pastatu-inzinerija/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Lithuanian",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "-",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "Digital Construction",
+      "Smart Cities & Buildings",
+      "AI & Machine Learning",
+      "Construction Engineering",
+      "Sustainability"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM",
+      "Digital Construction",
+      "Smart Cities & Buildings",
+      "AI & Machine Learning"
+    ],
+    "domains": [
+      "Construction Engineering",
+      "Sustainability"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.viko.lt",
+    "lat": 54.70628,
+    "lon": 25.3102,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Europe",
+    "costCurrency": "EUR",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme intake places not published on the programme page (intake, not graduations)"
+  },
+  {
+    "name": "Klaipėdos valstybinė kolegija (Klaipėda State University of Applied Sciences)",
+    "country": "Lithuania",
+    "city": "Klaipėda",
+    "programs": [
+      "Profesinis bakalauras Statybos inžinerija",
+      "Profesinis bakalauras Išmaniųjų pastatų inžinerinės sistemos"
+    ],
+    "programLinks": [
+      "https://www.kvk.lt/programa/statybos-inzinerija/",
+      "https://www.kvk.lt/programa/ismaniuju-pastatu-inzinerines-sistemos/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Lithuanian",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential",
+    "cost": "3,079",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Smart Cities & Buildings",
+      "Robotics & Automation",
+      "Digital Design",
+      "Construction Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Smart Cities & Buildings",
+      "Robotics & Automation",
+      "Digital Design"
+    ],
+    "domains": [
+      "Construction Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.kvk.lt",
+    "lat": 55.70008,
+    "lon": 21.14235,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Europe",
+    "costCurrency": "EUR",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme intake places not published on the programme page (intake, not graduations)"
+  },
+  {
+    "name": "Lietuvos inžinerijos kolegija (Lithuanian College of Engineering)",
+    "country": "Lithuania",
+    "city": "Kaunas",
+    "programs": [
+      "Profesinis bakalauras Statybos inžinerija"
+    ],
+    "programLinks": [
+      "https://www.lik.tech/studijos/studiju-programos/statybos-inzinerija-6531ex009"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Lithuanian",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential",
+    "cost": "-",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "AI & Machine Learning",
+      "Construction Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM",
+      "AI & Machine Learning"
+    ],
+    "domains": [
+      "Construction Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.lik.tech",
+    "lat": 54.91385,
+    "lon": 23.92858,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Europe",
+    "costCurrency": "EUR",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme intake places not published on the programme page (intake, not graduations)"
+  },
+  {
+    "name": "Kauno kolegija (Kaunas University of Applied Sciences)",
+    "country": "Lithuania",
+    "city": "Kaunas",
+    "programs": [
+      "Profesinis bakalauras Statinių inžinerinės sistemos"
+    ],
+    "programLinks": [
+      "https://kaunokolegija.lt/studiju-programos/statiniu-inzinerines-sistemos/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Lithuanian",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "3,079",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "CAD/CAM",
+      "Data Management",
+      "Robotics & Automation",
+      "Construction Engineering"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "Data Management",
+      "Robotics & Automation"
+    ],
+    "domains": [
+      "Construction Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://kaunokolegija.lt",
+    "lat": 54.92203,
+    "lon": 23.98263,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Europe",
+    "costCurrency": "EUR",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme intake places not published on the programme page (intake, not graduations)"
+  },
+  {
     "name": "Riga Technical University (RTU)",
     "country": "Latvia",
     "city": "Riga",
     "programs": [
       "BSc Civil Engineering",
       "MSc Civil Engineering",
-      "PhD Civil Engineering"
+      "PhD Civil Engineering",
+      "First-level Professional Higher Education Būvniecība (Rēzekne Academy)"
     ],
     "programLinks": [
       "https://www.rtu.lv/en/studies/all-study-programmes/open/civil-engineering?id=188",
       "https://www.rtu.lv/en/studies/all-study-programmes/open/civil-engineering?id=17",
-      "https://www.rtu.lv/en/studies/all-study-programmes/open/civil-engineering?id=134"
+      "https://www.rtu.lv/en/studies/all-study-programmes/open/civil-engineering?id=134",
+      "https://www.rtu.lv/lv/studijas/visas-studiju-programmas/atvert/BKB?department=0R000&type=P"
     ],
     "accreditation": [
       "-"
     ],
-    "language": "English",
-    "mode": "Full-time",
+    "language": "Latvian / English",
+    "mode": "Full-time / Part-time",
     "delivery": "Presential",
     "cost": "3,720 - 8,400",
     "graduatesPerYear": "30-40",
@@ -2384,11 +3787,13 @@
       "BIM",
       "Digital Construction",
       "Digital Twins",
-      "Innovation & Entrepreneurship",
-      "Sustainability",
       "3D Modeling & Scanning",
       "GIS & BIM Integration",
-      "Data Management"
+      "Data Management",
+      "BIM Software",
+      "Collaborative Workflows",
+      "Innovation & Entrepreneurship",
+      "Sustainability"
     ],
     "computingTopics": [
       "BIM",
@@ -2396,7 +3801,9 @@
       "Digital Twins",
       "3D Modeling & Scanning",
       "GIS & BIM Integration",
-      "Data Management"
+      "Data Management",
+      "BIM Software",
+      "Collaborative Workflows"
     ],
     "domains": [
       "Innovation & Entrepreneurship",
@@ -2407,7 +3814,7 @@
     "lat": 56.95264,
     "lon": 24.08068,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20",
+    "lastChecked": "2026-10-12",
     "region": "Europe",
     "costCurrency": "EUR",
     "graduatesEstimated": true,
@@ -2457,6 +3864,143 @@
     "lastChecked": "2026-07-20",
     "region": "Europe",
     "costCurrency": "EUR"
+  },
+  {
+    "name": "Rīgas Būvniecības koledža (Riga Building College)",
+    "country": "Latvia",
+    "city": "Riga",
+    "programs": [
+      "Īsā cikla profesionālā augstākā izglītība Būves informācijas modelēšana (BIM)"
+    ],
+    "programLinks": [
+      "https://www.rck.lv/augstaka-izglitiba/studiju-programmas/buves-informacijas-modelesana-bim/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Latvian",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "-",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Data Management",
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Construction Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Data Management",
+      "CAD/CAM",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Construction Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.rck.lv",
+    "lat": 56.94398,
+    "lon": 24.11966,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Europe",
+    "costCurrency": "EUR",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme intake places not published on the programme page (intake, not graduations)"
+  },
+  {
+    "name": "RISEBA University of Applied Sciences",
+    "country": "Latvia",
+    "city": "Riga",
+    "programs": [
+      "Professional Master's Architecture"
+    ],
+    "programLinks": [
+      "https://architecture.riseba.lv/en/study/ma-architecture"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "6,700",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Digital Design",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Digital Design"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.riseba.lv",
+    "lat": 56.95354,
+    "lon": 24.07415,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Europe",
+    "costCurrency": "EUR",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme intake places not published on the programme page (intake, not graduations)"
+  },
+  {
+    "name": "Vidzemes Augstskola (Vidzeme University of Applied Sciences)",
+    "country": "Latvia",
+    "city": "Valmiera",
+    "programs": [
+      "Professional Bachelor Ilgtspējīgu ēku būvniecība"
+    ],
+    "programLinks": [
+      "https://va.lv/ilgtspejiga-eku-buvnieciba"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Latvian",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "3,922",
+    "graduatesPerYear": "17",
+    "topics": [
+      "BIM",
+      "Digital Construction",
+      "CAD/CAM",
+      "Construction Engineering",
+      "Timber Construction",
+      "Prefabrication & Modular Construction",
+      "Sustainability"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Digital Construction",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Construction Engineering",
+      "Timber Construction",
+      "Prefabrication & Modular Construction",
+      "Sustainability"
+    ],
+    "verificationLevel": 2,
+    "website": "https://va.lv",
+    "lat": 57.53494,
+    "lon": 25.42408,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Europe",
+    "costCurrency": "EUR",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "state-funded (budget) places 2026/27: 17; fee-paying places not stated (intake, not graduations)"
   },
   {
     "name": "Warsaw University of Technology",
@@ -5084,6 +6628,53 @@
     "costCurrency": "DKK",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "baseline range estimate; original dataset compilation"
+  },
+  {
+    "name": "Zealand – Sjællands Erhvervsakademi",
+    "country": "Denmark",
+    "city": "Næstved",
+    "programs": [
+      "Professionsbachelor Bygningskonstruktør",
+      "Professionsbachelor Bygningskonstruktør (Blended Learning)"
+    ],
+    "programLinks": [
+      "https://www.zealand.dk/fuldtid/bygningskonstruktoer/",
+      "https://www.zealand.dk/fuldtid/bygningskonstruktor-blended-learning/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Danish",
+    "mode": "Full-time",
+    "delivery": "Presential / Blended",
+    "cost": "0",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Digital Construction",
+      "Collaborative Workflows",
+      "Construction Management",
+      "Innovation & Entrepreneurship"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Digital Construction",
+      "Collaborative Workflows"
+    ],
+    "domains": [
+      "Construction Management",
+      "Innovation & Entrepreneurship"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.zealand.dk",
+    "lat": 55.22458,
+    "lon": 11.75708,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Europe",
+    "costCurrency": "DKK",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme intake places not published on the programme page (intake, not graduations)"
   },
   {
     "name": "University of Dundee",
