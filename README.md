@@ -1,4 +1,4 @@
-# construction-computing-map
+# Construction Computing Map
 
 Interactive map of global higher-education institutions offering programmes in digital construction, BIM, and construction informatics. Each institution is shown on an OpenStreetMap basemap with programme details, cost, accreditation, language, delivery mode, and research/PhD opportunities.
 
