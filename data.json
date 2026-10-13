@@ -9993,6 +9993,55 @@
     "costCurrency": "CHF"
   },
   {
+    "name": "University of Liechtenstein — Liechtenstein School of Architecture",
+    "country": "Liechtenstein",
+    "city": "Vaduz",
+    "programs": [
+      "BSc Architektur",
+      "Certificate Programme BIM-based Project Development"
+    ],
+    "programLinks": [
+      "https://www.uni.li/en/studies/study-programmes/bsc-architecture",
+      "https://www.uni.li/en/professional-education/subject-areas/architecture"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "German",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential",
+    "cost": "1,900 - 2,500",
+    "graduatesPerYear": "35-40",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "Digital Design",
+      "Collaborative Workflows",
+      "Architecture",
+      "Project Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM",
+      "Digital Design",
+      "Collaborative Workflows"
+    ],
+    "domains": [
+      "Architecture",
+      "Project Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.uni.li",
+    "lat": 47.15007,
+    "lon": 9.51641,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Europe",
+    "costCurrency": "CHF",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "BSc intake 35-40 students per semester (programme page; intake, not graduations). Curriculum (valid from 01/09/2026): Werkzeuge & Methoden modules CAD, BIM, Projektmanagement, Gestaltung: Visualisierung."
+  },
+  {
     "name": "TU Dresden",
     "country": "Germany",
     "city": "Dresden",
@@ -25918,13 +25967,19 @@
     "topics": [
       "BIM",
       "BIM Software",
+      "Programming",
+      "Data Management",
+      "Collaborative Workflows",
       "Construction Management",
       "Architecture",
       "Civil Engineering"
     ],
     "computingTopics": [
       "BIM",
-      "BIM Software"
+      "BIM Software",
+      "Programming",
+      "Data Management",
+      "Collaborative Workflows"
     ],
     "domains": [
       "Construction Management",
@@ -25936,7 +25991,7 @@
     "lat": -2.86812,
     "lon": -78.97992,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-24",
+    "lastChecked": "2026-10-12",
     "region": "South America",
     "costCurrency": "USD"
   },
@@ -26000,35 +26055,41 @@
     ],
     "language": "Spanish",
     "mode": "Full-time",
-    "delivery": "In person",
-    "cost": "0",
+    "delivery": "Presential / Hybrid",
+    "cost": "0 - 4,000",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
     "topics": [
       "BIM",
       "BIM Software",
-      "Construction Management",
       "Construction Informatics",
+      "nD BIM",
+      "Energy Performance",
+      "Construction Management",
       "Civil Engineering",
-      "Structural Engineering"
+      "Structural Engineering",
+      "Sustainability"
     ],
     "computingTopics": [
       "BIM",
       "BIM Software",
-      "Construction Informatics"
+      "Construction Informatics",
+      "nD BIM",
+      "Energy Performance"
     ],
     "domains": [
       "Construction Management",
       "Civil Engineering",
-      "Structural Engineering"
+      "Structural Engineering",
+      "Sustainability"
     ],
     "verificationLevel": 2,
     "website": "https://www.uce.edu.ec/web/fing",
     "lat": -0.19999,
     "lon": -78.50619,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-24",
+    "lastChecked": "2026-10-12",
     "region": "South America",
     "costCurrency": "USD"
   },
@@ -26037,10 +26098,12 @@
     "country": "Ecuador",
     "city": "Loja",
     "programs": [
-      "Tecnología Superior en Modelado BIM para la Industria de la Construcción"
+      "Tecnología Superior en Modelado BIM para la Industria de la Construcción",
+      "Diplomado en Gestor de Proyecto BIM AEC"
     ],
     "programLinks": [
-      "https://utpl.edu.ec/tecnologia-modelado-bim"
+      "https://utpl.edu.ec/tecnologia-modelado-bim",
+      "https://formacionpermanente.utpl.edu.ec/sites/default/files/Brochure%20BIM%20%281%29.pdf"
     ],
     "accreditation": [
       "CACES"
@@ -26058,6 +26121,8 @@
       "CAD/CAM",
       "3D Modeling & Scanning",
       "Construction Informatics",
+      "nD BIM",
+      "Collaborative Workflows",
       "Architecture",
       "Civil Engineering"
     ],
@@ -26066,7 +26131,9 @@
       "BIM Software",
       "CAD/CAM",
       "3D Modeling & Scanning",
-      "Construction Informatics"
+      "Construction Informatics",
+      "nD BIM",
+      "Collaborative Workflows"
     ],
     "domains": [
       "Architecture",
@@ -26077,9 +26144,150 @@
     "lat": -3.98687,
     "lon": -79.19794,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-24",
+    "lastChecked": "2026-10-12",
     "region": "South America",
     "costCurrency": "USD"
+  },
+  {
+    "name": "Universidad Internacional SEK (UISEK)",
+    "country": "Ecuador",
+    "city": "Quito",
+    "programs": [
+      "Maestría en Gerencia de Proyectos BIM"
+    ],
+    "programLinks": [
+      "https://uisek.edu.ec/postgrado/maestria-en-gerencia-de-proyectos-bim/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Spanish",
+    "mode": "Part-time",
+    "delivery": "Online",
+    "cost": "-",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "nD BIM",
+      "Collaborative Workflows",
+      "Energy Performance",
+      "Project Management",
+      "Construction Management",
+      "Sustainability"
+    ],
+    "computingTopics": [
+      "BIM",
+      "nD BIM",
+      "Collaborative Workflows",
+      "Energy Performance"
+    ],
+    "domains": [
+      "Project Management",
+      "Construction Management",
+      "Sustainability"
+    ],
+    "verificationLevel": 2,
+    "website": "https://uisek.edu.ec",
+    "lat": -0.20017,
+    "lon": -78.47528,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "South America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme intake places not published on the programme page (intake, not graduations)"
+  },
+  {
+    "name": "Universidad UTE",
+    "country": "Ecuador",
+    "city": "Quito",
+    "programs": [
+      "Maestría en Gerencia de Proyectos BIM"
+    ],
+    "programLinks": [
+      "https://admisiones.ute.edu.ec/wp-content/uploads/2026/08/maestria-gerencia-proyectos-bim-ute.pdf"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Spanish",
+    "mode": "Part-time",
+    "delivery": "Presential / Hybrid",
+    "cost": "-",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "nD BIM",
+      "Infrastructure BIM",
+      "Facility & Asset Management",
+      "Construction Management",
+      "Sustainability"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "nD BIM",
+      "Infrastructure BIM"
+    ],
+    "domains": [
+      "Facility & Asset Management",
+      "Construction Management",
+      "Sustainability"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.ute.edu.ec",
+    "lat": -0.17962,
+    "lon": -78.50651,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "South America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme intake places not published on the programme page (intake, not graduations)"
+  },
+  {
+    "name": "Universidad de Especialidades Espíritu Santo (UEES)",
+    "country": "Ecuador",
+    "city": "Samborondón",
+    "programs": [
+      "Maestría en Gestión de Proyectos de Construcción"
+    ],
+    "programLinks": [
+      "https://uees.edu.ec/descargas/postgrado/maestria-en-gestion-de-proyectos-de-construccion.pdf"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Spanish",
+    "mode": "Part-time",
+    "delivery": "Presential",
+    "cost": "-",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Collaborative Workflows",
+      "Construction Management",
+      "Project Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Collaborative Workflows"
+    ],
+    "domains": [
+      "Construction Management",
+      "Project Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://uees.edu.ec",
+    "lat": -2.13232,
+    "lon": -79.86592,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "South America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme intake places not published on the programme page (intake, not graduations)"
   },
   {
     "name": "Universidad de los Andes (Uniandes)",
@@ -26783,28 +26991,34 @@
     "country": "Argentina",
     "city": "Buenos Aires",
     "programs": [
-      "Ingeniería Civil"
+      "Ingeniería Civil",
+      "Curso de BIM para proyectos de obras civiles y arquitectura: Autodesk Revit"
     ],
     "programLinks": [
-      "https://frba.utn.edu.ar/civil/plan-de-estudios/"
+      "https://frba.utn.edu.ar/civil/plan-de-estudios/",
+      "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/3865/curso-de-bim-para-proyectos-de-obras-civiles-y-arquitectura-autodesk-revit"
     ],
     "accreditation": [
       "CONEAU"
     ],
     "language": "Spanish",
-    "mode": "Full-time",
-    "delivery": "In person",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential / Online",
     "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
     "topics": [
       "CAD/CAM",
+      "BIM",
+      "BIM Software",
       "Civil Engineering",
       "Infrastructure Engineering"
     ],
     "computingTopics": [
-      "CAD/CAM"
+      "CAD/CAM",
+      "BIM",
+      "BIM Software"
     ],
     "domains": [
       "Civil Engineering",
@@ -26815,7 +27029,7 @@
     "lat": -34.59839,
     "lon": -58.42011,
     "geoSource": "manual:city",
-    "lastChecked": "2026-07-25",
+    "lastChecked": "2026-10-12",
     "region": "South America",
     "costCurrency": "ARS"
   },
@@ -27072,39 +27286,53 @@
     "country": "Argentina",
     "city": "La Plata",
     "programs": [
-      "Ingeniería Civil"
+      "Ingeniería Civil",
+      "Diplomatura en Proyectos BIM",
+      "Diplomatura en Gerenciamiento de Proyectos y Obras Civiles Enfoque PMI - BIM"
     ],
     "programLinks": [
-      "https://www.frlp.utn.edu.ar/carrera-civil"
+      "https://www.frlp.utn.edu.ar/carrera-civil",
+      "https://www.frlp.utn.edu.ar/diplomatura-proyectos-bim",
+      "https://www.frlp.utn.edu.ar/gerenciamiento-proyectos-obras-civiles-enfoque-pmi-bim"
     ],
     "accreditation": [
       "CONEAU"
     ],
     "language": "Spanish",
-    "mode": "Full-time",
-    "delivery": "In person",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential / Online",
     "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
     "topics": [
       "CAD/CAM",
+      "BIM",
+      "BIM Software",
+      "nD BIM",
       "Civil Engineering",
-      "Infrastructure Engineering"
+      "Infrastructure Engineering",
+      "Project Management",
+      "Construction Management"
     ],
     "computingTopics": [
-      "CAD/CAM"
+      "CAD/CAM",
+      "BIM",
+      "BIM Software",
+      "nD BIM"
     ],
     "domains": [
       "Civil Engineering",
-      "Infrastructure Engineering"
+      "Infrastructure Engineering",
+      "Project Management",
+      "Construction Management"
     ],
     "verificationLevel": 2,
     "website": "https://www.frlp.utn.edu.ar/carrera-civil",
     "lat": -34.9215,
     "lon": -57.9545,
     "geoSource": "manual:city",
-    "lastChecked": "2026-07-25",
+    "lastChecked": "2026-10-12",
     "region": "South America",
     "costCurrency": "ARS"
   },
@@ -27401,28 +27629,34 @@
     "country": "Argentina",
     "city": "Tucumán",
     "programs": [
-      "Ingeniería Civil"
+      "Ingeniería Civil",
+      "Diplomatura en Diseño y Modelado Inteligente de Instalaciones con Revit"
     ],
     "programLinks": [
-      "https://ingreso.frt.utn.edu.ar/ingenieria-civil/"
+      "https://ingreso.frt.utn.edu.ar/ingenieria-civil/",
+      "https://frt.utn.edu.ar/diplomatura-en-diseno-y-modelado-inteligente-de-instalaciones-con-revit/"
     ],
     "accreditation": [
       "CONEAU"
     ],
     "language": "Spanish",
-    "mode": "Full-time",
-    "delivery": "In person",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential / Online",
     "cost": "0",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
     "topics": [
       "CAD/CAM",
+      "BIM",
+      "BIM Software",
       "Civil Engineering",
       "Infrastructure Engineering"
     ],
     "computingTopics": [
-      "CAD/CAM"
+      "CAD/CAM",
+      "BIM",
+      "BIM Software"
     ],
     "domains": [
       "Civil Engineering",
@@ -27433,7 +27667,7 @@
     "lat": -26.8333,
     "lon": -65.2167,
     "geoSource": "manual:city",
-    "lastChecked": "2026-07-25",
+    "lastChecked": "2026-10-12",
     "region": "South America",
     "costCurrency": "ARS"
   },
@@ -27541,11 +27775,13 @@
     "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
     "topics": [
       "CAD/CAM",
+      "Programming",
       "Civil Engineering",
       "Infrastructure Engineering"
     ],
     "computingTopics": [
-      "CAD/CAM"
+      "CAD/CAM",
+      "Programming"
     ],
     "domains": [
       "Civil Engineering",
@@ -27556,7 +27792,7 @@
     "lat": -32.9992,
     "lon": -68.8792,
     "geoSource": "manual:city",
-    "lastChecked": "2026-07-25",
+    "lastChecked": "2026-10-12",
     "region": "South America",
     "costCurrency": "ARS"
   },
@@ -28258,6 +28494,45 @@
     "costCurrency": "ARS"
   },
   {
+    "name": "Universidad de Buenos Aires (FADU)",
+    "country": "Argentina",
+    "city": "Buenos Aires",
+    "programs": [
+      "Especialización en Modelado de Edificios con Información (BIM)"
+    ],
+    "programLinks": [
+      "https://www.fadu.uba.ar/inscripcionposgrado-ciclo-lectivo-2026/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Spanish",
+    "mode": "Part-time",
+    "delivery": "Presential",
+    "cost": "-",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.fadu.uba.ar",
+    "lat": -34.5418,
+    "lon": -58.4434,
+    "geoSource": "manual:city",
+    "lastChecked": "2026-10-12",
+    "region": "South America",
+    "costCurrency": "ARS",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme intake places not published on the programme page (intake, not graduations)"
+  },
+  {
     "name": "University of Victoria (UVic)",
     "country": "Canada",
     "city": "Victoria",
@@ -28348,17 +28623,1656 @@
     "costCurrency": "CAD"
   },
   {
+    "name": "California Polytechnic State University, San Luis Obispo (Cal Poly)",
+    "country": "United States",
+    "city": "San Luis Obispo",
+    "programs": [
+      "BS Construction Management"
+    ],
+    "programLinks": [
+      "https://catalog.calpoly.edu/architecture-environmental-design/construction-management/construction-management-bs/"
+    ],
+    "accreditation": [
+      "ACCE"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "6,838 - 20,968",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Digital Construction",
+      "Construction Management",
+      "Sustainability"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Digital Construction"
+    ],
+    "domains": [
+      "Construction Management",
+      "Sustainability"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.calpoly.edu",
+    "lat": 35.30746,
+    "lon": -120.66465,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Catalog: CM 1280 Fundamentals of Virtual Design and Construction Management (required)."
+  },
+  {
+    "name": "California State University, Chico",
+    "country": "United States",
+    "city": "Chico",
+    "programs": [
+      "BS Construction Management"
+    ],
+    "programLinks": [
+      "https://catalog.csuchico.edu/colleges-departments/college-engineering-computer-science-construction-management/construction-management/"
+    ],
+    "accreditation": [
+      "ACCE"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "6,838 - 20,968",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Collaborative Workflows",
+      "Construction Informatics",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Collaborative Workflows",
+      "Construction Informatics"
+    ],
+    "domains": [
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.csuchico.edu",
+    "lat": 39.7295,
+    "lon": -121.84811,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Catalog 2026-27: CMGT 105 Computer Applications in Construction Management; CMGT 110 Construction Graphics (3D modelling); CMGT 235 BIM-based constructability, clash detection."
+  },
+  {
+    "name": "California State University, Sacramento (Sacramento State)",
+    "country": "United States",
+    "city": "Sacramento",
+    "programs": [
+      "BS Construction Management"
+    ],
+    "programLinks": [
+      "https://catalog.csus.edu/courses-a-z/cm/"
+    ],
+    "accreditation": [
+      "ACCE"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "6,838 - 20,968",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "nD BIM",
+      "VR/AR",
+      "3D Modeling & Scanning",
+      "Digital Twins",
+      "IoT",
+      "Digital Fabrication",
+      "Collaborative Workflows",
+      "Digital Construction",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "nD BIM",
+      "VR/AR",
+      "3D Modeling & Scanning",
+      "Digital Twins",
+      "IoT",
+      "Digital Fabrication",
+      "Collaborative Workflows",
+      "Digital Construction"
+    ],
+    "domains": [
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.csus.edu",
+    "lat": 38.56647,
+    "lon": -121.4284,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Catalog: CM 196D Virtual Design and Construction (3D/4D/5D BIM, AR with HoloLens, laser scanning); CM 196E Digital Built Environment (CDE, digital twins, IoT sensors, reality capture, drones, digital fabrication)."
+  },
+  {
+    "name": "University of California, Berkeley",
+    "country": "United States",
+    "city": "Berkeley",
+    "programs": [
+      "MS/MEng Civil and Environmental Engineering — Construction Systems",
+      "PhD Civil and Environmental Engineering — Construction Systems"
+    ],
+    "programLinks": [
+      "https://ce.berkeley.edu/programs/cos",
+      "https://ce.berkeley.edu/grad/admissions"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "15,066 - 30,168",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Robotics & Automation",
+      "Digital Twins",
+      "IoT",
+      "Data Management",
+      "3D Modeling & Scanning",
+      "Digital Construction",
+      "Construction Management",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Robotics & Automation",
+      "Digital Twins",
+      "IoT",
+      "Data Management",
+      "3D Modeling & Scanning",
+      "Digital Construction"
+    ],
+    "domains": [
+      "Construction Management",
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.berkeley.edu",
+    "lat": 37.87078,
+    "lon": -122.26568,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Construction Systems programme page: AI, robotics, embedded sensors, digital twins, data science, optimisation, simulation, scanning, machine learning, cloud computing, automation, BIM and VDC."
+  },
+  {
+    "name": "Stanford University",
+    "country": "United States",
+    "city": "Stanford",
+    "programs": [
+      "MS Civil and Environmental Engineering — Sustainable Design & Construction",
+      "PhD Civil and Environmental Engineering"
+    ],
+    "programLinks": [
+      "https://cee.stanford.edu/academics-admission/graduate-degrees/ms-programs/sustainable-design-construction-sdc",
+      "https://cee.stanford.edu/academics-admission/graduate-degrees/phd-program"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "69,717",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Robotics & Automation",
+      "AI & Machine Learning",
+      "Data Management",
+      "Energy Performance",
+      "Prefabrication & Modular Construction",
+      "Construction Management",
+      "Sustainability"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Robotics & Automation",
+      "AI & Machine Learning",
+      "Data Management",
+      "Energy Performance"
+    ],
+    "domains": [
+      "Prefabrication & Modular Construction",
+      "Construction Management",
+      "Sustainability"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.stanford.edu",
+    "lat": 37.43131,
+    "lon": -122.16937,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. SDC programme page: building information modeling, construction robotics, AI applications in AEC, industrialized construction, data analytics, energy-efficient building design. Home of CIFE (Center for Integrated Facility Engineering)."
+  },
+  {
+    "name": "California State University, Northridge (CSUN)",
+    "country": "United States",
+    "city": "Northridge",
+    "programs": [
+      "BS Construction Management",
+      "MS Construction Management"
+    ],
+    "programLinks": [
+      "https://catalog.csun.edu/academics/CM/",
+      "https://catalog.csun.edu/academics/CM/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential",
+    "cost": "6,838 - 20,968",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Collaborative Workflows",
+      "Construction Informatics",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Collaborative Workflows",
+      "Construction Informatics"
+    ],
+    "domains": [
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.csun.edu",
+    "lat": 34.24553,
+    "lon": -118.52632,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Catalog: CM 508 Construction Information Technology (BIM, VDC, clash detection, information systems); CM 608 Advanced BIM in Construction Management (document management, information sharing)."
+  },
+  {
+    "name": "California State University, East Bay",
+    "country": "United States",
+    "city": "Hayward",
+    "programs": [
+      "BS Construction Management",
+      "MS Construction Management"
+    ],
+    "programLinks": [
+      "https://catalog.csueastbay.edu/preview_program.php?catoid=39&poid=18071",
+      "https://catalog.csueastbay.edu/preview_program.php?catoid=44&poid=20474"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential",
+    "cost": "6,838 - 20,968",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Construction Management",
+      "Sustainability"
+    ],
+    "computingTopics": [
+      "BIM"
+    ],
+    "domains": [
+      "Construction Management",
+      "Sustainability"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.csueastbay.edu",
+    "lat": 37.65552,
+    "lon": -122.05588,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Catalog: CMGT 410 Building Information Modeling; MS learning outcomes include building information modeling."
+  },
+  {
+    "name": "Southern California Institute of Architecture (SCI-Arc)",
+    "country": "United States",
+    "city": "Los Angeles",
+    "programs": [
+      "MS Architectural Intelligence: AI, Platforms, Automation"
+    ],
+    "programLinks": [
+      "https://www.sciarc.edu/academics/postgraduate/architectural-technologies"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "-",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "AI & Machine Learning",
+      "Programming",
+      "Parametric & Generative Design",
+      "Robotics & Automation",
+      "Digital Fabrication",
+      "VR/AR",
+      "3D Modeling & Scanning",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "AI & Machine Learning",
+      "Programming",
+      "Parametric & Generative Design",
+      "Robotics & Automation",
+      "Digital Fabrication",
+      "VR/AR",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.sciarc.edu",
+    "lat": 34.04318,
+    "lon": -118.23281,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Programme page: AI and platform technologies; coding (Python, Java, C#); ML behaviour simulation; generative and analytical AI software development; sensing (LIDAR, drones); robotic fabrication; XR app development."
+  },
+  {
+    "name": "San Diego State University (SDSU)",
+    "country": "United States",
+    "city": "San Diego",
+    "programs": [
+      "BS Construction Engineering",
+      "BS Construction Management",
+      "Graduate Certificate in Artificial Intelligence and Robotics in Construction (SCIBER-CT)",
+      "PhD Engineering Sciences (joint doctoral programme)"
+    ],
+    "programLinks": [
+      "https://www.sdsu.edu/programs/construction-engineering",
+      "https://www.sdsu.edu/programs/construction-management",
+      "https://sciber-ct.sdsu.edu/",
+      "https://grad.sdsu.edu/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential",
+    "cost": "6,838 - 20,968",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Digital Construction",
+      "AI & Machine Learning",
+      "Robotics & Automation",
+      "IoT",
+      "VR/AR",
+      "Smart Cities & Buildings",
+      "Construction Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Digital Construction",
+      "AI & Machine Learning",
+      "Robotics & Automation",
+      "IoT",
+      "VR/AR",
+      "Smart Cities & Buildings"
+    ],
+    "domains": [
+      "Construction Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.sdsu.edu",
+    "lat": 32.77615,
+    "lon": -117.0733,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Programme pages: Virtual Design and Construction courses in both BS degrees; SCIBER-CT graduate programme (AI and machine learning for construction, construction robotics and automation, IoT tracking and monitoring, VR/AR, intelligent buildings). PhD route: SCIBER-CT (NSF Research Traineeship) faculty research-active in AI, robotics, IoT and edge computing for construction."
+  },
+  {
+    "name": "California State University, Long Beach (CSULB)",
+    "country": "United States",
+    "city": "Long Beach",
+    "programs": [
+      "BS Construction Management",
+      "MS Construction Management"
+    ],
+    "programLinks": [
+      "https://www.csulb.edu/college-of-engineering/bachelor-of-science-construction-management",
+      "https://www.csulb.edu/college-of-engineering/master-of-science-construction-management"
+    ],
+    "accreditation": [
+      "ACCE"
+    ],
+    "language": "English",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential",
+    "cost": "6,838 - 20,968",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "VR/AR",
+      "3D Modeling & Scanning",
+      "Digital Construction",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "VR/AR",
+      "3D Modeling & Scanning",
+      "Digital Construction"
+    ],
+    "domains": [
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.csulb.edu",
+    "lat": 33.78177,
+    "lon": -118.1152,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Department instructional labs page: Integrated Virtual Design and Construction Lab (VR systems, laser scanner, HoloLens mixed reality). BS accredited by ACCE (programme page)."
+  },
+  {
+    "name": "California State University, Fresno (Fresno State)",
+    "country": "United States",
+    "city": "Fresno",
+    "programs": [
+      "BS Construction Management"
+    ],
+    "programLinks": [
+      "https://engineering.fresnostate.edu/cmas/programs/index.html"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "6,838 - 20,968",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "VR/AR",
+      "Digital Construction",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "VR/AR",
+      "Digital Construction"
+    ],
+    "domains": [
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.fresnostate.edu",
+    "lat": 36.821,
+    "lon": -119.73728,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Department pages: Digital Building and Integration Lab; NSF-funded research on mixed reality in construction education (W. Wu)."
+  },
+  {
+    "name": "University of Southern California (USC)",
+    "country": "United States",
+    "city": "Los Angeles",
+    "programs": [
+      "MS Civil Engineering — Emerging Technologies in Construction",
+      "PhD Civil Engineering"
+    ],
+    "programLinks": [
+      "https://cee.usc.edu/academics/masters-degree/civil-engineering/msce-emerging-technologies-in-construction/",
+      "https://viterbigradadmission.usc.edu/doctoral/phddegrees/phd-civil-engineering/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "43,872",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Robotics & Automation",
+      "AI & Machine Learning",
+      "Data Management",
+      "3D Modeling & Scanning",
+      "Smart Cities & Buildings",
+      "Construction Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Robotics & Automation",
+      "AI & Machine Learning",
+      "Data Management",
+      "3D Modeling & Scanning",
+      "Smart Cities & Buildings"
+    ],
+    "domains": [
+      "Construction Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.usc.edu",
+    "lat": 34.02187,
+    "lon": -118.28586,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. MSCE Emerging Technologies in Construction flyer (CE 470 Building Information Modeling; automated construction; data mining; robotics). PhD route: staff research (Becerik-Gerber: BIM, reality capture, construction automation, data-driven built environments; ASCE Computing in Civil Engineering Award 2023; i-lab and CENTIENTS)."
+  },
+  {
+    "name": "University of California, Los Angeles (UCLA) — Architecture and Urban Design",
+    "country": "United States",
+    "city": "Los Angeles",
+    "programs": [
+      "MS Architecture and Urban Design"
+    ],
+    "programLinks": [
+      "https://aud.ucla.edu/academics/m-s-architecture-and-urban-design"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "15,066 - 30,168",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "Robotics & Automation",
+      "VR/AR",
+      "AI & Machine Learning",
+      "Digital Fabrication",
+      "Parametric & Generative Design",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "Robotics & Automation",
+      "VR/AR",
+      "AI & Machine Learning",
+      "Digital Fabrication",
+      "Parametric & Generative Design"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.aud.ucla.edu",
+    "lat": 34.07088,
+    "lon": -118.44685,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Programme page: Technology Seminars on advanced tools and methods; official student-work archive lists Technology Seminars on robotics and machine vision; seminar faculty work on computational design, digital fabrication, applied robotics, VR/AR and machine learning."
+  },
+  {
+    "name": "University of California, Davis — Continuing and Professional Education",
+    "country": "United States",
+    "city": "Davis",
+    "programs": [
+      "AI in Construction"
+    ],
+    "programLinks": [
+      "https://cpe.ucdavis.edu/course/ai-construction"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Part-time",
+    "delivery": "Online",
+    "cost": "1,200",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "AI & Machine Learning",
+      "Parametric & Generative Design",
+      "Data Management",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "AI & Machine Learning",
+      "Parametric & Generative Design",
+      "Data Management"
+    ],
+    "domains": [
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://cpe.ucdavis.edu",
+    "lat": 38.53846,
+    "lon": -121.73305,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Official course pages: 4-week course (20 h, 60% online / 40% live); custom AI agents, AI document analysis and structured data extraction, generative design, predictive analytics, computer vision for safety and progress tracking."
+  },
+  {
+    "name": "California State Polytechnic University, Pomona (Cal Poly Pomona)",
+    "country": "United States",
+    "city": "Pomona",
+    "programs": [
+      "BS Construction Engineering Technology"
+    ],
+    "programLinks": [
+      "https://catalog.cpp.edu/preview_program.php?catoid=5&poid=1120"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "6,838 - 20,968",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "Construction Informatics",
+      "Digital Construction",
+      "Construction Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "Construction Informatics",
+      "Digital Construction"
+    ],
+    "domains": [
+      "Construction Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.cpp.edu",
+    "lat": 34.05567,
+    "lon": -117.82393,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Catalog core courses (supplied by user from the official catalog page): ETC 250/250L Advanced Computer Applications and E-Construction; ETC 130/140 Construction Drafting I-II."
+  },
+  {
+    "name": "Cosumnes River College (Los Rios Community College District)",
+    "country": "United States",
+    "city": "Sacramento",
+    "programs": [
+      "AS Building Information Modeling (BIM)",
+      "Building Information Modeling (BIM) Certificate",
+      "Building Inspection Technology (AS, certificate)"
+    ],
+    "programLinks": [
+      "https://crc.losrios.edu/2026-2027-unofficial-catalog-preview/programs-of-study/list-of-programs/architecture-design-technology",
+      "https://crc.losrios.edu/2026-2027-unofficial-catalog-preview/programs-of-study/list-of-programs/architecture-design-technology",
+      "http://crc.losrios.edu/academics/programs-majors/building-inspection-technology"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential",
+    "cost": "1,380",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://crc.losrios.edu",
+    "lat": 38.45528,
+    "lon": -121.42288,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Catalog 2026-27: ADT 320/322/324/326 Architectural Design Technology - BIM I-IV (Revit Architecture, MEP, Structure); ADT 310 Architectural CAD; ADT 314 Architectural 3D Modeling. Building Inspection Technology includes ADT 320/322 BIM I-II."
+  },
+  {
+    "name": "Evergreen Valley College",
+    "country": "United States",
+    "city": "San Jose",
+    "programs": [
+      "Building Information Modeling (BIM) Certificate of Achievement"
+    ],
+    "programLinks": [
+      "https://catalog.evc.edu/degrees-certificates/building-information-modeling/building-information-modeling-bim-certificate-achievement/building-information-modeling-bim-certificate-achievement.pdf"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Part-time",
+    "delivery": "Presential",
+    "cost": "1,380",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "nD BIM",
+      "Collaborative Workflows",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "nD BIM",
+      "Collaborative Workflows"
+    ],
+    "domains": [
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.evc.edu",
+    "lat": 37.30112,
+    "lon": -121.76373,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Catalog 2024-26: BIM 121 Virtual Design and Construction Workflow; BIM 122 Managing Construction Coordination Meetings; BIM 123/124 Revit; BIM 125 Planning and Managing Construction Projects with 4D BIM; Revit and Navisworks outcomes."
+  },
+  {
+    "name": "Orange Coast College (Coast Community College District)",
+    "country": "United States",
+    "city": "Costa Mesa",
+    "programs": [
+      "Integrated Project Design Certificate",
+      "Digital Fabrication for Architecture Certificate",
+      "FrameCAD Steel Design Certificate",
+      "AS Architectural Design",
+      "Interior Design — Digital Design Communication Certificate"
+    ],
+    "programLinks": [
+      "https://orangecoastcollege.edu/academics/career-advantage/program-areas/architectural-technology.html",
+      "https://orangecoastcollege.edu/academics/career-advantage/program-areas/architectural-technology.html",
+      "https://orangecoastcollege.edu/academics/career-advantage/program-areas/architectural-technology.html",
+      "https://orangecoastcollege.edu/academics/career-advantage/program-areas/architectural-technology.html",
+      "https://orangecoastcollege.edu/academics/business-consumer-sciences/consumer-sciences/interior-design/index.html"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential",
+    "cost": "1,380",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Collaborative Workflows",
+      "Digital Fabrication",
+      "CAD/CAM",
+      "Digital Design",
+      "Architecture",
+      "Prefabrication & Modular Construction"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Collaborative Workflows",
+      "Digital Fabrication",
+      "CAD/CAM",
+      "Digital Design"
+    ],
+    "domains": [
+      "Architecture",
+      "Prefabrication & Modular Construction"
+    ],
+    "verificationLevel": 2,
+    "website": "https://orangecoastcollege.edu",
+    "lat": 33.67159,
+    "lon": -117.91213,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Programme page: Integrated Project Design (multi-disciplinary projects designed and virtually constructed with BIM); Digital Fabrication for Architecture; FrameCAD steel design and production; CAD 2-D for Architecture. Catalog course ARCH A156 BIM 2 (Revit, Navisworks clash detection, take-offs, cost estimating, scheduling)."
+  },
+  {
+    "name": "Pasadena City College",
+    "country": "United States",
+    "city": "Pasadena",
+    "programs": [
+      "CAD/BIM Designer – Building Design and Environment – Level 2 (AS, Certificate of Achievement)",
+      "CAD/BIM Modeler – Building Design and Fabrication (Certificate of Achievement)",
+      "CAD/BIM Technician – Building Design and Environment – Level 1 (Certificate of Achievement)"
+    ],
+    "programLinks": [
+      "https://curriculum.pasadena.edu/academic-programs/design-technology/cad-bim-designer-building-design-and-env-level-2-as-coa/",
+      "https://curriculum.pasadena.edu/academic-programs/design-technology/cad-bim-modeler-building-design-and-fab-coa/",
+      "https://curriculum.pasadena.edu/academic-programs/design-technology/cad-bim-technician-building-design-and-env-level-1-coa/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential",
+    "cost": "1,380",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "Parametric & Generative Design",
+      "Digital Fabrication",
+      "3D Modeling & Scanning",
+      "Collaborative Workflows",
+      "Architecture",
+      "Sustainability"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "Parametric & Generative Design",
+      "Digital Fabrication",
+      "3D Modeling & Scanning",
+      "Collaborative Workflows"
+    ],
+    "domains": [
+      "Architecture",
+      "Sustainability"
+    ],
+    "verificationLevel": 2,
+    "website": "https://pasadena.edu",
+    "lat": 34.144,
+    "lon": -118.11852,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Official curriculum pages: DT 114 Building Information Modeling Design; DT 118 3-D Building Design & Representation; DT 008A Introduction to Digital Design and Fabrication; parametric drafting and modelling; team collaboration on design projects."
+  },
+  {
+    "name": "Long Beach City College",
+    "country": "United States",
+    "city": "Long Beach",
+    "programs": [
+      "Building Information Modeling (BIM) Coordinator Certificate of Achievement"
+    ],
+    "programLinks": [
+      "https://lbcc-public.courseleaf.com/degrees-certificates/architectural-design/building-information-modeling-certificate-achievement/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Part-time",
+    "delivery": "Presential",
+    "cost": "1,380",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "3D Modeling & Scanning",
+      "CAD/CAM",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "3D Modeling & Scanning",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.lbcc.edu",
+    "lat": 33.82877,
+    "lon": -118.13609,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Catalog plan 3904: ARCHT 230-234 Revit I-V; Rhino Basics; SketchUp I-II or AutoCAD Basics (24.5 units)."
+  },
+  {
+    "name": "San Bernardino Valley College",
+    "country": "United States",
+    "city": "San Bernardino",
+    "programs": [
+      "BIM Certificate of Achievement",
+      "Building Information and 3D Modeling Certificate of Achievement"
+    ],
+    "programLinks": [
+      "https://catalog.valleycollege.edu/degree-certificate-program-index/architecture-environmental-design/bim-certificate-achievement/",
+      "https://catalog.valleycollege.edu/degree-certificate-program-index/architecture-environmental-design/building-information-3d-modeling-certificate-achievement/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential",
+    "cost": "1,380",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Parametric & Generative Design",
+      "3D Modeling & Scanning",
+      "CAD/CAM",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Parametric & Generative Design",
+      "3D Modeling & Scanning",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.valleycollege.edu",
+    "lat": 34.08706,
+    "lon": -117.31074,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Catalog: CAD, Rhino, Grasshopper and Revit as primary tools; drawings using Building Information Management (BIM) and modelling techniques."
+  },
+  {
+    "name": "Palomar College",
+    "country": "United States",
+    "city": "San Marcos",
+    "programs": [
+      "Architectural Building Information Modeling, B.I.M (AS, Certificate of Achievement)"
+    ],
+    "programLinks": [
+      "https://palomar.programmapper.ws/academics/interest-clusters/e5374361-6869-4373-90b5-cdcbb1a8f9ec/programs/02119584-b053-3cce-2461-9d2d36a32cf9"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential",
+    "cost": "1,380",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.palomar.edu",
+    "lat": 33.15125,
+    "lon": -117.18082,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. California Community Colleges curriculum inventory (COCI): active AS and certificate 'Architectural Building Information Modeling, B.I.M' (TOP 0953.10). Programme page blocks automated access."
+  },
+  {
+    "name": "Río Hondo College",
+    "country": "United States",
+    "city": "Whittier",
+    "programs": [
+      "B.I.M. (Building Information Modeling) and CADD",
+      "Architecture, Civil and Engineering Design Drafting (degrees and certificates)"
+    ],
+    "programLinks": [
+      "https://www.riohondo.edu/academics/divisions/career-workforce-education/departments-degrees-certificates/architecture-engineering-design-drafting/",
+      "https://www.riohondo.edu/academics/divisions/career-workforce-education/departments-degrees-certificates/architecture-engineering-design-drafting/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential",
+    "cost": "1,380",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "Architecture",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Architecture",
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.riohondo.edu",
+    "lat": 34.01983,
+    "lon": -118.0323,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Department page: programme includes BIM and CADD applications; COCI lists non-credit 'B.I.M. (Building Information Modeling) and CADD'."
+  },
+  {
+    "name": "Norco College",
+    "country": "United States",
+    "city": "Norco",
+    "programs": [
+      "Essential Revit (non-credit, Extended Learning)"
+    ],
+    "programLinks": [
+      "https://www.norcocollege.edu/sd/sp/extended_learning/index.html"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Part-time",
+    "delivery": "Presential",
+    "cost": "0",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.norcocollege.edu",
+    "lat": 33.91911,
+    "lon": -117.5712,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Extended Learning non-credit offering 'Essential Revit' (COCI: approved non-credit programme)."
+  },
+  {
+    "name": "Laney College",
+    "country": "United States",
+    "city": "Oakland",
+    "programs": [
+      "Digital Fabrication Technology – Design & Engineering (Certificate of Achievement)",
+      "Digital Fabrication Technology – Wood Technology"
+    ],
+    "programLinks": [
+      "https://laney.edu/cte/digfab",
+      "https://laney.edu/cte/digfab"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential",
+    "cost": "1,380",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "Digital Fabrication",
+      "CAD/CAM",
+      "Timber Construction"
+    ],
+    "computingTopics": [
+      "Digital Fabrication",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Timber Construction"
+    ],
+    "verificationLevel": 2,
+    "website": "https://laney.edu",
+    "lat": 37.79425,
+    "lon": -122.26079,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Programme page (Building & Skilled Trades pathway): CAD/CAM, digital fabrication for furniture, cabinetry and wood technology; FabLab."
+  },
+  {
+    "name": "Mt. San Antonio College (Mt. SAC)",
+    "country": "United States",
+    "city": "Walnut",
+    "programs": [
+      "AS Architectural Technology Concentration",
+      "Architectural Technology Concentration - Level II Certificate",
+      "Engineering and Construction Technology - Level II Certificate"
+    ],
+    "programLinks": [
+      "https://catalog.mtsac.edu/programs/programsaz/architectural-technology-concentration/architectural-technology-concentration-degree/",
+      "https://catalog.mtsac.edu/programs/programsaz/architectural-technology-concentration/architectural-technology-concentration-level-ii-certificate/",
+      "https://catalog.mtsac.edu/programs/programsaz/engineering-construction-tech/engineering-construction-tech-level-ii/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential",
+    "cost": "1,380",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture",
+      "Construction Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture",
+      "Construction Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.mtsac.edu",
+    "lat": 34.04877,
+    "lon": -117.84162,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Catalog: ARCH 141 Building Information Modeling (entry level), ARCH 147 Architectural BIM, ARCH 247 Architectural BIM Working Drawings."
+  },
+  {
+    "name": "Southwestern College",
+    "country": "United States",
+    "city": "Chula Vista",
+    "programs": [
+      "AS Sustainable Energy Studies"
+    ],
+    "programLinks": [
+      "https://catalog.swccd.edu/associate-degree-certificate-programs/sustainable-energy-studies/sustainable-energy-studies-as/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential",
+    "cost": "1,380",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Energy Performance",
+      "Sustainability"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Energy Performance"
+    ],
+    "domains": [
+      "Sustainability"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.swccd.edu",
+    "lat": 32.63995,
+    "lon": -116.99805,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Catalog: SES 205 Building Energy Analysis Using BIM."
+  },
+  {
+    "name": "San José City College",
+    "country": "United States",
+    "city": "San Jose",
+    "programs": [
+      "AS Construction Technology",
+      "Construction Technology - Certificate of Achievement Level 3"
+    ],
+    "programLinks": [
+      "https://catalog.sjcc.edu/degrees-certificates/construction-technology/construction-technology-associate-science/",
+      "https://catalog.sjcc.edu/degrees-certificates/construction-technology/construction-technology-certificate-achievement-level-3/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential",
+    "cost": "1,380",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Collaborative Workflows",
+      "Construction Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Collaborative Workflows"
+    ],
+    "domains": [
+      "Construction Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.sjcc.edu",
+    "lat": 37.31391,
+    "lon": -121.92712,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Catalog: CNSTR 110 Building Information Modeling (BIM) 101 (working drawings in BIM; collaboration across disciplines)."
+  },
+  {
+    "name": "Santa Barbara City College",
+    "country": "United States",
+    "city": "Santa Barbara",
+    "programs": [
+      "AS Drafting/CAD",
+      "Drafting/CAD Certificate of Achievement"
+    ],
+    "programLinks": [
+      "https://catalog.sbcc.edu/academic-departments/drafting-cad/drafting-cad-as/",
+      "https://catalog.sbcc.edu/academic-departments/drafting-cad/drafting-cad-certificate-achievement/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential",
+    "cost": "1,380",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.sbcc.edu",
+    "lat": 34.40586,
+    "lon": -119.69742,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Catalog: DRFT 132 Building Information Modeling with Revit I."
+  },
+  {
+    "name": "College of the Sequoias",
+    "country": "United States",
+    "city": "Visalia",
+    "programs": [
+      "AS Architecture",
+      "AS Drafting Technology"
+    ],
+    "programLinks": [
+      "https://catalog.cos.edu//areas-study/architecture/associate-science-architecture-not-for-transfer-as/",
+      "https://catalog.cos.edu//areas-study/drafting/associate-science-drafting-technology-not-for-transfer-as/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential",
+    "cost": "1,380",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.cos.edu",
+    "lat": 36.3245,
+    "lon": -119.3163,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Catalog: DRFT 017 Introduction to Revit (CAD and building information modelling for construction graphics)."
+  },
+  {
+    "name": "College of the Desert",
+    "country": "United States",
+    "city": "Palm Desert",
+    "programs": [
+      "AS Architectural Technology",
+      "Architectural Technology Certificate of Achievement"
+    ],
+    "programLinks": [
+      "https://catalog.collegeofthedesert.edu/programs/architecture-environmental-design/architectural-technology-as-employment-preparation/",
+      "https://catalog.collegeofthedesert.edu/programs/architecture-environmental-design/architectural-technology-certificate-of-achievement/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential",
+    "cost": "1,380",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "3D Modeling & Scanning",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.collegeofthedesert.edu",
+    "lat": 33.73247,
+    "lon": -116.38683,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Catalog: DRA 011 Intro to SketchUp & Revit (3D modelling and BIM)."
+  },
+  {
+    "name": "Citrus College",
+    "country": "United States",
+    "city": "Glendora",
+    "programs": [
+      "Construction Management (AS, certificate)"
+    ],
+    "programLinks": [
+      "https://catalog.citruscollege.edu/course-outlines/CM-150/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential",
+    "cost": "1,380",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Construction Informatics",
+      "Data Management",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Construction Informatics",
+      "Data Management"
+    ],
+    "domains": [
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.citruscollege.edu",
+    "lat": 34.13432,
+    "lon": -117.88569,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Course outline of record CM 150 Current Technology Applications in Construction (Fall 2024): BIM, information management tools, project document management; COCI lists active Construction Management AS and certificate. Programme page not reachable (catalogue bot protection), so link is the course outline."
+  },
+  {
+    "name": "Bakersfield College",
+    "country": "United States",
+    "city": "Bakersfield",
+    "programs": [
+      "AS Architecture/Architectural Drafting",
+      "Architectural Computer Aided Drafting Job Skills Certificate"
+    ],
+    "programLinks": [
+      "https://www.bakersfieldcollege.edu/academics/pathways/itt/architecture.html",
+      "https://www.bakersfieldcollege.edu/academics/pathways/itt/architecture.html"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential",
+    "cost": "1,380",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.bakersfieldcollege.edu",
+    "lat": 35.40877,
+    "lon": -118.97203,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Programme page: 2D/3D AutoCAD and BIM software for residential and light commercial projects; JSC focused on CAD and BIM software."
+  },
+  {
+    "name": "Chabot College",
+    "country": "United States",
+    "city": "Hayward",
+    "programs": [
+      "AA Architecture",
+      "Certificate of Architecture Technology"
+    ],
+    "programLinks": [
+      "http://www.chabotcollege.edu/academics/arts-media-communications/architecture/about-architecture.php",
+      "http://www.chabotcollege.edu/academics/arts-media-communications/architecture/about-architecture.php"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential",
+    "cost": "1,380",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "3D Modeling & Scanning",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.chabotcollege.edu",
+    "lat": 37.64307,
+    "lon": -122.10753,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Department pages: BIM computer labs; course introducing 3D digital modelling with Revit."
+  },
+  {
+    "name": "Diablo Valley College",
+    "country": "United States",
+    "city": "Pleasant Hill",
+    "programs": [
+      "Construction (degrees and certificates)"
+    ],
+    "programLinks": [
+      "https://www.dvc.edu/academics/explore-our-programs/construction/welcome-construction"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential",
+    "cost": "1,380",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Digital Fabrication",
+      "Construction Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Digital Fabrication"
+    ],
+    "domains": [
+      "Construction Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.dvc.edu",
+    "lat": 37.96868,
+    "lon": -122.07042,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Programme page: courses include BIM software; CNC lab equipment for cabinet making."
+  },
+  {
     "name": "Universidad de la República (UdelaR) — Facultad de Ingeniería",
     "country": "Uruguay",
     "city": "Montevideo",
     "programs": [
       "Ingeniería Civil",
       "Ingeniería en Agrimensura",
+      "Maestría en Ingeniería Estructural",
       "Doctorado en Ingeniería"
     ],
     "programLinks": [
       "https://www.fing.edu.uy/es/carrera/grado/ingenieria-civil",
       "https://www.fing.edu.uy/es/carrera/grado/agrimensura",
+      "https://www.fing.edu.uy/sites/default/files/2025-08/guia_de_implementacion_de_la_maestria_en_ingenieria_estructural-mod-2025-08-20.pdf",
       "https://www.fing.edu.uy/es/ensenanza/carreras-de-posgrado"
     ],
     "accreditation": [
@@ -28375,24 +30289,32 @@
       "CAD/CAM",
       "GIS & BIM Integration",
       "3D Modeling & Scanning",
+      "BIM",
+      "Collaborative Workflows",
       "Civil Engineering",
-      "Infrastructure Engineering"
+      "Infrastructure Engineering",
+      "Structural Engineering",
+      "Construction Management"
     ],
     "computingTopics": [
       "CAD/CAM",
       "GIS & BIM Integration",
-      "3D Modeling & Scanning"
+      "3D Modeling & Scanning",
+      "BIM",
+      "Collaborative Workflows"
     ],
     "domains": [
       "Civil Engineering",
-      "Infrastructure Engineering"
+      "Infrastructure Engineering",
+      "Structural Engineering",
+      "Construction Management"
     ],
     "verificationLevel": 2,
     "website": "https://www.fing.edu.uy/es/carrera/grado/ingenieria-civil",
     "lat": -34.9187,
     "lon": -56.1668,
     "geoSource": "manual:campus",
-    "lastChecked": "2026-07-26",
+    "lastChecked": "2026-10-12",
     "region": "South America",
     "costCurrency": "UYU"
   },
@@ -28448,10 +30370,12 @@
     "country": "Uruguay",
     "city": "Montevideo",
     "programs": [
-      "Arquitectura"
+      "Arquitectura",
+      "Curso Proyectos de Arquitectura con Metodología BIM"
     ],
     "programLinks": [
-      "https://fa.ort.edu.uy/carrera-de-arquitectura/plan-de-estudios"
+      "https://fa.ort.edu.uy/carrera-de-arquitectura/plan-de-estudios",
+      "https://fa.ort.edu.uy/proyectos-de-arquitectura-con-metodologia-bim"
     ],
     "accreditation": [
       "MEC Uruguay"
@@ -28459,7 +30383,7 @@
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "In person",
-    "cost": "300,000 - 400,000",
+    "cost": "33,780 - 400,000",
     "graduatesPerYear": "Not published",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "intake places not published on programme page (intake, not graduations)",
@@ -28467,12 +30391,18 @@
       "BIM",
       "CAD/CAM",
       "Parametric & Generative Design",
+      "nD BIM",
+      "BIM Software",
+      "Collaborative Workflows",
       "Architecture"
     ],
     "computingTopics": [
       "BIM",
       "CAD/CAM",
-      "Parametric & Generative Design"
+      "Parametric & Generative Design",
+      "nD BIM",
+      "BIM Software",
+      "Collaborative Workflows"
     ],
     "domains": [
       "Architecture"
@@ -28482,7 +30412,7 @@
     "lat": -34.9057,
     "lon": -56.1969,
     "geoSource": "manual:campus",
-    "lastChecked": "2026-07-26",
+    "lastChecked": "2026-10-12",
     "region": "South America",
     "costCurrency": "UYU"
   },
@@ -38120,6 +40050,88 @@
     "graduatesEstimateBasis": "programme intake places not published on the programme page (intake, not graduations)"
   },
   {
+    "name": "Universidad Colegio Mayor de Cundinamarca",
+    "country": "Colombia",
+    "city": "Bogotá",
+    "programs": [
+      "Especialización Tecnológica en Metodología BIM para el Desarrollo de Proyectos de la Edificación"
+    ],
+    "programLinks": [
+      "https://www.universidadmayor.edu.co/atencion-servicios-ciudadania/programas/posgrados/especializacion-tecnologica-metodologia"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Spanish",
+    "mode": "Part-time",
+    "delivery": "Presential",
+    "cost": "-",
+    "graduatesPerYear": "50",
+    "topics": [
+      "BIM",
+      "Construction Management",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM"
+    ],
+    "domains": [
+      "Construction Management",
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.universidadmayor.edu.co",
+    "lat": 4.61507,
+    "lon": -74.0676,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "South America",
+    "costCurrency": "COP",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "2 installations x 25 places per intake (official page, earlier registration; intake, not graduations)"
+  },
+  {
+    "name": "Universidad de Cataluña",
+    "country": "Colombia",
+    "city": "Bogotá",
+    "programs": [
+      "Especialización en Metodología BIM - Building Information Modeling"
+    ],
+    "programLinks": [
+      "https://www.ucatalunya.edu.co/especializaciones/metodologia-bim"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Spanish",
+    "mode": "Part-time",
+    "delivery": "Online",
+    "cost": "15,900,000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Construction Management",
+      "Infrastructure Engineering"
+    ],
+    "computingTopics": [
+      "BIM"
+    ],
+    "domains": [
+      "Construction Management",
+      "Infrastructure Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.ucatalunya.edu.co",
+    "lat": 4.711,
+    "lon": -74.0721,
+    "geoSource": "manual:city",
+    "lastChecked": "2026-10-12",
+    "region": "South America",
+    "costCurrency": "COP",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme intake places not published on the programme page (intake, not graduations)"
+  },
+  {
     "name": "Universidad Nacional de Asunción (UNA) — FADA",
     "country": "Paraguay",
     "city": "San Lorenzo",
@@ -42056,5 +44068,1338 @@
     "lastChecked": "2026-07-28",
     "region": "Oceania",
     "costCurrency": "NZD"
+  },
+  {
+    "name": "Toi Ohomai Institute of Technology",
+    "country": "New Zealand",
+    "city": "Tauranga",
+    "programs": [
+      "New Zealand Diploma in Architectural Technology (Level 6)"
+    ],
+    "programLinks": [
+      "https://www.toiohomai.ac.nz/study/course/new-zealand-diploma-architectural-technology-level-6"
+    ],
+    "accreditation": [
+      "NZQA"
+    ],
+    "language": "English",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential",
+    "cost": "7,183",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Collaborative Workflows",
+      "CAD/CAM",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Collaborative Workflows",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.toiohomai.ac.nz",
+    "lat": -37.73281,
+    "lon": 176.15045,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Oceania",
+    "costCurrency": "NZD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme intake places not published (intake, not graduations)"
+  },
+  {
+    "name": "Whitireia and WelTec",
+    "country": "New Zealand",
+    "city": "Petone",
+    "programs": [
+      "New Zealand Diploma in Architectural Technology (Level 6)"
+    ],
+    "programLinks": [
+      "https://www.whitireiaweltec.ac.nz/study-programmes/built-environment/architectural-technology/new-zealand-diploma-in-architectural-technology-level-6"
+    ],
+    "accreditation": [
+      "NZQA"
+    ],
+    "language": "English",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential",
+    "cost": "-",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.whitireiaweltec.ac.nz",
+    "lat": -41.22439,
+    "lon": 174.88539,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Oceania",
+    "costCurrency": "NZD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme intake places not published (intake, not graduations)"
+  },
+  {
+    "name": "NorthTec",
+    "country": "New Zealand",
+    "city": "Whangārei",
+    "programs": [
+      "New Zealand Diploma in Architectural Technology (Level 6)"
+    ],
+    "programLinks": [
+      "https://www.northtec.ac.nz/programmes/new-zealand-diploma-in-architectural-technology-level-6"
+    ],
+    "accreditation": [
+      "NZQA"
+    ],
+    "language": "English",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential",
+    "cost": "8,395 - 26,000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "Digital Design",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM",
+      "Digital Design"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.northtec.ac.nz",
+    "lat": -35.73996,
+    "lon": 174.30568,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Oceania",
+    "costCurrency": "NZD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme intake places not published (intake, not graduations)"
+  },
+  {
+    "name": "Universidad Tecnológica de Panamá (UTP) — Facultad de Ingeniería Civil",
+    "country": "Panama",
+    "city": "Panama City",
+    "programs": [
+      "Licenciatura en Modelado y Gestión Digital en Proyectos",
+      "Licenciatura en Ingeniería en Administración de Proyectos de Construcción",
+      "Licenciatura en Ingeniería Civil"
+    ],
+    "programLinks": [
+      "https://fic.utp.ac.pa/licenciatura-en-modelado-y-gestion-digital-en-proyectos",
+      "https://fic.utp.ac.pa/licenciatura-en-ingenieria-en-administracion-de-proyectos-de-construccion",
+      "https://fic.utp.ac.pa/licenciatura-en-ingenieria-civil"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Spanish",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "-",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Infrastructure BIM",
+      "GIS & BIM Integration",
+      "Data Management",
+      "Collaborative Workflows",
+      "nD BIM",
+      "Programming",
+      "CAD/CAM",
+      "Civil Engineering",
+      "Construction Management",
+      "Project Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Infrastructure BIM",
+      "GIS & BIM Integration",
+      "Data Management",
+      "Collaborative Workflows",
+      "nD BIM",
+      "Programming",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management",
+      "Project Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://utp.ac.pa",
+    "lat": 9.023,
+    "lon": -79.531,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Central America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme intake places not published (intake, not graduations). Evidence: official study plans 2025-2026 (BIM, digital modelling of architecture/structures/infrastructure/MEP, BIM data management, analytics and visualisation, collaborative tools, model coordination, BIM-GIS integration, programming, CAD modelling, GIS)."
+  },
+  {
+    "name": "Universidad del Valle de Guatemala (UVG)",
+    "country": "Guatemala",
+    "city": "Guatemala City",
+    "programs": [
+      "Licenciatura en Ingeniería Civil Arquitectónica",
+      "Licenciatura en Ingeniería Civil",
+      "Posgrado en Administración y Gestión de Proyectos BIM"
+    ],
+    "programLinks": [
+      "https://www.uvg.edu.gt/carreras/civil-arquitectonica/",
+      "https://www.uvg.edu.gt/carreras/civil/",
+      "https://www.uvg.edu.gt/uvgmaster/administracion-y-gestion-de-proyectos-bim/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Spanish",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential",
+    "cost": "-",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Collaborative Workflows",
+      "Civil Engineering",
+      "Architecture",
+      "Construction Management",
+      "Infrastructure Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Collaborative Workflows"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Architecture",
+      "Construction Management",
+      "Infrastructure Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.uvg.edu.gt",
+    "lat": 14.6047,
+    "lon": -90.48959,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Central America",
+    "costCurrency": "GTQ",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme intake places not published on the programme page (intake, not graduations)"
+  },
+  {
+    "name": "Pontificia Universidad Católica Madre y Maestra (PUCMM)",
+    "country": "Dominican Republic",
+    "city": "Santiago de los Caballeros",
+    "programs": [
+      "Diplomado BIM-Revit"
+    ],
+    "programLinks": [
+      "https://tep.pucmm.edu.do/bim-revit"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Spanish",
+    "mode": "Part-time",
+    "delivery": "Presential / Online",
+    "cost": "-",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture",
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.pucmm.edu.do",
+    "lat": 19.44328,
+    "lon": -70.68262,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Caribbean",
+    "costCurrency": "DOP",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme intake places not published (intake, not graduations). Evidence: official TEP-PUCMM page (BIM methodology with Autodesk Revit across architectural, structural, MEP disciplines; semi-presential)."
+  },
+  {
+    "name": "Universidad Nacional Pedro Henríquez Ureña (UNPHU)",
+    "country": "Dominican Republic",
+    "city": "Santo Domingo",
+    "programs": [
+      "Diplomado en BIM - Revit"
+    ],
+    "programLinks": [
+      "https://unphu.edu.do/oferta-academica/diplomado-bim-revit"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Spanish",
+    "mode": "Part-time",
+    "delivery": "Online",
+    "cost": "-",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://unphu.edu.do",
+    "lat": 18.4861,
+    "lon": -69.9312,
+    "geoSource": "manual:city",
+    "lastChecked": "2026-10-12",
+    "region": "Caribbean",
+    "costCurrency": "DOP",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme intake places not published (intake, not graduations). Evidence: official continuing-education listing (BIM diploma with Revit, synchronous virtual); page blocked to automated checks."
+  },
+  {
+    "name": "Lycée Bertène Juminer (Lycée des métiers de l'habitat et du bâtiment)",
+    "country": "Guadeloupe",
+    "city": "Lamentin",
+    "programs": [
+      "FCIL Dessinateur projeteur BIM – Maquette numérique collaborative"
+    ],
+    "programLinks": [
+      "https://eugeneyssap.clg.ac-guadeloupe.fr/wp-content/uploads/sites/41/2021/10/FCIL-BIM-prospectus.pdf"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "French",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Collaborative Workflows",
+      "Construction Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Collaborative Workflows"
+    ],
+    "domains": [
+      "Construction Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://bertenejuminer.lyc.ac-guadeloupe.fr/",
+    "lat": 16.27509,
+    "lon": -61.63294,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Caribbean",
+    "costCurrency": "EUR",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "post-baccalaureate vocational course (FCIL) in a public lycée; intake not published. Evidence: academy prospectus and technical sheet (2020-21): BIM model creation with Revit/ArchiCAD/BIM Vision, quantities, collaborative work on the digital model."
+  },
+  {
+    "name": "Universidad Nacional Autónoma de México (UNAM) — Facultad de Ingeniería",
+    "country": "Mexico",
+    "city": "Mexico City",
+    "programs": [
+      "Diplomado en Modelado y Coordinación de Proyectos Ejecutivos con BIM",
+      "Diplomado en BIM para el Desarrollo del Proyecto Ejecutivo, Gestión y Mantenimiento en Edificación e Infraestructura"
+    ],
+    "programLinks": [
+      "https://www.mineria.unam.mx/diplomado-en-modelado-y-coordinacion-de-proyectos-ejecutivos-con-bim-2026-i-DDA31-2026",
+      "https://www.mineria.unam.mx/diplomado-en-bim-para-el-desarrollo-del-proyecto-ejecutivo,-gestion-y-mantenimiento-en-edificacion-e-infraestructura-2025-i-DDA60-2025"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Spanish",
+    "mode": "Part-time",
+    "delivery": "Online",
+    "cost": "16,800",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "nD BIM",
+      "Collaborative Workflows",
+      "Infrastructure BIM",
+      "Construction Management",
+      "Facility & Asset Management",
+      "Sustainability"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "nD BIM",
+      "Collaborative Workflows",
+      "Infrastructure BIM"
+    ],
+    "domains": [
+      "Construction Management",
+      "Facility & Asset Management",
+      "Sustainability"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.ingenieria.unam.mx",
+    "lat": 19.43544,
+    "lon": -99.13976,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Central America",
+    "costCurrency": "MXN",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake places not published (minimum cohort required). Continuing-education diplomas of the Faculty of Engineering (Palacio de Minería): Revit, Revit Structure, Revit MEP, Navisworks 4D/5D, Tekla, infrastructure, sustainability, management and maintenance."
+  },
+  {
+    "name": "Universidad Internacional Iberoamericana de México (UNINI México)",
+    "country": "Mexico",
+    "city": "Campeche",
+    "programs": [
+      "Maestría en Consultoría para la Modelización de la Información de la Construcción (BIM)"
+    ],
+    "programLinks": [
+      "https://www.unini.edu.mx/a/maestrias/maestria-en-consultoria-para-la-modelizacion-de-informacion-en-la-construccion-bim"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Spanish",
+    "mode": "Part-time",
+    "delivery": "Online",
+    "cost": "-",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Collaborative Workflows",
+      "Infrastructure BIM",
+      "nD BIM",
+      "Data Management",
+      "Architecture",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Collaborative Workflows",
+      "Infrastructure BIM",
+      "nD BIM",
+      "Data Management"
+    ],
+    "domains": [
+      "Architecture",
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.unini.edu.mx",
+    "lat": 19.84368,
+    "lon": -90.53675,
+    "geoSource": "manual:city",
+    "lastChecked": "2026-10-12",
+    "region": "Central America",
+    "costCurrency": "MXN",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Online master's (60 credits, 12-24 months), itineraries in Architecture and Civil Works."
+  },
+  {
+    "name": "Universidad Anáhuac México",
+    "country": "Mexico",
+    "city": "Huixquilucan",
+    "programs": [
+      "Diplomado Integral en BIM con Autodesk Revit. Modelado, Instalaciones y Estructuras"
+    ],
+    "programLinks": [
+      "https://educacioncontinua.anahuac.mx/products/diplomado-integral-en-bim-con-autodesk-revit-modelado-instalaciones-y-estructuras"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Spanish",
+    "mode": "Part-time",
+    "delivery": "Online",
+    "cost": "-",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.anahuac.mx",
+    "lat": 19.4021,
+    "lon": -99.26351,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Central America",
+    "costCurrency": "MXN",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Continuing-education diploma, 120 h, virtual classroom, start Oct 2026."
+  },
+  {
+    "name": "Universidad Panamericana (UP) — Campus Guadalajara",
+    "country": "Mexico",
+    "city": "Zapopan",
+    "programs": [
+      "Maestría en Administración de la Construcción"
+    ],
+    "programLinks": [
+      "https://posgrados-panamericana.up.edu.mx/gdl/ingenieria/maestria-en-administracion-de-la-construccion"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Spanish",
+    "mode": "Part-time",
+    "delivery": "Presential",
+    "cost": "-",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Construction Informatics",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Construction Informatics"
+    ],
+    "domains": [
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.up.edu.mx",
+    "lat": 20.68059,
+    "lon": -103.44253,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Central America",
+    "costCurrency": "MXN",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Official UP page: course 'Sistemas de Información en la Construcción (BIM)' in the study plan."
+  },
+  {
+    "name": "Tecnológico de Monterrey — Campus Chihuahua",
+    "country": "Mexico",
+    "city": "Chihuahua",
+    "programs": [
+      "Ingeniería Civil",
+      "Arquitectura"
+    ],
+    "programLinks": [
+      "https://tec.mx/es/ingenieria-y-ciencias/ingenieria-civil",
+      "https://tec.mx/es/arquitectura-arte-y-diseno/arquitectura"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Spanish",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "-",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "Programming",
+      "Digital Design",
+      "Digital Construction",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "Programming",
+      "Digital Design",
+      "Digital Construction"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Structural Engineering",
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://tec.mx",
+    "lat": 28.67446,
+    "lon": -106.07669,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Central America",
+    "costCurrency": "MXN",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Official programme pages (campus availability table, Aug 2027 intake: full programme offered at this campus). Evidence: BIM concentration, data analytics and AI tools, creative programming, digital experimentation, digitalisation of construction."
+  },
+  {
+    "name": "Tecnológico de Monterrey — Campus Ciudad de México",
+    "country": "Mexico",
+    "city": "Mexico City",
+    "programs": [
+      "Arquitectura"
+    ],
+    "programLinks": [
+      "https://tec.mx/es/arquitectura-arte-y-diseno/arquitectura"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Spanish / English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "-",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Programming",
+      "AI & Machine Learning",
+      "Data Management",
+      "Digital Design",
+      "Digital Construction",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Programming",
+      "AI & Machine Learning",
+      "Data Management",
+      "Digital Design",
+      "Digital Construction"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://tec.mx",
+    "lat": 19.19834,
+    "lon": -99.14689,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Central America",
+    "costCurrency": "MXN",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Official programme pages (campus availability table, Aug 2027 intake: full programme offered at this campus). Evidence: BIM concentration, data analytics and AI tools, creative programming, digital experimentation, digitalisation of construction."
+  },
+  {
+    "name": "Tecnológico de Monterrey — Campus Estado de México",
+    "country": "Mexico",
+    "city": "Atizapán de Zaragoza",
+    "programs": [
+      "Ingeniería Civil",
+      "Arquitectura"
+    ],
+    "programLinks": [
+      "https://tec.mx/es/ingenieria-y-ciencias/ingenieria-civil",
+      "https://tec.mx/es/arquitectura-arte-y-diseno/arquitectura"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Spanish",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "-",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "Programming",
+      "Digital Design",
+      "Digital Construction",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "Programming",
+      "Digital Design",
+      "Digital Construction"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Structural Engineering",
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://tec.mx",
+    "lat": 19.59535,
+    "lon": -99.22763,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Central America",
+    "costCurrency": "MXN",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Official programme pages (campus availability table, Aug 2027 intake: full programme offered at this campus). Evidence: BIM concentration, data analytics and AI tools, creative programming, digital experimentation, digitalisation of construction."
+  },
+  {
+    "name": "Tecnológico de Monterrey — Campus Guadalajara",
+    "country": "Mexico",
+    "city": "Zapopan",
+    "programs": [
+      "Ingeniería Civil",
+      "Arquitectura"
+    ],
+    "programLinks": [
+      "https://tec.mx/es/ingenieria-y-ciencias/ingenieria-civil",
+      "https://tec.mx/es/arquitectura-arte-y-diseno/arquitectura"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Spanish",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "-",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "Programming",
+      "Digital Design",
+      "Digital Construction",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "Programming",
+      "Digital Design",
+      "Digital Construction"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Structural Engineering",
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://tec.mx",
+    "lat": 20.73477,
+    "lon": -103.45508,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Central America",
+    "costCurrency": "MXN",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Official programme pages (campus availability table, Aug 2027 intake: full programme offered at this campus). Evidence: BIM concentration, data analytics and AI tools, creative programming, digital experimentation, digitalisation of construction."
+  },
+  {
+    "name": "Tecnológico de Monterrey — Campus Laguna",
+    "country": "Mexico",
+    "city": "Torreón",
+    "programs": [
+      "Arquitectura"
+    ],
+    "programLinks": [
+      "https://tec.mx/es/arquitectura-arte-y-diseno/arquitectura"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Spanish",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "-",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Programming",
+      "AI & Machine Learning",
+      "Data Management",
+      "Digital Design",
+      "Digital Construction",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Programming",
+      "AI & Machine Learning",
+      "Data Management",
+      "Digital Design",
+      "Digital Construction"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://tec.mx",
+    "lat": 25.51561,
+    "lon": -103.39803,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Central America",
+    "costCurrency": "MXN",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Official programme pages (campus availability table, Aug 2027 intake: full programme offered at this campus). Evidence: BIM concentration, data analytics and AI tools, creative programming, digital experimentation, digitalisation of construction."
+  },
+  {
+    "name": "Tecnológico de Monterrey — Campus León",
+    "country": "Mexico",
+    "city": "León",
+    "programs": [
+      "Arquitectura"
+    ],
+    "programLinks": [
+      "https://tec.mx/es/arquitectura-arte-y-diseno/arquitectura"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Spanish",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "-",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Programming",
+      "AI & Machine Learning",
+      "Data Management",
+      "Digital Design",
+      "Digital Construction",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Programming",
+      "AI & Machine Learning",
+      "Data Management",
+      "Digital Design",
+      "Digital Construction"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://tec.mx",
+    "lat": 21.1657,
+    "lon": -101.7153,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Central America",
+    "costCurrency": "MXN",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Official programme pages (campus availability table, Aug 2027 intake: full programme offered at this campus). Evidence: BIM concentration, data analytics and AI tools, creative programming, digital experimentation, digitalisation of construction."
+  },
+  {
+    "name": "Tecnológico de Monterrey — Campus Monterrey",
+    "country": "Mexico",
+    "city": "Monterrey",
+    "programs": [
+      "Ingeniería Civil",
+      "Arquitectura"
+    ],
+    "programLinks": [
+      "https://tec.mx/es/ingenieria-y-ciencias/ingenieria-civil",
+      "https://tec.mx/es/arquitectura-arte-y-diseno/arquitectura"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Spanish / English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "-",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "Programming",
+      "Digital Design",
+      "Digital Construction",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "Programming",
+      "Digital Design",
+      "Digital Construction"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Structural Engineering",
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://tec.mx",
+    "lat": 25.65145,
+    "lon": -100.29085,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Central America",
+    "costCurrency": "MXN",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Official programme pages (campus availability table, Aug 2027 intake: full programme offered at this campus). Evidence: BIM concentration, data analytics and AI tools, creative programming, digital experimentation, digitalisation of construction."
+  },
+  {
+    "name": "Tecnológico de Monterrey — Campus Puebla",
+    "country": "Mexico",
+    "city": "Puebla",
+    "programs": [
+      "Ingeniería Civil",
+      "Arquitectura"
+    ],
+    "programLinks": [
+      "https://tec.mx/es/ingenieria-y-ciencias/ingenieria-civil",
+      "https://tec.mx/es/arquitectura-arte-y-diseno/arquitectura"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Spanish",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "-",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "Programming",
+      "Digital Design",
+      "Digital Construction",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "Programming",
+      "Digital Design",
+      "Digital Construction"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Structural Engineering",
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://tec.mx",
+    "lat": 19.02056,
+    "lon": -98.24465,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Central America",
+    "costCurrency": "MXN",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Official programme pages (campus availability table, Aug 2027 intake: full programme offered at this campus). Evidence: BIM concentration, data analytics and AI tools, creative programming, digital experimentation, digitalisation of construction."
+  },
+  {
+    "name": "Tecnológico de Monterrey — Campus Querétaro",
+    "country": "Mexico",
+    "city": "Querétaro",
+    "programs": [
+      "Ingeniería Civil",
+      "Arquitectura"
+    ],
+    "programLinks": [
+      "https://tec.mx/es/ingenieria-y-ciencias/ingenieria-civil",
+      "https://tec.mx/es/arquitectura-arte-y-diseno/arquitectura"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Spanish / English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "-",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "Programming",
+      "Digital Design",
+      "Digital Construction",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "Programming",
+      "Digital Design",
+      "Digital Construction"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Structural Engineering",
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://tec.mx",
+    "lat": 20.61319,
+    "lon": -100.40591,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Central America",
+    "costCurrency": "MXN",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Official programme pages (campus availability table, Aug 2027 intake: full programme offered at this campus). Evidence: BIM concentration, data analytics and AI tools, creative programming, digital experimentation, digitalisation of construction."
+  },
+  {
+    "name": "Tecnológico de Monterrey — Campus San Luis Potosí",
+    "country": "Mexico",
+    "city": "San Luis Potosí",
+    "programs": [
+      "Arquitectura"
+    ],
+    "programLinks": [
+      "https://tec.mx/es/arquitectura-arte-y-diseno/arquitectura"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Spanish",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "-",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Programming",
+      "AI & Machine Learning",
+      "Data Management",
+      "Digital Design",
+      "Digital Construction",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Programming",
+      "AI & Machine Learning",
+      "Data Management",
+      "Digital Design",
+      "Digital Construction"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://tec.mx",
+    "lat": 22.12731,
+    "lon": -101.0372,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Central America",
+    "costCurrency": "MXN",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Official programme pages (campus availability table, Aug 2027 intake: full programme offered at this campus). Evidence: BIM concentration, data analytics and AI tools, creative programming, digital experimentation, digitalisation of construction."
+  },
+  {
+    "name": "Tecnológico de Monterrey — Campus Santa Fe",
+    "country": "Mexico",
+    "city": "Mexico City",
+    "programs": [
+      "Ingeniería Civil",
+      "Arquitectura"
+    ],
+    "programLinks": [
+      "https://tec.mx/es/ingenieria-y-ciencias/ingenieria-civil",
+      "https://tec.mx/es/arquitectura-arte-y-diseno/arquitectura"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Spanish / English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "-",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "Programming",
+      "Digital Design",
+      "Digital Construction",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "Programming",
+      "Digital Design",
+      "Digital Construction"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Structural Engineering",
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://tec.mx",
+    "lat": 19.3596,
+    "lon": -99.25881,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Central America",
+    "costCurrency": "MXN",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Official programme pages (campus availability table, Aug 2027 intake: full programme offered at this campus). Evidence: BIM concentration, data analytics and AI tools, creative programming, digital experimentation, digitalisation of construction."
+  },
+  {
+    "name": "Tecnológico de Monterrey — Campus Sinaloa",
+    "country": "Mexico",
+    "city": "Culiacán",
+    "programs": [
+      "Arquitectura"
+    ],
+    "programLinks": [
+      "https://tec.mx/es/arquitectura-arte-y-diseno/arquitectura"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Spanish",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "-",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Programming",
+      "AI & Machine Learning",
+      "Data Management",
+      "Digital Design",
+      "Digital Construction",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Programming",
+      "AI & Machine Learning",
+      "Data Management",
+      "Digital Design",
+      "Digital Construction"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://tec.mx",
+    "lat": 24.80675,
+    "lon": -107.40844,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Central America",
+    "costCurrency": "MXN",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Official programme pages (campus availability table, Aug 2027 intake: full programme offered at this campus). Evidence: BIM concentration, data analytics and AI tools, creative programming, digital experimentation, digitalisation of construction."
+  },
+  {
+    "name": "Tecnológico de Monterrey — Campus Sonora Norte",
+    "country": "Mexico",
+    "city": "Hermosillo",
+    "programs": [
+      "Arquitectura"
+    ],
+    "programLinks": [
+      "https://tec.mx/es/arquitectura-arte-y-diseno/arquitectura"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Spanish",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "-",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Programming",
+      "AI & Machine Learning",
+      "Data Management",
+      "Digital Design",
+      "Digital Construction",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Programming",
+      "AI & Machine Learning",
+      "Data Management",
+      "Digital Design",
+      "Digital Construction"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://tec.mx",
+    "lat": 29.12111,
+    "lon": -110.91243,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Central America",
+    "costCurrency": "MXN",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Official programme pages (campus availability table, Aug 2027 intake: full programme offered at this campus). Evidence: BIM concentration, data analytics and AI tools, creative programming, digital experimentation, digitalisation of construction."
+  },
+  {
+    "name": "Tecnológico de Monterrey — Campus Toluca",
+    "country": "Mexico",
+    "city": "Toluca",
+    "programs": [
+      "Arquitectura"
+    ],
+    "programLinks": [
+      "https://tec.mx/es/arquitectura-arte-y-diseno/arquitectura"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Spanish",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "-",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Programming",
+      "AI & Machine Learning",
+      "Data Management",
+      "Digital Design",
+      "Digital Construction",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Programming",
+      "AI & Machine Learning",
+      "Data Management",
+      "Digital Design",
+      "Digital Construction"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://tec.mx",
+    "lat": 19.26937,
+    "lon": -99.70665,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Central America",
+    "costCurrency": "MXN",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Official programme pages (campus availability table, Aug 2027 intake: full programme offered at this campus). Evidence: BIM concentration, data analytics and AI tools, creative programming, digital experimentation, digitalisation of construction."
+  },
+  {
+    "name": "Universidad de las Américas Puebla (UDLAP)",
+    "country": "Mexico",
+    "city": "San Andrés Cholula",
+    "programs": [
+      "Ingeniería Civil"
+    ],
+    "programLinks": [
+      "https://www.udlap.mx/ofertaacademica/default.aspx?cveCarrera=LIC"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Spanish",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "-",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "Programming",
+      "CAD/CAM",
+      "BIM",
+      "Civil Engineering",
+      "Construction Management",
+      "Infrastructure Engineering"
+    ],
+    "computingTopics": [
+      "Programming",
+      "CAD/CAM",
+      "BIM"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management",
+      "Infrastructure Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.udlap.mx",
+    "lat": 19.05446,
+    "lon": -98.28497,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Central America",
+    "costCurrency": "MXN",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Official plan: Algorithms and programming; Computer assisted design; Information modeling for construction; hydrology and geographic models; water system modeling."
   }
 ]
