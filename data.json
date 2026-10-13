@@ -2252,7 +2252,7 @@
     "graduatesEstimateBasis": "baseline range estimate; original dataset compilation"
   },
   {
-    "name": "Lund University (LTH - Faculty of Engineering)",
+    "name": "Lund University (LTH)",
     "country": "Sweden",
     "city": "Lund",
     "programs": [
@@ -8351,7 +8351,7 @@
     "graduatesEstimateBasis": "baseline range estimate; original dataset compilation"
   },
   {
-    "name": "University of Žilina (UNIZA) — Faculty of Civil Engineering",
+    "name": "University of Žilina (UNIZA)",
     "country": "Slovakia",
     "city": "Žilina",
     "programs": [
@@ -8539,7 +8539,7 @@
     "graduatesEstimateBasis": "baseline range estimate; original dataset compilation"
   },
   {
-    "name": "University of Pécs (UP) — Faculty of Engineering and IT (PTE MIK)",
+    "name": "University of Pécs (UP, PTE MIK)",
     "country": "Hungary",
     "city": "Pécs",
     "programs": [
@@ -8595,7 +8595,7 @@
     "costCurrency": "HUF"
   },
   {
-    "name": "University of Debrecen (UD) — Faculty of Engineering",
+    "name": "University of Debrecen (UD)",
     "country": "Hungary",
     "city": "Debrecen",
     "programs": [
@@ -8646,7 +8646,7 @@
     "costCurrency": "HUF"
   },
   {
-    "name": "Óbuda University — Ybl Miklós Faculty of Architecture and Civil Engineering",
+    "name": "Óbuda University",
     "country": "Hungary",
     "city": "Budapest",
     "programs": [
@@ -9993,7 +9993,7 @@
     "costCurrency": "CHF"
   },
   {
-    "name": "University of Liechtenstein — Liechtenstein School of Architecture",
+    "name": "University of Liechtenstein",
     "country": "Liechtenstein",
     "city": "Vaduz",
     "programs": [
@@ -12418,7 +12418,7 @@
     "costCurrency": "EUR"
   },
   {
-    "name": "Instituto Politécnico de Setúbal (IPS) — ESTBarreiro",
+    "name": "Instituto Politécnico de Setúbal (IPS)",
     "country": "Portugal",
     "city": "Barreiro (Setúbal)",
     "programs": [
@@ -15984,7 +15984,7 @@
     "graduatesEstimateBasis": "baseline range estimate; original dataset compilation"
   },
   {
-    "name": "Politehnica University of Timișoara (UPT) — Faculty of Civil Engineering",
+    "name": "Politehnica University of Timișoara (UPT)",
     "country": "Romania",
     "city": "Timișoara",
     "programs": [
@@ -16035,7 +16035,7 @@
     "costCurrency": "RON"
   },
   {
-    "name": "Technical University of Cluj-Napoca (UTCN) — Faculty of Civil Engineering",
+    "name": "Technical University of Cluj-Napoca (UTCN)",
     "country": "Romania",
     "city": "Cluj-Napoca",
     "programs": [
@@ -16084,7 +16084,7 @@
     "costCurrency": "RON"
   },
   {
-    "name": "Gheorghe Asachi Technical University of Iași (TUIASI) — Faculty of Civil Engineering and Building Services",
+    "name": "Gheorghe Asachi Technical University of Iași (TUIASI)",
     "country": "Romania",
     "city": "Iași",
     "programs": [
@@ -16137,7 +16137,7 @@
     "costCurrency": "RON"
   },
   {
-    "name": "Transilvania University of Brașov — Faculty of Construction",
+    "name": "Transilvania University of Brașov",
     "country": "Romania",
     "city": "Brașov",
     "programs": [
@@ -16182,7 +16182,7 @@
     "graduatesEstimateBasis": "programme intake places not published on the programme page (intake, not graduations)"
   },
   {
-    "name": "Technical University of Moldova (UTM) — Faculty of Cadaster, Geodesy and Civil Engineering / Faculty of Urbanism and Architecture",
+    "name": "Technical University of Moldova (UTM)",
     "country": "Moldova",
     "city": "Chișinău",
     "programs": [
@@ -16284,7 +16284,7 @@
     "graduatesEstimateBasis": "baseline range estimate; original dataset compilation"
   },
   {
-    "name": "Varna Free University \"Chernorizets Hrabar\" (VFU) — Faculty of Architecture",
+    "name": "Varna Free University \"Chernorizets Hrabar\" (VFU)",
     "country": "Bulgaria",
     "city": "Varna",
     "programs": [
@@ -16706,7 +16706,7 @@
     "costCurrency": "UAH"
   },
   {
-    "name": "Ukrainian State University of Science and Technologies (USUST) — Prydniprovska State Academy of Civil Engineering and Architecture",
+    "name": "Ukrainian State University of Science and Technologies (USUST)",
     "country": "Ukraine",
     "city": "Dnipro",
     "programs": [
@@ -16751,7 +16751,7 @@
     "graduatesEstimateBasis": "programme intake places not published on the programme page (intake, not graduations)"
   },
   {
-    "name": "State University \"Kyiv Aviation Institute\" (KAI) — Faculty of Architecture, Construction and Design",
+    "name": "State University \"Kyiv Aviation Institute\" (KAI)",
     "country": "Ukraine",
     "city": "Kyiv",
     "programs": [
@@ -16849,7 +16849,7 @@
     "graduatesEstimateBasis": "baseline range estimate; original dataset compilation"
   },
   {
-    "name": "Polytechnic University of Tirana (PUT) — Faculty of Civil Engineering",
+    "name": "Polytechnic University of Tirana (PUT)",
     "country": "Albania",
     "city": "Tirana",
     "programs": [
@@ -16898,7 +16898,7 @@
     "costCurrency": "ALL"
   },
   {
-    "name": "EPOKA University — Faculty of Architecture and Engineering",
+    "name": "EPOKA University",
     "country": "Albania",
     "city": "Tirana",
     "programs": [
@@ -17048,7 +17048,7 @@
     "graduatesEstimateBasis": "baseline range estimate; original dataset compilation"
   },
   {
-    "name": "University of Thessaly (UTH) — School of Engineering",
+    "name": "University of Thessaly (UTH)",
     "country": "Greece",
     "city": "Volos",
     "programs": [
@@ -17097,7 +17097,7 @@
     "costCurrency": "EUR"
   },
   {
-    "name": "Democritus University of Thrace (DUTH) — School of Engineering",
+    "name": "Democritus University of Thrace (DUTH)",
     "country": "Greece",
     "city": "Xanthi",
     "programs": [
@@ -17314,7 +17314,7 @@
     "graduatesEstimateBasis": "baseline range estimate; original dataset compilation"
   },
   {
-    "name": "University of Niš — Faculty of Civil Engineering and Architecture (GAF)",
+    "name": "University of Niš (GAF)",
     "country": "Serbia",
     "city": "Niš",
     "programs": [
@@ -17412,7 +17412,7 @@
     "graduatesEstimateBasis": "baseline range estimate; original dataset compilation"
   },
   {
-    "name": "University of Maribor (UM) — Faculty of Civil Engineering, Transportation Engineering and Architecture (FGPA)",
+    "name": "University of Maribor (UM)",
     "country": "Slovenia",
     "city": "Maribor",
     "programs": [
@@ -17512,7 +17512,7 @@
     "graduatesEstimateBasis": "baseline range estimate; original dataset compilation"
   },
   {
-    "name": "University of Banja Luka — Faculty of Architecture, Civil Engineering and Geodesy (AGGF)",
+    "name": "University of Banja Luka (AGGF)",
     "country": "Bosnia and Herzegovina",
     "city": "Banja Luka",
     "programs": [
@@ -17561,7 +17561,7 @@
     "costCurrency": "BAM"
   },
   {
-    "name": "University of Mostar — Faculty of Civil Engineering, Architecture and Geodesy (FGAG)",
+    "name": "University of Mostar (FGAG)",
     "country": "Bosnia and Herzegovina",
     "city": "Mostar",
     "programs": [
@@ -17612,7 +17612,7 @@
     "costCurrency": "BAM"
   },
   {
-    "name": "Džemal Bijedić University of Mostar (UNMO) — Faculty of Civil Engineering",
+    "name": "Džemal Bijedić University of Mostar (UNMO)",
     "country": "Bosnia and Herzegovina",
     "city": "Mostar",
     "programs": [
@@ -17667,7 +17667,7 @@
     "graduatesEstimateBasis": "programme intake places not published on the programme page (intake, not graduations)"
   },
   {
-    "name": "University of Montenegro (UCG) — Faculty of Civil Engineering / Faculty of Architecture",
+    "name": "University of Montenegro (UCG)",
     "country": "Montenegro",
     "city": "Podgorica",
     "programs": [
@@ -17824,7 +17824,7 @@
     "graduatesEstimateBasis": "baseline range estimate; original dataset compilation"
   },
   {
-    "name": "University of Split — Faculty of Civil Engineering, Architecture and Geodesy (FGAG)",
+    "name": "University of Split (FGAG)",
     "country": "Croatia",
     "city": "Split",
     "programs": [
@@ -17873,7 +17873,7 @@
     "costCurrency": "EUR"
   },
   {
-    "name": "University of Rijeka — Faculty of Civil Engineering",
+    "name": "University of Rijeka",
     "country": "Croatia",
     "city": "Rijeka",
     "programs": [
@@ -18986,7 +18986,7 @@
     "graduatesEstimateBasis": "baseline range estimate; original dataset compilation"
   },
   {
-    "name": "University of Malta (UM) — Faculty for the Built Environment",
+    "name": "University of Malta (UM)",
     "country": "Malta",
     "city": "Msida",
     "programs": [
@@ -19380,7 +19380,7 @@
     "graduatesEstimateBasis": "baseline range estimate; original dataset compilation"
   },
   {
-    "name": "University of Cyprus (UCY) — Department of Civil and Environmental Engineering",
+    "name": "University of Cyprus (UCY)",
     "country": "Cyprus",
     "city": "Nicosia",
     "programs": [
@@ -19430,7 +19430,7 @@
     "costCurrency": "EUR"
   },
   {
-    "name": "Cyprus University of Technology (CUT) — Department of Civil Engineering and Geomatics",
+    "name": "Cyprus University of Technology (CUT)",
     "country": "Cyprus",
     "city": "Limassol",
     "programs": [
@@ -20286,7 +20286,7 @@
     "graduatesEstimateBasis": "programme intake places not published on the programme page (intake, not graduations)"
   },
   {
-    "name": "Ankara University — Faculty of Applied Sciences",
+    "name": "Ankara University",
     "country": "Turkey",
     "city": "Ankara",
     "programs": [
@@ -22604,7 +22604,7 @@
     "costCurrency": "CAD"
   },
   {
-    "name": "York University — Lassonde School of Engineering",
+    "name": "York University",
     "country": "Canada",
     "city": "Toronto",
     "programs": [
@@ -26844,22 +26844,24 @@
     "costCurrency": "COP"
   },
   {
-    "name": "Universidad de Buenos Aires (FIUBA)",
+    "name": "Universidad de Buenos Aires (UBA)",
     "country": "Argentina",
     "city": "Buenos Aires",
     "programs": [
       "Ingeniería Civil",
-      "Ingeniería en Agrimensura"
+      "Ingeniería en Agrimensura",
+      "Especialización en Modelado de Edificios con Información (BIM)"
     ],
     "programLinks": [
       "https://www.fi.uba.ar/grado/carreras/ingenieria-civil/plan-de-estudios",
-      "https://www.fi.uba.ar/grado/carreras/ingenieria-en-agrimensura/plan-de-estudios"
+      "https://www.fi.uba.ar/grado/carreras/ingenieria-en-agrimensura/plan-de-estudios",
+      "https://www.fadu.uba.ar/inscripcionposgrado-ciclo-lectivo-2026/"
     ],
     "accreditation": [
       "CONEAU"
     ],
     "language": "Spanish",
-    "mode": "Full-time",
+    "mode": "Full-time / Part-time",
     "delivery": "In person",
     "cost": "0",
     "graduatesPerYear": "Not published",
@@ -26871,7 +26873,8 @@
       "GIS & BIM Integration",
       "3D Modeling & Scanning",
       "Civil Engineering",
-      "Infrastructure Engineering"
+      "Infrastructure Engineering",
+      "Architecture"
     ],
     "computingTopics": [
       "BIM",
@@ -26881,7 +26884,8 @@
     ],
     "domains": [
       "Civil Engineering",
-      "Infrastructure Engineering"
+      "Infrastructure Engineering",
+      "Architecture"
     ],
     "verificationLevel": 2,
     "website": "https://www.fi.uba.ar/grado/carreras/ingenieria-civil/plan-de-estudios",
@@ -28494,45 +28498,6 @@
     "costCurrency": "ARS"
   },
   {
-    "name": "Universidad de Buenos Aires (FADU)",
-    "country": "Argentina",
-    "city": "Buenos Aires",
-    "programs": [
-      "Especialización en Modelado de Edificios con Información (BIM)"
-    ],
-    "programLinks": [
-      "https://www.fadu.uba.ar/inscripcionposgrado-ciclo-lectivo-2026/"
-    ],
-    "accreditation": [
-      "-"
-    ],
-    "language": "Spanish",
-    "mode": "Part-time",
-    "delivery": "Presential",
-    "cost": "-",
-    "graduatesPerYear": "Not published",
-    "topics": [
-      "BIM",
-      "Architecture"
-    ],
-    "computingTopics": [
-      "BIM"
-    ],
-    "domains": [
-      "Architecture"
-    ],
-    "verificationLevel": 2,
-    "website": "https://www.fadu.uba.ar",
-    "lat": -34.5418,
-    "lon": -58.4434,
-    "geoSource": "manual:city",
-    "lastChecked": "2026-10-12",
-    "region": "South America",
-    "costCurrency": "ARS",
-    "graduatesEstimated": true,
-    "graduatesEstimateBasis": "programme intake places not published on the programme page (intake, not graduations)"
-  },
-  {
     "name": "University of Victoria (UVic)",
     "country": "Canada",
     "city": "Victoria",
@@ -29213,7 +29178,7 @@
     "graduatesEstimateBasis": "intake not published. MSCE Emerging Technologies in Construction flyer (CE 470 Building Information Modeling; automated construction; data mining; robotics). PhD route: staff research (Becerik-Gerber: BIM, reality capture, construction automation, data-driven built environments; ASCE Computing in Civil Engineering Award 2023; i-lab and CENTIENTS)."
   },
   {
-    "name": "University of California, Los Angeles (UCLA) — Architecture and Urban Design",
+    "name": "University of California, Los Angeles (UCLA)",
     "country": "United States",
     "city": "Los Angeles",
     "programs": [
@@ -29260,7 +29225,7 @@
     "graduatesEstimateBasis": "intake not published. Programme page: Technology Seminars on advanced tools and methods; official student-work archive lists Technology Seminars on robotics and machine vision; seminar faculty work on computational design, digital fabrication, applied robotics, VR/AR and machine learning."
   },
   {
-    "name": "University of California, Davis — Continuing and Professional Education",
+    "name": "University of California, Davis",
     "country": "United States",
     "city": "Davis",
     "programs": [
@@ -29824,12 +29789,14 @@
     "programs": [
       "AS Architectural Technology Concentration",
       "Architectural Technology Concentration - Level II Certificate",
-      "Engineering and Construction Technology - Level II Certificate"
+      "Engineering and Construction Technology - Level II Certificate",
+      "Construction Management (AS, certificate)"
     ],
     "programLinks": [
       "https://catalog.mtsac.edu/programs/programsaz/architectural-technology-concentration/architectural-technology-concentration-degree/",
       "https://catalog.mtsac.edu/programs/programsaz/architectural-technology-concentration/architectural-technology-concentration-level-ii-certificate/",
-      "https://catalog.mtsac.edu/programs/programsaz/engineering-construction-tech/engineering-construction-tech-level-ii/"
+      "https://catalog.mtsac.edu/programs/programsaz/engineering-construction-tech/engineering-construction-tech-level-ii/",
+      "https://catalog.mtsac.edu/programs/coursesaz/cmgt/"
     ],
     "accreditation": [
       "-"
@@ -29842,16 +29809,22 @@
     "topics": [
       "BIM",
       "BIM Software",
+      "nD BIM",
+      "Collaborative Workflows",
       "Architecture",
-      "Construction Engineering"
+      "Construction Engineering",
+      "Construction Management"
     ],
     "computingTopics": [
       "BIM",
-      "BIM Software"
+      "BIM Software",
+      "nD BIM",
+      "Collaborative Workflows"
     ],
     "domains": [
       "Architecture",
-      "Construction Engineering"
+      "Construction Engineering",
+      "Construction Management"
     ],
     "verificationLevel": 2,
     "website": "https://www.mtsac.edu",
@@ -29862,7 +29835,7 @@
     "region": "North America",
     "costCurrency": "USD",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "intake not published. Catalog: ARCH 141 Building Information Modeling (entry level), ARCH 147 Architectural BIM, ARCH 247 Architectural BIM Working Drawings."
+    "graduatesEstimateBasis": "intake not published. Catalog: ARCH 141 Building Information Modeling (entry level), ARCH 147 Architectural BIM, ARCH 247 Architectural BIM Working Drawings. CMGT 121 BIM for Construction (clash detection, estimating, scheduling); CMGT 150 Construction Operations (BIM and virtual coordination)."
   },
   {
     "name": "Southwestern College",
@@ -30260,20 +30233,928 @@
     "graduatesEstimateBasis": "intake not published. Programme page: courses include BIM software; CNC lab equipment for cabinet making."
   },
   {
-    "name": "Universidad de la República (UdelaR) — Facultad de Ingeniería",
+    "name": "Oregon State University (OSU)",
+    "country": "United States",
+    "city": "Corvallis",
+    "programs": [
+      "BS Construction Engineering Management",
+      "MEng/MS Civil Engineering",
+      "PhD Civil Engineering"
+    ],
+    "programLinks": [
+      "https://catalog.oregonstate.edu/college-departments/engineering/school-civil-construction-engineering/construction-engineering-management-ba-bs-hba-hbs/",
+      "https://catalog.oregonstate.edu/college-departments/engineering/school-civil-construction-engineering/civil-engineering-meng-ms-phd/",
+      "https://cce.oregonstate.edu/graduate"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "13,395 - 39,975",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Digital Twins",
+      "Robotics & Automation",
+      "AI & Machine Learning",
+      "3D Modeling & Scanning",
+      "Construction Management",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Digital Twins",
+      "Robotics & Automation",
+      "AI & Machine Learning",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Construction Management",
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://oregonstate.edu",
+    "lat": 44.56306,
+    "lon": -123.28392,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Catalog: CCE 203 Introduction to Virtual Design and Construction (information models, parametric modelling); CCE 528 Advanced Virtual Design and Construction (BIM in plan execution). PhD route: J. Louis (construction automation and robotics, simulation integrated with BIM/GIS, digital twins, AI decision support; IAARC board) and Y. Turkan (lidar, VDC, sensing and automation)."
+  },
+  {
+    "name": "University of Oregon (UO)",
+    "country": "United States",
+    "city": "Eugene",
+    "programs": [
+      "BArch Architecture",
+      "MArch Architecture"
+    ],
+    "programLinks": [
+      "https://catalog.uoregon.edu/design/arch-env/architecture/barch-arch/",
+      "https://catalog.uoregon.edu/design/arch-env/architecture/march-arch/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "14,532 - 44,523",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Parametric & Generative Design",
+      "Digital Design",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Parametric & Generative Design",
+      "Digital Design"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.uoregon.edu",
+    "lat": 44.04442,
+    "lon": -123.07176,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Catalog: ARCH 425/525 Building Information Modeling; ARCH 622 Computational Design; ARCH 222 Introduction to Architectural Computer Graphics."
+  },
+  {
+    "name": "Lane Community College",
+    "country": "United States",
+    "city": "Eugene",
+    "programs": [
+      "Drafting (AAS, certificate)"
+    ],
+    "programLinks": [
+      "https://www.lanecc.edu/programs-academics/areas-study/industrial-trades-technologies-transportation-and-apprenticeship/drafting"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential",
+    "cost": "6,202 - 13,078",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM Software",
+      "CAD/CAM",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM Software",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.lanecc.edu",
+    "lat": 44.00979,
+    "lon": -123.03276,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Programme page: AutoCAD, SolidWorks and Revit."
+  },
+  {
+    "name": "Portland State University (PSU)",
+    "country": "United States",
+    "city": "Portland",
+    "programs": [
+      "BS Civil Engineering"
+    ],
+    "programLinks": [
+      "https://www.pdx.edu/academics/programs/undergraduate/civil-engineering"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "10,800 - 32,040",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Programming",
+      "CAD/CAM",
+      "Civil Engineering",
+      "Structural Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Programming",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Structural Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.pdx.edu",
+    "lat": 45.51181,
+    "lon": -122.68612,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Civil engineering courses taught by an instructor whose expertise includes BIM modelling (staff profile P. McLaughlin): CE 112 CEE Computations; CE 115 Civil Engineering Drawing and Spatial Analysis. Fee: 2026-27 base tuition, 15 credits x 3 terms (engineering differential excluded)."
+  },
+  {
+    "name": "Clackamas Community College",
+    "country": "United States",
+    "city": "Oregon City",
+    "programs": [
+      "Computer-Aided Drafting (CAD) Certificate"
+    ],
+    "programLinks": [
+      "https://www.clackamas.edu/academics/degrees-certificates/computer-aided-drafting-(cad)-certificate"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential",
+    "cost": "-",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.clackamas.edu",
+    "lat": 45.32208,
+    "lon": -122.57526,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Programme page: AutoCAD and SolidWorks; BIM skills (construction documents used in BIM) for architecture and construction."
+  },
+  {
+    "name": "University of Washington (UW)",
+    "country": "United States",
+    "city": "Seattle",
+    "programs": [
+      "BS Construction Management",
+      "MS Construction Management",
+      "PhD in the Built Environment"
+    ],
+    "programLinks": [
+      "https://cm.be.uw.edu/students/undergraduate-programs/major-in-construction-management/",
+      "https://cm.be.uw.edu/students/grad-prof-programs/",
+      "https://be.uw.edu/programs/phd/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "12,664 - 44,580",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Collaborative Workflows",
+      "Digital Fabrication",
+      "3D Modeling & Scanning",
+      "Construction Informatics",
+      "Digital Twins",
+      "VR/AR",
+      "Construction Management",
+      "Facility & Asset Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Collaborative Workflows",
+      "Digital Fabrication",
+      "3D Modeling & Scanning",
+      "Construction Informatics",
+      "Digital Twins",
+      "VR/AR"
+    ],
+    "domains": [
+      "Construction Management",
+      "Facility & Asset Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.washington.edu",
+    "lat": 47.65543,
+    "lon": -122.30017,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. UW course catalogue (CM): CM 260 Digital Tools; CM 414 Virtual Construction (BIM for managing construction, collaboration); CM 422 Computer Applications in Construction; CM 515 Virtual Construction Management; CM 536 Building Information Modeling; CM 537 Virtual Modeling for Digital Fabrication (laser scan data, 3D printing, laser cutting). PhD route: C. S. Dossick (BIM, VR, digital twins, BIM for facilities management/COBie, National BIM Standard-US; CERC lab) and L. Wu (digital transformation in construction)."
+  },
+  {
+    "name": "Eastern Washington University (EWU)",
+    "country": "United States",
+    "city": "Cheney",
+    "programs": [
+      "BS Technology – Construction Management Option"
+    ],
+    "programLinks": [
+      "https://catalog.ewu.edu/stem/me-t/technology-construction-management-option-bs/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "8,038 - 25,031",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Collaborative Workflows",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Collaborative Workflows"
+    ],
+    "domains": [
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.ewu.edu",
+    "lat": 47.49101,
+    "lon": -117.58425,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Catalog: CMTC 235 Introduction to Building Information Modeling; CMTC 410 BIM for Construction Management (BIM 360, clash detection)."
+  },
+  {
+    "name": "Washington State University (WSU)",
+    "country": "United States",
+    "city": "Pullman",
+    "programs": [
+      "BS Construction Management"
+    ],
+    "programLinks": [
+      "https://sdc.wsu.edu/construction-management/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "12,063 - 29,734",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "nD BIM",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "nD BIM"
+    ],
+    "domains": [
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://wsu.edu",
+    "lat": 46.73377,
+    "lon": -117.1498,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. School of Design and Construction programme page: BIM for preconstruction, site logistics, scheduling and estimating incorporated into the curriculum."
+  },
+  {
+    "name": "Central Washington University (CWU)",
+    "country": "United States",
+    "city": "Ellensburg",
+    "programs": [
+      "BS Construction Management"
+    ],
+    "programLinks": [
+      "https://www.cwu.edu/academics/explore-programs/construction-management-bachelor-science.php"
+    ],
+    "accreditation": [
+      "ACCE"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "7,716",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "Construction Informatics",
+      "Construction Management",
+      "Sustainability"
+    ],
+    "computingTopics": [
+      "Construction Informatics"
+    ],
+    "domains": [
+      "Construction Management",
+      "Sustainability"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.cwu.edu",
+    "lat": 47.00647,
+    "lon": -120.53673,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Programme page: CMGT 201 Computer Applications in Construction with Laboratory; ACCE-accredited."
+  },
+  {
+    "name": "Lake Washington Institute of Technology (LWTech)",
+    "country": "United States",
+    "city": "Kirkland",
+    "programs": [
+      "Architectural Technology"
+    ],
+    "programLinks": [
+      "https://www.lwtech.edu/academics/school-of-design/architectural-technology/index.aspx"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential",
+    "cost": "5,092 - 11,643",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Architecture",
+      "Sustainability"
+    ],
+    "computingTopics": [
+      "BIM"
+    ],
+    "domains": [
+      "Architecture",
+      "Sustainability"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.lwtech.edu",
+    "lat": 47.70475,
+    "lon": -122.16733,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Programme page: design development, construction documents, sustainability and Building Information Modeling (BIM)."
+  },
+  {
+    "name": "Green River College",
+    "country": "United States",
+    "city": "Auburn",
+    "programs": [
+      "Design Drafting Technology (AAS, certificates)"
+    ],
+    "programLinks": [
+      "https://www.greenriver.edu/students/academics/degrees-programs/cad/index.html"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential",
+    "cost": "5,092 - 11,643",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "Architecture",
+      "Structural Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Architecture",
+      "Structural Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.greenriver.edu",
+    "lat": 47.31394,
+    "lon": -122.17789,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Programme documents: CAD 104 Structural Design and Introduction to BIM; CAD 118 Introduction to Revit (BIM concepts, parametric modelling)."
+  },
+  {
+    "name": "University of Alaska Anchorage (UAA)",
+    "country": "United States",
+    "city": "Anchorage",
+    "programs": [
+      "AAS Architectural and Engineering Technology",
+      "AAS Construction Management",
+      "BS Construction Management"
+    ],
+    "programLinks": [
+      "https://catalog.uaa.alaska.edu/undergraduateprograms/ctc/aas-architecturalengineeringtechnology/",
+      "https://uaa.alaska.edu/academics/community-and-technical-college/departments/construction-design-and-safety/construction-management",
+      "https://uaa.alaska.edu/academics/community-and-technical-college/departments/construction-design-and-safety/construction-management"
+    ],
+    "accreditation": [
+      "ACCE"
+    ],
+    "language": "English",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential / Online",
+    "cost": "7,530 - 27,780",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Architecture",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM"
+    ],
+    "domains": [
+      "Architecture",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.uaa.alaska.edu",
+    "lat": 61.19038,
+    "lon": -149.82233,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Catalog (AAS Architectural and Engineering Technology): Building Information Modeling (BIM) course. Construction Management AAS and BS accredited by ACCE (department page)."
+  },
+  {
+    "name": "Honolulu Community College",
+    "country": "United States",
+    "city": "Honolulu",
+    "programs": [
+      "AS Architectural, Engineering and CAD Technologies (AEC)"
+    ],
+    "programLinks": [
+      "https://www.honolulu.hawaii.edu/aec/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential",
+    "cost": "3,930 - 10,350",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM Software",
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM Software",
+      "CAD/CAM",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.honolulu.hawaii.edu",
+    "lat": 21.32128,
+    "lon": -157.87005,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. University of Hawaii news (2015): AEC graduates complete courses in AutoCAD, 3ds Max Design and BIM software. Programme page was unavailable (503) when checked."
+  },
+  {
+    "name": "Hawaii Community College",
+    "country": "United States",
+    "city": "Hilo",
+    "programs": [
+      "Architectural, Engineering and CAD Technologies (AEC)"
+    ],
+    "programLinks": [
+      "https://hawaii.hawaii.edu/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential",
+    "cost": "3,930 - 10,350",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://hawaii.hawaii.edu",
+    "lat": 19.69999,
+    "lon": -155.08452,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Course AEC 297 Introduction to Building Services and BIM (basic Revit), developed 2015 (TAACCCT/SkillsCommons record)."
+  },
+  {
+    "name": "University of Idaho",
+    "country": "United States",
+    "city": "Moscow",
+    "programs": [
+      "Bachelor of Science in Architecture",
+      "Master of Architecture"
+    ],
+    "programLinks": [
+      "https://catalog.uidaho.edu/colleges-related-units/art-architecture/architecture/architecture-bsarch/",
+      "https://catalog.uidaho.edu/colleges-related-units/art-architecture/architecture/architecture-march/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "9,824 - 29,300",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "Digital Design",
+      "Digital Fabrication",
+      "Energy Performance",
+      "Architecture",
+      "Sustainability"
+    ],
+    "computingTopics": [
+      "Digital Design",
+      "Digital Fabrication",
+      "Energy Performance"
+    ],
+    "domains": [
+      "Architecture",
+      "Sustainability"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.uidaho.edu",
+    "lat": 46.7238,
+    "lon": -117.02066,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Catalog: ARCH 3430 Media in Architecture (virtual modelling, CNC fabrication, 2D/3D printing); ARCH 5740 Building Performance Simulation for Integrated Design (building simulation tools); ARCH 5710 Building Performance Evaluation."
+  },
+  {
+    "name": "College of Western Idaho (CWI)",
+    "country": "United States",
+    "city": "Nampa",
+    "programs": [
+      "Drafting Technology (AAS)"
+    ],
+    "programLinks": [
+      "https://catalog.cwi.edu/programs-study/drafting-technology/drafting-technology-aas/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential",
+    "cost": "5,160 - 10,080",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM Software",
+      "CAD/CAM",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM Software",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://cwi.edu",
+    "lat": 43.61398,
+    "lon": -116.5083,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Catalog: DRFT 118 Introduction to Revit; DRFT 239 Advanced Revit Techniques (architecture industry)."
+  },
+  {
+    "name": "Brigham Young University–Idaho (BYU–Idaho)",
+    "country": "United States",
+    "city": "Rexburg",
+    "programs": [
+      "BS Virtual Design and Construction",
+      "BS Construction Management",
+      "AAS Architectural Technology"
+    ],
+    "programLinks": [
+      "https://www.byui.edu/majors/virtual-design-and-construction-bs",
+      "https://www.byui.edu/majors/construction-management-bs",
+      "https://www.byui.edu/majors/architectural-technology-aas"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential / Online",
+    "cost": "5,088 - 10,176",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "nD BIM",
+      "Collaborative Workflows",
+      "CAD/CAM",
+      "AI & Machine Learning",
+      "Digital Construction",
+      "Construction Management",
+      "Architecture",
+      "Facility & Asset Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "nD BIM",
+      "Collaborative Workflows",
+      "CAD/CAM",
+      "AI & Machine Learning",
+      "Digital Construction"
+    ],
+    "domains": [
+      "Construction Management",
+      "Architecture",
+      "Facility & Asset Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.byui.edu",
+    "lat": 43.81738,
+    "lon": -111.78237,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Programme pages: BS Virtual Design and Construction (BIM, digital coordination, model dimensions incl. scheduling, cost and asset information for operations); BS Construction Management (Construction BIM course; AI in construction management); AAS Architectural Technology (VDC 120 Introduction to CAD, VDC 190 BIM I, VDC 290 BIM II)."
+  },
+  {
+    "name": "College of Southern Idaho (CSI)",
+    "country": "United States",
+    "city": "Twin Falls",
+    "programs": [
+      "Drafting Technology"
+    ],
+    "programLinks": [
+      "https://csi.smartcatalogiq.com/en/2021-2022/catalog/courses/drat-drafting-technology"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential",
+    "cost": "4,410 - 8,760",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM Software",
+      "CAD/CAM",
+      "Architecture",
+      "Structural Engineering"
+    ],
+    "computingTopics": [
+      "BIM Software",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Architecture",
+      "Structural Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.csi.edu",
+    "lat": 42.58289,
+    "lon": -114.47238,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Catalog 2021-22: DRAT 148 Pictorial Views with BIM Software; DRAT 103 Intro to Construction Drawings in AutoCAD; architectural and structural drafting."
+  },
+  {
+    "name": "Boise State University",
+    "country": "United States",
+    "city": "Boise",
+    "programs": [
+      "BS Construction Management"
+    ],
+    "programLinks": [
+      "https://www.boisestate.edu/coen-cm/four-year-plan-2024-2025/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "9,789 - 29,477",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM"
+    ],
+    "domains": [
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.boisestate.edu",
+    "lat": 43.60328,
+    "lon": -116.19941,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Construction Management four-year plan 2024-25: CMGT 340 Intro to BIM."
+  },
+  {
+    "name": "ed2go (Cengage Group)",
+    "country": "United States",
+    "city": "Temecula",
+    "programs": [
+      "Revit Basics",
+      "Revit Architecture Professional (certification training)",
+      "Revit MEP Certified Professional",
+      "Revit Structure Certified Professional"
+    ],
+    "programLinks": [
+      "https://careertraining.ed2go.com/ccm/computer-applications-programs/",
+      "https://careertraining.ed2go.com/ccm/computer-applications-programs/",
+      "https://careertraining.ed2go.com/ccm/computer-applications-programs/",
+      "https://careertraining.ed2go.com/ccm/computer-applications-programs/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Part-time",
+    "delivery": "Online",
+    "cost": "3,235 - 3,335",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Collaborative Workflows",
+      "Architecture",
+      "Structural Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Collaborative Workflows"
+    ],
+    "domains": [
+      "Architecture",
+      "Structural Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.ed2go.com",
+    "lat": 33.49464,
+    "lon": -117.14737,
+    "geoSource": "manual:city",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "enrolment not published. Online career-training courses distributed through 2,100+ partner colleges and universities (white-labelled careertraining.<institution>.edu sites). Content: Revit and BIM fundamentals; architecture, MEP (MEP within the BIM process, multidisciplinary collaboration) and structure tracks preparing for Autodesk Certified Professional exams. Fee: published partner prices for Revit MEP Certified Professional (USD 3,235-3,335)."
+  },
+  {
+    "name": "Universidad de la República (UdelaR)",
     "country": "Uruguay",
     "city": "Montevideo",
     "programs": [
       "Ingeniería Civil",
       "Ingeniería en Agrimensura",
       "Maestría en Ingeniería Estructural",
-      "Doctorado en Ingeniería"
+      "Doctorado en Ingeniería",
+      "Arquitectura",
+      "Doctorado en Teoría y Práctica del Proyecto de Arquitectura"
     ],
     "programLinks": [
       "https://www.fing.edu.uy/es/carrera/grado/ingenieria-civil",
       "https://www.fing.edu.uy/es/carrera/grado/agrimensura",
       "https://www.fing.edu.uy/sites/default/files/2025-08/guia_de_implementacion_de_la_maestria_en_ingenieria_estructural-mod-2025-08-20.pdf",
-      "https://www.fing.edu.uy/es/ensenanza/carreras-de-posgrado"
+      "https://www.fing.edu.uy/es/ensenanza/carreras-de-posgrado",
+      "https://www.fadu.edu.uy/carrera/arquitectura/",
+      "https://www.fadu.edu.uy/carreras-posgrado/doctorado/portada/"
     ],
     "accreditation": [
       "ARCU-SUR"
@@ -30291,23 +31172,29 @@
       "3D Modeling & Scanning",
       "BIM",
       "Collaborative Workflows",
+      "Digital Fabrication",
+      "Parametric & Generative Design",
       "Civil Engineering",
       "Infrastructure Engineering",
       "Structural Engineering",
-      "Construction Management"
+      "Construction Management",
+      "Architecture"
     ],
     "computingTopics": [
       "CAD/CAM",
       "GIS & BIM Integration",
       "3D Modeling & Scanning",
       "BIM",
-      "Collaborative Workflows"
+      "Collaborative Workflows",
+      "Digital Fabrication",
+      "Parametric & Generative Design"
     ],
     "domains": [
       "Civil Engineering",
       "Infrastructure Engineering",
       "Structural Engineering",
-      "Construction Management"
+      "Construction Management",
+      "Architecture"
     ],
     "verificationLevel": 2,
     "website": "https://www.fing.edu.uy/es/carrera/grado/ingenieria-civil",
@@ -30315,53 +31202,6 @@
     "lon": -56.1668,
     "geoSource": "manual:campus",
     "lastChecked": "2026-10-12",
-    "region": "South America",
-    "costCurrency": "UYU"
-  },
-  {
-    "name": "Universidad de la República (UdelaR) — FADU",
-    "country": "Uruguay",
-    "city": "Montevideo",
-    "programs": [
-      "Arquitectura",
-      "Doctorado en Teoría y Práctica del Proyecto de Arquitectura"
-    ],
-    "programLinks": [
-      "https://www.fadu.edu.uy/carrera/arquitectura/",
-      "https://www.fadu.edu.uy/carreras-posgrado/doctorado/portada/"
-    ],
-    "accreditation": [
-      "ARCU-SUR"
-    ],
-    "language": "Spanish",
-    "mode": "Full-time",
-    "delivery": "In person",
-    "cost": "0",
-    "graduatesPerYear": "Not published",
-    "graduatesEstimated": true,
-    "graduatesEstimateBasis": "grado + doctorate; active computing-in-construction research (Centro de Integración Digital, FabLabMVD, vidiaLab — digital fabrication & computational design); doctoral output counted only as its construction fraction; intake not published",
-    "topics": [
-      "Digital Fabrication",
-      "Parametric & Generative Design",
-      "BIM",
-      "CAD/CAM",
-      "Architecture"
-    ],
-    "computingTopics": [
-      "Digital Fabrication",
-      "Parametric & Generative Design",
-      "BIM",
-      "CAD/CAM"
-    ],
-    "domains": [
-      "Architecture"
-    ],
-    "verificationLevel": 2,
-    "website": "https://www.fadu.edu.uy/carrera/arquitectura/",
-    "lat": -34.9100411,
-    "lon": -56.1640292,
-    "geoSource": "nominatim",
-    "lastChecked": "2026-07-26",
     "region": "South America",
     "costCurrency": "UYU"
   },
@@ -40132,7 +40972,7 @@
     "graduatesEstimateBasis": "programme intake places not published on the programme page (intake, not graduations)"
   },
   {
-    "name": "Universidad Nacional de Asunción (UNA) — FADA",
+    "name": "Universidad Nacional de Asunción (UNA)",
     "country": "Paraguay",
     "city": "San Lorenzo",
     "programs": [
@@ -44201,7 +45041,7 @@
     "graduatesEstimateBasis": "programme intake places not published (intake, not graduations)"
   },
   {
-    "name": "Universidad Tecnológica de Panamá (UTP) — Facultad de Ingeniería Civil",
+    "name": "Universidad Tecnológica de Panamá (UTP)",
     "country": "Panama",
     "city": "Panama City",
     "programs": [
@@ -44442,7 +45282,7 @@
     "graduatesEstimateBasis": "post-baccalaureate vocational course (FCIL) in a public lycée; intake not published. Evidence: academy prospectus and technical sheet (2020-21): BIM model creation with Revit/ArchiCAD/BIM Vision, quantities, collaborative work on the digital model."
   },
   {
-    "name": "Universidad Nacional Autónoma de México (UNAM) — Facultad de Ingeniería",
+    "name": "Universidad Nacional Autónoma de México (UNAM)",
     "country": "Mexico",
     "city": "Mexico City",
     "programs": [
