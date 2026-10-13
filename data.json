@@ -8513,11 +8513,15 @@
     "graduatesPerYear": "40-60",
     "topics": [
       "BIM",
+      "openBIM & IFC",
+      "Collaborative Workflows",
       "Infrastructure Engineering",
       "Structural Engineering"
     ],
     "computingTopics": [
-      "BIM"
+      "BIM",
+      "openBIM & IFC",
+      "Collaborative Workflows"
     ],
     "domains": [
       "Infrastructure Engineering",
@@ -8528,7 +8532,7 @@
     "lat": 47.69419,
     "lon": 17.6274,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20",
+    "lastChecked": "2026-10-12",
     "region": "Europe",
     "costCurrency": "HUF",
     "graduatesEstimated": true,
@@ -10899,7 +10903,7 @@
     "programLinks": [
       "https://www.uni-due.de/iw/en/study/b-bi.php",
       "https://www.uni-due.de/iw/en/study/m-bi.php",
-      "https://www.uni-due.de/imperia/md/content/zentralverwaltung/bereinigte_sammlung/promov_02_2021.pdf"
+      "https://www.uni-due.de/welcome-centre/en/imm_en.php"
     ],
     "accreditation": [
       "ASIIN"
@@ -10928,7 +10932,7 @@
     "lat": 51.42909,
     "lon": 6.80086,
     "geoSource": "nominatim:name",
-    "lastChecked": "2026-07-20",
+    "lastChecked": "2026-10-12",
     "region": "Europe",
     "costCurrency": "EUR",
     "graduatesEstimated": true,
@@ -16346,24 +16350,34 @@
     "graduatesPerYear": "150-200",
     "topics": [
       "Parametric & Generative Design",
+      "Programming",
+      "BIM",
+      "nD BIM",
+      "openBIM & IFC",
+      "3D Modeling & Scanning",
       "Construction Management",
       "Structural Engineering",
-      "Programming"
+      "Facility & Asset Management"
     ],
     "computingTopics": [
       "Parametric & Generative Design",
-      "Programming"
+      "Programming",
+      "BIM",
+      "nD BIM",
+      "openBIM & IFC",
+      "3D Modeling & Scanning"
     ],
     "domains": [
       "Construction Management",
-      "Structural Engineering"
+      "Structural Engineering",
+      "Facility & Asset Management"
     ],
     "verificationLevel": 2,
     "website": "https://www.ntua.gr/",
     "lat": 37.9878,
     "lon": 23.73177,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20",
+    "lastChecked": "2026-10-12",
     "region": "Europe",
     "costCurrency": "EUR",
     "graduatesEstimated": true,
@@ -16888,9 +16902,11 @@
     "country": "North Macedonia",
     "city": "Skopje",
     "programs": [
+      "MSc Градежништво – конструктивна насока",
       "PhD Civil Engineering"
     ],
     "programLinks": [
+      "http://gf.ukim.edu.mk/wp-content/uploads/2017/05/vtor-ciklus-gradeznistvo-konstrukcii-akreditracija-23-24.pdf",
       "https://gf.ukim.edu.mk/en/"
     ],
     "accreditation": [
@@ -16904,19 +16920,22 @@
     "graduatesPerYear": "10-15",
     "topics": [
       "BIM",
-      "Digital Construction"
+      "Digital Construction",
+      "Structural Engineering"
     ],
     "computingTopics": [
       "BIM",
       "Digital Construction"
     ],
-    "domains": [],
+    "domains": [
+      "Structural Engineering"
+    ],
     "verificationLevel": 2,
     "website": "https://gf.ukim.edu.mk/%d0%b3%d1%80%d0%b0%d0%b4%d0%b5%d0%b6%d0%bd%d0%b8%d1%88%d1%82%d0%b2%d0%be-%d1%82%d1%80%d0%b5%d1%82-%d1%86%d0%b8%d0%ba%d0%bb%d1%83%d1%81/",
     "lat": 41.99622,
     "lon": 21.43189,
     "geoSource": "nominatim:city",
-    "lastChecked": "2026-07-20",
+    "lastChecked": "2026-10-12",
     "region": "Europe",
     "costCurrency": "MKD",
     "graduatesEstimated": true,
@@ -16946,19 +16965,23 @@
     "graduatesPerYear": "100",
     "topics": [
       "AI & Machine Learning",
-      "Construction Management",
       "Digital Twins",
-      "Infrastructure Engineering",
       "CAD/CAM",
       "Programming",
-      "Smart Cities & Buildings"
+      "Smart Cities & Buildings",
+      "BIM",
+      "nD BIM",
+      "Construction Management",
+      "Infrastructure Engineering"
     ],
     "computingTopics": [
       "AI & Machine Learning",
       "Digital Twins",
       "CAD/CAM",
       "Programming",
-      "Smart Cities & Buildings"
+      "Smart Cities & Buildings",
+      "BIM",
+      "nD BIM"
     ],
     "domains": [
       "Construction Management",
@@ -16969,7 +16992,7 @@
     "lat": 38.28693,
     "lon": 21.78511,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20",
+    "lastChecked": "2026-10-12",
     "region": "Europe",
     "costCurrency": "EUR",
     "graduatesEstimated": true,
@@ -17540,6 +17563,61 @@
     "costCurrency": "BAM"
   },
   {
+    "name": "Džemal Bijedić University of Mostar (UNMO) — Faculty of Civil Engineering",
+    "country": "Bosnia and Herzegovina",
+    "city": "Mostar",
+    "programs": [
+      "BSc Arhitektura",
+      "MSc Upravljanje okolišnom infrastrukturom"
+    ],
+    "programLinks": [
+      "https://gf.unmo.ba/studij/i-ciklus/arhitektura/",
+      "https://gf.unmo.ba/studij/ii-ciklus/upravljanje-okolisnom-infrastrukturom/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Bosnian",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "-",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "nD BIM",
+      "openBIM & IFC",
+      "Parametric & Generative Design",
+      "Heritage BIM",
+      "Collaborative Workflows",
+      "Architecture",
+      "Infrastructure Engineering",
+      "Sustainability"
+    ],
+    "computingTopics": [
+      "BIM",
+      "nD BIM",
+      "openBIM & IFC",
+      "Parametric & Generative Design",
+      "Heritage BIM",
+      "Collaborative Workflows"
+    ],
+    "domains": [
+      "Architecture",
+      "Infrastructure Engineering",
+      "Sustainability"
+    ],
+    "verificationLevel": 2,
+    "website": "https://gf.unmo.ba",
+    "lat": 43.35483,
+    "lon": 17.80921,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Europe",
+    "costCurrency": "BAM",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme intake places not published on the programme page (intake, not graduations)"
+  },
+  {
     "name": "University of Montenegro (UCG) — Faculty of Civil Engineering / Faculty of Architecture",
     "country": "Montenegro",
     "city": "Podgorica",
@@ -17616,16 +17694,18 @@
       "BIM",
       "CAD/CAM",
       "Construction Informatics",
-      "Construction Management",
       "ISO 19650",
-      "Programming"
+      "Programming",
+      "nD BIM",
+      "Construction Management"
     ],
     "computingTopics": [
       "BIM",
       "CAD/CAM",
       "Construction Informatics",
       "ISO 19650",
-      "Programming"
+      "Programming",
+      "nD BIM"
     ],
     "domains": [
       "Construction Management"
@@ -17635,7 +17715,7 @@
     "lat": 45.81689,
     "lon": 15.89782,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20",
+    "lastChecked": "2026-10-12",
     "region": "Europe",
     "costCurrency": "EUR",
     "graduatesEstimated": true,
@@ -17646,10 +17726,12 @@
     "country": "Croatia",
     "city": "Osijek",
     "programs": [
-      "BSc Civil Engineering"
+      "BSc Civil Engineering",
+      "PhD Građevinarstvo"
     ],
     "programLinks": [
-      "https://www.gfos.unios.hr/en/preddiplomski-sveucilisni-studij-gradevinarstvo/"
+      "https://www.gfos.unios.hr/en/preddiplomski-sveucilisni-studij-gradevinarstvo/",
+      "https://www.gfos.unios.hr/poslijediplomski-sveucilisni-studij-gradevinarstvo"
     ],
     "accreditation": [
       "Bologna Process",
@@ -17665,21 +17747,28 @@
       "Construction Informatics",
       "Digital Construction",
       "Programming",
-      "Energy Performance"
+      "Energy Performance",
+      "BIM",
+      "nD BIM",
+      "Construction Management"
     ],
     "computingTopics": [
       "Construction Informatics",
       "Digital Construction",
       "Programming",
-      "Energy Performance"
+      "Energy Performance",
+      "BIM",
+      "nD BIM"
     ],
-    "domains": [],
+    "domains": [
+      "Construction Management"
+    ],
     "verificationLevel": 2,
     "website": "http://www.gfos.unios.hr/",
     "lat": 45.55488,
     "lon": 18.69537,
     "geoSource": "nominatim:city",
-    "lastChecked": "2026-07-20",
+    "lastChecked": "2026-10-12",
     "region": "Europe",
     "costCurrency": "EUR",
     "graduatesEstimated": true,
@@ -19190,7 +19279,7 @@
     "lon": 33.31494,
     "geoSource": "nominatim:name+city",
     "lastChecked": "2026-07-20",
-    "region": "Europe",
+    "region": "Western Asia",
     "costCurrency": "EUR",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "baseline range estimate; original dataset compilation"
@@ -19236,7 +19325,7 @@
     "lon": 33.41699,
     "geoSource": "nominatim:name (audited)",
     "lastChecked": "2026-07-20",
-    "region": "Europe",
+    "region": "Western Asia",
     "costCurrency": "EUR",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "baseline range estimate; original dataset compilation"
@@ -19288,7 +19377,7 @@
     "lon": 33.36388,
     "geoSource": "nominatim:city",
     "lastChecked": "2026-07-20",
-    "region": "Europe",
+    "region": "Western Asia",
     "costCurrency": "EUR"
   },
   {
@@ -19342,8 +19431,49 @@
     "lon": 33.03327,
     "geoSource": "nominatim:city",
     "lastChecked": "2026-07-20",
-    "region": "Europe",
+    "region": "Western Asia",
     "costCurrency": "EUR"
+  },
+  {
+    "name": "Frederick University",
+    "country": "Cyprus",
+    "city": "Nicosia",
+    "programs": [
+      "BSc Civil Engineering"
+    ],
+    "programLinks": [
+      "https://www.frederick.ac.cy/bsc-in-civil-engineering"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "9,600",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "Programming",
+      "Civil Engineering",
+      "Structural Engineering"
+    ],
+    "computingTopics": [
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Structural Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.frederick.ac.cy",
+    "lat": 35.1795,
+    "lon": 33.38026,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Western Asia",
+    "costCurrency": "EUR",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme intake places not published on the programme page (intake, not graduations)"
   },
   {
     "name": "Istanbul Technical University (ITU)",
@@ -19353,13 +19483,17 @@
       "BSc Civil Engineering",
       "MSc Project and Construction Management",
       "MSc Information Technologies in Construction Management",
-      "PhD Civil Engineering"
+      "MSc Architectural Design Computing",
+      "PhD Civil Engineering",
+      "PhD Architectural Design Computing"
     ],
     "programLinks": [
       "https://www.tyyc.itu.edu.tr/ProgramHakkinda.php?Program=INS_LS&Dili=EN",
       "https://www.tyyc.itu.edu.tr/ProgramHakkinda.php?Program=MIM_PY_YL&Dili=EN",
       "https://www.tyyc.itu.edu.tr/ProgramHakkinda.php?Program=IYB_IY_YL&Dili=EN",
-      "https://insmuh.itu.edu.tr/en/education/graduate"
+      "https://mbl.itu.edu.tr/?p=530",
+      "https://insmuh.itu.edu.tr/en/education/graduate",
+      "https://mbl.itu.edu.tr/?p=530"
     ],
     "accreditation": [
       "MÜDEK",
@@ -19373,11 +19507,18 @@
     "topics": [
       "BIM",
       "Construction Informatics",
-      "Construction Management",
       "Digital Twins",
       "Energy Performance",
       "BIM Software",
-      "Collaborative Workflows"
+      "Collaborative Workflows",
+      "Programming",
+      "Parametric & Generative Design",
+      "AI & Machine Learning",
+      "VR/AR",
+      "IoT",
+      "Data Management",
+      "Construction Management",
+      "Architecture"
     ],
     "computingTopics": [
       "BIM",
@@ -19385,17 +19526,24 @@
       "Digital Twins",
       "Energy Performance",
       "BIM Software",
-      "Collaborative Workflows"
+      "Collaborative Workflows",
+      "Programming",
+      "Parametric & Generative Design",
+      "AI & Machine Learning",
+      "VR/AR",
+      "IoT",
+      "Data Management"
     ],
     "domains": [
-      "Construction Management"
+      "Construction Management",
+      "Architecture"
     ],
     "verificationLevel": 2,
     "website": "https://www.itu.edu.tr/",
     "lat": 41.10456,
     "lon": 29.02634,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20",
+    "lastChecked": "2026-10-12",
     "region": "Europe",
     "costCurrency": "TRY",
     "graduatesEstimated": true,
@@ -19507,6 +19655,729 @@
     "costCurrency": "TRY",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "baseline range estimate; original dataset compilation"
+  },
+  {
+    "name": "Middle East Technical University (METU)",
+    "country": "Turkey",
+    "city": "Ankara",
+    "programs": [
+      "MSc Building Science",
+      "PhD Building Science"
+    ],
+    "programLinks": [
+      "https://bs.metu.edu.tr/msc-building-science",
+      "https://bs.metu.edu.tr/phd-building-science"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "-",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "nD BIM",
+      "Collaborative Workflows",
+      "Digital Fabrication",
+      "Architecture",
+      "Facility & Asset Management",
+      "Sustainability"
+    ],
+    "computingTopics": [
+      "BIM",
+      "nD BIM",
+      "Collaborative Workflows",
+      "Digital Fabrication"
+    ],
+    "domains": [
+      "Architecture",
+      "Facility & Asset Management",
+      "Sustainability"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.metu.edu.tr",
+    "lat": 39.89734,
+    "lon": 32.78172,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Western Asia",
+    "costCurrency": "TRY",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme intake places not published on the programme page (intake, not graduations)"
+  },
+  {
+    "name": "TED University (TEDU)",
+    "country": "Turkey",
+    "city": "Ankara",
+    "programs": [
+      "PhD Civil Engineering"
+    ],
+    "programLinks": [
+      "https://gradce.tedu.edu.tr/en/doctoral-course-program"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "-",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.tedu.edu.tr",
+    "lat": 39.92434,
+    "lon": 32.86122,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Western Asia",
+    "costCurrency": "TRY",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme intake places not published on the programme page (intake, not graduations)"
+  },
+  {
+    "name": "Özyeğin University",
+    "country": "Turkey",
+    "city": "Istanbul",
+    "programs": [
+      "BSc Civil Engineering"
+    ],
+    "programLinks": [
+      "https://ce.ozyegin.edu.tr/en"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "-",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Digital Construction",
+      "Civil Engineering",
+      "Infrastructure Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Digital Construction"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Infrastructure Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.ozyegin.edu.tr",
+    "lat": 41.03205,
+    "lon": 29.25979,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Western Asia",
+    "costCurrency": "TRY",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme intake places not published on the programme page (intake, not graduations)"
+  },
+  {
+    "name": "Turkish-German University (TAU)",
+    "country": "Turkey",
+    "city": "Istanbul",
+    "programs": [
+      "BSc İnşaat Mühendisliği"
+    ],
+    "programLinks": [
+      "https://im.tau.edu.tr/tr"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "German / Turkish",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "-",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Construction Informatics",
+      "Data Management",
+      "Digital Construction",
+      "Collaborative Workflows",
+      "Energy Performance",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Construction Informatics",
+      "Data Management",
+      "Digital Construction",
+      "Collaborative Workflows",
+      "Energy Performance"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.tau.edu.tr",
+    "lat": 41.14384,
+    "lon": 29.10089,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Western Asia",
+    "costCurrency": "TRY",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme intake places not published on the programme page (intake, not graduations)"
+  },
+  {
+    "name": "Antalya Bilim University",
+    "country": "Turkey",
+    "city": "Antalya",
+    "programs": [
+      "BArch Architecture"
+    ],
+    "programLinks": [
+      "https://antalya.edu.tr/en/faculty-and-departments/school-of-fine-arts-and-architecture/mimarlik"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "-",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Parametric & Generative Design",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Parametric & Generative Design"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://antalya.edu.tr",
+    "lat": 37.05256,
+    "lon": 30.62515,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Western Asia",
+    "costCurrency": "TRY",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme intake places not published on the programme page (intake, not graduations)"
+  },
+  {
+    "name": "Izmir Institute of Technology (IZTECH)",
+    "country": "Turkey",
+    "city": "Izmir",
+    "programs": [
+      "BArch Architecture",
+      "MSc Architecture",
+      "PhD Architecture"
+    ],
+    "programLinks": [
+      "https://architecture.iyte.edu.tr/undergraduate/",
+      "https://architecture.iyte.edu.tr/en/msc/",
+      "https://architecture.iyte.edu.tr/en/phd/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "-",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "Programming",
+      "Parametric & Generative Design",
+      "Digital Design",
+      "BIM",
+      "AI & Machine Learning",
+      "Energy Performance",
+      "Collaborative Workflows",
+      "Architecture",
+      "Sustainability"
+    ],
+    "computingTopics": [
+      "Programming",
+      "Parametric & Generative Design",
+      "Digital Design",
+      "BIM",
+      "AI & Machine Learning",
+      "Energy Performance",
+      "Collaborative Workflows"
+    ],
+    "domains": [
+      "Architecture",
+      "Sustainability"
+    ],
+    "verificationLevel": 2,
+    "website": "https://iyte.edu.tr",
+    "lat": 38.32266,
+    "lon": 26.63773,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Western Asia",
+    "costCurrency": "TRY",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme intake places not published on the programme page (intake, not graduations)"
+  },
+  {
+    "name": "Yaşar University",
+    "country": "Turkey",
+    "city": "Izmir",
+    "programs": [
+      "BArch Architecture"
+    ],
+    "programLinks": [
+      "https://arch.yasar.edu.tr/en/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "-",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "Parametric & Generative Design",
+      "Digital Fabrication",
+      "BIM",
+      "Energy Performance",
+      "Architecture",
+      "Sustainability"
+    ],
+    "computingTopics": [
+      "Parametric & Generative Design",
+      "Digital Fabrication",
+      "BIM",
+      "Energy Performance"
+    ],
+    "domains": [
+      "Architecture",
+      "Sustainability"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.yasar.edu.tr",
+    "lat": 38.45444,
+    "lon": 27.20245,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Western Asia",
+    "costCurrency": "TRY",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme intake places not published on the programme page (intake, not graduations)"
+  },
+  {
+    "name": "Izmir University of Economics (IEU)",
+    "country": "Turkey",
+    "city": "Izmir",
+    "programs": [
+      "BArch Architecture"
+    ],
+    "programLinks": [
+      "https://mmr.ieu.edu.tr/en"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "-",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.ieu.edu.tr",
+    "lat": 38.38846,
+    "lon": 27.0446,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Western Asia",
+    "costCurrency": "TRY",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme intake places not published on the programme page (intake, not graduations)"
+  },
+  {
+    "name": "Karadeniz Technical University (KTU)",
+    "country": "Turkey",
+    "city": "Trabzon",
+    "programs": [
+      "MSc İnşaat Mühendisliği",
+      "PhD İnşaat Mühendisliği",
+      "MSc Mimarlık",
+      "PhD Mimarlık",
+      "Building Information Modelling (BIM) and Infrastructure Projects Certificate Program"
+    ],
+    "programLinks": [
+      "https://www.ktu.edu.tr/fbeinsaat",
+      "https://www.ktu.edu.tr/fbeinsaat",
+      "https://www.ktu.edu.tr/fbemimarlik",
+      "https://www.ktu.edu.tr/fbemimarlik",
+      "https://www.ktu.edu.tr/uzemen/buildinginformationmodellingbimandinfrastructureprojectscertificateprogram"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Turkish",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential / Online",
+    "cost": "-",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "nD BIM",
+      "BIM Software",
+      "Collaborative Workflows",
+      "Infrastructure BIM",
+      "AI & Machine Learning",
+      "Energy Performance",
+      "CAD/CAM",
+      "Civil Engineering",
+      "Construction Management",
+      "Architecture",
+      "Infrastructure Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "nD BIM",
+      "BIM Software",
+      "Collaborative Workflows",
+      "Infrastructure BIM",
+      "AI & Machine Learning",
+      "Energy Performance",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management",
+      "Architecture",
+      "Infrastructure Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.ktu.edu.tr",
+    "lat": 40.99364,
+    "lon": 39.77403,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Western Asia",
+    "costCurrency": "TRY",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme intake places not published on the programme page (intake, not graduations)"
+  },
+  {
+    "name": "Çankaya University",
+    "country": "Turkey",
+    "city": "Ankara",
+    "programs": [
+      "BArch Mimarlık"
+    ],
+    "programLinks": [
+      "https://arch.cankaya.edu.tr/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "-",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "AI & Machine Learning",
+      "Digital Design",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "AI & Machine Learning",
+      "Digital Design"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.cankaya.edu.tr",
+    "lat": 39.82019,
+    "lon": 32.56269,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Western Asia",
+    "costCurrency": "TRY",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme intake places not published on the programme page (intake, not graduations)"
+  },
+  {
+    "name": "Atılım University",
+    "country": "Turkey",
+    "city": "Ankara",
+    "programs": [
+      "BSc Civil Engineering"
+    ],
+    "programLinks": [
+      "https://www.atilim.edu.tr/en/ce/page/2240/curriculum"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "-",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "IoT",
+      "VR/AR",
+      "Robotics & Automation",
+      "AI & Machine Learning",
+      "Programming",
+      "Digital Construction",
+      "Civil Engineering",
+      "Structural Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "IoT",
+      "VR/AR",
+      "Robotics & Automation",
+      "AI & Machine Learning",
+      "Programming",
+      "Digital Construction"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Structural Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.atilim.edu.tr",
+    "lat": 39.81865,
+    "lon": 32.72035,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Western Asia",
+    "costCurrency": "TRY",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme intake places not published on the programme page (intake, not graduations)"
+  },
+  {
+    "name": "TOBB University of Economics and Technology (TOBB ETÜ)",
+    "country": "Turkey",
+    "city": "Ankara",
+    "programs": [
+      "BArch Mimarlık"
+    ],
+    "programLinks": [
+      "https://www.etu.edu.tr/tr/bolum/mimarlik/ders-mufredati"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Turkish",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "-",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "AI & Machine Learning",
+      "Digital Design",
+      "Collaborative Workflows",
+      "VR/AR",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "AI & Machine Learning",
+      "Digital Design",
+      "Collaborative Workflows",
+      "VR/AR"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.etu.edu.tr",
+    "lat": 39.92017,
+    "lon": 32.79732,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Western Asia",
+    "costCurrency": "TRY",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme intake places not published on the programme page (intake, not graduations)"
+  },
+  {
+    "name": "Ankara University — Faculty of Applied Sciences",
+    "country": "Turkey",
+    "city": "Ankara",
+    "programs": [
+      "BSc Gayrimenkul Geliştirme ve Yönetimi"
+    ],
+    "programLinks": [
+      "https://ggy.ankara.edu.tr/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Turkish",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "-",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "nD BIM",
+      "Collaborative Workflows",
+      "Construction Management",
+      "Facility & Asset Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "nD BIM",
+      "Collaborative Workflows"
+    ],
+    "domains": [
+      "Construction Management",
+      "Facility & Asset Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.ankara.edu.tr",
+    "lat": 39.93398,
+    "lon": 32.83284,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Western Asia",
+    "costCurrency": "TRY",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme intake places not published on the programme page (intake, not graduations)"
+  },
+  {
+    "name": "Gazi University",
+    "country": "Turkey",
+    "city": "Ankara",
+    "programs": [
+      "BArch Mimarlık",
+      "PhD Mimarlık"
+    ],
+    "programLinks": [
+      "https://obs.gazi.edu.tr/oibs/bologna/index.aspx?lang=en&curOp=showPac&curUnit=10&curSunit=106060482",
+      "https://fbe.gazi.edu.tr/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Turkish",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "-",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "CAD/CAM",
+      "BIM",
+      "AI & Machine Learning",
+      "Energy Performance",
+      "Architecture",
+      "Sustainability"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "BIM",
+      "AI & Machine Learning",
+      "Energy Performance"
+    ],
+    "domains": [
+      "Architecture",
+      "Sustainability"
+    ],
+    "verificationLevel": 2,
+    "website": "https://gazi.edu.tr",
+    "lat": 39.93167,
+    "lon": 32.84618,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Western Asia",
+    "costCurrency": "TRY",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme intake places not published on the programme page (intake, not graduations)"
+  },
+  {
+    "name": "Gaziantep University",
+    "country": "Turkey",
+    "city": "Gaziantep",
+    "programs": [
+      "BSc Civil Engineering",
+      "MSc Civil Engineering",
+      "PhD Civil Engineering"
+    ],
+    "programLinks": [
+      "https://ce.gantep.edu.tr/pages.php?url=ders-icerikleri-10",
+      "https://ce.gantep.edu.tr/pages.php?url=ders-icerikleri-10",
+      "https://ce.gantep.edu.tr/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "-",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "Programming",
+      "CAD/CAM",
+      "Construction Informatics",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "Programming",
+      "CAD/CAM",
+      "Construction Informatics"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.gantep.edu.tr",
+    "lat": 37.03548,
+    "lon": 37.31847,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "Western Asia",
+    "costCurrency": "TRY",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "programme intake places not published on the programme page (intake, not graduations)"
   },
   {
     "name": "Universidad de Chile",
