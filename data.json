@@ -28846,11 +28846,13 @@
     "city": "Northridge",
     "programs": [
       "BS Construction Management",
-      "MS Construction Management"
+      "MS Construction Management",
+      "BS Civil Engineering"
     ],
     "programLinks": [
       "https://catalog.csun.edu/academics/CM/",
-      "https://catalog.csun.edu/academics/CM/"
+      "https://catalog.csun.edu/academics/CM/",
+      "https://catalog.csun.edu/academics/ce/programs/bs-civil-engineering/"
     ],
     "accreditation": [
       "-"
@@ -28864,15 +28866,21 @@
       "BIM",
       "Collaborative Workflows",
       "Construction Informatics",
-      "Construction Management"
+      "Programming",
+      "CAD/CAM",
+      "Construction Management",
+      "Civil Engineering"
     ],
     "computingTopics": [
       "BIM",
       "Collaborative Workflows",
-      "Construction Informatics"
+      "Construction Informatics",
+      "Programming",
+      "CAD/CAM"
     ],
     "domains": [
-      "Construction Management"
+      "Construction Management",
+      "Civil Engineering"
     ],
     "verificationLevel": 2,
     "website": "https://www.csun.edu",
@@ -28883,7 +28891,7 @@
     "region": "North America",
     "costCurrency": "USD",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "intake not published. Catalog: CM 508 Construction Information Technology (BIM, VDC, clash detection, information systems); CM 608 Advanced BIM in Construction Management (document management, information sharing)."
+    "graduatesEstimateBasis": "intake not published. Catalog: CM 508 Construction Information Technology (BIM, VDC, clash detection, information systems); CM 608 Advanced BIM in Construction Management (document management, information sharing). BS Civil Engineering: CE 280/L Computer Applications in Civil Engineering (programming, VBA, CAD drawings, structural analysis packages, algorithms for civil engineering problems)."
   },
   {
     "name": "California State University, East Bay",
@@ -31427,6 +31435,7 @@
       "VR/AR",
       "3D Modeling & Scanning",
       "Robotics & Automation",
+      "AI & Machine Learning",
       "Construction Management",
       "Prefabrication & Modular Construction"
     ],
@@ -31435,7 +31444,8 @@
       "nD BIM",
       "VR/AR",
       "3D Modeling & Scanning",
-      "Robotics & Automation"
+      "Robotics & Automation",
+      "AI & Machine Learning"
     ],
     "domains": [
       "Construction Management",
@@ -31450,7 +31460,7 @@
     "region": "North America",
     "costCurrency": "USD",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "enrolment not published. ConstructED (UNLV Economic Development) professional course on BIM for complex construction projects, 8 weeks, delivered through UNLV's learning management system. The BS Construction Management (ACCE) page names no computing courses. PhD route: J. O. Choi (automation in construction, modular construction, 4D BIM schedule with immersive VR, drones, LiDAR and photogrammetry point clouds, sensors)."
+    "graduatesEstimateBasis": "enrolment not published. ConstructED (UNLV Economic Development) professional course on BIM for complex construction projects, 8 weeks, delivered through UNLV's learning management system. The BS Construction Management (ACCE) page names no computing courses. PhD route: J. O. Choi (automation in construction, modular construction, 4D BIM schedule with immersive VR, drones, LiDAR and photogrammetry point clouds, sensors). Also S. Park (AI in construction: computer vision, NLP, LLMs; human-robot collaboration; BIM)."
   },
   {
     "name": "University of California, San Diego (UCSD)",
@@ -32490,10 +32500,12 @@
     "country": "United States",
     "city": "Lincoln",
     "programs": [
-      "BS Construction Management"
+      "BS Construction Management",
+      "PhD in Engineering"
     ],
     "programLinks": [
-      "https://catalog.unl.edu/undergraduate/engineering/construction-management/"
+      "https://catalog.unl.edu/undergraduate/engineering/construction-management/",
+      "https://engineering.unl.edu/durhamschool/cons-phd/"
     ],
     "accreditation": [
       "-"
@@ -32505,10 +32517,22 @@
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
+      "Robotics & Automation",
+      "VR/AR",
+      "AI & Machine Learning",
+      "IoT",
+      "Data Management",
+      "nD BIM",
       "Construction Management"
     ],
     "computingTopics": [
-      "BIM"
+      "BIM",
+      "Robotics & Automation",
+      "VR/AR",
+      "AI & Machine Learning",
+      "IoT",
+      "Data Management",
+      "nD BIM"
     ],
     "domains": [
       "Construction Management"
@@ -32522,7 +32546,7 @@
     "region": "North America",
     "costCurrency": "USD",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "intake not published. Catalog (Durham School): CNST 225 Introduction to Building Information Modeling (BIM); CNST 440 Building Information Modeling (BIM) II."
+    "graduatesEstimateBasis": "intake not published. Catalog (Durham School): CNST 225 Introduction to Building Information Modeling (BIM); CNST 440 Building Information Modeling (BIM) II. PhD in Engineering (construction specialization) offered at Lincoln and Omaha; Durham School research area BIM; K. Kim (BIM-driven construction robotization, 4D BIM and robot task planning). Durham School uses BIM throughout the curriculum with VR, AI, IoT and big data (MCAA programme profile)."
   },
   {
     "name": "University of Nebraska–Lincoln (UNL) — Campus Omaha",
@@ -32530,11 +32554,13 @@
     "city": "Omaha",
     "programs": [
       "BS Construction Management",
-      "BS Architectural Engineering"
+      "BS Architectural Engineering",
+      "PhD in Engineering"
     ],
     "programLinks": [
       "https://catalog.unl.edu/undergraduate/engineering/construction-management/",
-      "https://catalog.unl.edu/undergraduate/engineering/architectural/"
+      "https://catalog.unl.edu/undergraduate/engineering/architectural/",
+      "https://engineering.unl.edu/durhamschool/cons-phd/"
     ],
     "accreditation": [
       "-"
@@ -32546,11 +32572,23 @@
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
+      "Robotics & Automation",
+      "VR/AR",
+      "AI & Machine Learning",
+      "IoT",
+      "Data Management",
+      "nD BIM",
       "Construction Management",
       "Architecture"
     ],
     "computingTopics": [
-      "BIM"
+      "BIM",
+      "Robotics & Automation",
+      "VR/AR",
+      "AI & Machine Learning",
+      "IoT",
+      "Data Management",
+      "nD BIM"
     ],
     "domains": [
       "Construction Management",
@@ -32565,7 +32603,7 @@
     "region": "North America",
     "costCurrency": "USD",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "intake not published. Catalog (Durham School, Omaha): CNST 225 Introduction to BIM; CNST 440 BIM II; Architectural Engineering introduces building information technology (BIM) and building systems."
+    "graduatesEstimateBasis": "intake not published. Catalog (Durham School, Omaha): CNST 225 Introduction to BIM; CNST 440 BIM II; Architectural Engineering introduces building information technology (BIM) and building systems. PhD in Engineering (construction specialization) offered at Lincoln and Omaha; Durham School research area BIM; K. Kim (BIM-driven construction robotization, 4D BIM and robot task planning). Durham School uses BIM throughout the curriculum with VR, AI, IoT and big data (MCAA programme profile)."
   },
   {
     "name": "University of Kansas (KU)",
@@ -32973,11 +33011,13 @@
     "city": "Arlington",
     "programs": [
       "BS Construction Management",
-      "Master of Construction Management"
+      "Master of Construction Management",
+      "PhD Civil Engineering"
     ],
     "programLinks": [
       "https://catalog.uta.edu/engineering/civil/undergraduate/construction-management-bs/",
-      "https://catalog.uta.edu/engineering/civil/graduate/construction-management-m/"
+      "https://catalog.uta.edu/engineering/civil/graduate/construction-management-m/",
+      "https://catalog.uta.edu/engineering/civil/graduate/civil-engr-construction-phd/"
     ],
     "accreditation": [
       "-"
@@ -32993,6 +33033,8 @@
       "Collaborative Workflows",
       "3D Modeling & Scanning",
       "Digital Construction",
+      "AI & Machine Learning",
+      "Data Management",
       "Construction Management",
       "Architecture"
     ],
@@ -33001,7 +33043,9 @@
       "nD BIM",
       "Collaborative Workflows",
       "3D Modeling & Scanning",
-      "Digital Construction"
+      "Digital Construction",
+      "AI & Machine Learning",
+      "Data Management"
     ],
     "domains": [
       "Construction Management",
@@ -33016,17 +33060,21 @@
     "region": "North America",
     "costCurrency": "USD",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "intake not published. Catalog: CM 4351 BIM for Construction Management; CM 4334 Drones & Advanced Construction Technology; CM 5343 Advanced BIM (Revit, clash detection, BIM for estimating and scheduling); ARCH 3357 Design Technologies - BIM for Architects/Engineers."
+    "graduatesEstimateBasis": "intake not published. Catalog: CM 4351 BIM for Construction Management; CM 4334 Drones & Advanced Construction Technology; CM 5343 Advanced BIM (Revit, clash detection, BIM for estimating and scheduling); ARCH 3357 Design Technologies - BIM for Architects/Engineers. PhD route: M. N. Sakib (AI, data analytics and human factors in construction; previously taught BIM and machine learning at Texas A&M)."
   },
   {
     "name": "University of Texas at San Antonio (UTSA)",
     "country": "United States",
     "city": "San Antonio",
     "programs": [
-      "BS Construction Science and Management"
+      "BS Construction Science and Management",
+      "MS Construction Science and Management",
+      "PhD Civil Engineering"
     ],
     "programLinks": [
-      "https://catalog.utsa.edu/undergraduate/engineeringintegrateddesign/civilenvironengr-constructionmgt/"
+      "https://catalog.utsa.edu/undergraduate/engineeringintegrateddesign/civilenvironengr-constructionmgt/",
+      "https://catalog.utsa.edu/graduate/coursedescriptions/csm/",
+      "https://future.utsa.edu/programs/doctoral/civil-engineering/"
     ],
     "accreditation": [
       "-"
@@ -33038,10 +33086,18 @@
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
+      "Digital Twins",
+      "AI & Machine Learning",
+      "IoT",
+      "VR/AR",
       "Construction Management"
     ],
     "computingTopics": [
-      "BIM"
+      "BIM",
+      "Digital Twins",
+      "AI & Machine Learning",
+      "IoT",
+      "VR/AR"
     ],
     "domains": [
       "Construction Management"
@@ -33055,7 +33111,7 @@
     "region": "North America",
     "costCurrency": "USD",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "intake not published. Catalog: CSM 4533 Building Information Modeling for Construction Management; graduate construction courses include BIM and AI."
+    "graduatesEstimateBasis": "intake not published. Catalog: CSM 4533 Building Information Modeling for Construction Management; graduate construction courses include BIM and AI. PhD route: T. He, Ambient Intelligence Lab (digital twins, machine learning/LLMs, BIM, building automation and IoT data, VR/AR for smart built environments). Graduate catalog: CSM 5223 BIM for Construction Management; CSM 6643 Artificial Intelligence in Construction Management; CSM 5633 Technology and Project Management."
   },
   {
     "name": "Tarleton State University",
@@ -34929,6 +34985,1969 @@
     "costCurrency": "USD",
     "graduatesEstimated": true,
     "graduatesEstimateBasis": "intake not published. Course outcome summary CONM 205 BIM for Construction Management (required programme core): Revit models, integrating disciplines in one BIM model, quantity take-off, scheduling. Fee: fall 2026 USD 139.70 in-district / 265.85 out-of-state per billable contact hour x 30."
+  },
+  {
+    "name": "Purdue University — Campus West Lafayette",
+    "country": "United States",
+    "city": "West Lafayette",
+    "programs": [
+      "BS Construction Management Technology",
+      "BS Computer Graphics Technology – Building Information Modeling",
+      "PhD Technology"
+    ],
+    "programLinks": [
+      "https://polytechnic.purdue.edu/degrees/construction-management-technology",
+      "https://catalog.purdue.edu/preview_program.php?catoid=7&poid=6934",
+      "https://polytechnic.purdue.edu/degrees/phd-technology"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "9,992 - 32,104",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "openBIM & IFC",
+      "AI & Machine Learning",
+      "VR/AR",
+      "Robotics & Automation",
+      "Infrastructure BIM",
+      "BIM Software",
+      "Programming",
+      "3D Modeling & Scanning",
+      "Collaborative Workflows",
+      "Construction Management",
+      "Prefabrication & Modular Construction"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM",
+      "openBIM & IFC",
+      "AI & Machine Learning",
+      "VR/AR",
+      "Robotics & Automation",
+      "Infrastructure BIM",
+      "BIM Software",
+      "Programming",
+      "3D Modeling & Scanning",
+      "Collaborative Workflows"
+    ],
+    "domains": [
+      "Construction Management",
+      "Prefabrication & Modular Construction"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.purdue.edu",
+    "lat": 40.43003,
+    "lon": -86.92642,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Programme page: CAD and BIM tools, construction documents, surveying, MEP. PhD route: J. Zhang, AutoIC Lab, Bowen School of Construction (BIM interoperability, automated code compliance checking with NLP/AI, BIM for bridges and infrastructure, VR, human-robot construction; six NSF projects). Fee: BS Construction Management Technology tuition per year, local to international (Studyportals). BS Computer Graphics Technology – BIM (2016-17 catalog, supplied by user): CGT 46000 BIM for Commercial Construction; CGT 26200 Introduction to Construction Graphics; CGT 36000/46200 Construction Documentation; CGT 21500 Computer Graphics Programming I; CGT 11600 Geometric Modeling."
+  },
+  {
+    "name": "Purdue University — Campus Indianapolis",
+    "country": "United States",
+    "city": "Indianapolis",
+    "programs": [
+      "BS Construction Management Technology"
+    ],
+    "programLinks": [
+      "https://polytechnic.purdue.edu/degrees/construction-management-technology"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "9,758 - 28,560",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.purdue.edu",
+    "lat": 39.77488,
+    "lon": -86.16805,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Programme page: Construction Management also offered in Indianapolis; CAD and BIM tools, construction documents, surveying, MEP. Fee: Purdue in Indianapolis 2026-27 undergraduate tuition sub-total, resident to non-resident (Purdue bursar)."
+  },
+  {
+    "name": "Ball State University",
+    "country": "United States",
+    "city": "Muncie",
+    "programs": [
+      "BS Construction Management"
+    ],
+    "programLinks": [
+      "https://bsu.smartcatalogiq.com/en/2026-2027/undergraduate-catalog/courses/cm-construction-management/200/cm-206"
+    ],
+    "accreditation": [
+      "ACCE"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "8,948 - 27,496",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.bsu.edu",
+    "lat": 40.20973,
+    "lon": -85.41122,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Catalog 2026-27: CM 206 BIM for Construction Management; CAD for Construction Management. ACCE-accredited. Fee: BS Construction Management tuition per year, in-state to out-of-state (Studyportals)."
+  },
+  {
+    "name": "Trine University",
+    "country": "United States",
+    "city": "Angola",
+    "programs": [
+      "Bachelor of Applied Science in Construction Management"
+    ],
+    "programLinks": [
+      "https://trine.smartcatalogiq.com/en/current/trine-course-catalog/engineering-and-computing/reiners-department-of-civil-and-environmental-engineering/bachelor-of-applied-science-in-construction-management-95-hrs"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "35,000 - 38,180",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Construction Informatics",
+      "Collaborative Workflows",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Construction Informatics",
+      "Collaborative Workflows"
+    ],
+    "domains": [
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.trine.edu",
+    "lat": 41.63111,
+    "lon": -85.0106,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Catalog: CM 3003 Construction Tech & BIM (BIM for design and coordination, project management software); outcomes include BIM tools. Fee: undergraduate tuition per year (Studee listing)."
+  },
+  {
+    "name": "Ivy Tech Community College — Campus Lafayette",
+    "country": "United States",
+    "city": "Lafayette",
+    "programs": [
+      "Design Technology – Architectural Design Certificate"
+    ],
+    "programLinks": [
+      "https://www.ivytech.edu/programs/all-academic-programs/school-of-advanced-manufacturing-engineering-applied-science/design-technology/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Part-time",
+    "delivery": "Presential",
+    "cost": "5,154 - 9,935",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.ivytech.edu",
+    "lat": 40.3831,
+    "lon": -86.84028,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. DESN 115 BIM Architecture (Fall 2026 sections at Lafayette); Design Technology – Architectural Design certificate offered at Lafayette. Fee: in-state full-time USD 2,577.11 per semester x 2 (frozen through 2026-27) to out-of-state tuition and fees (NCES 2024-25)."
+  },
+  {
+    "name": "Ivy Tech Community College — Campus Indianapolis",
+    "country": "United States",
+    "city": "Indianapolis",
+    "programs": [
+      "Design Technology"
+    ],
+    "programLinks": [
+      "https://www.ivytech.edu/programs/all-academic-programs/school-of-advanced-manufacturing-engineering-applied-science/design-technology/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Part-time",
+    "delivery": "Presential / Online",
+    "cost": "5,154 - 9,935",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.ivytech.edu",
+    "lat": 39.80486,
+    "lon": -86.15902,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. DESN 115 BIM Architecture (Fall 2026 online sections run from Indianapolis/Lawrence/Plainfield). Fee: in-state full-time USD 2,577.11 per semester x 2 (frozen through 2026-27) to out-of-state tuition and fees (NCES 2024-25)."
+  },
+  {
+    "name": "Eastern Illinois University (EIU)",
+    "country": "United States",
+    "city": "Charleston",
+    "programs": [
+      "BS Construction Management"
+    ],
+    "programLinks": [
+      "https://www.eiu.edu/construction-management/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "10,430 - 13,037",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Construction Informatics",
+      "Construction Management",
+      "Facility & Asset Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Construction Informatics"
+    ],
+    "domains": [
+      "Construction Management",
+      "Facility & Asset Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.eiu.edu",
+    "lat": 39.47869,
+    "lon": -88.17907,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Programme sheet: construction information management (BIM) course; EGT 1323 Computers for Engineering Technology. Fee: BS Construction Management tuition per year, domestic to international (Studyportals)."
+  },
+  {
+    "name": "University of Notre Dame",
+    "country": "United States",
+    "city": "Notre Dame",
+    "programs": [
+      "Minor in Construction Management"
+    ],
+    "programLinks": [
+      "https://engineering.nd.edu/departments-programs/undergraduate-programs/minors-in-engineering/minor-in-construction-management/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "69,280",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.nd.edu",
+    "lat": 41.70457,
+    "lon": -86.23822,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Minor page: learning outcome on using technology on construction projects such as BIM and CAD; required course ARCH 40XXX AutoCAD and BIM. Fee: 2026-27 full-time undergraduate tuition (Notre Dame published charges)."
+  },
+  {
+    "name": "Rose-Hulman Institute of Technology",
+    "country": "United States",
+    "city": "Terre Haute",
+    "programs": [
+      "BS Civil Engineering"
+    ],
+    "programLinks": [
+      "https://www.rose-hulman.edu/academics/course-catalog/2023-2024/programs/Civil%20Engineering/index.html"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "56,910",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "Construction Informatics",
+      "Programming",
+      "CAD/CAM",
+      "Data Management",
+      "Civil Engineering",
+      "Construction Engineering"
+    ],
+    "computingTopics": [
+      "Construction Informatics",
+      "Programming",
+      "CAD/CAM",
+      "Data Management"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.rose-hulman.edu",
+    "lat": 39.48292,
+    "lon": -87.32416,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Catalog 2023-24: CE 310 Computer Applications in Civil Engineering; CE 111 Geographic Information Systems; EM 102 Graphical Communications for CE; CE 441 Construction Engineering. Fee: BS Civil Engineering tuition per year (Studyportals)."
+  },
+  {
+    "name": "Indiana State University",
+    "country": "United States",
+    "city": "Terre Haute",
+    "programs": [
+      "BS Construction Management"
+    ],
+    "programLinks": [
+      "https://www.indianastate.edu/academics/academic-program-finder/construction-management-bs"
+    ],
+    "accreditation": [
+      "ACCE"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "9,978 - 22,042",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Construction Management",
+      "Sustainability"
+    ],
+    "computingTopics": [
+      "BIM"
+    ],
+    "domains": [
+      "Construction Management",
+      "Sustainability"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.indianastate.edu",
+    "lat": 39.47092,
+    "lon": -87.40921,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Catalog 2026-27 (supplied by user): CNST 106 Building Information Modeling (BIM), required first-year critical course; ACCE-accredited. Fee: tuition and fees, in-state to out-of-state (latest federal College Scorecard-based listing)."
+  },
+  {
+    "name": "Purdue University Fort Wayne (PFW)",
+    "country": "United States",
+    "city": "Fort Wayne",
+    "programs": [
+      "BS Engineering Technology – Construction Management"
+    ],
+    "programLinks": [
+      "https://catalog.pfw.edu/preview_program.php?catoid=73&poid=22484"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "9,532 - 24,428",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "CAD/CAM",
+      "Digital Design",
+      "Construction Management",
+      "Sustainability"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "Digital Design"
+    ],
+    "domains": [
+      "Construction Management",
+      "Sustainability"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.pfw.edu",
+    "lat": 41.11943,
+    "lon": -85.10819,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Catalog 2026-27 4-year plan (supplied by user): CM 12300 / CM 32300 Digital Graphics for the Built Environment I-II. Fee: BS Construction Management tuition per year (Studyportals)."
+  },
+  {
+    "name": "Western Kentucky University (WKU)",
+    "country": "United States",
+    "city": "Bowling Green",
+    "programs": [
+      "BS Architectural Science",
+      "BS Construction Management"
+    ],
+    "programLinks": [
+      "https://catalog.wku.edu/undergraduate/science-engineering/engineering-applied-sciences/architectural-science-bs/",
+      "https://catalog.wku.edu/undergraduate/science-engineering/engineering-applied-sciences/construction-management-bs/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "12,072 - 27,000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.wku.edu",
+    "lat": 36.98453,
+    "lon": -86.45765,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Catalog: AS 351 Building Information Modeling (advanced architectural modelling, Revit), in both programmes. Fee: 2026-27 tuition and mandatory fees, in-state to out-of-state (WKU cost of attendance)."
+  },
+  {
+    "name": "Eastern Kentucky University (EKU)",
+    "country": "United States",
+    "city": "Richmond",
+    "programs": [
+      "BS Construction Management"
+    ],
+    "programLinks": [
+      "https://eku.edu/jsms/safety-security-and-emergency-management/bs-construction-management"
+    ],
+    "accreditation": [
+      "ACCE"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "10,020 - 12,000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.eku.edu",
+    "lat": 37.73416,
+    "lon": -84.3012,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. AGC Kentucky Constructor article on the EKU programme: curriculum updated to incorporate BIM for controlling on-site construction processes; CON 294 Construction Graphics. Fee: full-time in-state USD 5,010 per semester x 2 (EKU programme page) to out-of-state (Studyportals)."
+  },
+  {
+    "name": "Bluegrass Community and Technical College",
+    "country": "United States",
+    "city": "Lexington",
+    "programs": [
+      "Architectural Technology (AAS)"
+    ],
+    "programLinks": [
+      "https://catalog.kctcs.edu/programs-of-study/aas/architectural-technology/architectural-technology-aas/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential",
+    "cost": "4,706",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://bluegrass.kctcs.edu",
+    "lat": 38.02468,
+    "lon": -84.50318,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. KCTCS catalog: Architectural Technology AAS offered at Bluegrass; ACH 280 Revit/Building Information Modeling; ACH 195 Computer Aided Drafting I."
+  },
+  {
+    "name": "Ashland Community and Technical College",
+    "country": "United States",
+    "city": "Ashland",
+    "programs": [
+      "Architectural Designer Certificate"
+    ],
+    "programLinks": [
+      "https://catalog.kctcs.edu/programs-of-study/aas/computer-aided-drafting-design/architectural-designer-certificate/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Part-time",
+    "delivery": "Presential",
+    "cost": "4,706",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://kctcs.edu",
+    "lat": 38.47841,
+    "lon": -82.63794,
+    "geoSource": "manual:city",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. KCTCS catalog: Architectural Designer Certificate (offered at this college; may be fully online): CAD 100 Introduction to CAD; CAD 216 Building Information Modeling (option to CAD 220)."
+  },
+  {
+    "name": "Elizabethtown Community and Technical College",
+    "country": "United States",
+    "city": "Elizabethtown",
+    "programs": [
+      "Architectural Designer Certificate"
+    ],
+    "programLinks": [
+      "https://catalog.kctcs.edu/programs-of-study/aas/computer-aided-drafting-design/architectural-designer-certificate/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Part-time",
+    "delivery": "Presential",
+    "cost": "4,706",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://kctcs.edu",
+    "lat": 37.69337,
+    "lon": -85.87885,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. KCTCS catalog: Architectural Designer Certificate (offered at this college; may be fully online): CAD 100 Introduction to CAD; CAD 216 Building Information Modeling (option to CAD 220)."
+  },
+  {
+    "name": "Hazard Community and Technical College",
+    "country": "United States",
+    "city": "Hazard",
+    "programs": [
+      "Architectural Designer Certificate"
+    ],
+    "programLinks": [
+      "https://catalog.kctcs.edu/programs-of-study/aas/computer-aided-drafting-design/architectural-designer-certificate/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Part-time",
+    "delivery": "Presential",
+    "cost": "4,706",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://kctcs.edu",
+    "lat": 37.23531,
+    "lon": -83.17658,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. KCTCS catalog: Architectural Designer Certificate (offered at this college; may be fully online): CAD 100 Introduction to CAD; CAD 216 Building Information Modeling (option to CAD 220)."
+  },
+  {
+    "name": "Hopkinsville Community College",
+    "country": "United States",
+    "city": "Hopkinsville",
+    "programs": [
+      "Architectural Designer Certificate"
+    ],
+    "programLinks": [
+      "https://catalog.kctcs.edu/programs-of-study/aas/computer-aided-drafting-design/architectural-designer-certificate/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Part-time",
+    "delivery": "Presential",
+    "cost": "4,706",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://kctcs.edu",
+    "lat": 36.88444,
+    "lon": -87.48954,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. KCTCS catalog: Architectural Designer Certificate (offered at this college; may be fully online): CAD 100 Introduction to CAD; CAD 216 Building Information Modeling (option to CAD 220)."
+  },
+  {
+    "name": "West Kentucky Community and Technical College",
+    "country": "United States",
+    "city": "Paducah",
+    "programs": [
+      "Architectural Designer Certificate"
+    ],
+    "programLinks": [
+      "https://catalog.kctcs.edu/programs-of-study/aas/computer-aided-drafting-design/architectural-designer-certificate/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Part-time",
+    "delivery": "Presential",
+    "cost": "4,706",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://kctcs.edu",
+    "lat": 37.05464,
+    "lon": -88.65815,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. KCTCS catalog: Architectural Designer Certificate (offered at this college; may be fully online): CAD 100 Introduction to CAD; CAD 216 Building Information Modeling (option to CAD 220)."
+  },
+  {
+    "name": "University of Kentucky (UK)",
+    "country": "United States",
+    "city": "Lexington",
+    "programs": [
+      "PhD Civil Engineering"
+    ],
+    "programLinks": [
+      "https://academics.uky.edu/programs/doctoral/civil-engineering"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "15,084 - 37,326",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "Digital Twins",
+      "VR/AR",
+      "Digital Construction",
+      "Construction Management",
+      "Infrastructure Engineering",
+      "Facility & Asset Management"
+    ],
+    "computingTopics": [
+      "Digital Twins",
+      "VR/AR",
+      "Digital Construction"
+    ],
+    "domains": [
+      "Construction Management",
+      "Infrastructure Engineering",
+      "Facility & Asset Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.uky.edu",
+    "lat": 38.02663,
+    "lon": -84.50472,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. PhD route: H. Nassereddine, Construction Engineering and Project Management (COIN lab: Construction 4.0 with a focus on digital twins and augmented reality, digital delivery, transportation asset management; Kentucky Transportation Center). Fee: graduate civil engineering tuition per year, resident to non-resident (Studyportals; UK lists USD 825.50 / 2,060.50 per credit hour)."
+  },
+  {
+    "name": "Middle Tennessee State University (MTSU)",
+    "country": "United States",
+    "city": "Murfreesboro",
+    "programs": [
+      "BS Construction Management",
+      "BS Concrete Industry Management"
+    ],
+    "programLinks": [
+      "https://ccm.mtsu.edu/",
+      "https://ccm.mtsu.edu/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "11,568 - 35,412",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "3D Modeling & Scanning",
+      "Construction Informatics",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "3D Modeling & Scanning",
+      "Construction Informatics"
+    ],
+    "domains": [
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.mtsu.edu",
+    "lat": 35.8486,
+    "lon": -86.3609,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Programme brochure: technology in the classroom including drones, Procore, Bluebeam and Revit; Concrete Industry Management uses Tekla Structures BIM across the curriculum (Tekla education programme). Fee: 2026-27 undergraduate tuition and program services fee at 15 credits per semester x 2 (MTSU fee schedule)."
+  },
+  {
+    "name": "University of Tennessee at Chattanooga (UTC)",
+    "country": "United States",
+    "city": "Chattanooga",
+    "programs": [
+      "BS Engineering Technology Management – Construction Management"
+    ],
+    "programLinks": [
+      "https://www.utc.edu/engineering-and-computer-science/academic-programs/engineering-management-and-technology"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "10,448 - 27,308",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.utc.edu",
+    "lat": 35.04709,
+    "lon": -85.29826,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. University news: Construction Management concentration teaches BIM using donated ArchiCAD licences as part of the curriculum. Fee: Engineering Technology Management – Construction Management tuition per year, in-state to international (Studyportals)."
+  },
+  {
+    "name": "Nashville State Community College",
+    "country": "United States",
+    "city": "Nashville",
+    "programs": [
+      "Architectural Design Technology (AAS, certificate)",
+      "Civil and Construction Engineering Technology (AAS, certificate)"
+    ],
+    "programLinks": [
+      "https://nscc.edu/academics/programs/architectural-design-technology.php",
+      "https://www.nscc.edu/academics/programs/civil-and-construction-engineering-technology.php"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential",
+    "cost": "4,498 - 17,698",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "Architecture",
+      "Civil Engineering",
+      "Construction Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Architecture",
+      "Civil Engineering",
+      "Construction Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.nscc.edu",
+    "lat": 36.13513,
+    "lon": -86.85599,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Programme pages: Building Information Modeling and 3D rendering; AutoCAD and BIM software training; course CADD 1650 Revit Fundamentals; Civil 3D site design."
+  },
+  {
+    "name": "University of Tennessee, Knoxville (UTK)",
+    "country": "United States",
+    "city": "Knoxville",
+    "programs": [
+      "PhD Civil Engineering"
+    ],
+    "programLinks": [
+      "https://cee.utk.edu/graduate/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "32,288",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "AI & Machine Learning",
+      "Digital Twins",
+      "Robotics & Automation",
+      "Data Management",
+      "Construction Management",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "AI & Machine Learning",
+      "Digital Twins",
+      "Robotics & Automation",
+      "Data Management"
+    ],
+    "domains": [
+      "Construction Management",
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.utk.edu",
+    "lat": 35.95164,
+    "lon": -83.93088,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. PhD route: S. Li, Civil and Environmental Engineering (AI-enabled, human-centric and digital twin-based cyber-physical systems for construction and infrastructure; sensing, data mining, visualization and robotic techniques for construction operations; ASCE Collingwood Prize). Fee: PhD Civil Engineering tuition per year (Studyportals, non-resident)."
+  },
+  {
+    "name": "Mississippi State University (MSU)",
+    "country": "United States",
+    "city": "Starkville",
+    "programs": [
+      "BS Building Construction Science",
+      "MS Construction Management (online)",
+      "PhD Civil Engineering"
+    ],
+    "programLinks": [
+      "https://caad.msstate.edu/academics/majors/building-construction-science",
+      "https://www.online.msstate.edu/mscm",
+      "https://www.cee.msstate.edu/graduate/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential / Online",
+    "cost": "11,095 - 30,086",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "nD BIM",
+      "Collaborative Workflows",
+      "Digital Construction",
+      "Robotics & Automation",
+      "AI & Machine Learning",
+      "VR/AR",
+      "Construction Management",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "nD BIM",
+      "Collaborative Workflows",
+      "Digital Construction",
+      "Robotics & Automation",
+      "AI & Machine Learning",
+      "VR/AR"
+    ],
+    "domains": [
+      "Construction Management",
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.msstate.edu",
+    "lat": 33.43869,
+    "lon": -88.79432,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Programme listing: students use industry-standard software and BIM through all four years (studio-based curriculum; Building Construction Studio III covers technology in construction and 4D scheduling); collaborative studio with architecture on BIM and IPD; Construction Training and Research Laboratory with jobsite technology. Fee: 2026-27 tuition and fees, in-state to out-of-state (MSU admissions). PhD route: Civil and Environmental Engineering faculty member with NSF CAREER award on VR and AI for human-robot collaboration in construction (research interests include BIM, automation in construction, AI in CEM)."
+  },
+  {
+    "name": "Texas Tech University (TTU)",
+    "country": "United States",
+    "city": "Lubbock",
+    "programs": [
+      "PhD Civil Engineering"
+    ],
+    "programLinks": [
+      "https://www.depts.ttu.edu/ceweb/grad/phd/index.php"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "9,518 - 17,918",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "Robotics & Automation",
+      "Digital Twins",
+      "AI & Machine Learning",
+      "Smart Cities & Buildings",
+      "Construction Engineering",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "Robotics & Automation",
+      "Digital Twins",
+      "AI & Machine Learning",
+      "Smart Cities & Buildings"
+    ],
+    "domains": [
+      "Construction Engineering",
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.ttu.edu",
+    "lat": 33.59375,
+    "lon": -101.8996,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. PhD route: M. Deng, Construction Engineering (embodied AI, human-robot collaboration, digital twins for construction robotics, multi-robot coordination, human-centred smart buildings; HARMONY lab). Fee: graduate civil engineering tuition per year, resident to non-resident (Studyportals)."
+  },
+  {
+    "name": "Auburn University",
+    "country": "United States",
+    "city": "Auburn",
+    "programs": [
+      "BS Building Construction",
+      "Master of Building Construction",
+      "PhD in Building Construction"
+    ],
+    "programLinks": [
+      "https://cadc.auburn.edu/building-science/",
+      "https://cadc.auburn.edu/building-science/",
+      "https://cadc.auburn.edu/building-science/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential / Online",
+    "cost": "13,572 - 37,596",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "nD BIM",
+      "VR/AR",
+      "Construction Informatics",
+      "Data Management",
+      "Construction Management",
+      "Sustainability"
+    ],
+    "computingTopics": [
+      "BIM",
+      "nD BIM",
+      "VR/AR",
+      "Construction Informatics",
+      "Data Management"
+    ],
+    "domains": [
+      "Construction Management",
+      "Sustainability"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.auburn.edu",
+    "lat": 32.59195,
+    "lon": -85.49598,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. McWhorter School of Building Science: BSCI 4601 Project Controls III Lab (VDC for Scheduling); BSCI 7030/7036 Construction Information Systems/BIM (graduate, online). PhD route: S. Azhar, chair of the PhD in Building Construction (BIM, VR/AR/MR, construction informatics; Editor-in-Chief, BIM section, Frontiers in the Built Environment). Fee: 2026-27 yearly tuition, Alabama residents to out-of-state (Auburn Board of Trustees, Sept 2026 report)."
+  },
+  {
+    "name": "University of Alabama at Birmingham (UAB)",
+    "country": "United States",
+    "city": "Birmingham",
+    "programs": [
+      "BS Civil Engineering",
+      "MEng Construction Engineering Management (online)"
+    ],
+    "programLinks": [
+      "https://www.uab.edu/engineering/civil/",
+      "https://www.uab.edu/engineering/cem/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential / Online",
+    "cost": "11,970 - 29,820",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "Civil Engineering",
+      "Construction Management",
+      "Sustainability"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management",
+      "Sustainability"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.uab.edu",
+    "lat": 33.50162,
+    "lon": -86.80605,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Department pages: 20-seat CE BIM Lab for CAD and BIM courses (shared streaming with University of Alabama and UAH); MEng CEM course CECM 689 Building Information Modeling (BIM) Techniques. Fee: undergraduate tuition and fees, in-state to out-of-state (CollegeData/Peterson's, 2024-25)."
+  },
+  {
+    "name": "Calhoun Community College",
+    "country": "United States",
+    "city": "Tanner",
+    "programs": [
+      "AAS Architectural Design Technology"
+    ],
+    "programLinks": [
+      "https://www.buildsubmarines.com/training/architectural-design-technology-a-a-s"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential",
+    "cost": "5,372",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Collaborative Workflows",
+      "CAD/CAM",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Collaborative Workflows",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://calhoun.edu",
+    "lat": 34.65086,
+    "lon": -86.94891,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Programme description: Revit Building Information Modeling, Chief Architect, Lumion, SketchUp or Navisworks, and AutoCAD; BIM and construction documents for residential and commercial work. Fee: fall 2026 in-state, 12 credit hours USD 2,686 x 2 semesters."
+  },
+  {
+    "name": "University of Southern Mississippi (Southern Miss)",
+    "country": "United States",
+    "city": "Hattiesburg",
+    "programs": [
+      "BS Architectural Engineering Technology"
+    ],
+    "programLinks": [
+      "https://www.usm.edu/undergraduate-programs/architectural-engineering-technology.php"
+    ],
+    "accreditation": [
+      "ABET"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "10,394 - 12,394",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.usm.edu",
+    "lat": 31.3293,
+    "lon": -89.33647,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. School of Construction and Design: courses AEC 234 Digital Graphics II (Revit) and AEC 450 Building Information Modeling (BIM) (faculty teaching record 2018-2021); ABET-ETAC accredited; shares two-thirds of courses with Construction Management. Fee: BS Architectural Engineering Technology tuition per year (Studyportals)."
+  },
+  {
+    "name": "University of Alabama (UA)",
+    "country": "United States",
+    "city": "Tuscaloosa",
+    "programs": [
+      "BS Architectural Engineering",
+      "BS Construction Engineering",
+      "BS Civil Engineering",
+      "MS Civil Engineering",
+      "PhD Civil Engineering"
+    ],
+    "programLinks": [
+      "https://catalog.ua.edu/undergraduate/engineering/civil-construction-environmental/architectural-engineering-bs/",
+      "https://catalog.ua.edu/undergraduate/engineering/civil-construction-environmental/construction-engineering-bs/",
+      "https://catalog.ua.edu/undergraduate/engineering/civil-construction-environmental/civil-engineering-bs/",
+      "https://catalog.ua.edu/graduate/engineering/civil-construction-environmental/civil-ms/",
+      "https://catalog.ua.edu/graduate/engineering/civil-construction-environmental/civil-phd/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "12,718 - 36,724",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Construction Informatics",
+      "Data Management",
+      "CAD/CAM",
+      "Civil Engineering",
+      "Construction Engineering",
+      "Architecture",
+      "Construction Management",
+      "Infrastructure Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Construction Informatics",
+      "Data Management",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Engineering",
+      "Architecture",
+      "Construction Management",
+      "Infrastructure Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.ua.edu",
+    "lat": 33.21208,
+    "lon": -87.53967,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. UA catalog: CE 414/514 Information Systems Design (management information systems in construction; building information modeling in detail) required in BS Architectural Engineering and BS Construction Engineering and listed in MS/PhD Civil Engineering; CE 515 Transportation Data Science and CE 586 GIS for Civil Engineers (MS/PhD); CE 261 Engineering Geomatics (CAD-based drafting) in all three BS programmes. Fee: 2026-27 tuition, Alabama residents to non-residents (News From the States)."
+  },
+  {
+    "name": "Kent State University",
+    "country": "United States",
+    "city": "Kent",
+    "programs": [
+      "BS Construction Management",
+      "MS Construction Management"
+    ],
+    "programLinks": [
+      "https://catalog.kent.edu/colleges/ae/construction-management-bs/",
+      "https://catalog.kent.edu/colleges/ae/construction-management-ms/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "13,850 - 24,300",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM"
+    ],
+    "domains": [
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.kent.edu",
+    "lat": 41.14418,
+    "lon": -81.33983,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Catalog: CMGT 42030 Building Information Modeling for Construction Management. MS: CMGT 62030 Building Information Modeling for Construction Management. Fee: 2026-27 Kent Campus undergraduate tuition and fees, Ohio resident to non-resident (Kent State)."
+  },
+  {
+    "name": "University of Cincinnati (UC)",
+    "country": "United States",
+    "city": "Cincinnati",
+    "programs": [
+      "BS Construction Management"
+    ],
+    "programLinks": [
+      "https://ceas.uc.edu/academics/departments/civil-architectural-engineering-construction-management/degrees-programs/construction-management-bachelor-of-science.html"
+    ],
+    "accreditation": [
+      "ABET"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "13,363 - 28,697",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "nD BIM",
+      "VR/AR",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "nD BIM",
+      "VR/AR"
+    ],
+    "domains": [
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.uc.edu",
+    "lat": 39.13189,
+    "lon": -84.51578,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Department of Civil and Architectural Engineering and Construction Management: Center for Building Innovation visualization and training centre teaching BIM and 4D models; BIM among taught construction management courses; ABET (ANSAC) accredited. Fee: tuition and fees, in-state to out-of-state (College Factual)."
+  },
+  {
+    "name": "Bowling Green State University (BGSU)",
+    "country": "United States",
+    "city": "Bowling Green",
+    "programs": [
+      "BS Construction Management",
+      "Master of Technology Management – Construction Management"
+    ],
+    "programLinks": [
+      "https://www.bgsu.edu/content/dam/BGSU/college-of-technology/School-of-the-Built-Environment/CONS-Undergrad/accreditation-documents/Accreditation-Documentation.pdf",
+      "https://www.bgsu.edu/content/dam/BGSU/college-of-technology/School-of-the-Built-Environment/CONS-Undergrad/accreditation-documents/Accreditation-Documentation.pdf"
+    ],
+    "accreditation": [
+      "ACCE"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "13,912 - 21,900",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "Construction Informatics",
+      "Digital Construction",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "Construction Informatics",
+      "Digital Construction"
+    ],
+    "domains": [
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.bgsu.edu",
+    "lat": 41.3795,
+    "lon": -83.62979,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. ACCE accreditation documentation: programme learning outcome 'apply electronic-based technology to manage the construction process'; ACCE-accredited. Fee: tuition and fees, in-state to out-of-state (College Factual)."
+  },
+  {
+    "name": "Cincinnati State Technical and Community College",
+    "country": "United States",
+    "city": "Cincinnati",
+    "programs": [
+      "Civil Engineering Technology – Architectural Major (AAS)"
+    ],
+    "programLinks": [
+      "https://catalog.cincinnatistate.edu/academicdivisionsanddegreeampcertificateprograms/engineeringandinformationtechnologiesdivision/civilengineeringtechnologies/cetao/"
+    ],
+    "accreditation": [
+      "ABET"
+    ],
+    "language": "English",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential",
+    "cost": "5,940 - 10,816",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "Architecture",
+      "Construction Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Architecture",
+      "Construction Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.cincinnatistate.edu",
+    "lat": 39.15001,
+    "lon": -84.53681,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Catalog: BIM and CAD using Revit Architecture and Revit MEP; CET 120 Advanced CAD: Revit Architecture; CET 205 Architectural Design and 3D Modeling: Revit; CET 211/212 Advanced Revit: Mechanical / Electrical. ABET-ETAC accredited. Fee: USD 198 per credit hour in-state x 30; out-of-state from the college's fall 2026 estimate (27,040 tuition over 5 semesters, annualised)."
+  },
+  {
+    "name": "Sinclair College",
+    "country": "United States",
+    "city": "Dayton",
+    "programs": [
+      "Architectural Technology (AAS)",
+      "Construction Management Technology (AAS)"
+    ],
+    "programLinks": [
+      "https://www.sinclair.edu/program/params/programCode/ARC-S-AAS",
+      "https://sinclair.edu/program/params/programCode/CMO-S-AAS"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential",
+    "cost": "4,681 - 10,782",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Collaborative Workflows",
+      "Energy Performance",
+      "Architecture",
+      "Construction Management",
+      "Sustainability"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Collaborative Workflows",
+      "Energy Performance"
+    ],
+    "domains": [
+      "Architecture",
+      "Construction Management",
+      "Sustainability"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.sinclair.edu",
+    "lat": 39.75664,
+    "lon": -84.19886,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Programme pages: BIM and Integrated Project Design as core principles with Revit as the primary BIM tool; EGV 1301 Architectural Energy Analysis; Construction Management Technology covers BIM. Fee: fall 2026 per credit hour USD 156.03 Montgomery County / 203.28 other Ohio / 359.40 out-of-state x 30."
+  },
+  {
+    "name": "The Ohio State University — Campus Wooster (Ohio State ATI)",
+    "country": "United States",
+    "city": "Wooster",
+    "programs": [
+      "AAS Construction Management",
+      "AS Construction Systems Management"
+    ],
+    "programLinks": [
+      "https://cfaes.osu.edu/academics/construction-management-aas",
+      "https://ati.osu.edu/construction-management-construction-systems-management"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "8,892 - 34,398",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "CAD/CAM",
+      "Construction Informatics",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "CAD/CAM",
+      "Construction Informatics"
+    ],
+    "domains": [
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://ati.osu.edu",
+    "lat": 40.77509,
+    "lon": -81.92244,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Programme pages: in the ATI computer laboratory students learn CAD and construction-specific software for estimating and scheduling. Fee: Ohio State ATI tuition, in-state to out-of-state (CollegeSimply)."
+  },
+  {
+    "name": "University of Akron",
+    "country": "United States",
+    "city": "Akron",
+    "programs": [
+      "BS Construction Engineering Technology"
+    ],
+    "programLinks": [
+      "https://www.uakron.edu/academic/programs/construction-engineering-technology-bs"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "13,740 - 21,650",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Construction Engineering",
+      "Construction Management",
+      "Sustainability"
+    ],
+    "computingTopics": [
+      "BIM"
+    ],
+    "domains": [
+      "Construction Engineering",
+      "Construction Management",
+      "Sustainability"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.uakron.edu",
+    "lat": 41.07574,
+    "lon": -81.51145,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Programme page: students learn the latest construction technology, including building information modeling (BIM), lean building science and project planning and scheduling. Fee: BS Construction Engineering Technology tuition per year (Studyportals)."
+  },
+  {
+    "name": "Ohio University",
+    "country": "United States",
+    "city": "Athens",
+    "programs": [
+      "MS Civil Engineering"
+    ],
+    "programLinks": [
+      "https://catalogs.ohio.edu/preview_course_nopop.php?catoid=111&coid=658339"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "14,158 - 24,838",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "AI & Machine Learning",
+      "Construction Informatics",
+      "Civil Engineering",
+      "Construction Management",
+      "Facility & Asset Management"
+    ],
+    "computingTopics": [
+      "AI & Machine Learning",
+      "Construction Informatics"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management",
+      "Facility & Asset Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.ohio.edu",
+    "lat": 39.32418,
+    "lon": -82.10156,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Graduate catalog: CE 6160 Computer Aided Construction Management (optimization, decision support systems, genetic algorithms, AI and expert systems, neural networks, fuzzy logic, resource planning, asset management). Fee: engineering tuition and fees, in-state to out-of-state (College Factual)."
+  },
+  {
+    "name": "The Ohio State University — Campus Columbus",
+    "country": "United States",
+    "city": "Columbus",
+    "programs": [
+      "BS Construction Systems Management"
+    ],
+    "programLinks": [
+      "https://fabe.osu.edu/construction-systems-management"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "13,244 - 40,022",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Collaborative Workflows",
+      "Construction Informatics",
+      "Data Management",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Collaborative Workflows",
+      "Construction Informatics",
+      "Data Management"
+    ],
+    "domains": [
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.osu.edu",
+    "lat": 40.0057,
+    "lon": -83.02866,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. FABE course listing: Information Technology for Construction Management (information technology for collaboration, visualization, information modelling and simulation; collaborative software; data collection and information modelling with spreadsheets). Fee: tuition and fees, in-state to out-of-state (College Factual)."
+  },
+  {
+    "name": "Georgia Institute of Technology (Georgia Tech)",
+    "country": "United States",
+    "city": "Atlanta",
+    "programs": [
+      "BS Construction Science and Management",
+      "MS Building Construction and Facility Management",
+      "PhD Building Construction"
+    ],
+    "programLinks": [
+      "https://catalog.gatech.edu/programs/construction-science-and-management-bs/",
+      "https://catalog.gatech.edu/programs/building-construction-facility-management-ms/",
+      "https://catalog.gatech.edu/programs/building-construction-phd/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "12,058 - 36,444",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "openBIM & IFC",
+      "VR/AR",
+      "3D Modeling & Scanning",
+      "Robotics & Automation",
+      "Digital Fabrication",
+      "GIS & BIM Integration",
+      "AI & Machine Learning",
+      "Collaborative Workflows",
+      "Construction Management",
+      "Facility & Asset Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "openBIM & IFC",
+      "VR/AR",
+      "3D Modeling & Scanning",
+      "Robotics & Automation",
+      "Digital Fabrication",
+      "GIS & BIM Integration",
+      "AI & Machine Learning",
+      "Collaborative Workflows"
+    ],
+    "domains": [
+      "Construction Management",
+      "Facility & Asset Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.gatech.edu",
+    "lat": 33.77609,
+    "lon": -84.39881,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Catalog: BC 4050 / BC 6050 Building Information Modeling for Multi-disciplinary Integration; BC 6005 Technology Applications in the Construction Industry; BC 2610/2620 Construction Technology I-II. PhD route: J. Irizarry, CONECTech Lab (BIM, VR/AR, reality capture, unmanned aerial systems, construction robotics, 3D printing, GIS, machine learning and computer vision); Digital Building Laboratory (BIM interoperability, rule checking, BIM-geospatial integration). Fee: in-state tuition and fees (Uni2Study); out-of-state derived from Georgia Tech's 2026-27 cost of attendance difference (USD 24,386 above in-state)."
+  },
+  {
+    "name": "Kennesaw State University (KSU)",
+    "country": "United States",
+    "city": "Marietta",
+    "programs": [
+      "BS Construction Management",
+      "MS Construction Management"
+    ],
+    "programLinks": [
+      "https://www.kennesaw.edu/cacm/academics/construction-management/about",
+      "https://www.kennesaw.edu/cacm/academics/construction-management/about"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "6,948 - 22,848",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "3D Modeling & Scanning",
+      "Construction Management",
+      "Facility & Asset Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Construction Management",
+      "Facility & Asset Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.kennesaw.edu",
+    "lat": 33.93808,
+    "lon": -84.51976,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Department of Construction Management (College of Architecture and Construction Management): BIM applications course in the undergraduate curriculum and BIM in capstone projects (department case studies, ASEE 2021); staff research in BIM, 3D laser scanning and RFID (P. Meadati). Fee: 2026-27 undergraduate tuition and fees at 15 credit hours x 2 semesters (KSU bursar)."
+  },
+  {
+    "name": "Georgia Southern University",
+    "country": "United States",
+    "city": "Statesboro",
+    "programs": [
+      "BS Construction",
+      "BS Construction Engineering"
+    ],
+    "programLinks": [
+      "https://ww2.georgiasouthern.edu/cec/cengc/?p=186",
+      "https://www.georgiasouthern.edu/cec/cengc/?p=4373"
+    ],
+    "accreditation": [
+      "ACCE"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "5,610 - 20,250",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Infrastructure BIM",
+      "Construction Management",
+      "Sustainability",
+      "Construction Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Infrastructure BIM"
+    ],
+    "domains": [
+      "Construction Management",
+      "Sustainability",
+      "Construction Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.georgiasouthern.edu",
+    "lat": 32.42144,
+    "lon": -81.78451,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Programme listing: specializations include building information modeling (BIM), estimating and scheduling; ACCE-accredited since 1995. Fee: tuition per year (Studyportals). BS Construction Engineering (ABET): specializations include building/civil information modeling."
   },
   {
     "name": "Universidad de la República (UdelaR)",
