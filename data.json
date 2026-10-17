@@ -28740,7 +28740,7 @@
     ],
     "programLinks": [
       "https://ce.berkeley.edu/programs/cos",
-      "https://ce.berkeley.edu/grad/admissions"
+      "https://ce.berkeley.edu/programs/cos"
     ],
     "accreditation": [
       "-"
@@ -28994,8 +28994,8 @@
     "programs": [
       "BS Construction Engineering",
       "BS Construction Management",
-      "Graduate Certificate in Artificial Intelligence and Robotics in Construction (SCIBER-CT)",
-      "PhD Engineering Sciences (joint doctoral programme)"
+      "Graduate Certificate in Artificial Intelligence and Robotics in Construction",
+      "PhD Engineering Sciences"
     ],
     "programLinks": [
       "https://www.sdsu.edu/programs/construction-engineering",
@@ -29191,13 +29191,13 @@
     "city": "Los Angeles",
     "programs": [
       "MS Architecture and Urban Design",
-      "Construction Management Certificate (UCLA Extension)",
+      "Construction Management Certificate",
       "PhD Civil Engineering"
     ],
     "programLinks": [
       "https://aud.ucla.edu/academics/m-s-architecture-and-urban-design",
       "https://www.uclaextension.edu/engineering/civil-environmental-engineering/certificate/construction-management-0",
-      "https://www.cee.ucla.edu/graduate-requirements/"
+      "https://www.cee.ucla.edu/graduate-programs/"
     ],
     "accreditation": [
       "-"
@@ -29684,8 +29684,8 @@
     "country": "United States",
     "city": "Whittier",
     "programs": [
-      "B.I.M. (Building Information Modeling) and CADD",
-      "Architecture, Civil and Engineering Design Drafting (degrees and certificates)"
+      "Building Information Modeling and CADD",
+      "Architecture, Civil and Engineering Design Drafting"
     ],
     "programLinks": [
       "https://www.riohondo.edu/academics/divisions/career-workforce-education/departments-degrees-certificates/architecture-engineering-design-drafting/",
@@ -29729,7 +29729,7 @@
     "country": "United States",
     "city": "Norco",
     "programs": [
-      "Essential Revit (non-credit, Extended Learning)"
+      "Essential Revit"
     ],
     "programLinks": [
       "https://www.norcocollege.edu/sd/sp/extended_learning/index.html"
@@ -30222,7 +30222,7 @@
     "country": "United States",
     "city": "Pleasant Hill",
     "programs": [
-      "Construction (degrees and certificates)"
+      "Construction"
     ],
     "programLinks": [
       "https://www.dvc.edu/academics/explore-our-programs/construction/welcome-construction"
@@ -31135,7 +31135,7 @@
     "city": "Temecula",
     "programs": [
       "Revit Basics",
-      "Revit Architecture Professional (certification training)",
+      "Revit Architecture Professional",
       "Revit MEP Certified Professional",
       "Revit Structure Certified Professional"
     ],
@@ -31273,7 +31273,7 @@
     "country": "United States",
     "city": "Missoula",
     "programs": [
-      "Building Information Modeling and Computer Aided Drafting & Design (BIM-CADD) CAS (Missoula College)"
+      "Building Information Modeling and Computer Aided Drafting & Design CAS"
     ],
     "programLinks": [
       "https://catalog.umt.edu/colleges-schools-programs/missoula-college/industrial-technology/cert-bim-cadd/"
@@ -31364,7 +31364,7 @@
     ],
     "programLinks": [
       "https://www.uwyo.edu/uw/degree-programs/construction-management-bachelors.html",
-      "https://www.uwyo.edu/civil/grad/index.html"
+      "https://www.uwyo.edu/uw/degree-programs/civil-engineering-phd.html"
     ],
     "accreditation": [
       "ACCE"
@@ -31418,7 +31418,7 @@
     "country": "United States",
     "city": "Las Vegas",
     "programs": [
-      "Building Information Modeling (ConstructED professional course)",
+      "Building Information Modeling",
       "PhD Civil and Environmental Engineering"
     ],
     "programLinks": [
@@ -33408,7 +33408,7 @@
     "country": "United States",
     "city": "McKinney",
     "programs": [
-      "Revit Architecture Essentials (Continuing Education)"
+      "Revit Architecture Essentials"
     ],
     "programLinks": [
       "https://www.collin.edu/ce/classes/cadd"
@@ -34097,7 +34097,7 @@
     "country": "United States",
     "city": "San Diego",
     "programs": [
-      "AAS Drafting and Design (online)",
+      "AAS Drafting and Design",
       "BIM and CAD Certificate Programmes"
     ],
     "programLinks": [
@@ -34779,7 +34779,7 @@
     "city": "Ann Arbor",
     "programs": [
       "MSE Construction Engineering and Management",
-      "MEng Construction Engineering and Management (online)",
+      "MEng Construction Engineering and Management",
       "PhD Civil Engineering"
     ],
     "programLinks": [
@@ -34879,7 +34879,7 @@
     "city": "East Lansing",
     "programs": [
       "BS Construction Management",
-      "Building Information Modeling Certificate (BIM-Ready Complete)",
+      "Building Information Modeling Certificate",
       "PhD Planning, Design and Construction"
     ],
     "programLinks": [
@@ -36092,7 +36092,7 @@
     "city": "Starkville",
     "programs": [
       "BS Building Construction Science",
-      "MS Construction Management (online)",
+      "MS Construction Management",
       "PhD Civil Engineering"
     ],
     "programLinks": [
@@ -36204,7 +36204,7 @@
     "programLinks": [
       "https://cadc.auburn.edu/building-science/",
       "https://cadc.auburn.edu/building-science/",
-      "https://cadc.auburn.edu/building-science/"
+      "https://cadc.auburn.edu/construction/degrees-programs/phd-in-building-construction/"
     ],
     "accreditation": [
       "-"
@@ -36251,7 +36251,7 @@
     "city": "Birmingham",
     "programs": [
       "BS Civil Engineering",
-      "MEng Construction Engineering Management (online)",
+      "MEng Construction Engineering Management",
       "PhD Civil Engineering"
     ],
     "programLinks": [
@@ -36875,14 +36875,16 @@
       "MS Building Construction and Facility Management",
       "PhD Building Construction",
       "Undergraduate Embedded Certificate in Construction Management",
-      "BS Civil Engineering"
+      "BS Civil Engineering",
+      "PhD Architecture"
     ],
     "programLinks": [
       "https://catalog.gatech.edu/programs/construction-science-and-management-bs/",
       "https://catalog.gatech.edu/programs/building-construction-facility-management-ms/",
       "https://catalog.gatech.edu/programs/building-construction-phd/",
       "https://catalog.gatech.edu/programs/undergraduate-embedded-certificate-construction-management/",
-      "https://catalog.gatech.edu/programs/civil-engineering-bs/"
+      "https://catalog.gatech.edu/programs/civil-engineering-bs/",
+      "https://catalog.gatech.edu/programs/architecture-phd"
     ],
     "accreditation": [
       "-"
@@ -36904,6 +36906,7 @@
       "Collaborative Workflows",
       "Data Management",
       "CAD/CAM",
+      "Parametric & Generative Design",
       "Construction Management",
       "Facility & Asset Management",
       "Civil Engineering"
@@ -36919,7 +36922,8 @@
       "AI & Machine Learning",
       "Collaborative Workflows",
       "Data Management",
-      "CAD/CAM"
+      "CAD/CAM",
+      "Parametric & Generative Design"
     ],
     "domains": [
       "Construction Management",
@@ -36935,7 +36939,7 @@
     "region": "North America",
     "costCurrency": "USD",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "intake not published. Catalog: BC 4050 / BC 6050 Building Information Modeling for Multi-disciplinary Integration; BC 6005 Technology Applications in the Construction Industry; BC 2610/2620 Construction Technology I-II. PhD route: J. Irizarry, CONECTech Lab (BIM, VR/AR, reality capture, unmanned aerial systems, construction robotics, 3D printing, GIS, machine learning and computer vision); Digital Building Laboratory (BIM interoperability, rule checking, BIM-geospatial integration). Fee: in-state tuition and fees (Uni2Study); out-of-state derived from Georgia Tech's 2026-27 cost of attendance difference (USD 24,386 above in-state). BS Civil Engineering: CEE 1070 Engineering Graphics for CEE; Data Analytics in Civil and Environmental Engineering."
+    "graduatesEstimateBasis": "intake not published. Catalog: BC 4050 / BC 6050 Building Information Modeling for Multi-disciplinary Integration; BC 6005 Technology Applications in the Construction Industry; BC 2610/2620 Construction Technology I-II. PhD route: J. Irizarry, CONECTech Lab (BIM, VR/AR, reality capture, unmanned aerial systems, construction robotics, 3D printing, GIS, machine learning and computer vision); Digital Building Laboratory (BIM interoperability, rule checking, BIM-geospatial integration). Fee: in-state tuition and fees (Uni2Study); out-of-state derived from Georgia Tech's 2026-27 cost of attendance difference (USD 24,386 above in-state). BS Civil Engineering: CEE 1070 Engineering Graphics for CEE; Data Analytics in Civil and Environmental Engineering. PhD Architecture: Design Computation area (generative and parametric design, digital fabrication, robotics, BIM, immersive visualization and VR) and Building Design Technology area (modelling and simulation for high-performing buildings)."
   },
   {
     "name": "Kennesaw State University (KSU)",
@@ -37034,10 +37038,12 @@
     "country": "United States",
     "city": "Athens",
     "programs": [
-      "Undergraduate Certificate in Construction Management"
+      "Undergraduate Certificate in Construction Management",
+      "PhD Engineering"
     ],
     "programLinks": [
-      "https://bulletin.uga.edu/Program/Details/50478?IDc=ENV"
+      "https://bulletin.uga.edu/Program/Details/50478?IDc=ENV",
+      "https://engineering.uga.edu/degree/phd-engineering"
     ],
     "accreditation": [
       "-"
@@ -37049,15 +37055,19 @@
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
+      "AI & Machine Learning",
       "Construction Management",
-      "Civil Engineering"
+      "Civil Engineering",
+      "Infrastructure Engineering"
     ],
     "computingTopics": [
-      "BIM"
+      "BIM",
+      "AI & Machine Learning"
     ],
     "domains": [
       "Construction Management",
-      "Civil Engineering"
+      "Civil Engineering",
+      "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
     "website": "https://www.uga.edu",
@@ -37068,7 +37078,7 @@
     "region": "North America",
     "costCurrency": "USD",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "intake not published. Certificate (from Fall 2025, College of Environment and Design with engineering): elective CVLE 4750 Building Information Modeling (BIM). Fee: 2026-27 tuition and fees, in-state to out-of-state (Uni2Study)."
+    "graduatesEstimateBasis": "intake not published. Certificate (from Fall 2025, College of Environment and Design with engineering): elective CVLE 4750 Building Information Modeling (BIM). Fee: 2026-27 tuition and fees, in-state to out-of-state (Uni2Study). PhD route: PhD in Engineering (emphasis areas include Resilient Infrastructure Systems); J. Yang, College of Engineering (AI and computer vision for smart transportation infrastructure)."
   },
   {
     "name": "Georgia Highlands College (GHC)",
@@ -37242,7 +37252,7 @@
     "country": "United States",
     "city": "Coconut Creek",
     "programs": [
-      "Drafting (career certificate)"
+      "Drafting Career Certificate"
     ],
     "programLinks": [
       "https://atlantictechnicalcollege.edu/drafting/"
@@ -37371,7 +37381,7 @@
     "country": "United States",
     "city": "Jacksonville",
     "programs": [
-      "AS Building Construction Technology (Construction Management)"
+      "AS Building Construction Technology"
     ],
     "programLinks": [
       "https://catalog.fscj.edu/programs/2234/career-dboxY"
@@ -38347,7 +38357,7 @@
     "city": "Norfolk",
     "programs": [
       "BS Engineering Technology – Civil Engineering Technology",
-      "Minor in Civil Engineering Technology (Construction)"
+      "Minor in Civil Engineering Technology"
     ],
     "programLinks": [
       "https://www.odu.edu/academics/programs/undergraduate/civil-engineering-technology",
@@ -39633,7 +39643,7 @@
     "language": "English",
     "mode": "Part-time",
     "delivery": "Online",
-    "cost": "-",
+    "cost": "9,036",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
@@ -39658,7 +39668,1182 @@
     "region": "North America",
     "costCurrency": "USD",
     "graduatesEstimated": true,
-    "graduatesEstimateBasis": "intake not published. Programme page: PhD research area Building Information Modeling (BIM) & Digital Construction; outcomes include applying BIM, Virtual Design and Construction and Lean principles to real projects; online, for working professionals."
+    "graduatesEstimateBasis": "intake not published. Programme page: PhD research area Building Information Modeling (BIM) & Digital Construction; outcomes include applying BIM, Virtual Design and Construction and Lean principles to real projects; online, for working professionals. Fee: USD 502 per credit hour (same for Texas and out-of-state residents) x 18 credits per year; the 54-credit route totals about USD 27,100 (Texas State online)."
+  },
+  {
+    "name": "Western Michigan University (WMU)",
+    "country": "United States",
+    "city": "Kalamazoo",
+    "programs": [
+      "PhD Civil Engineering"
+    ],
+    "programLinks": [
+      "https://wmich.edu/civil-construction/academics/phd"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "15,625 - 23,881",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "VR/AR",
+      "AI & Machine Learning",
+      "Construction Informatics",
+      "Construction Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "VR/AR",
+      "AI & Machine Learning",
+      "Construction Informatics"
+    ],
+    "domains": [
+      "Construction Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://wmich.edu",
+    "lat": 42.28329,
+    "lon": -85.61028,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Department of Civil and Construction Engineering PhD (construction engineering specialization among three). PhD route: H. Liu (BIM, construction simulation, VR, computer vision and cloud computing for construction; Automation in Construction publications). Fee: 2026-27 graduate tuition USD 868.04 resident / 1,326.71 non-resident per credit x 18 credits (WMU full-time doctoral load)."
+  },
+  {
+    "name": "FAMU-FSU College of Engineering",
+    "country": "United States",
+    "city": "Tallahassee",
+    "programs": [
+      "MS Civil Engineering",
+      "MEng Civil Engineering",
+      "PhD Civil Engineering"
+    ],
+    "programLinks": [
+      "https://eng.famu.fsu.edu/cee/graduate/programs",
+      "https://eng.famu.fsu.edu/cee/graduate/programs",
+      "https://eng.famu.fsu.edu/cee/graduate/programs"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential / Online",
+    "cost": "11,504 - 28,173",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "nD BIM",
+      "Collaborative Workflows",
+      "Construction Management",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "nD BIM",
+      "Collaborative Workflows"
+    ],
+    "domains": [
+      "Construction Management",
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://eng.famu.fsu.edu",
+    "lat": 30.42017,
+    "lon": -84.31845,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Joint college of Florida A&M University and Florida State University. Department of Civil and Environmental Engineering graduate courses: CCE 5522 BIM in Construction (civil, structural and architectural models; data extraction, clash detection, 4D construction simulation); MEng also offered online; PhD research degree (no named construction computing staff in source). Fee: FSU graduate rate USD 479.32 resident / 1,173.86 non-resident per credit hour x 24 credits (FSU Graduate School 2026-27 estimate)."
+  },
+  {
+    "name": "Stony Brook University (SUNY)",
+    "country": "United States",
+    "city": "Stony Brook",
+    "programs": [
+      "MS Civil Engineering",
+      "PhD Civil Engineering"
+    ],
+    "programLinks": [
+      "https://www.stonybrook.edu/civileng/academics/graduate/degrees-and-programs-offered/index.html",
+      "https://www.stonybrook.edu/civileng/academics/graduate/degrees-and-programs-offered/doctor-of-philosophy.html"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "11,310 - 23,300",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Digital Twins",
+      "Robotics & Automation",
+      "AI & Machine Learning",
+      "VR/AR",
+      "Smart Cities & Buildings",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Digital Twins",
+      "Robotics & Automation",
+      "AI & Machine Learning",
+      "VR/AR",
+      "Smart Cities & Buildings"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.stonybrook.edu",
+    "lat": 40.90908,
+    "lon": -73.12055,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Graduate courses: CIV 555 ML and AI for Civil Engineering; CIV 551 Smart Cities. PhD route: C.-J. (Polar) Liang, Assistant Professor, CROSS Lab (human-robot collaboration, computer vision, reinforcement learning, BIM, digital twins and extended reality for construction sites; funded PhD positions in digital twins, BIM and robots). Fee: 2026-27 SUNY state-operated graduate tuition, NYS resident to non-resident (SUNY campus tuition charts; resident rates frozen at 2025-26 levels)."
+  },
+  {
+    "name": "New York University (NYU) — Tandon School of Engineering",
+    "country": "United States",
+    "city": "Brooklyn",
+    "programs": [
+      "MS Construction Management",
+      "PhD Civil Engineering"
+    ],
+    "programLinks": [
+      "https://bulletins.nyu.edu/graduate/engineering/programs/construction-management-ms/",
+      "https://bulletins.nyu.edu/graduate/engineering/programs/civil-engineering-phd/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential / Online",
+    "cost": "50,500",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "nD BIM",
+      "VR/AR",
+      "Digital Twins",
+      "AI & Machine Learning",
+      "Robotics & Automation",
+      "Data Management",
+      "Construction Management",
+      "Facility & Asset Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "nD BIM",
+      "VR/AR",
+      "Digital Twins",
+      "AI & Machine Learning",
+      "Robotics & Automation",
+      "Data Management"
+    ],
+    "domains": [
+      "Construction Management",
+      "Facility & Asset Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://engineering.nyu.edu",
+    "lat": 40.69454,
+    "lon": -73.98679,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Bulletin: CE-GY 8243 Construction Modeling Techniques (required); CE-GY 8383 Building Information Modeling (BIM) and Its Applications in AEC/FM (elective). PhD route: S. Ergan, Associate Professor and Associate Chair, Building Informatics and Visualization Lab (AR/VR, BIM and digital twins, computer vision/AI/ML, data analytics and visualization, building/urban informatics; Associate Editor, ASCE Journal of Computing in Civil Engineering). Fee: Tandon graduate tuition USD 2,525 per credit (2026-27) x 20 credits per year, matching the USD 50,500 per year listed for the MS (Hotcourses)."
+  },
+  {
+    "name": "Columbia University",
+    "country": "United States",
+    "city": "New York",
+    "programs": [
+      "MS Construction Engineering and Management",
+      "PhD Civil Engineering"
+    ],
+    "programLinks": [
+      "https://www.civil.columbia.edu/content/construction-engineering-and-management",
+      "https://www.civil.columbia.edu/content/construction-engineering-and-management"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential / Online",
+    "cost": "49,360",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "Digital Construction",
+      "VR/AR",
+      "3D Modeling & Scanning",
+      "Digital Fabrication",
+      "Data Management",
+      "Construction Management",
+      "Prefabrication & Modular Construction"
+    ],
+    "computingTopics": [
+      "Digital Construction",
+      "VR/AR",
+      "3D Modeling & Scanning",
+      "Digital Fabrication",
+      "Data Management"
+    ],
+    "domains": [
+      "Construction Management",
+      "Prefabrication & Modular Construction"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.columbia.edu",
+    "lat": 40.80775,
+    "lon": -73.96249,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Construction Engineering and Management programme (Civil Engineering and Engineering Mechanics; evening and online courses; MS and doctoral concentration): research led by F. Peña-Mora, I. Odeh and Chang on digital transformation and innovation in construction (drones, modularization, 3D printing, VR/AR, data strategy, data analytics and visualization, cybersecurity for civic infrastructure). Fee: MS first-year tuition (listing site)."
+  },
+  {
+    "name": "Rochester Institute of Technology (RIT)",
+    "country": "United States",
+    "city": "Rochester",
+    "programs": [
+      "BS Civil Engineering Technology",
+      "MS Smart Cities Construction Management"
+    ],
+    "programLinks": [
+      "https://www.rit.edu/study/civil-engineering-technology-bs",
+      "https://www.rit.edu/study/smart-cities-construction-management-ms"
+    ],
+    "accreditation": [
+      "ABET"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "56,136",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM Software",
+      "CAD/CAM",
+      "GIS & BIM Integration",
+      "Smart Cities & Buildings",
+      "Data Management",
+      "3D Modeling & Scanning",
+      "Civil Engineering",
+      "Construction Management",
+      "Infrastructure Engineering"
+    ],
+    "computingTopics": [
+      "BIM Software",
+      "CAD/CAM",
+      "GIS & BIM Integration",
+      "Smart Cities & Buildings",
+      "Data Management",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management",
+      "Infrastructure Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.rit.edu",
+    "lat": 43.08267,
+    "lon": -77.67293,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Programme pages: BS CET Design and Drafting Laboratory with AutoCAD, Revit, Civil3D, STAAD and HydroCAD, software for drawings, reports and quantity estimates, Civil Engineering Graphics; MS Smart Cities Construction Management emphasises GIS, remote sensing and imaging, smart city design and advanced data analytics for urban infrastructure. Fee: BS tuition per year (TopUniversities)."
+  },
+  {
+    "name": "Farmingdale State College (SUNY)",
+    "country": "United States",
+    "city": "Farmingdale",
+    "programs": [
+      "MS Construction Management"
+    ],
+    "programLinks": [
+      "https://www.farmingdale.edu/curriculum/ms-con.shtml"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential",
+    "cost": "11,310 - 23,300",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Digital Construction",
+      "Construction Informatics",
+      "Construction Management",
+      "Sustainability"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Digital Construction",
+      "Construction Informatics"
+    ],
+    "domains": [
+      "Construction Management",
+      "Sustainability"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.farmingdale.edu",
+    "lat": 40.75392,
+    "lon": -73.4285,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Curriculum (new MS, 2026): ECM 535 Virtual Design, Construction, and BIM; ECM 513 Computer Applications in Engineering Technology; outcome on evaluating construction technologies including BIM; evening classes. Fee: 2026-27 SUNY state-operated graduate tuition, NYS resident to non-resident."
+  },
+  {
+    "name": "CUNY New York City College of Technology (City Tech)",
+    "country": "United States",
+    "city": "Brooklyn",
+    "programs": [
+      "AAS Construction Management Technology"
+    ],
+    "programLinks": [
+      "https://citytech.catalog.cuny.edu/programs/CT-AAS"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential",
+    "cost": "6,930",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.citytech.cuny.edu",
+    "lat": 40.69569,
+    "lon": -73.98788,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published (department reports 85-162 AAS enrolments, 2021-25). Catalog: computer-aided drawing and building information modeling (BIM) integrated into the curriculum; the only such AAS in the CUNY system. Fee: 2026-27 CUNY four-year college resident tuition; out-of-state rate not shown in source."
+  },
+  {
+    "name": "New York Institute of Technology (NYIT) — Campus Long Island",
+    "country": "United States",
+    "city": "Old Westbury",
+    "programs": [
+      "BS Architectural Technology"
+    ],
+    "programLinks": [
+      "https://www.nyit.edu/degrees/architectural_technology_bsat"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "52,300",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "3D Modeling & Scanning",
+      "Collaborative Workflows",
+      "Architecture",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "3D Modeling & Scanning",
+      "Collaborative Workflows"
+    ],
+    "domains": [
+      "Architecture",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.nyit.edu",
+    "lat": 40.80796,
+    "lon": -73.60627,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Programme page: studio-based BS with a focus option in advanced Building Information Modeling or a Construction Management concentration; architectural design, building technology and project management using advanced software; 3D design skills; BIM capstone project. Fee: BS Architectural Technology tuition per year (Hotcourses)."
+  },
+  {
+    "name": "New York Institute of Technology (NYIT) — Campus New York City",
+    "country": "United States",
+    "city": "New York",
+    "programs": [
+      "BS Architectural Technology"
+    ],
+    "programLinks": [
+      "https://www.nyit.edu/degrees/architectural_technology_bsat"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "52,300",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "3D Modeling & Scanning",
+      "Collaborative Workflows",
+      "Architecture",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "3D Modeling & Scanning",
+      "Collaborative Workflows"
+    ],
+    "domains": [
+      "Architecture",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.nyit.edu",
+    "lat": 40.76969,
+    "lon": -73.98254,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Programme page: studio-based BS with a focus option in advanced Building Information Modeling or a Construction Management concentration; architectural design, building technology and project management using advanced software; 3D design skills; BIM capstone project. Fee: BS Architectural Technology tuition per year (Hotcourses)."
+  },
+  {
+    "name": "Cornell University",
+    "country": "United States",
+    "city": "Ithaca",
+    "programs": [
+      "MS Design Technology"
+    ],
+    "programLinks": [
+      "https://designtech.cornell.edu/academics/designtech/master-science-design-technology"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "71,266",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "Parametric & Generative Design",
+      "Digital Fabrication",
+      "Robotics & Automation",
+      "Architecture",
+      "Sustainability"
+    ],
+    "computingTopics": [
+      "Parametric & Generative Design",
+      "Digital Fabrication",
+      "Robotics & Automation"
+    ],
+    "domains": [
+      "Architecture",
+      "Sustainability"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.cornell.edu",
+    "lat": 42.45292,
+    "lon": -76.48006,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Graduate field of Design Technology (AAP; STEM-designated), concentrations in design technology and matter design computation: research interests in computational design, robotic fabrication, additive manufacturing, human-robot interaction and automated building construction; faculty include J. Sabin, T. Cheng, T. Dogan, M. Kladeftira and S. Zivkovic (Robotic Construction Laboratory: computation, digital fabrication and robotic construction of full-scale architecture). Fee: MS Design Technology tuition per year (Mastersportal; matches Cornell AAP's published professional-degree rate)."
+  },
+  {
+    "name": "Pratt Institute",
+    "country": "United States",
+    "city": "Brooklyn",
+    "programs": [
+      "Master of Architecture"
+    ],
+    "programLinks": [
+      "https://www.pratt.edu/architecture/graduate-architecture/master-of-architecture-m-arch-first-professional/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "64,680",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Energy Performance",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Energy Performance"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.pratt.edu",
+    "lat": 40.69134,
+    "lon": -73.96302,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Course catalogue: ARCH-871TP Integrated Building Modeling (Revit and the BIM design process); ARCH-763 Technology 3: Integrated Building Systems (energy modelling, construction communication, component fabrication). Fee: 2026-27 year-1 tuition for the M.Arch (28 credits at USD 2,310), Pratt graduate tuition schedule."
+  },
+  {
+    "name": "Rensselaer Polytechnic Institute (RPI)",
+    "country": "United States",
+    "city": "Troy",
+    "programs": [
+      "MS Architectural Sciences",
+      "PhD Architectural Sciences"
+    ],
+    "programLinks": [
+      "https://www.arch.rpi.edu/academic/graduate/master-of-science-in-architectural-sciences/",
+      "https://www.arch.rpi.edu/academic/graduate/phd-program/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "64,400",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Parametric & Generative Design",
+      "Energy Performance",
+      "Architecture",
+      "Sustainability"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Parametric & Generative Design",
+      "Energy Performance"
+    ],
+    "domains": [
+      "Architecture",
+      "Sustainability"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.rpi.edu",
+    "lat": 42.7299,
+    "lon": -73.67967,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Center for Architecture Science and Ecology (CASE, Built Ecologies MS/PhD): Environmental Parametrics course (parametric modelling, optimization and daylighting). PhD route: D. Shelden, Director of CASE (generative design and building information modelling for integrated physical/digital building systems; formerly director of Georgia Tech's Digital Building Laboratory). Fee: MS Architectural Sciences tuition per year (Mastersportal / ApplyBoard)."
+  },
+  {
+    "name": "Alfred State College (SUNY)",
+    "country": "United States",
+    "city": "Alfred",
+    "programs": [
+      "BS Construction Engineering Technology"
+    ],
+    "programLinks": [
+      "https://www.alfredstate.edu/academics/majors-and-programs/construction-engineering-technology"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "7,070 - 17,765",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "Construction Engineering",
+      "Construction Management",
+      "Sustainability"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Construction Engineering",
+      "Construction Management",
+      "Sustainability"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.alfredstate.edu",
+    "lat": 42.25613,
+    "lon": -77.79791,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Programme page: commercial building materials and methods course that extends students' graphics skills using BIM/3-D software. Fee: 2026-27 SUNY state-operated undergraduate tuition, NYS resident to out-of-state (SUNY)."
+  },
+  {
+    "name": "University at Buffalo (SUNY)",
+    "country": "United States",
+    "city": "Amherst",
+    "programs": [
+      "PhD Civil Engineering"
+    ],
+    "programLinks": [
+      "https://catalog.buffalo.edu/academicprograms/civil_engineering_phd.html"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "11,310 - 23,300",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "Robotics & Automation",
+      "AI & Machine Learning",
+      "3D Modeling & Scanning",
+      "Civil Engineering",
+      "Infrastructure Engineering"
+    ],
+    "computingTopics": [
+      "Robotics & Automation",
+      "AI & Machine Learning",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Infrastructure Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.buffalo.edu",
+    "lat": 43.00253,
+    "lon": -78.78818,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. PhD route: X. Liang, Department of Civil, Structural and Environmental Engineering (robotics and computer vision for infrastructure inspection and building construction automation; drone-based autonomous inspection with data analytics and machine learning; human-robot collaboration). Fee: 2026-27 SUNY state-operated graduate tuition, NYS resident to non-resident (university-centre rates may be higher)."
+  },
+  {
+    "name": "Wentworth Institute of Technology",
+    "country": "United States",
+    "city": "Boston",
+    "programs": [
+      "BS Construction Management",
+      "Foundations in Construction Management Certificate"
+    ],
+    "programLinks": [
+      "https://catalog.wit.edu/management/construction-management/construction-management-bs/",
+      "https://catalog.wit.edu/management/construction-management/foundations-construction-management-certificate/"
+    ],
+    "accreditation": [
+      "ACCE"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "38,250",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "3D Modeling & Scanning",
+      "Construction Management",
+      "Facility & Asset Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Construction Management",
+      "Facility & Asset Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://wit.edu",
+    "lat": 42.33658,
+    "lon": -71.09537,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Catalog 2025-26: CONM 1525 Introduction to Building Information Modeling (BIM), part of the construction management curriculum and the Foundations certificate; programme incorporates BIM and drone-enabled survey tools (ENR 2019). Fee: MS Construction Management USD 1,275 per credit x 30 (Studyportals); undergraduate rate not shown."
+  },
+  {
+    "name": "University of Massachusetts Amherst (UMass Amherst)",
+    "country": "United States",
+    "city": "Amherst",
+    "programs": [
+      "BS Building and Construction Technology"
+    ],
+    "programLinks": [
+      "https://www.umass.edu/environmental-conservation/academics/undergraduate-programs/building-and-construction-technology"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "16,591 - 38,527",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "Digital Fabrication",
+      "Programming",
+      "3D Modeling & Scanning",
+      "Construction Management",
+      "Sustainability"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "Digital Fabrication",
+      "Programming",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Construction Management",
+      "Sustainability"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.umass.edu",
+    "lat": 42.38824,
+    "lon": -72.52358,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Building and Construction Technology: BCT 420 Designing with 3D CAD & BIM; ECO 620 Studies in Building Information Modeling (graduate); Adventures in 3D Printing; Trimble Technology Lab (first worldwide; digital building and geospatial education); A. Schreyer, programme director, teaches BIM, digital design and digital fabrication across BCT and Architecture (SketchUp scripting and plugins). Fee: undergraduate tuition, in-state to out-of-state (CollegeSimply; year not stated)."
+  },
+  {
+    "name": "Massachusetts Institute of Technology (MIT)",
+    "country": "United States",
+    "city": "Cambridge",
+    "programs": [
+      "SM Building Technology",
+      "PhD Building Technology"
+    ],
+    "programLinks": [
+      "https://architecture.mit.edu/building-technology",
+      "https://architecture.mit.edu/building-technology"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "66,720",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "Parametric & Generative Design",
+      "Digital Fabrication",
+      "Robotics & Automation",
+      "AI & Machine Learning",
+      "Energy Performance",
+      "Architecture",
+      "Structural Engineering",
+      "Sustainability"
+    ],
+    "computingTopics": [
+      "Parametric & Generative Design",
+      "Digital Fabrication",
+      "Robotics & Automation",
+      "AI & Machine Learning",
+      "Energy Performance"
+    ],
+    "domains": [
+      "Architecture",
+      "Structural Engineering",
+      "Sustainability"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.mit.edu",
+    "lat": 42.35825,
+    "lon": -71.09663,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Building Technology Program (Architecture with Civil and Environmental Engineering): research areas include advanced manufacturing and digital fabrication for construction and performance-driven computational design, simulation and analysis. PhD route: C. Mueller, Director of Building Technology and of the Digital Structures group (computational design and digital fabrication of high-performance structures, machine learning and computational geometry for design, robotic construction; ACADIA Innovative Research Award 2021). Fee: 2026-27 full regular tuition USD 33,360 per term x 2 (MIT catalog; same full-tuition rate for graduate and undergraduate students)."
+  },
+  {
+    "name": "Northeastern University",
+    "country": "United States",
+    "city": "Boston",
+    "programs": [
+      "BS Civil Engineering and Computer Science"
+    ],
+    "programLinks": [
+      "https://www.khoury.northeastern.edu/programs/bs-combined-major-for-computer-science-and-civil-engineering/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "70,700",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "Programming",
+      "Smart Cities & Buildings",
+      "Data Management",
+      "Civil Engineering",
+      "Infrastructure Engineering"
+    ],
+    "computingTopics": [
+      "Programming",
+      "Smart Cities & Buildings",
+      "Data Management"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Infrastructure Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.northeastern.edu",
+    "lat": 42.33511,
+    "lon": -71.08926,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Combined major (College of Engineering and Khoury College of Computer Sciences): computational modelling and simulation as tools for developing and managing civil and environmental infrastructure; software design and computing practice; careers include smart cities consultant and infrastructure systems analyst. Department construction research also covers automation, robotics and data science. Fee: 2026-27 undergraduate tuition (Collegedunia, citing Northeastern Student Financial Services)."
+  },
+  {
+    "name": "Massachusetts College of Art and Design (MassArt)",
+    "country": "United States",
+    "city": "Boston",
+    "programs": [
+      "Master of Architecture"
+    ],
+    "programLinks": [
+      "https://massart.edu/program/architecture/march/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "36,600",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://massart.edu",
+    "lat": 42.33682,
+    "lon": -71.09931,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Architecture faculty profile: comprehensive course in Revit and BIM taught since 2009 (full drawing sets, plans, sections, elevations, details and renderings) by A. Popp (Autodesk Revit certified). Fee: M.Arch tuition USD 915 per credit, 36,600 per year (Mastersportal; per-credit rate as on MassArt's tuition page)."
+  },
+  {
+    "name": "Harvard University — Graduate School of Design",
+    "country": "United States",
+    "city": "Cambridge",
+    "programs": [
+      "Master of Architecture I",
+      "Doctor of Design"
+    ],
+    "programLinks": [
+      "https://www.gsd.harvard.edu/architecture/programs/master-of-architecture-i/",
+      "https://www.gsd.harvard.edu/offices-and-facilities/advanced-studies-programs/programs/doctor-of-design/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "61,510",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "Parametric & Generative Design",
+      "Digital Fabrication",
+      "Robotics & Automation",
+      "AI & Machine Learning",
+      "Architecture",
+      "Sustainability"
+    ],
+    "computingTopics": [
+      "Parametric & Generative Design",
+      "Digital Fabrication",
+      "Robotics & Automation",
+      "AI & Machine Learning"
+    ],
+    "domains": [
+      "Architecture",
+      "Sustainability"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.gsd.harvard.edu",
+    "lat": 42.37584,
+    "lon": -71.11387,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. M.Arch I required core technology sequence includes introductory courses in computational design/digital media and digital fabrication, with advanced courses in these areas and AI/machine learning (GSD faculty search, 2025). Laboratory for Design Technologies: robotics and additive manufacturing, computational design and modelling (Material Processes and Systems Group, M. Bechthold). Doctoral route: M. Bechthold, Kumagai Professor of Architectural Technology and co-director of the doctoral programme (Material Processes and Systems Group: robotics and additive manufacturing in architecture). Fee: GSD architecture master's tuition per year (Mastersportal listing for the post-professional programme; GSD degree programmes share the standard tuition rate)."
+  },
+  {
+    "name": "Central Connecticut State University (CCSU)",
+    "country": "United States",
+    "city": "New Britain",
+    "programs": [
+      "BS Construction Management"
+    ],
+    "programLinks": [
+      "https://www.ccsu.edu/programs/construction-management-bs"
+    ],
+    "accreditation": [
+      "ACCE"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "13,050 - 16,550",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "Construction Management",
+      "Infrastructure Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Construction Management",
+      "Infrastructure Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.ccsu.edu",
+    "lat": 41.69293,
+    "lon": -72.76543,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Curriculum (programme listing): CAD and BIM Tools for Construction; graduates noted for state-of-the-art computing skills. Fee: BS Construction Management tuition per year, in-state to out-of-state (Bachelorsportal)."
+  },
+  {
+    "name": "Vermont State University — Campus Randolph",
+    "country": "United States",
+    "city": "Randolph Center",
+    "programs": [
+      "AS Architectural Engineering Technology",
+      "BS Architectural Engineering Technology"
+    ],
+    "programLinks": [
+      "https://vermontstate.edu/academic-programs/architectural-engineering-technology-as/",
+      "https://vermontstate.edu/academic-programs/architectural-engineering-technology-bs/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "15,624 - 27,840",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "Collaborative Workflows",
+      "Architecture",
+      "Sustainability"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM",
+      "Collaborative Workflows"
+    ],
+    "domains": [
+      "Architecture",
+      "Sustainability"
+    ],
+    "verificationLevel": 2,
+    "website": "https://vermontstate.edu",
+    "lat": 43.93809,
+    "lon": -72.59998,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Programme page: practical skills in drafting, computer-aided design (CAD), building information modeling (BIM) and team-based design processes with industry-standard design software; AS leads into the BS. Fee: BS tuition per year, in-state to out-of-state (Studyportals)."
+  },
+  {
+    "name": "Norwich University",
+    "country": "United States",
+    "city": "Northfield",
+    "programs": [
+      "BS Civil Engineering"
+    ],
+    "programLinks": [
+      "https://home.norwich.edu/on/academics/programs/civil-engineering"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "46,860",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Civil Engineering",
+      "Structural Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Structural Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.norwich.edu",
+    "lat": 44.13918,
+    "lon": -72.66127,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Department of Civil and Environmental Engineering and Construction Management (ASEE paper by the department chair): BIM modules with Autodesk Revit integrated into structural analysis and design courses rather than a stand-alone BIM course. Fee: BS Civil Engineering tuition per year (Studyportals via Admissify)."
+  },
+  {
+    "name": "Roger Williams University (RWU)",
+    "country": "United States",
+    "city": "Bristol",
+    "programs": [
+      "BS Construction Management"
+    ],
+    "programLinks": [
+      "https://www.rwu.edu/majors-programs/undergraduate/construction-management"
+    ],
+    "accreditation": [
+      "ACCE"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "44,112",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "Construction Informatics",
+      "BIM",
+      "VR/AR",
+      "3D Modeling & Scanning",
+      "Digital Fabrication",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "Construction Informatics",
+      "BIM",
+      "VR/AR",
+      "3D Modeling & Scanning",
+      "Digital Fabrication"
+    ],
+    "domains": [
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.rwu.edu",
+    "lat": 41.65047,
+    "lon": -71.26023,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-10-12",
+    "region": "North America",
+    "costCurrency": "USD",
+    "graduatesEstimated": true,
+    "graduatesEstimateBasis": "intake not published. Programme course list: CNST 462 Advanced Information Technology in Construction (elective, I. Ramaji; covers BIM, per user); CNST 116 Computer Applications for CM. Programme page: Emergent Technologies Lab where students practise virtual reality programming and walk through actual-size digital building models (B. G. Çelik, professor of construction management); Advanced Technology and Innovation Studio with 3-D printers and fabrication tools. Graduate MS Construction Management (2018 sell sheet) includes CNST 510 Modeling and Simulation Techniques for Construction Management. Fee: BS Construction Management tuition per year (Studyportals via Admissify)."
   },
   {
     "name": "Universidad de la República (UdelaR)",
