@@ -131,9 +131,9 @@
     },
     "graduatesPerYear": {
       "nature": "Values are annual-graduate estimates, expressed as ranges. They are indicative, not official institutional statistics.",
-      "imputation": "Records originally lacking a figure were imputed from the median of peer institutions in this dataset (same country and institution type where n>=3, widening to type, then to all). Imputed records carry `graduatesEstimated: true` and a `graduatesEstimateBasis` string.",
+      "imputation": "Records originally lacking a figure were imputed from the median of peer institutions in this dataset (same country and institution type where n>=3, widening to type, then to all). Imputed records carry `graduatesEstimated: true`.",
       "imputedCount": 80,
-      "note2026-10": "462 records carry 'Not published' (no intake or graduate figure on the programme page); the rest carry ranges, either collected, peer-imputed, or derived from published intake caps (see graduatesEstimateBasis).",
+      "note2026-10": "462 records carry 'Not published' (no intake or graduate figure on the programme page); the rest carry ranges, either collected, peer-imputed, or derived from published intake caps.",
       "notPublishedCount": 462
     },
     "cost": {
@@ -173,7 +173,6 @@
   "provenanceFields": {
     "geoSource": "coordinate provenance (see geoSourceLegend)",
     "graduatesEstimated": "true where graduatesPerYear was peer-imputed",
-    "graduatesEstimateBasis": "peer group and sample size for imputed graduate figures",
     "verificationLevel": "1-3 data-confidence scale",
     "lastChecked": "ISO date a record's programme/fee data was last verified against source; null = not yet verified in this provenance system"
   },

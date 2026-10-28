@@ -32,12 +32,11 @@ Interactive map of global higher-education institutions offering programmes in d
 | `domains` | string[] | Subset of `topics` that are built-environment domains/disciplines (context, e.g. Architecture). Derived. |
 | `accreditation` | string[] | Accrediting/professional bodies. |
 | `language` | string | Language(s) of instruction. |
-| `mode` | string | Full-time / Part-time / Distance. |
-| `delivery` | string | Presential / Online / Hybrid. |
+| `mode` | string | Full-time / Part-time / Distance / Apprenticeship, combined with ` / ` (e.g. `Full-time / Part-time`). |
+| `delivery` | string | Presential / Online / Hybrid, combined with ` / ` (e.g. `Presential / Online`). |
 | `cost` | string | Indicative annual fee in the record's `costCurrency`. Ranges run lowest to highest published fee. `0` = no tuition; `-` = fee not published by the institution. |
 | `graduatesPerYear` | string | Estimated annual graduates where known. |
 | `graduatesEstimated` | bool | Present and `true` only where the value was imputed from peer institutions (absent = as originally collected). |
-| `graduatesEstimateBasis` | string | For imputed values: the peer group and sample size used (e.g. `peer median, country+type:Poland/technical (n=4)`). |
 | `verificationLevel` | 1-3 | Data-confidence level (see below). |
 | `website` | string | Institution homepage. |
 | `costCurrency` | string | ISO currency code for `cost`. |
@@ -49,8 +48,11 @@ Interactive map of global higher-education institutions offering programmes in d
 |---|---|
 | `nominatim:name+city` | Resolved to the named institution in its city (campus-level). |
 | `nominatim:name` | Resolved to the named institution (institution-level). |
+| `nominatim:name (audited)` | Institution-level geocode checked by hand during a review pass. |
 | `nominatim:city` | Fell back to the city centroid — **approximate, not the campus location**. |
-| `nominatim:*(manual)` / `*(audited)` | Hand-verified or upgraded during a review pass. |
+| `manual:campus` | Campus coordinates entered by hand from an official or map source. |
+| `manual:campus (audited)` | Manual campus coordinates checked during a review pass. |
+| `manual:city` | City (or regional capital) coordinates entered by hand — **approximate, not the campus location**. |
 
 ### `verificationLevel` (data confidence)
 

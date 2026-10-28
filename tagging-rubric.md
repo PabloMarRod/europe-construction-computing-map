@@ -35,7 +35,7 @@ Verified tags represent **confirmed curriculum presence — a floor, not an exha
 
 - `lastChecked`: ISO date the record was assessed against source under this rubric.
 - `verificationLevel`: 2 once cross-referenced with public institutional sources under this rubric (3 only if confirmed directly by the institution).
-- Coordinate provenance (`geoSource`) and graduate-estimate provenance (`graduatesEstimated` / `graduatesEstimateBasis`) are recorded separately.
+- Coordinate provenance (`geoSource`) and graduate-estimate provenance (`graduatesEstimated`) are recorded separately.
 
 ## Known bias direction
 
