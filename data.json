@@ -27256,15 +27256,17 @@
     "cost": "0",
     "graduatesPerYear": "Not published",
     "topics": [
-      "CAD/CAM",
       "BIM",
+      "CAD/CAM",
+      "Programming",
       "BIM Software",
       "Civil Engineering",
       "Infrastructure Engineering"
     ],
     "computingTopics": [
-      "CAD/CAM",
       "BIM",
+      "CAD/CAM",
+      "Programming",
       "BIM Software"
     ],
     "domains": [
@@ -27276,7 +27278,7 @@
     "lat": -34.59839,
     "lon": -58.42011,
     "geoSource": "manual:city",
-    "lastChecked": "2026-10-12",
+    "lastChecked": "2026-10-29",
     "region": "South America",
     "costCurrency": "ARS"
   },
@@ -27299,12 +27301,16 @@
     "cost": "0",
     "graduatesPerYear": "Not published",
     "topics": [
+      "BIM",
       "CAD/CAM",
+      "Programming",
       "Civil Engineering",
       "Infrastructure Engineering"
     ],
     "computingTopics": [
-      "CAD/CAM"
+      "BIM",
+      "CAD/CAM",
+      "Programming"
     ],
     "domains": [
       "Civil Engineering",
@@ -27315,7 +27321,7 @@
     "lat": -34.66139,
     "lon": -58.3649,
     "geoSource": "manual:city",
-    "lastChecked": "2026-07-25",
+    "lastChecked": "2026-10-29",
     "region": "South America",
     "costCurrency": "ARS"
   },
@@ -27338,12 +27344,16 @@
     "cost": "0",
     "graduatesPerYear": "Not published",
     "topics": [
+      "BIM",
       "CAD/CAM",
+      "Programming",
       "Civil Engineering",
       "Infrastructure Engineering"
     ],
     "computingTopics": [
-      "CAD/CAM"
+      "BIM",
+      "CAD/CAM",
+      "Programming"
     ],
     "domains": [
       "Civil Engineering",
@@ -27354,7 +27364,7 @@
     "lat": -38.7183,
     "lon": -62.2661,
     "geoSource": "manual:city",
-    "lastChecked": "2026-07-25",
+    "lastChecked": "2026-10-29",
     "region": "South America",
     "costCurrency": "ARS"
   },
@@ -27378,12 +27388,16 @@
     "cost": "0",
     "graduatesPerYear": "Not published",
     "topics": [
+      "BIM",
       "CAD/CAM",
+      "Programming",
       "Civil Engineering",
       "Infrastructure Engineering"
     ],
     "computingTopics": [
-      "CAD/CAM"
+      "BIM",
+      "CAD/CAM",
+      "Programming"
     ],
     "domains": [
       "Civil Engineering",
@@ -27394,7 +27408,7 @@
     "lat": -32.4833,
     "lon": -58.2372,
     "geoSource": "manual:city",
-    "lastChecked": "2026-07-25",
+    "lastChecked": "2026-10-29",
     "region": "South America",
     "costCurrency": "ARS"
   },
@@ -27417,12 +27431,16 @@
     "cost": "0",
     "graduatesPerYear": "Not published",
     "topics": [
+      "BIM",
       "CAD/CAM",
+      "Programming",
       "Civil Engineering",
       "Infrastructure Engineering"
     ],
     "computingTopics": [
-      "CAD/CAM"
+      "BIM",
+      "CAD/CAM",
+      "Programming"
     ],
     "domains": [
       "Civil Engineering",
@@ -27433,7 +27451,7 @@
     "lat": -31.3929,
     "lon": -58.0209,
     "geoSource": "manual:city",
-    "lastChecked": "2026-07-25",
+    "lastChecked": "2026-10-29",
     "region": "South America",
     "costCurrency": "ARS"
   },
@@ -27457,12 +27475,16 @@
     "cost": "0",
     "graduatesPerYear": "Not published",
     "topics": [
+      "BIM",
       "CAD/CAM",
+      "Programming",
       "Civil Engineering",
       "Infrastructure Engineering"
     ],
     "computingTopics": [
-      "CAD/CAM"
+      "BIM",
+      "CAD/CAM",
+      "Programming"
     ],
     "domains": [
       "Civil Engineering",
@@ -27473,7 +27495,7 @@
     "lat": -31.4201,
     "lon": -64.1888,
     "geoSource": "manual:city",
-    "lastChecked": "2026-07-25",
+    "lastChecked": "2026-10-29",
     "region": "South America",
     "costCurrency": "ARS"
   },
@@ -27496,12 +27518,16 @@
     "cost": "0",
     "graduatesPerYear": "Not published",
     "topics": [
+      "BIM",
       "CAD/CAM",
+      "Programming",
       "Civil Engineering",
       "Infrastructure Engineering"
     ],
     "computingTopics": [
-      "CAD/CAM"
+      "BIM",
+      "CAD/CAM",
+      "Programming"
     ],
     "domains": [
       "Civil Engineering",
@@ -27512,7 +27538,7 @@
     "lat": -34.4585,
     "lon": -58.6431,
     "geoSource": "manual:city",
-    "lastChecked": "2026-07-25",
+    "lastChecked": "2026-10-29",
     "region": "South America",
     "costCurrency": "ARS"
   },
@@ -27539,8 +27565,9 @@
     "cost": "0",
     "graduatesPerYear": "Not published",
     "topics": [
-      "CAD/CAM",
       "BIM",
+      "CAD/CAM",
+      "Programming",
       "BIM Software",
       "nD BIM",
       "Civil Engineering",
@@ -27549,8 +27576,9 @@
       "Construction Management"
     ],
     "computingTopics": [
-      "CAD/CAM",
       "BIM",
+      "CAD/CAM",
+      "Programming",
       "BIM Software",
       "nD BIM"
     ],
@@ -27565,7 +27593,7 @@
     "lat": -34.9215,
     "lon": -57.9545,
     "geoSource": "manual:city",
-    "lastChecked": "2026-10-12",
+    "lastChecked": "2026-10-29",
     "region": "South America",
     "costCurrency": "ARS"
   },
@@ -27588,12 +27616,16 @@
     "cost": "0",
     "graduatesPerYear": "Not published",
     "topics": [
+      "BIM",
       "CAD/CAM",
+      "Programming",
       "Civil Engineering",
       "Infrastructure Engineering"
     ],
     "computingTopics": [
-      "CAD/CAM"
+      "BIM",
+      "CAD/CAM",
+      "Programming"
     ],
     "domains": [
       "Civil Engineering",
@@ -27604,7 +27636,7 @@
     "lat": -29.4131,
     "lon": -66.8558,
     "geoSource": "manual:city",
-    "lastChecked": "2026-07-25",
+    "lastChecked": "2026-10-29",
     "region": "South America",
     "costCurrency": "ARS"
   },
@@ -27627,12 +27659,16 @@
     "cost": "0",
     "graduatesPerYear": "Not published",
     "topics": [
+      "BIM",
       "CAD/CAM",
+      "Programming",
       "Civil Engineering",
       "Infrastructure Engineering"
     ],
     "computingTopics": [
-      "CAD/CAM"
+      "BIM",
+      "CAD/CAM",
+      "Programming"
     ],
     "domains": [
       "Civil Engineering",
@@ -27643,7 +27679,7 @@
     "lat": -32.8908,
     "lon": -68.8272,
     "geoSource": "manual:city",
-    "lastChecked": "2026-07-25",
+    "lastChecked": "2026-10-29",
     "region": "South America",
     "costCurrency": "ARS"
   },
@@ -27666,12 +27702,16 @@
     "cost": "0",
     "graduatesPerYear": "Not published",
     "topics": [
+      "BIM",
       "CAD/CAM",
+      "Programming",
       "Civil Engineering",
       "Infrastructure Engineering"
     ],
     "computingTopics": [
-      "CAD/CAM"
+      "BIM",
+      "CAD/CAM",
+      "Programming"
     ],
     "domains": [
       "Civil Engineering",
@@ -27682,7 +27722,7 @@
     "lat": -31.7333,
     "lon": -60.5238,
     "geoSource": "manual:city",
-    "lastChecked": "2026-07-25",
+    "lastChecked": "2026-10-29",
     "region": "South America",
     "costCurrency": "ARS"
   },
@@ -27705,12 +27745,16 @@
     "cost": "0",
     "graduatesPerYear": "Not published",
     "topics": [
+      "BIM",
       "CAD/CAM",
+      "Programming",
       "Civil Engineering",
       "Infrastructure Engineering"
     ],
     "computingTopics": [
-      "CAD/CAM"
+      "BIM",
+      "CAD/CAM",
+      "Programming"
     ],
     "domains": [
       "Civil Engineering",
@@ -27721,7 +27765,7 @@
     "lat": -31.2503,
     "lon": -61.4867,
     "geoSource": "manual:city",
-    "lastChecked": "2026-07-25",
+    "lastChecked": "2026-10-29",
     "region": "South America",
     "costCurrency": "ARS"
   },
@@ -27744,12 +27788,16 @@
     "cost": "0",
     "graduatesPerYear": "Not published",
     "topics": [
+      "BIM",
       "CAD/CAM",
+      "Programming",
       "Civil Engineering",
       "Infrastructure Engineering"
     ],
     "computingTopics": [
-      "CAD/CAM"
+      "BIM",
+      "CAD/CAM",
+      "Programming"
     ],
     "domains": [
       "Civil Engineering",
@@ -27760,7 +27808,7 @@
     "lat": -32.9587,
     "lon": -60.641,
     "geoSource": "manual:city",
-    "lastChecked": "2026-07-25",
+    "lastChecked": "2026-10-29",
     "region": "South America",
     "costCurrency": "ARS"
   },
@@ -27783,12 +27831,16 @@
     "cost": "0",
     "graduatesPerYear": "Not published",
     "topics": [
+      "BIM",
       "CAD/CAM",
+      "Programming",
       "Civil Engineering",
       "Infrastructure Engineering"
     ],
     "computingTopics": [
-      "CAD/CAM"
+      "BIM",
+      "CAD/CAM",
+      "Programming"
     ],
     "domains": [
       "Civil Engineering",
@@ -27799,7 +27851,7 @@
     "lat": -34.6177,
     "lon": -68.3301,
     "geoSource": "manual:city",
-    "lastChecked": "2026-07-25",
+    "lastChecked": "2026-10-29",
     "region": "South America",
     "costCurrency": "ARS"
   },
@@ -27823,12 +27875,16 @@
     "cost": "0",
     "graduatesPerYear": "Not published",
     "topics": [
+      "BIM",
       "CAD/CAM",
+      "Programming",
       "Civil Engineering",
       "Infrastructure Engineering"
     ],
     "computingTopics": [
-      "CAD/CAM"
+      "BIM",
+      "CAD/CAM",
+      "Programming"
     ],
     "domains": [
       "Civil Engineering",
@@ -27839,7 +27895,7 @@
     "lat": -31.6107,
     "lon": -60.6973,
     "geoSource": "manual:city",
-    "lastChecked": "2026-07-25",
+    "lastChecked": "2026-10-29",
     "region": "South America",
     "costCurrency": "ARS"
   },
@@ -27864,15 +27920,17 @@
     "cost": "0",
     "graduatesPerYear": "Not published",
     "topics": [
-      "CAD/CAM",
       "BIM",
+      "CAD/CAM",
+      "Programming",
       "BIM Software",
       "Civil Engineering",
       "Infrastructure Engineering"
     ],
     "computingTopics": [
-      "CAD/CAM",
       "BIM",
+      "CAD/CAM",
+      "Programming",
       "BIM Software"
     ],
     "domains": [
@@ -27884,7 +27942,7 @@
     "lat": -26.8333,
     "lon": -65.2167,
     "geoSource": "manual:city",
-    "lastChecked": "2026-10-12",
+    "lastChecked": "2026-10-29",
     "region": "South America",
     "costCurrency": "ARS"
   },
@@ -27907,12 +27965,16 @@
     "cost": "0",
     "graduatesPerYear": "Not published",
     "topics": [
+      "BIM",
       "CAD/CAM",
+      "Programming",
       "Civil Engineering",
       "Infrastructure Engineering"
     ],
     "computingTopics": [
-      "CAD/CAM"
+      "BIM",
+      "CAD/CAM",
+      "Programming"
     ],
     "domains": [
       "Civil Engineering",
@@ -27923,7 +27985,7 @@
     "lat": -33.7458,
     "lon": -61.9686,
     "geoSource": "manual:city",
-    "lastChecked": "2026-07-25",
+    "lastChecked": "2026-10-29",
     "region": "South America",
     "costCurrency": "ARS"
   },
@@ -27932,37 +27994,41 @@
     "country": "Argentina",
     "city": "La Plata",
     "programs": [
-      "Ingeniería Civil"
+      "Introducción a la modelización de maquetas arquitectónicas con información – BIM (postgraduate course)",
+      "Diseño Estructural Paramétrico (postgraduate course)"
     ],
     "programLinks": [
-      "https://www.ing.unlp.edu.ar/carreras/ingenieria-civil/"
+      "https://www.fau.unlp.edu.ar/posgrado/curso-introduccion-a-la-modelizacion-de-maquetas-arquitectonicas-con-informacion-bim/",
+      "https://www.fau.unlp.edu.ar/posgrado/curso-diseno-estructural-parametrico-3/"
     ],
     "accreditation": [
       "CONEAU"
     ],
     "language": "Spanish",
-    "mode": "Full-time",
+    "mode": "Part-time",
     "delivery": "Presential",
     "cost": "0",
     "graduatesPerYear": "Not published",
     "topics": [
-      "CAD/CAM",
-      "Civil Engineering",
-      "Infrastructure Engineering"
+      "BIM",
+      "Parametric & Generative Design",
+      "Architecture",
+      "Structural Engineering"
     ],
     "computingTopics": [
-      "CAD/CAM"
+      "BIM",
+      "Parametric & Generative Design"
     ],
     "domains": [
-      "Civil Engineering",
-      "Infrastructure Engineering"
+      "Architecture",
+      "Structural Engineering"
     ],
     "verificationLevel": 2,
     "website": "https://www.ing.unlp.edu.ar/carreras/ingenieria-civil/",
     "lat": -34.911,
     "lon": -57.937,
     "geoSource": "manual:city",
-    "lastChecked": "2026-07-25",
+    "lastChecked": "2026-10-29",
     "region": "South America",
     "costCurrency": "ARS"
   },
@@ -28012,10 +28078,12 @@
     "country": "Argentina",
     "city": "San Juan",
     "programs": [
-      "Ingeniería Civil"
+      "Doctorado en Arquitectura y Urbanismo",
+      "Diplomado en Modelado de Información para la Construcción – BIM"
     ],
     "programLinks": [
-      "https://www.fi.unsj.edu.ar/carreras/carrera/29"
+      "https://www.darqurb.faud.unsj.edu.ar/",
+      "https://faud.unsj.edu.ar/modelado-de-informacion-para-la-construccion-bim/"
     ],
     "accreditation": [
       "CONEAU"
@@ -28026,23 +28094,29 @@
     "cost": "0",
     "graduatesPerYear": "Not published",
     "topics": [
-      "CAD/CAM",
-      "Civil Engineering",
-      "Infrastructure Engineering"
+      "BIM",
+      "Collaborative Workflows",
+      "BIM Software",
+      "Energy Performance",
+      "Architecture",
+      "Sustainability"
     ],
     "computingTopics": [
-      "CAD/CAM"
+      "BIM",
+      "Collaborative Workflows",
+      "BIM Software",
+      "Energy Performance"
     ],
     "domains": [
-      "Civil Engineering",
-      "Infrastructure Engineering"
+      "Architecture",
+      "Sustainability"
     ],
     "verificationLevel": 2,
     "website": "https://www.fi.unsj.edu.ar/carreras/carrera/29",
     "lat": -31.5375,
     "lon": -68.5364,
     "geoSource": "manual:city",
-    "lastChecked": "2026-07-25",
+    "lastChecked": "2026-10-29",
     "region": "South America",
     "costCurrency": "ARS"
   },
@@ -28054,7 +28128,7 @@
       "Ingeniería Civil"
     ],
     "programLinks": [
-      "https://www.unlar.edu.ar/index.php/oferta-academica/carreras-de-grado/323-ingenieria-civil"
+      "https://campusvirtual.unlar.edu.ar/course/index.php?categoryid=148"
     ],
     "accreditation": [
       "CONEAU"
@@ -28081,7 +28155,7 @@
     "lat": -29.4131,
     "lon": -66.8558,
     "geoSource": "manual:city",
-    "lastChecked": "2026-07-25",
+    "lastChecked": "2026-10-29",
     "region": "South America",
     "costCurrency": "ARS"
   },
@@ -28120,7 +28194,7 @@
     "lat": -38.7,
     "lon": -62.267,
     "geoSource": "manual:city",
-    "lastChecked": "2026-07-25",
+    "lastChecked": "2026-10-29",
     "region": "South America",
     "costCurrency": "ARS"
   },
@@ -28129,10 +28203,10 @@
     "country": "Argentina",
     "city": "San Miguel de Tucumán",
     "programs": [
-      "Ingeniería Civil"
+      "Doctorado en Ciencias Exactas e Ingeniería"
     ],
     "programLinks": [
-      "https://www.facet.unt.edu.ar/carreras/ingenieria-civil/"
+      "https://www.facet.unt.edu.ar/posgrado/doctorado-en-ciencias-exactas-e-ingenieria/"
     ],
     "accreditation": [
       "CONEAU"
@@ -28143,23 +28217,25 @@
     "cost": "0",
     "graduatesPerYear": "Not published",
     "topics": [
-      "CAD/CAM",
+      "BIM",
+      "Digital Twins",
       "Civil Engineering",
-      "Infrastructure Engineering"
+      "Structural Engineering"
     ],
     "computingTopics": [
-      "CAD/CAM"
+      "BIM",
+      "Digital Twins"
     ],
     "domains": [
       "Civil Engineering",
-      "Infrastructure Engineering"
+      "Structural Engineering"
     ],
     "verificationLevel": 2,
     "website": "https://www.facet.unt.edu.ar/carreras/ingenieria-civil/",
     "lat": -26.8285,
     "lon": -65.2038,
     "geoSource": "manual:city",
-    "lastChecked": "2026-07-25",
+    "lastChecked": "2026-10-29",
     "region": "South America",
     "costCurrency": "ARS"
   },
@@ -28168,115 +28244,41 @@
     "country": "Argentina",
     "city": "Resistencia",
     "programs": [
-      "Ingeniería Civil"
+      "Introducción a la Metodología BIM (course)"
     ],
     "programLinks": [
-      "https://www.ing.unne.edu.ar/ingenieria-civil/"
+      "https://www.ing.unne.edu.ar/introduccion-a-la-metodologia-bim/"
     ],
     "accreditation": [
       "CONEAU"
     ],
     "language": "Spanish",
-    "mode": "Full-time",
+    "mode": "Part-time",
     "delivery": "Presential",
     "cost": "0",
     "graduatesPerYear": "Not published",
     "topics": [
-      "CAD/CAM",
+      "BIM",
+      "ISO 19650",
+      "Collaborative Workflows",
       "Civil Engineering",
-      "Infrastructure Engineering"
+      "Construction Management"
     ],
     "computingTopics": [
-      "CAD/CAM"
+      "BIM",
+      "ISO 19650",
+      "Collaborative Workflows"
     ],
     "domains": [
       "Civil Engineering",
-      "Infrastructure Engineering"
+      "Construction Management"
     ],
     "verificationLevel": 2,
     "website": "https://www.ing.unne.edu.ar/ingenieria-civil/",
     "lat": -27.4515,
     "lon": -58.9868,
     "geoSource": "manual:city",
-    "lastChecked": "2026-07-25",
-    "region": "South America",
-    "costCurrency": "ARS"
-  },
-  {
-    "name": "Universidad Nacional de Salta (UNSa)",
-    "country": "Argentina",
-    "city": "Salta",
-    "programs": [
-      "Ingeniería Civil"
-    ],
-    "programLinks": [
-      "https://ing.unsa.edu.ar/index.php/oferta/grado?view=article&id=13:carrera-de-ingenieria-civil"
-    ],
-    "accreditation": [
-      "CONEAU"
-    ],
-    "language": "Spanish",
-    "mode": "Full-time",
-    "delivery": "Presential",
-    "cost": "0",
-    "graduatesPerYear": "Not published",
-    "topics": [
-      "CAD/CAM",
-      "Civil Engineering",
-      "Infrastructure Engineering"
-    ],
-    "computingTopics": [
-      "CAD/CAM"
-    ],
-    "domains": [
-      "Civil Engineering",
-      "Infrastructure Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://ing.unsa.edu.ar/index.php/oferta/grado?view=article&id=13:carrera-de-ingenieria-civil",
-    "lat": -24.7276,
-    "lon": -65.4106,
-    "geoSource": "manual:city",
-    "lastChecked": "2026-07-25",
-    "region": "South America",
-    "costCurrency": "ARS"
-  },
-  {
-    "name": "Universidad Nacional del Centro (UNICEN)",
-    "country": "Argentina",
-    "city": "Olavarría",
-    "programs": [
-      "Ingeniería Civil"
-    ],
-    "programLinks": [
-      "https://www.unicen.edu.ar/content/ingenier%C3%AD-civil"
-    ],
-    "accreditation": [
-      "CONEAU"
-    ],
-    "language": "Spanish",
-    "mode": "Full-time",
-    "delivery": "Presential",
-    "cost": "0",
-    "graduatesPerYear": "Not published",
-    "topics": [
-      "CAD/CAM",
-      "Civil Engineering",
-      "Infrastructure Engineering"
-    ],
-    "computingTopics": [
-      "CAD/CAM"
-    ],
-    "domains": [
-      "Civil Engineering",
-      "Infrastructure Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://www.unicen.edu.ar/content/ingenier%C3%AD-civil",
-    "lat": -36.8929,
-    "lon": -60.3222,
-    "geoSource": "manual:city",
-    "lastChecked": "2026-07-25",
+    "lastChecked": "2026-10-29",
     "region": "South America",
     "costCurrency": "ARS"
   },
@@ -28315,46 +28317,7 @@
     "lat": -34.6011,
     "lon": -58.3682,
     "geoSource": "manual:city",
-    "lastChecked": "2026-07-25",
-    "region": "South America",
-    "costCurrency": "ARS"
-  },
-  {
-    "name": "Universidad de Belgrano (UB)",
-    "country": "Argentina",
-    "city": "Buenos Aires",
-    "programs": [
-      "Ingeniería Civil"
-    ],
-    "programLinks": [
-      "https://ub.edu.ar/facultad-de-ingenieria-y-tecnologia-informatica/ingenieria-civil"
-    ],
-    "accreditation": [
-      "CONEAU"
-    ],
-    "language": "Spanish",
-    "mode": "Full-time",
-    "delivery": "Presential",
-    "cost": "7,217,520",
-    "graduatesPerYear": "Not published",
-    "topics": [
-      "CAD/CAM",
-      "Civil Engineering",
-      "Infrastructure Engineering"
-    ],
-    "computingTopics": [
-      "CAD/CAM"
-    ],
-    "domains": [
-      "Civil Engineering",
-      "Infrastructure Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://ub.edu.ar/facultad-de-ingenieria-y-tecnologia-informatica/ingenieria-civil",
-    "lat": -34.5636,
-    "lon": -58.4561,
-    "geoSource": "manual:city",
-    "lastChecked": "2026-07-25",
+    "lastChecked": "2026-10-29",
     "region": "South America",
     "costCurrency": "ARS"
   },
@@ -28363,10 +28326,12 @@
     "country": "Argentina",
     "city": "Morón",
     "programs": [
-      "Ingeniería Civil"
+      "Ingeniería Civil",
+      "Arquitectura"
     ],
     "programLinks": [
-      "https://venialaum.unimoron.edu.ar/carreras/ingenieria-informatica-y-cs-agroalimentarias/de-grado/ingenieria-civil/2006"
+      "https://venialaum.unimoron.edu.ar/carreras/ingenieria-informatica-y-cs-agroalimentarias/de-grado/ingenieria-civil/2006?e=3&c=1",
+      "https://venialaum.unimoron.edu.ar/carreras/arquitectura-y-diseno/de-grado/arquitectura/2010?e=8&c=1"
     ],
     "accreditation": [
       "CONEAU"
@@ -28379,21 +28344,23 @@
     "topics": [
       "CAD/CAM",
       "Civil Engineering",
-      "Infrastructure Engineering"
+      "Infrastructure Engineering",
+      "Architecture"
     ],
     "computingTopics": [
       "CAD/CAM"
     ],
     "domains": [
       "Civil Engineering",
-      "Infrastructure Engineering"
+      "Infrastructure Engineering",
+      "Architecture"
     ],
     "verificationLevel": 2,
     "website": "https://venialaum.unimoron.edu.ar/carreras/ingenieria-informatica-y-cs-agroalimentarias/de-grado/ingenieria-civil/2006",
     "lat": -34.6534,
     "lon": -58.6198,
     "geoSource": "manual:city",
-    "lastChecked": "2026-07-25",
+    "lastChecked": "2026-10-29",
     "region": "South America",
     "costCurrency": "ARS"
   },
@@ -28416,23 +28383,29 @@
     "cost": "8,402,000",
     "graduatesPerYear": "Not published",
     "topics": [
+      "BIM",
+      "Programming",
       "CAD/CAM",
       "Civil Engineering",
-      "Infrastructure Engineering"
+      "Infrastructure Engineering",
+      "Construction Management"
     ],
     "computingTopics": [
+      "BIM",
+      "Programming",
       "CAD/CAM"
     ],
     "domains": [
       "Civil Engineering",
-      "Infrastructure Engineering"
+      "Infrastructure Engineering",
+      "Construction Management"
     ],
     "verificationLevel": 2,
     "website": "https://ucc.edu.ar/carreras/ingenieria-civil/",
     "lat": -31.4183,
     "lon": -64.1888,
     "geoSource": "manual:city",
-    "lastChecked": "2026-07-25",
+    "lastChecked": "2026-10-29",
     "region": "South America",
     "costCurrency": "ARS"
   },
@@ -28471,46 +28444,7 @@
     "lat": -24.7859,
     "lon": -65.4117,
     "geoSource": "manual:city",
-    "lastChecked": "2026-07-25",
-    "region": "South America",
-    "costCurrency": "ARS"
-  },
-  {
-    "name": "Universidad Nacional de Misiones (UNaM)",
-    "country": "Argentina",
-    "city": "Oberá",
-    "programs": [
-      "Ingeniería Civil"
-    ],
-    "programLinks": [
-      "https://www.fio.unam.edu.ar/index.php?option=com_content&view=article&id=95&Itemid=573"
-    ],
-    "accreditation": [
-      "CONEAU"
-    ],
-    "language": "Spanish",
-    "mode": "Full-time",
-    "delivery": "Presential",
-    "cost": "0",
-    "graduatesPerYear": "Not published",
-    "topics": [
-      "CAD/CAM",
-      "Civil Engineering",
-      "Infrastructure Engineering"
-    ],
-    "computingTopics": [
-      "CAD/CAM"
-    ],
-    "domains": [
-      "Civil Engineering",
-      "Infrastructure Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://www.fio.unam.edu.ar/index.php?option=com_content&view=article&id=95&Itemid=573",
-    "lat": -27.4869,
-    "lon": -55.1197,
-    "geoSource": "manual:city",
-    "lastChecked": "2026-07-25",
+    "lastChecked": "2026-10-29",
     "region": "South America",
     "costCurrency": "ARS"
   },
@@ -28549,46 +28483,7 @@
     "lat": -45.8641,
     "lon": -67.4966,
     "geoSource": "manual:city",
-    "lastChecked": "2026-07-25",
-    "region": "South America",
-    "costCurrency": "ARS"
-  },
-  {
-    "name": "Universidad Nacional de Santiago del Estero (UNSE)",
-    "country": "Argentina",
-    "city": "Santiago del Estero",
-    "programs": [
-      "Ingeniería Civil"
-    ],
-    "programLinks": [
-      "https://www.unse.edu.ar/ingenieria-civil/"
-    ],
-    "accreditation": [
-      "CONEAU"
-    ],
-    "language": "Spanish",
-    "mode": "Full-time",
-    "delivery": "Presential",
-    "cost": "0",
-    "graduatesPerYear": "Not published",
-    "topics": [
-      "CAD/CAM",
-      "Civil Engineering",
-      "Infrastructure Engineering"
-    ],
-    "computingTopics": [
-      "CAD/CAM"
-    ],
-    "domains": [
-      "Civil Engineering",
-      "Infrastructure Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://www.unse.edu.ar/ingenieria-civil/",
-    "lat": -27.7951,
-    "lon": -64.2615,
-    "geoSource": "manual:city",
-    "lastChecked": "2026-07-25",
+    "lastChecked": "2026-10-29",
     "region": "South America",
     "costCurrency": "ARS"
   },
@@ -28600,7 +28495,7 @@
       "Ingeniería Civil"
     ],
     "programLinks": [
-      "https://frn.unf.edu.ar/ingenieria-civil/"
+      "https://unaf-prueba.com/carreras/ingenieria-civil/"
     ],
     "accreditation": [
       "CONEAU"
@@ -28627,46 +28522,7 @@
     "lat": -26.1849,
     "lon": -58.1731,
     "geoSource": "manual:city",
-    "lastChecked": "2026-07-25",
-    "region": "South America",
-    "costCurrency": "ARS"
-  },
-  {
-    "name": "Universidad Nacional del Comahue (UNCo)",
-    "country": "Argentina",
-    "city": "Neuquén",
-    "programs": [
-      "Ingeniería Civil"
-    ],
-    "programLinks": [
-      "https://uncoma.edu.ar/carreras/ingenieria-civil/"
-    ],
-    "accreditation": [
-      "CONEAU"
-    ],
-    "language": "Spanish",
-    "mode": "Full-time",
-    "delivery": "Presential",
-    "cost": "0",
-    "graduatesPerYear": "Not published",
-    "topics": [
-      "CAD/CAM",
-      "Civil Engineering",
-      "Infrastructure Engineering"
-    ],
-    "computingTopics": [
-      "CAD/CAM"
-    ],
-    "domains": [
-      "Civil Engineering",
-      "Infrastructure Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://uncoma.edu.ar/carreras/ingenieria-civil/",
-    "lat": -38.9516,
-    "lon": -68.0591,
-    "geoSource": "manual:city",
-    "lastChecked": "2026-07-25",
+    "lastChecked": "2026-10-29",
     "region": "South America",
     "costCurrency": "ARS"
   },
@@ -29072,11 +28928,19 @@
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
+      "nD BIM",
+      "Collaborative Workflows",
+      "IoT",
+      "Data Management",
       "Construction Management",
       "Sustainability"
     ],
     "computingTopics": [
-      "BIM"
+      "BIM",
+      "nD BIM",
+      "Collaborative Workflows",
+      "IoT",
+      "Data Management"
     ],
     "domains": [
       "Construction Management",
@@ -29087,7 +28951,7 @@
     "lat": 37.65552,
     "lon": -122.05588,
     "geoSource": "manual:campus",
-    "lastChecked": "2026-10-12",
+    "lastChecked": "2026-10-30",
     "region": "North America",
     "costCurrency": "USD"
   },
@@ -29787,10 +29651,14 @@
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
+      "BIM Software",
+      "CAD/CAM",
       "Architecture"
     ],
     "computingTopics": [
-      "BIM"
+      "BIM",
+      "BIM Software",
+      "CAD/CAM"
     ],
     "domains": [
       "Architecture"
@@ -29800,7 +29668,7 @@
     "lat": 33.15125,
     "lon": -117.18082,
     "geoSource": "manual:campus",
-    "lastChecked": "2026-10-12",
+    "lastChecked": "2026-10-30",
     "region": "North America",
     "costCurrency": "USD"
   },
@@ -30744,12 +30612,16 @@
     "cost": "7,716",
     "graduatesPerYear": "Not published",
     "topics": [
+      "BIM",
       "Construction Informatics",
+      "CAD/CAM",
       "Construction Management",
       "Sustainability"
     ],
     "computingTopics": [
-      "Construction Informatics"
+      "BIM",
+      "Construction Informatics",
+      "CAD/CAM"
     ],
     "domains": [
       "Construction Management",
@@ -30760,7 +30632,7 @@
     "lat": 47.00647,
     "lon": -120.53673,
     "geoSource": "manual:campus",
-    "lastChecked": "2026-10-12",
+    "lastChecked": "2026-10-30",
     "region": "North America",
     "costCurrency": "USD"
   },
@@ -30799,7 +30671,7 @@
     "lat": 47.70475,
     "lon": -122.16733,
     "geoSource": "manual:campus",
-    "lastChecked": "2026-10-12",
+    "lastChecked": "2026-10-30",
     "region": "North America",
     "costCurrency": "USD"
   },
@@ -30885,7 +30757,7 @@
     "lat": 61.19038,
     "lon": -149.82233,
     "geoSource": "manual:campus",
-    "lastChecked": "2026-10-12",
+    "lastChecked": "2026-10-30",
     "region": "North America",
     "costCurrency": "USD"
   },
@@ -31186,7 +31058,7 @@
     "lat": 43.60328,
     "lon": -116.19941,
     "geoSource": "manual:campus",
-    "lastChecked": "2026-10-12",
+    "lastChecked": "2026-10-30",
     "region": "North America",
     "costCurrency": "USD"
   },
@@ -31992,7 +31864,7 @@
     "lat": 39.74126,
     "lon": -105.00461,
     "geoSource": "manual:campus",
-    "lastChecked": "2026-10-12",
+    "lastChecked": "2026-10-30",
     "region": "North America",
     "costCurrency": "USD"
   },
@@ -32350,7 +32222,7 @@
     "lat": 35.07588,
     "lon": -106.62494,
     "geoSource": "manual:campus",
-    "lastChecked": "2026-10-12",
+    "lastChecked": "2026-10-30",
     "region": "North America",
     "costCurrency": "USD"
   },
@@ -33125,25 +32997,39 @@
     "country": "United States",
     "city": "Stephenville",
     "programs": [
-      "BS Construction Engineering Technology / Construction Management"
+      "BS Construction Science and Management",
+      "BAS Construction Science and Management",
+      "MS Construction Science and Management",
+      "MS Quality and Engineering Management (Construction concentration)"
     ],
     "programLinks": [
-      "https://catalog.tarleton.edu/undergrad/collegeofengineering/engineeringtechnology/"
+      "https://catalog.tarleton.edu/undergrad/collegeofengineering/engineeringtechnology/",
+      "https://catalog.tarleton.edu/undergrad/collegeofengineering/engineeringtechnology/",
+      "https://catalog.tarleton.edu/grad/engineering/engineeringtechnology/",
+      "https://catalog.tarleton.edu/grad/engineering/engineeringtechnology/"
     ],
     "accreditation": [
       "-"
     ],
     "language": "English",
     "mode": "Full-time",
-    "delivery": "Presential",
+    "delivery": "Presential / Online",
     "cost": "10,181 - 23,021",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
+      "nD BIM",
+      "Collaborative Workflows",
+      "Digital Construction",
+      "Construction Informatics",
       "Construction Management"
     ],
     "computingTopics": [
-      "BIM"
+      "BIM",
+      "nD BIM",
+      "Collaborative Workflows",
+      "Digital Construction",
+      "Construction Informatics"
     ],
     "domains": [
       "Construction Management"
@@ -33153,7 +33039,7 @@
     "lat": 32.21467,
     "lon": -98.21969,
     "geoSource": "manual:campus",
-    "lastChecked": "2026-10-12",
+    "lastChecked": "2026-10-30",
     "region": "North America",
     "costCurrency": "USD"
   },
@@ -33248,12 +33134,10 @@
     "country": "United States",
     "city": "Prairie View",
     "programs": [
-      "BS Construction Science",
-      "BS Architecture"
+      "BS Construction Science"
     ],
     "programLinks": [
-      "https://catalog.pvamu.edu/academicprogramsanddegreeplans/schoolofarchitecture/undergrad/constructionsci/",
-      "https://catalog.pvamu.edu/academicprogramsanddegreeplans/schoolofarchitecture/undergrad/arch/"
+      "https://catalog.pvamu.edu/academicprogramsanddegreeplans/schoolofarchitecture/undergrad/constructionsci/"
     ],
     "accreditation": [
       "-"
@@ -33265,22 +33149,22 @@
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
-      "Construction Management",
-      "Architecture"
+      "CAD/CAM",
+      "Construction Management"
     ],
     "computingTopics": [
-      "BIM"
+      "BIM",
+      "CAD/CAM"
     ],
     "domains": [
-      "Construction Management",
-      "Architecture"
+      "Construction Management"
     ],
     "verificationLevel": 2,
     "website": "https://www.pvamu.edu",
     "lat": 30.0961,
     "lon": -95.987,
     "geoSource": "manual:campus",
-    "lastChecked": "2026-10-12",
+    "lastChecked": "2026-10-30",
     "region": "North America",
     "costCurrency": "USD"
   },
@@ -33679,7 +33563,7 @@
     "lat": 37.95324,
     "lon": -91.77427,
     "geoSource": "manual:campus",
-    "lastChecked": "2026-10-12",
+    "lastChecked": "2026-10-30",
     "region": "North America",
     "costCurrency": "USD"
   },
@@ -33939,7 +33823,7 @@
     "lat": 30.21173,
     "lon": -92.01958,
     "geoSource": "manual:campus",
-    "lastChecked": "2026-10-12",
+    "lastChecked": "2026-10-30",
     "region": "North America",
     "costCurrency": "USD"
   },
@@ -34205,7 +34089,7 @@
     "lat": 43.04577,
     "lon": -87.90794,
     "geoSource": "manual:campus",
-    "lastChecked": "2026-10-12",
+    "lastChecked": "2026-10-30",
     "region": "North America",
     "costCurrency": "USD"
   },
@@ -34521,10 +34405,14 @@
     "country": "United States",
     "city": "Peoria",
     "programs": [
-      "MS Civil Engineering"
+      "MS Civil Engineering (MSCE)",
+      "BS Civil Engineering / MSCE (4+1)",
+      "BS Construction / MSCE (4+1)"
     ],
     "programLinks": [
-      "https://www.bradley.edu/academics/programs/master-of-science-in-civil-engineering-msce/"
+      "https://catalog.bradley.edu/graduate/programs/master-science-civil-engineering-2year-program/",
+      "https://catalog.bradley.edu/graduate/programs/bachelor-science-civil-engineeringmaster-science-civil-engineering-bscemsce-41-program/",
+      "https://catalog.bradley.edu/graduate/programs/bachelor-science-constructionmaster-science-civil-engineering-bscmsce-41-program/"
     ],
     "accreditation": [
       "-"
@@ -34536,11 +34424,15 @@
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
+      "Data Management",
+      "CAD/CAM",
       "Civil Engineering",
       "Construction Management"
     ],
     "computingTopics": [
-      "BIM"
+      "BIM",
+      "Data Management",
+      "CAD/CAM"
     ],
     "domains": [
       "Civil Engineering",
@@ -34551,7 +34443,7 @@
     "lat": 40.69811,
     "lon": -89.61551,
     "geoSource": "manual:campus",
-    "lastChecked": "2026-10-12",
+    "lastChecked": "2026-10-30",
     "region": "North America",
     "costCurrency": "USD"
   },
@@ -35349,7 +35241,7 @@
     "lat": 39.47092,
     "lon": -87.40921,
     "geoSource": "manual:campus",
-    "lastChecked": "2026-10-12",
+    "lastChecked": "2026-10-30",
     "region": "North America",
     "costCurrency": "USD"
   },
@@ -36313,7 +36205,7 @@
     "lat": 41.14418,
     "lon": -81.33983,
     "geoSource": "manual:campus",
-    "lastChecked": "2026-10-12",
+    "lastChecked": "2026-10-30",
     "region": "North America",
     "costCurrency": "USD"
   },
@@ -36561,13 +36453,31 @@
     "cost": "13,740 - 21,650",
     "graduatesPerYear": "Not published",
     "topics": [
+      "AI & Machine Learning",
       "BIM",
+      "Digital Construction",
+      "3D Modeling & Scanning",
+      "Data Management",
+      "VR/AR",
+      "openBIM & IFC",
+      "Digital Fabrication",
+      "IoT",
+      "Robotics & Automation",
       "Construction Engineering",
       "Construction Management",
       "Sustainability"
     ],
     "computingTopics": [
-      "BIM"
+      "AI & Machine Learning",
+      "BIM",
+      "Digital Construction",
+      "3D Modeling & Scanning",
+      "Data Management",
+      "VR/AR",
+      "openBIM & IFC",
+      "Digital Fabrication",
+      "IoT",
+      "Robotics & Automation"
     ],
     "domains": [
       "Construction Engineering",
@@ -36579,7 +36489,7 @@
     "lat": 41.07574,
     "lon": -81.51145,
     "geoSource": "manual:campus",
-    "lastChecked": "2026-10-12",
+    "lastChecked": "2026-10-30",
     "region": "North America",
     "costCurrency": "USD"
   },
@@ -37098,7 +37008,7 @@
       "MS Construction Management"
     ],
     "programLinks": [
-      "https://www.unf.edu/catalog/ospreymaps/2022-2023/Building-Construction.html",
+      "https://www.unf.edu/catalog/ospreymaps/Building-Construction.html",
       "https://www.unf.edu/graduateschool/academics/programs/construction-management.html"
     ],
     "accreditation": [
@@ -37124,7 +37034,7 @@
     "lat": 30.26899,
     "lon": -81.50966,
     "geoSource": "manual:campus",
-    "lastChecked": "2026-10-12",
+    "lastChecked": "2026-10-30",
     "region": "North America",
     "costCurrency": "USD"
   },
@@ -37642,10 +37552,12 @@
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
+      "Construction Informatics",
       "Construction Management"
     ],
     "computingTopics": [
-      "BIM"
+      "BIM",
+      "Construction Informatics"
     ],
     "domains": [
       "Construction Management"
@@ -37655,7 +37567,7 @@
     "lat": 36.07805,
     "lon": -79.77111,
     "geoSource": "manual:campus",
-    "lastChecked": "2026-10-12",
+    "lastChecked": "2026-10-30",
     "region": "North America",
     "costCurrency": "USD"
   },
@@ -37732,10 +37644,14 @@
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
+      "CAD/CAM",
+      "Energy Performance",
       "Construction Management"
     ],
     "computingTopics": [
-      "BIM"
+      "BIM",
+      "CAD/CAM",
+      "Energy Performance"
     ],
     "domains": [
       "Construction Management"
@@ -37745,7 +37661,7 @@
     "lat": 35.13042,
     "lon": -80.8976,
     "geoSource": "manual:campus",
-    "lastChecked": "2026-10-12",
+    "lastChecked": "2026-10-30",
     "region": "North America",
     "costCurrency": "USD"
   },
@@ -37802,7 +37718,7 @@
       "AAS Construction Management Technology"
     ],
     "programLinks": [
-      "https://catalog.cfcc.edu/programs/A35190/program-of-study-EbHxU"
+      "https://catalog.cfcc.edu/programs/A35190/program-of-study-KE687"
     ],
     "accreditation": [
       "-"
@@ -37814,11 +37730,13 @@
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
+      "Energy Performance",
       "Construction Management",
       "Sustainability"
     ],
     "computingTopics": [
-      "BIM"
+      "BIM",
+      "Energy Performance"
     ],
     "domains": [
       "Construction Management",
@@ -37829,7 +37747,7 @@
     "lat": 34.24055,
     "lon": -77.94878,
     "geoSource": "manual:campus",
-    "lastChecked": "2026-10-12",
+    "lastChecked": "2026-10-30",
     "region": "North America",
     "costCurrency": "USD"
   },
@@ -37870,7 +37788,7 @@
     "lat": 36.00127,
     "lon": -79.91508,
     "geoSource": "manual:campus",
-    "lastChecked": "2026-10-12",
+    "lastChecked": "2026-10-30",
     "region": "North America",
     "costCurrency": "USD"
   },
@@ -37879,12 +37797,10 @@
     "country": "United States",
     "city": "Raleigh",
     "programs": [
-      "AAS Construction Management Technology",
       "AAS Architectural Technology",
       "Building Information Modeling Diploma"
     ],
     "programLinks": [
-      "https://www.waketech.edu/node/341",
       "https://www.waketech.edu/programs-courses/credit/architectural-technology",
       "https://www.waketech.edu/programs-courses/credit/architectural-technology"
     ],
@@ -37898,18 +37814,16 @@
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
-      "BIM Software",
       "CAD/CAM",
-      "Construction Management",
+      "Digital Design",
       "Architecture"
     ],
     "computingTopics": [
       "BIM",
-      "BIM Software",
-      "CAD/CAM"
+      "CAD/CAM",
+      "Digital Design"
     ],
     "domains": [
-      "Construction Management",
       "Architecture"
     ],
     "verificationLevel": 2,
@@ -37917,7 +37831,7 @@
     "lat": 35.64971,
     "lon": -78.70368,
     "geoSource": "manual:campus",
-    "lastChecked": "2026-10-12",
+    "lastChecked": "2026-10-30",
     "region": "North America",
     "costCurrency": "USD"
   },
@@ -41515,47 +41429,6 @@
     "costCurrency": "BRL"
   },
   {
-    "name": "Universidade Federal de Goiás (UFG)",
-    "country": "Brazil",
-    "city": "Goiânia",
-    "programs": [
-      "Engenharia Civil"
-    ],
-    "programLinks": [
-      "https://ufg.br/n/60517-cursos-engenharia-civil"
-    ],
-    "accreditation": [
-      "MEC",
-      "SINAES",
-      "CONFEA/CREA"
-    ],
-    "language": "Portuguese",
-    "mode": "Full-time",
-    "delivery": "Presential",
-    "cost": "0",
-    "graduatesPerYear": "Not published",
-    "topics": [
-      "CAD/CAM",
-      "Civil Engineering",
-      "Infrastructure Engineering"
-    ],
-    "computingTopics": [
-      "CAD/CAM"
-    ],
-    "domains": [
-      "Civil Engineering",
-      "Infrastructure Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://ufg.br/n/60517-cursos-engenharia-civil",
-    "lat": -16.603,
-    "lon": -49.265,
-    "geoSource": "manual:city",
-    "lastChecked": "2026-07-27",
-    "region": "South America",
-    "costCurrency": "BRL"
-  },
-  {
     "name": "Universidade Federal da Paraíba (UFPB)",
     "country": "Brazil",
     "city": "João Pessoa",
@@ -41646,47 +41519,6 @@
     "website": "https://ct.ufrn.br/ensino/graduacao/civil/",
     "lat": -5.843,
     "lon": -35.199,
-    "geoSource": "manual:city",
-    "lastChecked": "2026-07-27",
-    "region": "South America",
-    "costCurrency": "BRL"
-  },
-  {
-    "name": "Universidade Federal do Amazonas (UFAM)",
-    "country": "Brazil",
-    "city": "Manaus",
-    "programs": [
-      "Engenharia Civil"
-    ],
-    "programLinks": [
-      "https://www.arquivosdec.ufam.edu.br/excivis.html"
-    ],
-    "accreditation": [
-      "MEC",
-      "SINAES",
-      "CONFEA/CREA"
-    ],
-    "language": "Portuguese",
-    "mode": "Full-time",
-    "delivery": "Presential",
-    "cost": "0",
-    "graduatesPerYear": "Not published",
-    "topics": [
-      "CAD/CAM",
-      "Civil Engineering",
-      "Infrastructure Engineering"
-    ],
-    "computingTopics": [
-      "CAD/CAM"
-    ],
-    "domains": [
-      "Civil Engineering",
-      "Infrastructure Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://www.arquivosdec.ufam.edu.br/excivis.html",
-    "lat": -3.093,
-    "lon": -59.972,
     "geoSource": "manual:city",
     "lastChecked": "2026-07-27",
     "region": "South America",
@@ -41838,47 +41670,6 @@
     "costCurrency": "BRL"
   },
   {
-    "name": "Universidade Federal de Ouro Preto (UFOP)",
-    "country": "Brazil",
-    "city": "Ouro Preto",
-    "programs": [
-      "Engenharia Civil"
-    ],
-    "programLinks": [
-      "https://seja.ufop.br/cursos"
-    ],
-    "accreditation": [
-      "MEC",
-      "SINAES",
-      "CONFEA/CREA"
-    ],
-    "language": "Portuguese",
-    "mode": "Full-time",
-    "delivery": "Presential",
-    "cost": "0",
-    "graduatesPerYear": "Not published",
-    "topics": [
-      "CAD/CAM",
-      "Civil Engineering",
-      "Infrastructure Engineering"
-    ],
-    "computingTopics": [
-      "CAD/CAM"
-    ],
-    "domains": [
-      "Civil Engineering",
-      "Infrastructure Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://seja.ufop.br/cursos",
-    "lat": -20.398,
-    "lon": -43.504,
-    "geoSource": "manual:city",
-    "lastChecked": "2026-07-27",
-    "region": "South America",
-    "costCurrency": "BRL"
-  },
-  {
     "name": "Universidade Federal de Santa Maria (UFSM)",
     "country": "Brazil",
     "city": "Santa Maria",
@@ -42014,47 +41805,6 @@
     "website": "https://www.furg.br/graduacao/engenharia-civil",
     "lat": -32.077,
     "lon": -52.168,
-    "geoSource": "manual:city",
-    "lastChecked": "2026-07-27",
-    "region": "South America",
-    "costCurrency": "BRL"
-  },
-  {
-    "name": "Universidade Federal de Campina Grande (UFCG)",
-    "country": "Brazil",
-    "city": "Campina Grande",
-    "programs": [
-      "Engenharia Civil"
-    ],
-    "programLinks": [
-      "https://portal.ufcg.edu.br/graduacao/cursos-graduacao/297-engenharia-civil-2.html"
-    ],
-    "accreditation": [
-      "MEC",
-      "SINAES",
-      "CONFEA/CREA"
-    ],
-    "language": "Portuguese",
-    "mode": "Full-time",
-    "delivery": "Presential",
-    "cost": "0",
-    "graduatesPerYear": "Not published",
-    "topics": [
-      "CAD/CAM",
-      "Civil Engineering",
-      "Infrastructure Engineering"
-    ],
-    "computingTopics": [
-      "CAD/CAM"
-    ],
-    "domains": [
-      "Civil Engineering",
-      "Infrastructure Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://portal.ufcg.edu.br/graduacao/cursos-graduacao/297-engenharia-civil-2.html",
-    "lat": -7.214,
-    "lon": -35.904,
     "geoSource": "manual:city",
     "lastChecked": "2026-07-27",
     "region": "South America",
@@ -42356,7 +42106,7 @@
       "Engenharia Civil"
     ],
     "programLinks": [
-      "https://www.utfpr.edu.br/cursos/graduacao/bacharelado/engenharia-civil"
+      "https://www.utfpr.edu.br/cursos/coordenacoes/graduacao/curitiba/ct-engenharia-civil"
     ],
     "accreditation": [
       "MEC",
@@ -42369,23 +42119,35 @@
     "cost": "0",
     "graduatesPerYear": "Not published",
     "topics": [
-      "CAD/CAM",
+      "BIM",
+      "Programming",
       "Civil Engineering",
-      "Infrastructure Engineering"
+      "Infrastructure Engineering",
+      "Construction Management",
+      "Project Management",
+      "Sustainability",
+      "Lean & Integrated Delivery",
+      "Prefabrication & Modular Construction"
     ],
     "computingTopics": [
-      "CAD/CAM"
+      "BIM",
+      "Programming"
     ],
     "domains": [
       "Civil Engineering",
-      "Infrastructure Engineering"
+      "Infrastructure Engineering",
+      "Construction Management",
+      "Project Management",
+      "Sustainability",
+      "Lean & Integrated Delivery",
+      "Prefabrication & Modular Construction"
     ],
     "verificationLevel": 2,
     "website": "https://www.utfpr.edu.br/cursos/graduacao/bacharelado/engenharia-civil",
     "lat": -25.439,
     "lon": -49.269,
     "geoSource": "manual:city",
-    "lastChecked": "2026-07-27",
+    "lastChecked": "2026-10-29",
     "region": "South America",
     "costCurrency": "BRL"
   },
@@ -42397,7 +42159,7 @@
       "Engenharia Civil"
     ],
     "programLinks": [
-      "https://prg.unifei.edu.br/cursos/cursos-itajuba/"
+      "https://prg.unifei.edu.br/cursos/engenharia-civil/"
     ],
     "accreditation": [
       "MEC",
@@ -42410,12 +42172,16 @@
     "cost": "0",
     "graduatesPerYear": "Not published",
     "topics": [
+      "Smart Cities & Buildings",
       "CAD/CAM",
+      "Programming",
       "Civil Engineering",
       "Infrastructure Engineering"
     ],
     "computingTopics": [
-      "CAD/CAM"
+      "Smart Cities & Buildings",
+      "CAD/CAM",
+      "Programming"
     ],
     "domains": [
       "Civil Engineering",
@@ -42426,7 +42192,7 @@
     "lat": -22.413,
     "lon": -45.447,
     "geoSource": "manual:city",
-    "lastChecked": "2026-07-27",
+    "lastChecked": "2026-10-29",
     "region": "South America",
     "costCurrency": "BRL"
   },
@@ -42476,88 +42242,6 @@
     "costCurrency": "BRL"
   },
   {
-    "name": "Universidade Federal Rural do Rio de Janeiro (UFRRJ)",
-    "country": "Brazil",
-    "city": "Seropédica",
-    "programs": [
-      "Engenharia Civil"
-    ],
-    "programLinks": [
-      "https://portal.ufrrj.br/pro-reitoria-de-graduacao/cursos/"
-    ],
-    "accreditation": [
-      "MEC",
-      "SINAES",
-      "CONFEA/CREA"
-    ],
-    "language": "Portuguese",
-    "mode": "Full-time",
-    "delivery": "Presential",
-    "cost": "0",
-    "graduatesPerYear": "Not published",
-    "topics": [
-      "CAD/CAM",
-      "Civil Engineering",
-      "Infrastructure Engineering"
-    ],
-    "computingTopics": [
-      "CAD/CAM"
-    ],
-    "domains": [
-      "Civil Engineering",
-      "Infrastructure Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://portal.ufrrj.br/pro-reitoria-de-graduacao/cursos/",
-    "lat": -22.768,
-    "lon": -43.685,
-    "geoSource": "manual:city",
-    "lastChecked": "2026-07-27",
-    "region": "South America",
-    "costCurrency": "BRL"
-  },
-  {
-    "name": "Universidade Federal do Vale do São Francisco (UNIVASF)",
-    "country": "Brazil",
-    "city": "Petrolina",
-    "programs": [
-      "Engenharia Civil"
-    ],
-    "programLinks": [
-      "http://www.civil.univasf.edu.br/"
-    ],
-    "accreditation": [
-      "MEC",
-      "SINAES",
-      "CONFEA/CREA"
-    ],
-    "language": "Portuguese",
-    "mode": "Full-time",
-    "delivery": "Presential",
-    "cost": "0",
-    "graduatesPerYear": "Not published",
-    "topics": [
-      "CAD/CAM",
-      "Civil Engineering",
-      "Infrastructure Engineering"
-    ],
-    "computingTopics": [
-      "CAD/CAM"
-    ],
-    "domains": [
-      "Civil Engineering",
-      "Infrastructure Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "http://www.civil.univasf.edu.br/",
-    "lat": -9.389,
-    "lon": -40.503,
-    "geoSource": "manual:city",
-    "lastChecked": "2026-07-27",
-    "region": "South America",
-    "costCurrency": "BRL"
-  },
-  {
     "name": "Universidade Federal do Tocantins (UFT)",
     "country": "Brazil",
     "city": "Palmas",
@@ -42578,105 +42262,29 @@
     "cost": "0",
     "graduatesPerYear": "Not published",
     "topics": [
+      "BIM",
       "CAD/CAM",
+      "Programming",
       "Civil Engineering",
-      "Infrastructure Engineering"
+      "Infrastructure Engineering",
+      "Construction Management"
     ],
     "computingTopics": [
-      "CAD/CAM"
+      "BIM",
+      "CAD/CAM",
+      "Programming"
     ],
     "domains": [
       "Civil Engineering",
-      "Infrastructure Engineering"
+      "Infrastructure Engineering",
+      "Construction Management"
     ],
     "verificationLevel": 2,
     "website": "https://www.uft.edu.br/campus/palmas/cursos/graduacao/engenharia-civil",
     "lat": -10.184,
     "lon": -48.3336,
     "geoSource": "manual:city",
-    "lastChecked": "2026-07-27",
-    "region": "South America",
-    "costCurrency": "BRL"
-  },
-  {
-    "name": "Universidade Federal do Acre (UFAC)",
-    "country": "Brazil",
-    "city": "Rio Branco",
-    "programs": [
-      "Engenharia Civil"
-    ],
-    "programLinks": [
-      "https://www.ufac.br/site/ufac/prograd/cursos/rio-branco/bacharelado/engenharia-civil"
-    ],
-    "accreditation": [
-      "MEC",
-      "SINAES",
-      "CONFEA/CREA"
-    ],
-    "language": "Portuguese",
-    "mode": "Full-time",
-    "delivery": "Presential",
-    "cost": "0",
-    "graduatesPerYear": "Not published",
-    "topics": [
-      "CAD/CAM",
-      "Civil Engineering",
-      "Infrastructure Engineering"
-    ],
-    "computingTopics": [
-      "CAD/CAM"
-    ],
-    "domains": [
-      "Civil Engineering",
-      "Infrastructure Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://www.ufac.br/site/ufac/prograd/cursos/rio-branco/bacharelado/engenharia-civil",
-    "lat": -9.956,
-    "lon": -67.87,
-    "geoSource": "manual:city",
-    "lastChecked": "2026-07-27",
-    "region": "South America",
-    "costCurrency": "BRL"
-  },
-  {
-    "name": "Universidade Federal de Roraima (UFRR)",
-    "country": "Brazil",
-    "city": "Boa Vista",
-    "programs": [
-      "Engenharia Civil"
-    ],
-    "programLinks": [
-      "https://ufrr.br/engcivil/"
-    ],
-    "accreditation": [
-      "MEC",
-      "SINAES",
-      "CONFEA/CREA"
-    ],
-    "language": "Portuguese",
-    "mode": "Full-time",
-    "delivery": "Presential",
-    "cost": "0",
-    "graduatesPerYear": "Not published",
-    "topics": [
-      "CAD/CAM",
-      "Civil Engineering",
-      "Infrastructure Engineering"
-    ],
-    "computingTopics": [
-      "CAD/CAM"
-    ],
-    "domains": [
-      "Civil Engineering",
-      "Infrastructure Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://ufrr.br/engcivil/",
-    "lat": 2.846,
-    "lon": -60.7,
-    "geoSource": "manual:city",
-    "lastChecked": "2026-07-27",
+    "lastChecked": "2026-10-29",
     "region": "South America",
     "costCurrency": "BRL"
   },
@@ -42688,7 +42296,7 @@
       "Engenharia Civil"
     ],
     "programLinks": [
-      "https://www.ufvjm.edu.br/cursos/engenharia-civil"
+      "https://portal.ufvjm.edu.br/a-universidade/cursos/engenharia-civil"
     ],
     "accreditation": [
       "MEC",
@@ -42701,12 +42309,16 @@
     "cost": "0",
     "graduatesPerYear": "Not published",
     "topics": [
+      "BIM",
       "CAD/CAM",
+      "Programming",
       "Civil Engineering",
       "Infrastructure Engineering"
     ],
     "computingTopics": [
-      "CAD/CAM"
+      "BIM",
+      "CAD/CAM",
+      "Programming"
     ],
     "domains": [
       "Civil Engineering",
@@ -42717,48 +42329,7 @@
     "lat": -17.857,
     "lon": -41.505,
     "geoSource": "manual:city",
-    "lastChecked": "2026-07-27",
-    "region": "South America",
-    "costCurrency": "BRL"
-  },
-  {
-    "name": "Universidade Federal Rural do Semi-Árido (UFERSA)",
-    "country": "Brazil",
-    "city": "Mossoró",
-    "programs": [
-      "Engenharia Civil"
-    ],
-    "programLinks": [
-      "https://engcivil.ufersa.edu.br/"
-    ],
-    "accreditation": [
-      "MEC",
-      "SINAES",
-      "CONFEA/CREA"
-    ],
-    "language": "Portuguese",
-    "mode": "Full-time",
-    "delivery": "Presential",
-    "cost": "0",
-    "graduatesPerYear": "Not published",
-    "topics": [
-      "CAD/CAM",
-      "Civil Engineering",
-      "Infrastructure Engineering"
-    ],
-    "computingTopics": [
-      "CAD/CAM"
-    ],
-    "domains": [
-      "Civil Engineering",
-      "Infrastructure Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://engcivil.ufersa.edu.br/",
-    "lat": -5.203,
-    "lon": -37.325,
-    "geoSource": "manual:city",
-    "lastChecked": "2026-07-27",
+    "lastChecked": "2026-10-29",
     "region": "South America",
     "costCurrency": "BRL"
   },
@@ -42783,12 +42354,14 @@
     "cost": "0",
     "graduatesPerYear": "Not published",
     "topics": [
-      "CAD/CAM",
+      "BIM",
+      "Programming",
       "Civil Engineering",
       "Infrastructure Engineering"
     ],
     "computingTopics": [
-      "CAD/CAM"
+      "BIM",
+      "Programming"
     ],
     "domains": [
       "Civil Engineering",
@@ -42799,89 +42372,7 @@
     "lat": -25.547,
     "lon": -54.586,
     "geoSource": "manual:city",
-    "lastChecked": "2026-07-27",
-    "region": "South America",
-    "costCurrency": "BRL"
-  },
-  {
-    "name": "Universidade Federal do Cariri (UFCA)",
-    "country": "Brazil",
-    "city": "Juazeiro do Norte",
-    "programs": [
-      "Engenharia Civil"
-    ],
-    "programLinks": [
-      "https://www.ufca.edu.br/cursos/graduacao/engenharia-civil/"
-    ],
-    "accreditation": [
-      "MEC",
-      "SINAES",
-      "CONFEA/CREA"
-    ],
-    "language": "Portuguese",
-    "mode": "Full-time",
-    "delivery": "Presential",
-    "cost": "0",
-    "graduatesPerYear": "Not published",
-    "topics": [
-      "CAD/CAM",
-      "Civil Engineering",
-      "Infrastructure Engineering"
-    ],
-    "computingTopics": [
-      "CAD/CAM"
-    ],
-    "domains": [
-      "Civil Engineering",
-      "Infrastructure Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://www.ufca.edu.br/cursos/graduacao/engenharia-civil/",
-    "lat": -7.214,
-    "lon": -39.315,
-    "geoSource": "manual:city",
-    "lastChecked": "2026-07-27",
-    "region": "South America",
-    "costCurrency": "BRL"
-  },
-  {
-    "name": "Universidade Federal de Rondônia (UNIR)",
-    "country": "Brazil",
-    "city": "Porto Velho",
-    "programs": [
-      "Engenharia Civil"
-    ],
-    "programLinks": [
-      "https://sigaa.unir.br/sigaa/public/curso/ppp.jsf?lc=pt_BR&id=4836937"
-    ],
-    "accreditation": [
-      "MEC",
-      "SINAES",
-      "CONFEA/CREA"
-    ],
-    "language": "Portuguese",
-    "mode": "Full-time",
-    "delivery": "Presential",
-    "cost": "0",
-    "graduatesPerYear": "Not published",
-    "topics": [
-      "CAD/CAM",
-      "Civil Engineering",
-      "Infrastructure Engineering"
-    ],
-    "computingTopics": [
-      "CAD/CAM"
-    ],
-    "domains": [
-      "Civil Engineering",
-      "Infrastructure Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://sigaa.unir.br/sigaa/public/curso/ppp.jsf?lc=pt_BR&id=4836937",
-    "lat": -8.761,
-    "lon": -63.9,
-    "geoSource": "manual:city",
-    "lastChecked": "2026-07-27",
+    "lastChecked": "2026-10-29",
     "region": "South America",
     "costCurrency": "BRL"
   },
@@ -42922,7 +42413,7 @@
     "lat": 0.034,
     "lon": -51.07,
     "geoSource": "manual:city",
-    "lastChecked": "2026-07-27",
+    "lastChecked": "2026-10-29",
     "region": "South America",
     "costCurrency": "BRL"
   },
@@ -42934,7 +42425,7 @@
       "Engenharia Civil"
     ],
     "programLinks": [
-      "https://civil.unifesspa.edu.br/"
+      "https://engenhariacivil.unifesspa.edu.br/"
     ],
     "accreditation": [
       "MEC",
@@ -42963,7 +42454,7 @@
     "lat": -5.368,
     "lon": -49.118,
     "geoSource": "manual:city",
-    "lastChecked": "2026-07-27",
+    "lastChecked": "2026-10-29",
     "region": "South America",
     "costCurrency": "BRL"
   },
@@ -43010,47 +42501,6 @@
     "website": "https://www.eng.uerj.br/cursos/civil.php",
     "lat": -22.912,
     "lon": -43.236,
-    "geoSource": "manual:city",
-    "lastChecked": "2026-07-27",
-    "region": "South America",
-    "costCurrency": "BRL"
-  },
-  {
-    "name": "Universidade Estadual do Norte Fluminense (UENF)",
-    "country": "Brazil",
-    "city": "Campos dos Goytacazes",
-    "programs": [
-      "Engenharia Civil"
-    ],
-    "programLinks": [
-      "https://uenf.br/graduacao/engenharia-civil/"
-    ],
-    "accreditation": [
-      "MEC",
-      "SINAES",
-      "CONFEA/CREA"
-    ],
-    "language": "Portuguese",
-    "mode": "Full-time",
-    "delivery": "Presential",
-    "cost": "0",
-    "graduatesPerYear": "Not published",
-    "topics": [
-      "CAD/CAM",
-      "Civil Engineering",
-      "Infrastructure Engineering"
-    ],
-    "computingTopics": [
-      "CAD/CAM"
-    ],
-    "domains": [
-      "Civil Engineering",
-      "Infrastructure Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://uenf.br/graduacao/engenharia-civil/",
-    "lat": -21.762,
-    "lon": -41.321,
     "geoSource": "manual:city",
     "lastChecked": "2026-07-27",
     "region": "South America",
@@ -43173,23 +42623,31 @@
     "cost": "0",
     "graduatesPerYear": "Not published",
     "topics": [
+      "BIM",
       "CAD/CAM",
+      "Programming",
       "Civil Engineering",
-      "Infrastructure Engineering"
+      "Infrastructure Engineering",
+      "Structural Engineering",
+      "Construction Management"
     ],
     "computingTopics": [
-      "CAD/CAM"
+      "BIM",
+      "CAD/CAM",
+      "Programming"
     ],
     "domains": [
       "Civil Engineering",
-      "Infrastructure Engineering"
+      "Infrastructure Engineering",
+      "Structural Engineering",
+      "Construction Management"
     ],
     "verificationLevel": 2,
     "website": "https://www.uepg.br/engenharia-civil/",
     "lat": -25.095,
     "lon": -50.105,
     "geoSource": "manual:city",
-    "lastChecked": "2026-07-27",
+    "lastChecked": "2026-10-29",
     "region": "South America",
     "costCurrency": "BRL"
   },
@@ -43201,7 +42659,7 @@
       "Engenharia Civil"
     ],
     "programLinks": [
-      "https://www.unioeste.br/portal/prograd-outros/cursos-campus-todos/cascavelcursos/engenharia-civil-bacharelado"
+      "https://www.unioeste.br/portal/comunidade-externa/cursos"
     ],
     "accreditation": [
       "MEC",
@@ -43230,7 +42688,7 @@
     "lat": -24.987,
     "lon": -53.459,
     "geoSource": "manual:city",
-    "lastChecked": "2026-07-27",
+    "lastChecked": "2026-10-29",
     "region": "South America",
     "costCurrency": "BRL"
   },
@@ -43242,7 +42700,7 @@
       "Engenharia Civil"
     ],
     "programLinks": [
-      "https://ueg.br/cliente/paginas_cursos/engenharia_civil.php"
+      "https://www.ueg.br/exec/consulta_cursos/?funcao=dados_v2&variavel=12&mod=1"
     ],
     "accreditation": [
       "MEC",
@@ -43271,7 +42729,7 @@
     "lat": -16.328,
     "lon": -48.953,
     "geoSource": "manual:city",
-    "lastChecked": "2026-07-27",
+    "lastChecked": "2026-10-29",
     "region": "South America",
     "costCurrency": "BRL"
   },
@@ -43283,7 +42741,7 @@
       "Engenharia Civil"
     ],
     "programLinks": [
-      "https://cursos2.uea.edu.br/index.php?dest=info&curso=59"
+      "https://cursos1.uea.edu.br/index.php?dest=info&curso=59"
     ],
     "accreditation": [
       "MEC",
@@ -43312,48 +42770,7 @@
     "lat": -3.102,
     "lon": -60.025,
     "geoSource": "manual:city",
-    "lastChecked": "2026-07-27",
-    "region": "South America",
-    "costCurrency": "BRL"
-  },
-  {
-    "name": "Universidade do Estado do Pará (UEPA)",
-    "country": "Brazil",
-    "city": "Belém",
-    "programs": [
-      "Engenharia Civil"
-    ],
-    "programLinks": [
-      "https://sigaa.uepa.br/sigaa/public/curso/lista.jsf?nivel=G&aba=p-ensino"
-    ],
-    "accreditation": [
-      "MEC",
-      "SINAES",
-      "CONFEA/CREA"
-    ],
-    "language": "Portuguese",
-    "mode": "Full-time",
-    "delivery": "Presential",
-    "cost": "0",
-    "graduatesPerYear": "Not published",
-    "topics": [
-      "CAD/CAM",
-      "Civil Engineering",
-      "Infrastructure Engineering"
-    ],
-    "computingTopics": [
-      "CAD/CAM"
-    ],
-    "domains": [
-      "Civil Engineering",
-      "Infrastructure Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://sigaa.uepa.br/sigaa/public/curso/lista.jsf?nivel=G&aba=p-ensino",
-    "lat": -1.456,
-    "lon": -48.49,
-    "geoSource": "manual:city",
-    "lastChecked": "2026-07-27",
+    "lastChecked": "2026-10-29",
     "region": "South America",
     "costCurrency": "BRL"
   },
@@ -43451,47 +42868,6 @@
     "costCurrency": "BRL"
   },
   {
-    "name": "Universidade de Pernambuco (UPE)",
-    "country": "Brazil",
-    "city": "Recife",
-    "programs": [
-      "Engenharia Civil"
-    ],
-    "programLinks": [
-      "https://poli.br/en/civil-engineering/"
-    ],
-    "accreditation": [
-      "MEC",
-      "SINAES",
-      "CONFEA/CREA"
-    ],
-    "language": "Portuguese",
-    "mode": "Full-time",
-    "delivery": "Presential",
-    "cost": "0",
-    "graduatesPerYear": "Not published",
-    "topics": [
-      "CAD/CAM",
-      "Civil Engineering",
-      "Infrastructure Engineering"
-    ],
-    "computingTopics": [
-      "CAD/CAM"
-    ],
-    "domains": [
-      "Civil Engineering",
-      "Infrastructure Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://poli.br/en/civil-engineering/",
-    "lat": -8.055,
-    "lon": -34.951,
-    "geoSource": "manual:city",
-    "lastChecked": "2026-07-27",
-    "region": "South America",
-    "costCurrency": "BRL"
-  },
-  {
     "name": "Universidade do Estado de Minas Gerais (UEMG)",
     "country": "Brazil",
     "city": "Belo Horizonte",
@@ -43499,7 +42875,7 @@
       "Engenharia Civil"
     ],
     "programLinks": [
-      "https://www.uemg.br/cursos-jm/graduacao-jm"
+      "https://www.uemg.br/graduacao/cursos2/course/engenharia-civil"
     ],
     "accreditation": [
       "MEC",
@@ -43512,23 +42888,27 @@
     "cost": "0",
     "graduatesPerYear": "Not published",
     "topics": [
+      "BIM",
       "CAD/CAM",
+      "Programming",
       "Civil Engineering",
-      "Infrastructure Engineering"
+      "Construction Management"
     ],
     "computingTopics": [
-      "CAD/CAM"
+      "BIM",
+      "CAD/CAM",
+      "Programming"
     ],
     "domains": [
       "Civil Engineering",
-      "Infrastructure Engineering"
+      "Construction Management"
     ],
     "verificationLevel": 2,
     "website": "https://www.uemg.br/cursos-jm/graduacao-jm",
     "lat": -19.932,
     "lon": -43.935,
     "geoSource": "manual:city",
-    "lastChecked": "2026-07-27",
+    "lastChecked": "2026-10-29",
     "region": "South America",
     "costCurrency": "BRL"
   },
@@ -43553,12 +42933,14 @@
     "cost": "0",
     "graduatesPerYear": "Not published",
     "topics": [
-      "CAD/CAM",
+      "BIM",
+      "Programming",
       "Civil Engineering",
       "Infrastructure Engineering"
     ],
     "computingTopics": [
-      "CAD/CAM"
+      "BIM",
+      "Programming"
     ],
     "domains": [
       "Civil Engineering",
@@ -43569,7 +42951,7 @@
     "lat": -12.95,
     "lon": -38.47,
     "geoSource": "manual:city",
-    "lastChecked": "2026-07-27",
+    "lastChecked": "2026-10-29",
     "region": "South America",
     "costCurrency": "BRL"
   },
@@ -43917,7 +43299,7 @@
       "Engenharia Civil"
     ],
     "programLinks": [
-      "https://www.fei.edu.br/curso/engenharia-civil"
+      "https://portal.fei.edu.br/engenharia-civil"
     ],
     "accreditation": [
       "MEC",
@@ -43946,7 +43328,7 @@
     "lat": -23.666,
     "lon": -46.563,
     "geoSource": "manual:city",
-    "lastChecked": "2026-07-27",
+    "lastChecked": "2026-10-29",
     "region": "South America",
     "costCurrency": "BRL"
   },
@@ -44036,7 +43418,7 @@
     "lat": -23.618,
     "lon": -46.565,
     "geoSource": "manual:city",
-    "lastChecked": "2026-07-27",
+    "lastChecked": "2026-10-29",
     "region": "South America",
     "costCurrency": "BRL"
   },
@@ -44510,7 +43892,7 @@
     "lat": -23.626,
     "lon": -46.572,
     "geoSource": "manual:city",
-    "lastChecked": "2026-07-27",
+    "lastChecked": "2026-10-29",
     "region": "South America",
     "costCurrency": "BRL"
   },
@@ -44887,7 +44269,7 @@
     "lat": -23.53,
     "lon": -46.47,
     "geoSource": "manual:city",
-    "lastChecked": "2026-07-27",
+    "lastChecked": "2026-10-29",
     "region": "South America",
     "costCurrency": "BRL"
   },
@@ -45043,7 +44425,7 @@
       "Engenharia Civil"
     ],
     "programLinks": [
-      "https://www.usf.edu.br/vestibular/curso.vm?curso=Engenharia+Civil&id=582E03"
+      "https://www.usf.edu.br/vestibular/curso/?curso=Engenharia+Civil&id=582E03"
     ],
     "accreditation": [
       "MEC",
@@ -45072,7 +44454,7 @@
     "lat": -23.0,
     "lon": -46.84,
     "geoSource": "manual:city",
-    "lastChecked": "2026-07-27",
+    "lastChecked": "2026-10-29",
     "region": "South America",
     "costCurrency": "BRL"
   },
@@ -45317,47 +44699,6 @@
     "costCurrency": "BRL"
   },
   {
-    "name": "Universidade da Região de Joinville (UNIVILLE)",
-    "country": "Brazil",
-    "city": "Joinville",
-    "programs": [
-      "Engenharia Civil"
-    ],
-    "programLinks": [
-      "https://seja.univille.br/curso/presencial/engenharia-civil/"
-    ],
-    "accreditation": [
-      "MEC",
-      "SINAES",
-      "CONFEA/CREA"
-    ],
-    "language": "Portuguese",
-    "mode": "Full-time",
-    "delivery": "Presential",
-    "cost": "-",
-    "graduatesPerYear": "Not published",
-    "topics": [
-      "CAD/CAM",
-      "Civil Engineering",
-      "Infrastructure Engineering"
-    ],
-    "computingTopics": [
-      "CAD/CAM"
-    ],
-    "domains": [
-      "Civil Engineering",
-      "Infrastructure Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://seja.univille.br/curso/presencial/engenharia-civil/",
-    "lat": -26.3,
-    "lon": -48.85,
-    "geoSource": "manual:city",
-    "lastChecked": "2026-07-27",
-    "region": "South America",
-    "costCurrency": "BRL"
-  },
-  {
     "name": "Universidade do Oeste de Santa Catarina (UNOESC)",
     "country": "Brazil",
     "city": "Joaçaba",
@@ -45394,7 +44735,7 @@
     "lat": -27.17,
     "lon": -51.5,
     "geoSource": "manual:city",
-    "lastChecked": "2026-07-27",
+    "lastChecked": "2026-10-29",
     "region": "South America",
     "costCurrency": "BRL"
   },
@@ -45435,7 +44776,7 @@
     "lat": -27.63,
     "lon": -52.27,
     "geoSource": "manual:city",
-    "lastChecked": "2026-07-27",
+    "lastChecked": "2026-10-29",
     "region": "South America",
     "costCurrency": "BRL"
   },
@@ -45620,7 +44961,7 @@
     "lat": -23.96,
     "lon": -46.33,
     "geoSource": "manual:city",
-    "lastChecked": "2026-07-27",
+    "lastChecked": "2026-10-29",
     "region": "South America",
     "costCurrency": "BRL"
   },
@@ -45673,55 +45014,14 @@
     "costCurrency": "BRL"
   },
   {
-    "name": "Instituto Federal do Rio Grande do Norte (IFRN)",
-    "country": "Brazil",
-    "city": "Natal",
-    "programs": [
-      "Tecnologia em Construção de Edifícios"
-    ],
-    "programLinks": [
-      "https://portal.ifrn.edu.br/cursos"
-    ],
-    "accreditation": [
-      "MEC",
-      "SINAES",
-      "CONFEA/CREA"
-    ],
-    "language": "Portuguese",
-    "mode": "Full-time",
-    "delivery": "Presential",
-    "cost": "0",
-    "graduatesPerYear": "Not published",
-    "topics": [
-      "CAD/CAM",
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "computingTopics": [
-      "CAD/CAM"
-    ],
-    "domains": [
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://portal.ifrn.edu.br/cursos",
-    "lat": -5.79,
-    "lon": -35.21,
-    "geoSource": "manual:city",
-    "lastChecked": "2026-07-27",
-    "region": "South America",
-    "costCurrency": "BRL"
-  },
-  {
     "name": "Instituto Federal do Ceará (IFCE)",
     "country": "Brazil",
-    "city": "Fortaleza",
+    "city": "Juazeiro do Norte",
     "programs": [
       "Tecnologia em Construção de Edifícios"
     ],
     "programLinks": [
-      "https://www.ifce.edu.br/cursos"
+      "https://acervo.ifce.edu.br/juazeirodonorte/campus_juazeiro/cursos/superiores/tecnologicos/construcaodeedificios"
     ],
     "accreditation": [
       "MEC",
@@ -45747,10 +45047,10 @@
     ],
     "verificationLevel": 2,
     "website": "https://www.ifce.edu.br/cursos",
-    "lat": -3.74,
-    "lon": -38.54,
-    "geoSource": "manual:city",
-    "lastChecked": "2026-07-27",
+    "lat": -7.2153,
+    "lon": -39.3153,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-10-29",
     "region": "South America",
     "costCurrency": "BRL"
   },
@@ -45759,10 +45059,10 @@
     "country": "Brazil",
     "city": "João Pessoa",
     "programs": [
-      "Tecnologia em Construção de Edifícios"
+      "Engenharia Civil"
     ],
     "programLinks": [
-      "https://estudante.ifpb.edu.br/cursos/16/"
+      "https://estudante.ifpb.edu.br/cursos/207/"
     ],
     "accreditation": [
       "MEC",
@@ -45775,64 +45075,27 @@
     "cost": "0",
     "graduatesPerYear": "Not published",
     "topics": [
+      "BIM",
+      "Programming",
       "CAD/CAM",
-      "Construction Management",
-      "Civil Engineering"
+      "Civil Engineering",
+      "Construction Management"
     ],
     "computingTopics": [
+      "BIM",
+      "Programming",
       "CAD/CAM"
     ],
     "domains": [
-      "Construction Management",
-      "Civil Engineering"
+      "Civil Engineering",
+      "Construction Management"
     ],
     "verificationLevel": 2,
     "website": "https://estudante.ifpb.edu.br/cursos/16/",
     "lat": -7.14,
     "lon": -34.87,
     "geoSource": "manual:city",
-    "lastChecked": "2026-07-27",
-    "region": "South America",
-    "costCurrency": "BRL"
-  },
-  {
-    "name": "Instituto Federal de Pernambuco (IFPE)",
-    "country": "Brazil",
-    "city": "Recife",
-    "programs": [
-      "Tecnologia em Construção de Edifícios"
-    ],
-    "programLinks": [
-      "https://www.ifpe.edu.br/cursos/graduacao"
-    ],
-    "accreditation": [
-      "MEC",
-      "SINAES",
-      "CONFEA/CREA"
-    ],
-    "language": "Portuguese",
-    "mode": "Full-time",
-    "delivery": "Presential",
-    "cost": "0",
-    "graduatesPerYear": "Not published",
-    "topics": [
-      "CAD/CAM",
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "computingTopics": [
-      "CAD/CAM"
-    ],
-    "domains": [
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://www.ifpe.edu.br/cursos/graduacao",
-    "lat": -8.05,
-    "lon": -34.95,
-    "geoSource": "manual:city",
-    "lastChecked": "2026-07-27",
+    "lastChecked": "2026-10-29",
     "region": "South America",
     "costCurrency": "BRL"
   },
@@ -45873,7 +45136,7 @@
     "lat": -12.99,
     "lon": -38.51,
     "geoSource": "manual:city",
-    "lastChecked": "2026-07-27",
+    "lastChecked": "2026-10-29",
     "region": "South America",
     "costCurrency": "BRL"
   },
@@ -45882,10 +45145,14 @@
     "country": "Brazil",
     "city": "Vitória",
     "programs": [
-      "Tecnologia em Construção de Edifícios"
+      "Engenharia Civil (Vitória)",
+      "Engenharia Civil (Nova Venécia)",
+      "Arquitetura e Urbanismo (Colatina)"
     ],
     "programLinks": [
-      "https://www.ifes.edu.br/"
+      "https://sigaa.ifes.edu.br/sigaa/public/curso/portal.jsf?id=82406",
+      "https://sigaa.ifes.edu.br/sigaa/public/curso/portal.jsf?id=82362",
+      "https://sigaa.ifes.edu.br/sigaa/public/curso/portal.jsf?id=82096"
     ],
     "accreditation": [
       "MEC",
@@ -45898,146 +45165,29 @@
     "cost": "0",
     "graduatesPerYear": "Not published",
     "topics": [
+      "BIM",
+      "BIM Software",
       "CAD/CAM",
-      "Construction Management",
-      "Civil Engineering"
+      "Programming",
+      "Civil Engineering",
+      "Architecture"
     ],
     "computingTopics": [
-      "CAD/CAM"
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "Programming"
     ],
     "domains": [
-      "Construction Management",
-      "Civil Engineering"
+      "Civil Engineering",
+      "Architecture"
     ],
     "verificationLevel": 2,
     "website": "https://www.ifes.edu.br/",
     "lat": -20.32,
     "lon": -40.34,
     "geoSource": "manual:city",
-    "lastChecked": "2026-07-27",
-    "region": "South America",
-    "costCurrency": "BRL"
-  },
-  {
-    "name": "Instituto Federal de Goiás (IFG)",
-    "country": "Brazil",
-    "city": "Goiânia",
-    "programs": [
-      "Tecnologia em Construção de Edifícios"
-    ],
-    "programLinks": [
-      "https://www.ifg.edu.br/cursos/graduacao"
-    ],
-    "accreditation": [
-      "MEC",
-      "SINAES",
-      "CONFEA/CREA"
-    ],
-    "language": "Portuguese",
-    "mode": "Full-time",
-    "delivery": "Presential",
-    "cost": "0",
-    "graduatesPerYear": "Not published",
-    "topics": [
-      "CAD/CAM",
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "computingTopics": [
-      "CAD/CAM"
-    ],
-    "domains": [
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://www.ifg.edu.br/cursos/graduacao",
-    "lat": -16.68,
-    "lon": -49.26,
-    "geoSource": "manual:city",
-    "lastChecked": "2026-07-27",
-    "region": "South America",
-    "costCurrency": "BRL"
-  },
-  {
-    "name": "Instituto Federal de São Paulo (IFSP)",
-    "country": "Brazil",
-    "city": "São Paulo",
-    "programs": [
-      "Tecnologia em Construção de Edifícios"
-    ],
-    "programLinks": [
-      "https://www.ifsp.edu.br/cursos"
-    ],
-    "accreditation": [
-      "MEC",
-      "SINAES",
-      "CONFEA/CREA"
-    ],
-    "language": "Portuguese",
-    "mode": "Full-time",
-    "delivery": "Presential",
-    "cost": "0",
-    "graduatesPerYear": "Not published",
-    "topics": [
-      "CAD/CAM",
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "computingTopics": [
-      "CAD/CAM"
-    ],
-    "domains": [
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://www.ifsp.edu.br/cursos",
-    "lat": -23.53,
-    "lon": -46.63,
-    "geoSource": "manual:city",
-    "lastChecked": "2026-07-27",
-    "region": "South America",
-    "costCurrency": "BRL"
-  },
-  {
-    "name": "Instituto Federal de Santa Catarina (IFSC)",
-    "country": "Brazil",
-    "city": "Florianópolis",
-    "programs": [
-      "Tecnologia em Construção de Edifícios"
-    ],
-    "programLinks": [
-      "https://www.ifsc.edu.br/graduacao"
-    ],
-    "accreditation": [
-      "MEC",
-      "SINAES",
-      "CONFEA/CREA"
-    ],
-    "language": "Portuguese",
-    "mode": "Full-time",
-    "delivery": "Presential",
-    "cost": "0",
-    "graduatesPerYear": "Not published",
-    "topics": [
-      "CAD/CAM",
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "computingTopics": [
-      "CAD/CAM"
-    ],
-    "domains": [
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://www.ifsc.edu.br/graduacao",
-    "lat": -27.6,
-    "lon": -48.55,
-    "geoSource": "manual:city",
-    "lastChecked": "2026-07-27",
+    "lastChecked": "2026-10-29",
     "region": "South America",
     "costCurrency": "BRL"
   },
@@ -46094,7 +45244,7 @@
       "Tecnologia em Construção de Edifícios"
     ],
     "programLinks": [
-      "https://www.ifmt.edu.br/"
+      "https://ifmt.edu.br/blog/curso/curso-superior-de-tecnologia-em-construcao-de-edificios/"
     ],
     "accreditation": [
       "MEC",
@@ -46123,7 +45273,7 @@
     "lat": -15.6,
     "lon": -56.1,
     "geoSource": "manual:city",
-    "lastChecked": "2026-07-27",
+    "lastChecked": "2026-10-29",
     "region": "South America",
     "costCurrency": "BRL"
   },
@@ -46148,105 +45298,29 @@
     "cost": "0",
     "graduatesPerYear": "Not published",
     "topics": [
+      "BIM",
+      "Collaborative Workflows",
       "CAD/CAM",
-      "Construction Management",
-      "Civil Engineering"
+      "Programming",
+      "Civil Engineering",
+      "Construction Management"
     ],
     "computingTopics": [
-      "CAD/CAM"
+      "BIM",
+      "Collaborative Workflows",
+      "CAD/CAM",
+      "Programming"
     ],
     "domains": [
-      "Construction Management",
-      "Civil Engineering"
+      "Civil Engineering",
+      "Construction Management"
     ],
     "verificationLevel": 2,
     "website": "https://www2.ifal.edu.br/campus/maceio/ensino/cursos/superior/bacharelado-em-engenharia-civil",
     "lat": -9.66,
     "lon": -35.74,
     "geoSource": "manual:city",
-    "lastChecked": "2026-07-27",
-    "region": "South America",
-    "costCurrency": "BRL"
-  },
-  {
-    "name": "Instituto Federal do Tocantins (IFTO)",
-    "country": "Brazil",
-    "city": "Palmas",
-    "programs": [
-      "Tecnologia em Construção de Edifícios"
-    ],
-    "programLinks": [
-      "https://www.ifto.edu.br/cursos"
-    ],
-    "accreditation": [
-      "MEC",
-      "SINAES",
-      "CONFEA/CREA"
-    ],
-    "language": "Portuguese",
-    "mode": "Full-time",
-    "delivery": "Presential",
-    "cost": "0",
-    "graduatesPerYear": "Not published",
-    "topics": [
-      "CAD/CAM",
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "computingTopics": [
-      "CAD/CAM"
-    ],
-    "domains": [
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://www.ifto.edu.br/cursos",
-    "lat": -10.18,
-    "lon": -48.33,
-    "geoSource": "manual:city",
-    "lastChecked": "2026-07-27",
-    "region": "South America",
-    "costCurrency": "BRL"
-  },
-  {
-    "name": "Instituto Federal do Pará (IFPA)",
-    "country": "Brazil",
-    "city": "Belém",
-    "programs": [
-      "Tecnologia em Construção de Edifícios"
-    ],
-    "programLinks": [
-      "https://www.ifpa.edu.br/"
-    ],
-    "accreditation": [
-      "MEC",
-      "SINAES",
-      "CONFEA/CREA"
-    ],
-    "language": "Portuguese",
-    "mode": "Full-time",
-    "delivery": "Presential",
-    "cost": "0",
-    "graduatesPerYear": "Not published",
-    "topics": [
-      "CAD/CAM",
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "computingTopics": [
-      "CAD/CAM"
-    ],
-    "domains": [
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://www.ifpa.edu.br/",
-    "lat": -1.46,
-    "lon": -48.48,
-    "geoSource": "manual:city",
-    "lastChecked": "2026-07-27",
+    "lastChecked": "2026-10-29",
     "region": "South America",
     "costCurrency": "BRL"
   },
@@ -55003,53 +54077,6 @@
     "costCurrency": "MXN"
   },
   {
-    "name": "The University of Jordan (UJ)",
-    "country": "Jordan",
-    "city": "Amman",
-    "programs": [
-      "BSc Civil Engineering",
-      "BSc Architecture Engineering"
-    ],
-    "programLinks": [
-      "https://www.ju.edu.jo/sites/prospective/Lists/Programs/Disp_Program.aspx?ID=36",
-      "https://www.ju.edu.jo/sites/prospective/Lists/Programs/Disp_Program.aspx?ID=32"
-    ],
-    "accreditation": [
-      "-"
-    ],
-    "language": "English / Arabic",
-    "mode": "Full-time",
-    "delivery": "Presential",
-    "cost": "945 - 3,401",
-    "graduatesPerYear": "Not published",
-    "topics": [
-      "CAD/CAM",
-      "Programming",
-      "GIS & BIM Integration",
-      "Civil Engineering",
-      "Structural Engineering",
-      "Architecture"
-    ],
-    "computingTopics": [
-      "CAD/CAM",
-      "Programming",
-      "GIS & BIM Integration"
-    ],
-    "domains": [
-      "Civil Engineering",
-      "Structural Engineering",
-      "Architecture"
-    ],
-    "verificationLevel": 2,
-    "website": "https://www.ju.edu.jo",
-    "lat": 32.0134,
-    "lon": 35.8734,
-    "geoSource": "nominatim:name",
-    "lastChecked": "2026-10-28",
-    "region": "Western Asia",
-    "costCurrency": "JOD"
-  },
-  {
     "name": "Jordan University of Science and Technology (JUST)",
     "country": "Jordan",
     "city": "Irbid",
@@ -55140,53 +54167,6 @@
     "website": "https://www.yu.edu.jo",
     "lat": 32.5372,
     "lon": 35.8555,
-    "geoSource": "nominatim:name",
-    "lastChecked": "2026-10-28",
-    "region": "Western Asia",
-    "costCurrency": "JOD"
-  },
-  {
-    "name": "The Hashemite University (HU)",
-    "country": "Jordan",
-    "city": "Zarqa",
-    "programs": [
-      "BSc Civil Engineering",
-      "BSc Architectural Engineering"
-    ],
-    "programLinks": [
-      "https://hu.edu.jo/en/facnew/dept/?deptid=55010000",
-      "https://hu.edu.jo/en/facnew/dept/?deptid=55090000"
-    ],
-    "accreditation": [
-      "-"
-    ],
-    "language": "English / Arabic",
-    "mode": "Full-time",
-    "delivery": "Presential",
-    "cost": "1,280 - 3,096",
-    "graduatesPerYear": "Not published",
-    "topics": [
-      "Programming",
-      "CAD/CAM",
-      "GIS & BIM Integration",
-      "Civil Engineering",
-      "Structural Engineering",
-      "Architecture"
-    ],
-    "computingTopics": [
-      "Programming",
-      "CAD/CAM",
-      "GIS & BIM Integration"
-    ],
-    "domains": [
-      "Civil Engineering",
-      "Structural Engineering",
-      "Architecture"
-    ],
-    "verificationLevel": 2,
-    "website": "https://hu.edu.jo",
-    "lat": 32.1031,
-    "lon": 36.1859,
     "geoSource": "nominatim:name",
     "lastChecked": "2026-10-28",
     "region": "Western Asia",
@@ -55297,45 +54277,6 @@
     "website": "https://www.gju.edu.jo",
     "lat": 31.777,
     "lon": 35.8014,
-    "geoSource": "nominatim:name",
-    "lastChecked": "2026-10-28",
-    "region": "Western Asia",
-    "costCurrency": "JOD"
-  },
-  {
-    "name": "Al-Hussein Bin Talal University (AHU)",
-    "country": "Jordan",
-    "city": "Ma'an",
-    "programs": [
-      "BSc Civil Engineering"
-    ],
-    "programLinks": [
-      "https://www.ahu.edu.jo/EN-Article-6073"
-    ],
-    "accreditation": [
-      "-"
-    ],
-    "language": "English / Arabic",
-    "mode": "Full-time",
-    "delivery": "Presential",
-    "cost": "-",
-    "graduatesPerYear": "Not published",
-    "topics": [
-      "Programming",
-      "GIS & BIM Integration",
-      "Civil Engineering"
-    ],
-    "computingTopics": [
-      "Programming",
-      "GIS & BIM Integration"
-    ],
-    "domains": [
-      "Civil Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://ahu.edu.jo",
-    "lat": 30.2594,
-    "lon": 35.6843,
     "geoSource": "nominatim:name",
     "lastChecked": "2026-10-28",
     "region": "Western Asia",
@@ -55478,11 +54419,13 @@
     "city": "Amman",
     "programs": [
       "BSc Civil and Infrastructure Engineering",
-      "BSc Architecture Engineering"
+      "BSc Architecture Engineering",
+      "MSc Engineering Management"
     ],
     "programLinks": [
       "https://zuj.edu.jo/?p=8161",
-      "https://www.zuj.edu.jo/Admission/Specialties-And-Fees.aspx"
+      "https://www.zuj.edu.jo/Admission/Specialties-And-Fees.aspx",
+      "https://zuj.edu.jo/?p=8161"
     ],
     "accreditation": [
       "-"
@@ -55493,15 +54436,18 @@
     "cost": "3,300 - 3,520",
     "graduatesPerYear": "Not published",
     "topics": [
+      "BIM",
       "CAD/CAM",
       "GIS & BIM Integration",
       "3D Modeling & Scanning",
       "VR/AR",
       "Civil Engineering",
       "Infrastructure Engineering",
-      "Architecture"
+      "Architecture",
+      "Construction Management"
     ],
     "computingTopics": [
+      "BIM",
       "CAD/CAM",
       "GIS & BIM Integration",
       "3D Modeling & Scanning",
@@ -55510,14 +54456,15 @@
     "domains": [
       "Civil Engineering",
       "Infrastructure Engineering",
-      "Architecture"
+      "Architecture",
+      "Construction Management"
     ],
     "verificationLevel": 2,
     "website": "https://www.zuj.edu.jo",
     "lat": 31.9516,
     "lon": 35.924,
     "geoSource": "nominatim:city",
-    "lastChecked": "2026-10-28",
+    "lastChecked": "2026-10-29",
     "region": "Western Asia",
     "costCurrency": "JOD"
   },
@@ -55573,51 +54520,6 @@
     "costCurrency": "JOD"
   },
   {
-    "name": "Zarqa University (ZU)",
-    "country": "Jordan",
-    "city": "Zarqa",
-    "programs": [
-      "BSc Civil Engineering",
-      "BSc Architectural Engineering"
-    ],
-    "programLinks": [
-      "https://www.zu.edu.jo/en/Collage/Engineering/Dept_Civil/AbouttheProgram.aspx?page=379&fac=09&Dept=0902&id=27",
-      "https://www.zu.edu.jo/en/Collage/Engineering/Dept_Architecture/AbouttheProgram.aspx?page=366&fac=09&Dept=0908&id=27"
-    ],
-    "accreditation": [
-      "-"
-    ],
-    "language": "English / Arabic",
-    "mode": "Full-time",
-    "delivery": "Presential",
-    "cost": "3,888 - 4,008",
-    "graduatesPerYear": "Not published",
-    "topics": [
-      "Programming",
-      "CAD/CAM",
-      "GIS & BIM Integration",
-      "Civil Engineering",
-      "Architecture"
-    ],
-    "computingTopics": [
-      "Programming",
-      "CAD/CAM",
-      "GIS & BIM Integration"
-    ],
-    "domains": [
-      "Civil Engineering",
-      "Architecture"
-    ],
-    "verificationLevel": 2,
-    "website": "https://www.zu.edu.jo",
-    "lat": 32.0668,
-    "lon": 36.0886,
-    "geoSource": "nominatim:city",
-    "lastChecked": "2026-10-28",
-    "region": "Western Asia",
-    "costCurrency": "JOD"
-  },
-  {
     "name": "Amman Arab University",
     "country": "Jordan",
     "city": "Amman",
@@ -55660,45 +54562,6 @@
     "lat": 32.1159,
     "lon": 35.8811,
     "geoSource": "nominatim:name",
-    "lastChecked": "2026-10-28",
-    "region": "Western Asia",
-    "costCurrency": "JOD"
-  },
-  {
-    "name": "Ajloun National University (ANU)",
-    "country": "Jordan",
-    "city": "Ajloun",
-    "programs": [
-      "BSc Civil Engineering"
-    ],
-    "programLinks": [
-      "https://www.anu.edu.jo/colleges/college-of-engineering/civil-engineering-department/"
-    ],
-    "accreditation": [
-      "-"
-    ],
-    "language": "English / Arabic",
-    "mode": "Full-time",
-    "delivery": "Presential",
-    "cost": "-",
-    "graduatesPerYear": "Not published",
-    "topics": [
-      "Programming",
-      "GIS & BIM Integration",
-      "Civil Engineering"
-    ],
-    "computingTopics": [
-      "Programming",
-      "GIS & BIM Integration"
-    ],
-    "domains": [
-      "Civil Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://www.anu.edu.jo",
-    "lat": 32.3323,
-    "lon": 35.7521,
-    "geoSource": "nominatim:city",
     "lastChecked": "2026-10-28",
     "region": "Western Asia",
     "costCurrency": "JOD"
@@ -55759,5 +54622,291 @@
     "lastChecked": "2026-10-28",
     "region": "Western Asia",
     "costCurrency": "JOD"
+  },
+  {
+    "name": "Universidade Federal Rural do Rio de Janeiro (UFRRJ)",
+    "country": "Brazil",
+    "city": "Seropédica",
+    "programs": [
+      "Arquitetura e Urbanismo"
+    ],
+    "programLinks": [
+      "https://cursos.ufrrj.br/grad/caur/"
+    ],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA"
+    ],
+    "language": "Portuguese",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "Energy Performance",
+      "CAD/CAM",
+      "Architecture",
+      "Sustainability"
+    ],
+    "computingTopics": [
+      "Energy Performance",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Architecture",
+      "Sustainability"
+    ],
+    "verificationLevel": 2,
+    "website": "https://portal.ufrrj.br/pro-reitoria-de-graduacao/cursos/",
+    "lat": -22.768,
+    "lon": -43.685,
+    "geoSource": "manual:city",
+    "lastChecked": "2026-10-29",
+    "region": "South America",
+    "costCurrency": "BRL"
+  },
+  {
+    "name": "Universidade Federal do Amazonas (UFAM)",
+    "country": "Brazil",
+    "city": "Manaus",
+    "programs": [
+      "Arquitetura e Urbanismo"
+    ],
+    "programLinks": [
+      "https://proeg.ufam.edu.br/dae/57-proeg/1235-ppc-do-curso-de-arquitetura-e-urbanismo.html"
+    ],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA"
+    ],
+    "language": "Portuguese",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "CAD/CAM",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.arquivosdec.ufam.edu.br/excivis.html",
+    "lat": -3.093,
+    "lon": -59.972,
+    "geoSource": "manual:city",
+    "lastChecked": "2026-10-29",
+    "region": "South America",
+    "costCurrency": "BRL"
+  },
+  {
+    "name": "Universidade Federal de Ouro Preto (UFOP)",
+    "country": "Brazil",
+    "city": "Ouro Preto",
+    "programs": [
+      "Arquitetura e Urbanismo"
+    ],
+    "programLinks": [
+      "https://seja.ufop.br/cursos/arquitetura-e-urbanismo"
+    ],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA"
+    ],
+    "language": "Portuguese",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "CAD/CAM",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://seja.ufop.br/cursos",
+    "lat": -20.398,
+    "lon": -43.504,
+    "geoSource": "manual:city",
+    "lastChecked": "2026-10-29",
+    "region": "South America",
+    "costCurrency": "BRL"
+  },
+  {
+    "name": "University of Petra (UOP)",
+    "country": "Jordan",
+    "city": "Amman",
+    "programs": [
+      "BSc Architecture"
+    ],
+    "programLinks": [
+      "https://arch.uop.edu.jo/En/ArchitectureDesign/Pages/default.aspx"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English / Arabic",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "3,960",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "Architecture"
+    ],
+    "computingTopics": [],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.uop.edu.jo",
+    "lat": 31.8931,
+    "lon": 35.8744,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-10-29",
+    "region": "Western Asia",
+    "costCurrency": "JOD"
+  },
+  {
+    "name": "Universidade Federal de Goiás (UFG)",
+    "country": "Brazil",
+    "city": "Goiânia",
+    "programs": [
+      "Mestrado em Geotecnia, Estruturas e Construção Civil",
+      "Doutorado em Geotecnia, Estruturas e Construção Civil"
+    ],
+    "programLinks": [
+      "https://gecon.eeca.ufg.br/p/3553-conhecendo-o-curso",
+      "https://gecon.eeca.ufg.br/p/3553-conhecendo-o-curso"
+    ],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA"
+    ],
+    "language": "Portuguese",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "Construction Informatics",
+      "BIM",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "Construction Informatics",
+      "BIM"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Structural Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://ufg.br/n/60517-cursos-engenharia-civil",
+    "lat": -16.603,
+    "lon": -49.265,
+    "geoSource": "manual:city",
+    "lastChecked": "2026-10-29",
+    "region": "South America",
+    "costCurrency": "BRL"
+  },
+  {
+    "name": "Universidade Federal de Rondônia (UNIR)",
+    "country": "Brazil",
+    "city": "Porto Velho",
+    "programs": [
+      "Engenharia Civil"
+    ],
+    "programLinks": [
+      "https://sigaa.unir.br/sigaa/public/curso/portal.jsf?id=63969"
+    ],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA"
+    ],
+    "language": "Portuguese",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Programming",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://sigaa.unir.br/sigaa/public/curso/ppp.jsf?lc=pt_BR&id=4836937",
+    "lat": -8.761,
+    "lon": -63.9,
+    "geoSource": "manual:city",
+    "lastChecked": "2026-10-29",
+    "region": "South America",
+    "costCurrency": "BRL"
+  },
+  {
+    "name": "Universidade Federal Rural do Semi-Árido (UFERSA)",
+    "country": "Brazil",
+    "city": "Pau dos Ferros",
+    "programs": [
+      "Arquitetura e Urbanismo"
+    ],
+    "programLinks": [
+      "https://sigaa.ufersa.edu.br/sigaa/public/curso/portal.jsf?id=755514321"
+    ],
+    "accreditation": [
+      "MEC",
+      "SINAES",
+      "CONFEA/CREA"
+    ],
+    "language": "Portuguese",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Parametric & Generative Design",
+      "CAD/CAM",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Parametric & Generative Design",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://engcivil.ufersa.edu.br/",
+    "lat": -6.1125,
+    "lon": -38.2063,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-10-29",
+    "region": "South America",
+    "costCurrency": "BRL"
   }
 ]
