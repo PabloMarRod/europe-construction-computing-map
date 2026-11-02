@@ -19,6 +19,15 @@ Apply this identical threshold to every institution.
 - A single student thesis topic (evidence of one project, not of curriculum).
 - Third-party aggregators, rankings sites, or directory listings as the sole source.
 
+## Record-level inclusion (applied from October 2026)
+
+- A record needs at least one qualifying computing topic. **CAD, programming, GIS or 3D visualisation/rendering on their own do not qualify**; a record with only these is removed. They may still be tagged alongside a qualifying topic.
+- Qualifying topics include BIM (including a named Revit/ArchiCAD course), nD BIM, openBIM, ISO 19650, energy performance simulation, parametric and generative design, digital fabrication, digital construction/VDC, construction informatics, data management, IoT, VR/AR, AI, robotics and digital twins.
+- Evidence comes from compulsory courses, electives or explicit learning outcomes in the official curriculum. Research activity counts only at doctoral level.
+- Records are per institution. A failing programme is removed from the record without removing the institution if another programme qualifies; qualifying programmes found during review are added.
+- `programLinks` point to the programme's own page (not a homepage, a general list or a PDF) wherever one exists.
+- A programme that no longer exists, or whose site cannot be reached, is removed rather than kept unverified.
+
 ## Sources of record
 
 The institution's own programme, module/course-catalogue, and department pages. Where these are unavailable or in a language that cannot be verified, mark the record **unverifiable** and leave existing tags unchanged (do not guess, do not delete).
