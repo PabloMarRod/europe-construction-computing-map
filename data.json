@@ -7811,7 +7811,7 @@
     "language": "English",
     "mode": "Full-time / Part-time",
     "delivery": "Presential",
-    "cost": "-",
+    "cost": "11,638 - 17,220",
     "graduatesPerYear": "Not published",
     "topics": [
       "Data Management",
@@ -15829,7 +15829,7 @@
     "language": "Romanian",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "-",
+    "cost": "0 - 4,200",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
@@ -19806,10 +19806,14 @@
     "country": "United Arab Emirates",
     "city": "Dubai",
     "programs": [
-      "MSc Commercial Management and Quantity Surveying"
+      "MSc Commercial Management and Quantity Surveying",
+      "MSc Construction Project Management",
+      "PhD Construction"
     ],
     "programLinks": [
-      "https://curriculum.hw.ac.uk/programmedetails/D307-CMQ?termcode=202425"
+      "https://curriculum.hw.ac.uk/programmedetails/D307-CMQ?termcode=202425",
+      "https://curriculum.hw.ac.uk/programmedetails/D3K7-CPM?termcode=202425",
+      "https://www.hw.ac.uk/dubai/study/research/phd-construction"
     ],
     "accreditation": [
       "RICS",
@@ -19824,12 +19828,16 @@
       "Construction Informatics",
       "BIM",
       "Collaborative Workflows",
+      "Digital Twins",
+      "Digital Construction",
       "Construction Management"
     ],
     "computingTopics": [
       "Construction Informatics",
       "BIM",
-      "Collaborative Workflows"
+      "Collaborative Workflows",
+      "Digital Twins",
+      "Digital Construction"
     ],
     "domains": [
       "Construction Management"
@@ -19839,7 +19847,7 @@
     "lat": 25.10159,
     "lon": 55.16205,
     "geoSource": "manual:campus",
-    "lastChecked": "2026-10-30",
+    "lastChecked": "2026-11-02",
     "region": "Western Asia",
     "costCurrency": "AED"
   },
@@ -19848,9 +19856,11 @@
     "country": "United Arab Emirates",
     "city": "Abu Dhabi",
     "programs": [
+      "BS Civil Engineering",
       "PhD Civil Engineering"
     ],
     "programLinks": [
+      "https://nyuad.nyu.edu/en/academics/divisions/engineering/academic-programs.html",
       "https://nyuad.nyu.edu/en/academics/graduate-and-phd/phd-programs/global-phd-student-fellowship-in-civil-engineering.html"
     ],
     "accreditation": [
@@ -19859,13 +19869,14 @@
     "language": "English",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "0",
+    "cost": "0 - 68,574",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
       "Robotics & Automation",
       "AI & Machine Learning",
       "Digital Twins",
+      "CAD/CAM",
       "Construction Management",
       "Prefabrication & Modular Construction"
     ],
@@ -19873,7 +19884,8 @@
       "BIM",
       "Robotics & Automation",
       "AI & Machine Learning",
-      "Digital Twins"
+      "Digital Twins",
+      "CAD/CAM"
     ],
     "domains": [
       "Construction Management",
@@ -19884,7 +19896,7 @@
     "lat": 24.52379,
     "lon": 54.43476,
     "geoSource": "manual:campus",
-    "lastChecked": "2026-10-17",
+    "lastChecked": "2026-11-02",
     "region": "Western Asia",
     "costCurrency": "USD"
   },
@@ -21754,7 +21766,7 @@
     "language": "English",
     "mode": "Full-time / Part-time",
     "delivery": "Presential / Online",
-    "cost": "-",
+    "cost": "35,882",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
@@ -54296,7 +54308,7 @@
     "language": "Georgian",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "-",
+    "cost": "6,900",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
@@ -54543,5 +54555,725 @@
     "lastChecked": "2026-10-30",
     "region": "Western Asia",
     "costCurrency": "USD"
+  },
+  {
+    "name": "American University of Sharjah (AUS)",
+    "country": "United Arab Emirates",
+    "city": "Sharjah",
+    "programs": [
+      "Bachelor of Science in Digital Construction Engineering and Management",
+      "Master of Science in Construction Management"
+    ],
+    "programLinks": [
+      "https://www.aus.edu/cen/department-of-civil-engineering/bachelor-of-science-in-digital-construction-engineering-and-management",
+      "https://www.aus.edu/cen/department-of-civil-engineering"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "82,200 - 110,876",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Digital Construction",
+      "Robotics & Automation",
+      "Digital Fabrication",
+      "Data Management",
+      "Smart Cities & Buildings",
+      "Construction Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Digital Construction",
+      "Robotics & Automation",
+      "Digital Fabrication",
+      "Data Management",
+      "Smart Cities & Buildings"
+    ],
+    "domains": [
+      "Construction Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.aus.edu",
+    "lat": 25.3109,
+    "lon": 55.4919,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-02",
+    "region": "Western Asia",
+    "costCurrency": "AED"
+  },
+  {
+    "name": "American University in Dubai (AUD)",
+    "country": "United Arab Emirates",
+    "city": "Dubai",
+    "programs": [
+      "Bachelor of Architecture",
+      "Bachelor of Science in Civil Engineering",
+      "Master of Science in Construction Management",
+      "Master of Urban Design and Digital Environments"
+    ],
+    "programLinks": [
+      "https://www.aud.edu/aud-school/school-of-architecture-art-design/departments/department-of-architecture/department-programs/bachelor-of-architecture-barch/",
+      "https://www.aud.edu/aud-school/school-of-engineering/departments/department-of-civil-engineering/department-programs/bachelor-of-science-in-civil-engineering-bsce/",
+      "https://www.aud.edu/aud-school/school-of-engineering/departments/department-of-civil-engineering/department-programs/master-of-science-in-construction-management/",
+      "https://www.aud.edu/aud-school/school-of-architecture-art-design/departments/department-of-architecture/department-programs/master-of-urban-design-and-digital-environments-mudde/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "72,450 - 108,050",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Collaborative Workflows",
+      "Parametric & Generative Design",
+      "Digital Fabrication",
+      "AI & Machine Learning",
+      "VR/AR",
+      "Construction Informatics",
+      "CAD/CAM",
+      "Architecture",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Collaborative Workflows",
+      "Parametric & Generative Design",
+      "Digital Fabrication",
+      "AI & Machine Learning",
+      "VR/AR",
+      "Construction Informatics",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Architecture",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.aud.edu",
+    "lat": 25.0915,
+    "lon": 55.1557,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-02",
+    "region": "Western Asia",
+    "costCurrency": "AED"
+  },
+  {
+    "name": "University of Sharjah (UoS)",
+    "country": "United Arab Emirates",
+    "city": "Sharjah",
+    "programs": [
+      "Master of Science in Construction Management and Innovation",
+      "Master of Science in Architecture"
+    ],
+    "programLinks": [
+      "https://www.sharjah.ac.ae/Academics/Degree/Graduate/Master-of-Science-in-Construction-Management-and-Innovation",
+      "https://www.sharjah.ac.ae/Academics/Degree/Graduate/Master-Architectural-Engineering"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential",
+    "cost": "52,800",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Digital Twins",
+      "AI & Machine Learning",
+      "Data Management",
+      "Digital Construction",
+      "Robotics & Automation",
+      "Digital Fabrication",
+      "Parametric & Generative Design",
+      "Smart Cities & Buildings",
+      "Construction Management",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Digital Twins",
+      "AI & Machine Learning",
+      "Data Management",
+      "Digital Construction",
+      "Robotics & Automation",
+      "Digital Fabrication",
+      "Parametric & Generative Design",
+      "Smart Cities & Buildings"
+    ],
+    "domains": [
+      "Construction Management",
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.sharjah.ac.ae",
+    "lat": 25.2878,
+    "lon": 55.479,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-02",
+    "region": "Western Asia",
+    "costCurrency": "AED"
+  },
+  {
+    "name": "Khalifa University of Science and Technology",
+    "country": "United Arab Emirates",
+    "city": "Abu Dhabi",
+    "programs": [
+      "Bachelor of Science in Civil Engineering",
+      "Doctor of Philosophy in Engineering (Civil Infrastructure and Environmental Engineering)"
+    ],
+    "programLinks": [
+      "https://ku-ae.smartcatalogiq.com/en/2025-2026/undergraduate-catalog/college-of-engineering-and-physical-sciences/department-of-civil-and-environmental-engineering/bachelor-of-science-in-civil-engineering",
+      "https://www.ku.ac.ae/academics/graduate-programs/doctor-of-philosophy-in-engineering"
+    ],
+    "accreditation": [
+      "ABET"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "75,000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "CAD/CAM",
+      "Civil Engineering",
+      "Infrastructure Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Infrastructure Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.ku.ac.ae",
+    "lat": 24.448,
+    "lon": 54.3955,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-02",
+    "region": "Western Asia",
+    "costCurrency": "AED"
+  },
+  {
+    "name": "Ajman University",
+    "country": "United Arab Emirates",
+    "city": "Ajman",
+    "programs": [
+      "Bachelor of Architecture",
+      "Bachelor of Science in Civil Engineering"
+    ],
+    "programLinks": [
+      "https://www.ajman.ac.ae/en/admissions/undergraduate/undergraduate-student-catalog",
+      "https://www.ajman.ac.ae/en/admissions/undergraduate/undergraduate-student-catalog"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "42,900 - 47,250",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Parametric & Generative Design",
+      "VR/AR",
+      "CAD/CAM",
+      "Architecture",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Parametric & Generative Design",
+      "VR/AR",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Architecture",
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.ajman.ac.ae",
+    "lat": 25.4128,
+    "lon": 55.5064,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-02",
+    "region": "Western Asia",
+    "costCurrency": "AED"
+  },
+  {
+    "name": "Canadian University Dubai (CUD)",
+    "country": "United Arab Emirates",
+    "city": "Dubai",
+    "programs": [
+      "Bachelor of Architecture"
+    ],
+    "programLinks": [
+      "https://www.cud.ac.ae/programs/undergraduate/architecture/bachelor-of-architecture"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "90,712",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.cud.ac.ae",
+    "lat": 25.2063,
+    "lon": 55.2626,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-02",
+    "region": "Western Asia",
+    "costCurrency": "AED"
+  },
+  {
+    "name": "Abu Dhabi University (ADU)",
+    "country": "United Arab Emirates",
+    "city": "Abu Dhabi",
+    "programs": [
+      "Bachelor of Architecture"
+    ],
+    "programLinks": [
+      "https://www.adu.ac.ae/study/colleges/college-of-engineering/Programs/programdetail/bachelor-of-architecture"
+    ],
+    "accreditation": [
+      "RIBA"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "58,930",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "3D Modeling & Scanning",
+      "CAD/CAM",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "3D Modeling & Scanning",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.adu.ac.ae",
+    "lat": 24.3665,
+    "lon": 54.5647,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-02",
+    "region": "Western Asia",
+    "costCurrency": "AED"
+  },
+  {
+    "name": "Amity University Dubai",
+    "country": "United Arab Emirates",
+    "city": "Dubai",
+    "programs": [
+      "Bachelor of Architecture"
+    ],
+    "programLinks": [
+      "https://amityuniversity.ae/degree/bachelors-degree/engineering-architecture-and-interior-design/bachelor-of-architecture"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "71,280",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://amityuniversity.ae",
+    "lat": 25.1228,
+    "lon": 55.4198,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-02",
+    "region": "Western Asia",
+    "costCurrency": "AED"
+  },
+  {
+    "name": "University of Wollongong in Dubai (UOWD)",
+    "country": "United Arab Emirates",
+    "city": "Dubai",
+    "programs": [
+      "Bachelor of Engineering (Honours) – Civil Engineering"
+    ],
+    "programLinks": [
+      "https://www.uowdubai.ac.ae/degrees/bachelors/engineering/bachelor-engineering-civil"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "68,909",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "nD BIM",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "nD BIM"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.uowdubai.ac.ae",
+    "lat": 25.1014,
+    "lon": 55.1627,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-02",
+    "region": "Western Asia",
+    "costCurrency": "AED"
+  },
+  {
+    "name": "BITS Pilani, Dubai Campus",
+    "country": "United Arab Emirates",
+    "city": "Dubai",
+    "programs": [
+      "B.E. Architectural and Urban Engineering"
+    ],
+    "programLinks": [
+      "https://www.bits-pilani.ac.in/dubai/civil-engineering/programscourses/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "55,500",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Architecture",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning"
+    ],
+    "domains": [
+      "Architecture",
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.bits-pilani.ac.in/dubai/",
+    "lat": 25.1288,
+    "lon": 55.4205,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-11-02",
+    "region": "Western Asia",
+    "costCurrency": "AED"
+  },
+  {
+    "name": "Zayed University",
+    "country": "United Arab Emirates",
+    "city": "Dubai",
+    "programs": [
+      "Bachelor of Architecture"
+    ],
+    "programLinks": [
+      "https://www.zu.ac.ae/main/en/colleges/colleges/__college_of_arts_and_creative_enterprises/academic_programs/_hidden/architecture"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 84,500",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Digital Fabrication",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Digital Fabrication"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.zu.ac.ae",
+    "lat": 25.1045,
+    "lon": 55.1671,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-02",
+    "region": "Western Asia",
+    "costCurrency": "AED"
+  },
+  {
+    "name": "American University of Ras Al Khaimah (AURAK)",
+    "country": "United Arab Emirates",
+    "city": "Ras Al Khaimah",
+    "programs": [
+      "Bachelor of Architecture",
+      "Bachelor of Science in Civil and Infrastructure Engineering"
+    ],
+    "programLinks": [
+      "https://aurak.ac.ae/academics/programs-departments/architecture-and-civil-engineering",
+      "https://aurak.ac.ae/academics/programs-departments/architecture-and-civil-engineering"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "60,260 - 63,290",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "Architecture",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Architecture",
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://aurak.ac.ae",
+    "lat": 25.7889,
+    "lon": 55.9939,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-02",
+    "region": "Western Asia",
+    "costCurrency": "AED"
+  },
+  {
+    "name": "United Arab Emirates University (UAEU)",
+    "country": "United Arab Emirates",
+    "city": "Al Ain",
+    "programs": [
+      "Bachelor of Science in Architectural Engineering"
+    ],
+    "programLinks": [
+      "https://www.uaeu.ac.ae/en/catalog/undergraduate/programs/bachelor-of-science-in-architectural-engineering.shtml"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 75,000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "AI & Machine Learning",
+      "Smart Cities & Buildings",
+      "Architecture",
+      "Construction Engineering"
+    ],
+    "computingTopics": [
+      "AI & Machine Learning",
+      "Smart Cities & Buildings"
+    ],
+    "domains": [
+      "Architecture",
+      "Construction Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.uaeu.ac.ae",
+    "lat": 24.1972,
+    "lon": 55.6806,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-02",
+    "region": "Western Asia",
+    "costCurrency": "AED"
+  },
+  {
+    "name": "Curtin University Dubai",
+    "country": "United Arab Emirates",
+    "city": "Dubai",
+    "programs": [
+      "Bachelor of Applied Science (Architecture)"
+    ],
+    "programLinks": [
+      "https://curtindubai.ac.ae/built-environment/bachelor-of-applied-science-architecture/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "65,100",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Digital Fabrication",
+      "CAD/CAM",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Digital Fabrication",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://curtindubai.ac.ae",
+    "lat": 25.125,
+    "lon": 55.418,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-11-02",
+    "region": "Western Asia",
+    "costCurrency": "AED"
+  },
+  {
+    "name": "De Montfort University (DMU)",
+    "country": "United Kingdom",
+    "city": "Leicester",
+    "programs": [
+      "BSc (Hons) Quantity Surveying and Construction"
+    ],
+    "programLinks": [
+      "https://www.dmu.ac.uk/study/courses/undergraduate-courses/quantity-surveying-and-construction-bsc-degree/quantity-surveying-and-construction-bsc-degree.aspx"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential",
+    "cost": "10,050 - 17,600",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Data Management",
+      "CAD/CAM",
+      "Construction Management",
+      "Procurement & Contracts"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Data Management",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Construction Management",
+      "Procurement & Contracts"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.dmu.ac.uk",
+    "lat": 52.6297,
+    "lon": -1.1393,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-02",
+    "region": "Europe",
+    "costCurrency": "GBP"
+  },
+  {
+    "name": "Qatar University (QU)",
+    "country": "Qatar",
+    "city": "Doha",
+    "programs": [
+      "PhD in Engineering – Civil Engineering"
+    ],
+    "programLinks": [
+      "https://www.qu.edu.qa/en-us/Colleges/engineering/research/graduatestudies/Pages/default.aspx"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "44,000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "3D Modeling & Scanning",
+      "Digital Construction",
+      "Civil Engineering",
+      "Construction Management",
+      "Facility & Asset Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "3D Modeling & Scanning",
+      "Digital Construction"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management",
+      "Facility & Asset Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.qu.edu.qa",
+    "lat": 25.372,
+    "lon": 51.488,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-02",
+    "region": "Western Asia",
+    "costCurrency": "QAR"
   }
 ]

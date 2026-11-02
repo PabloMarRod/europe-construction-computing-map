@@ -1,6 +1,6 @@
 {
   "name": "Construction-Computing Education Map",
-  "description": "Dataset of higher-education institutions offering programmes in digital construction, BIM, and construction informatics, with programme, cost, accreditation, delivery, and geographic detail. 1120 institutions in 73 countries: Europe (357), North America (341), South America (299), Western Asia (57), Oceania (42), Central America (21), Caribbean (3).",
+  "description": "Dataset of higher-education institutions offering programmes in digital construction, BIM, and construction informatics, with programme, cost, accreditation, delivery, and geographic detail. 1136 institutions in 74 countries: Europe (358), North America (341), South America (299), Western Asia (72), Oceania (42), Central America (21), Caribbean (3).",
   "version": "1.3.0",
   "generated": "2026-11-02",
   "license": "CC BY 4.0",
@@ -9,8 +9,8 @@
   "maintainerContact": "<add maintainer email or ORCID>",
   "repository": "https://github.com/PabloMarRod/europe-construction-computing-map",
   "coverage": {
-    "institutions": 1120,
-    "countries": 73,
+    "institutions": 1136,
+    "countries": 74,
     "countryList": [
       "Albania",
       "Argentina",
@@ -68,6 +68,7 @@
       "Peru",
       "Poland",
       "Portugal",
+      "Qatar",
       "Romania",
       "Russia",
       "Serbia",
@@ -88,10 +89,10 @@
     ],
     "distinctTopics": 40,
     "regions": {
-      "Europe": 357,
+      "Europe": 358,
       "North America": 341,
       "South America": 299,
-      "Western Asia": 57,
+      "Western Asia": 72,
       "Oceania": 42,
       "Central America": 21,
       "Caribbean": 3
@@ -106,8 +107,8 @@
       "method": "Geocoded with OpenStreetMap Nominatim, then a precision-audit pass that re-queried city-centroid fallbacks with a 25 km distance gate, plus manual verification of unresolved cases. Per-record method recorded in `geoSource`.",
       "derived": "2026-07-20",
       "geoSourceLegend": {
-        "manual:campus": 455,
-        "nominatim:name+city": 276,
+        "manual:campus": 457,
+        "nominatim:name+city": 290,
         "manual:city": 204,
         "nominatim:name (audited)": 85,
         "nominatim:city": 75,
@@ -115,29 +116,29 @@
         "manual:campus (audited)": 5
       },
       "geoSourceCounts": {
-        "manual:campus": 455,
-        "nominatim:name+city": 276,
+        "manual:campus": 457,
+        "nominatim:name+city": 290,
         "manual:city": 204,
         "nominatim:name (audited)": 85,
         "nominatim:city": 75,
         "nominatim:name": 20,
         "manual:campus (audited)": 5
       },
-      "campusLevel": 565,
-      "cityCentroidOnly": 555
+      "campusLevel": 567,
+      "cityCentroidOnly": 569
     },
     "graduatesPerYear": {
       "nature": "Values are annual-graduate estimates, expressed as ranges. They are indicative, not official institutional statistics.",
       "imputation": "Records originally lacking a figure were imputed from the median of peer institutions in this dataset (same country and institution type where n>=3, widening to type, then to all). Imputed records carry `graduatesEstimated: true`.",
       "imputedCount": 298,
-      "note2026-10": "803 records carry 'Not published' (no intake or graduate figure on the programme page); the rest carry ranges, either collected, peer-imputed, or derived from published intake caps.",
-      "notPublishedCount": 803
+      "note2026-10": "819 records carry 'Not published' (no intake or graduate figure on the programme page); the rest carry ranges, either collected, peer-imputed, or derived from published intake caps.",
+      "notPublishedCount": 819
     },
     "cost": {
       "unit": "indicative tuition in each record's costCurrency (local currency; per year unless the record states otherwise in its sources).",
-      "note": "Ranges run from the lowest to the highest published fee (e.g. home to international). '0' = no tuition charged (e.g. public universities with only administrative/semester contributions). '-' = fee not published by the institution.",
-      "numericRecords": 987,
-      "notPublishedRecords": 133
+      "note": "Ranges run from the lowest to the highest published yearly fee (e.g. home to international, or across the record's programmes), taken only from the institution's own pages. Per-credit or whole-programme fees are converted to a yearly figure (standard full-time load, or total divided by stated duration). '0' = no tuition charged (e.g. funded places). '-' = fee not published by the institution.",
+      "numericRecords": 1007,
+      "notPublishedRecords": 129
     },
     "verificationLevel": {
       "legend": {
@@ -147,7 +148,7 @@
       },
       "counts": {
         "1": 26,
-        "2": 1093,
+        "2": 1109,
         "3": 1
       }
     },
@@ -158,8 +159,8 @@
         "computingTerms": 25,
         "domainTerms": 15
       },
-      "recordsWithComputingTopic": 1119,
-      "recordsWithDomain": 1088,
+      "recordsWithComputingTopic": 1135,
+      "recordsWithDomain": 1104,
       "tagging": {
         "rubric": "tagging-rubric.md",
         "rule": "Tag a topic only where the institution's own pages show a named course/module or an explicit programme learning outcome; applied uniformly to all institutions. CAD, programming, GIS or 3D visualisation on their own do not qualify a record.",
@@ -174,12 +175,12 @@
     "lastChecked": "ISO date a record's programme/fee data was last verified against source; null = not yet verified in this provenance system"
   },
   "knownLimitations": [
-    "555 institutions are pinned to a city/state-capital location rather than the exact campus (geoSource 'nominatim:city', 'manual:city', 'manual:state capital', 'manual:regional capital').",
-    "803 graduatesPerYear values are 'Not published'; all graduate figures are indicative, not official statistics.",
-    "133 cost values are '-' because the institution does not publish the fee (enquiry-gated, apprenticeship-funded, calculator-only, or price on request).",
+    "569 institutions are pinned to a city/state-capital location rather than the exact campus (geoSource 'nominatim:city', 'manual:city', 'manual:state capital', 'manual:regional capital').",
+    "819 graduatesPerYear values are 'Not published'; all graduate figures are indicative, not official statistics.",
+    "129 cost values are '-' because the institution does not publish the fee (enquiry-gated, apprenticeship-funded, calculator-only, or price on request).",
     "'0' cost conflates fully free tuition with tuition-free programmes that still charge semester/administrative contributions.",
     "Cost figures are current-year rates and will drift; re-verify against source before citing.",
-    "Coverage gaps: Africa, South/East/South-East Asia, the Gulf beyond the UAE, Iraq, Iran and Central Asia have not yet been swept; Central America and the Caribbean are partial. Azerbaijan, Lebanon and Israel were re-swept only partially in November 2026."
+    "Coverage gaps: Africa, South/East/South-East Asia, Saudi Arabia, Oman, Kuwait, Bahrain, Iraq, Iran and Central Asia have not yet been swept; Central America and the Caribbean are partial. Azerbaijan, Lebanon and Israel were re-swept only partially in November 2026."
   ],
   "validation": {
     "method": "Stratified random sample (seed=42, region-stratified), each institution checked against its own programme pages under tagging-rubric.md.",
@@ -191,7 +192,7 @@
     "overTagged": 0,
     "underTaggedRate": "52% of verified (100% of single-tag records)",
     "mostCommonlyOmitted": "AI & Machine Learning",
-    "recordsVerifiedToDate": 1120,
-    "censusStatus": "In progress (38/309 verified). Sample rate (>50% under-tagged) warrants full verification; CESI campuses corrected via shared national-programme evidence. Priority: <=2-tag population. Records verified under the rubric carry lastChecked. | 2026-07-22: added 21 Chile records (South America pilot), each verified against its own programme page and link-checked; all at verificationLevel 2. | 2026-10-12: gap audit added 18 institutions and new programmes to existing records, each verified against official programme pages; lastChecked set to 2026-10-12 on 39 records. | 2026-10-29 to 2026-11-02: single-tag audit across all countries; records failing the rule (CAD, programming, GIS or visualisation only; generic curricula; unreachable or non-existent programmes) removed, failing programmes dropped at programme level, qualifying programmes added at institution level. Caucasus and Levant re-sweep added 7 institutions (Georgia 4, Azerbaijan 1, Lebanon 2). 117 records carry lastChecked on or after 2026-10-29."
+    "recordsVerifiedToDate": 1136,
+    "censusStatus": "In progress (38/309 verified). Sample rate (>50% under-tagged) warrants full verification; CESI campuses corrected via shared national-programme evidence. Priority: <=2-tag population. Records verified under the rubric carry lastChecked. | 2026-07-22: added 21 Chile records (South America pilot), each verified against its own programme page and link-checked; all at verificationLevel 2. | 2026-10-12: gap audit added 18 institutions and new programmes to existing records, each verified against official programme pages; lastChecked set to 2026-10-12 on 39 records. | 2026-10-29 to 2026-11-02: single-tag audit across all countries; records failing the rule (CAD, programming, GIS or visualisation only; generic curricula; unreachable or non-existent programmes) removed, failing programmes dropped at programme level, qualifying programmes added at institution level. Caucasus and Levant re-sweep added 7 institutions (Georgia 4, Azerbaijan 1, Lebanon 2). 117 records carry lastChecked on or after 2026-10-29. | 2026-11-02: UAE and Qatar sweep from the CAA register and university catalogues (UAE 16 institutions, Qatar 1), including doctoral routes; yearly fees taken only from official university pages."
   }
 }
