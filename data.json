@@ -18940,7 +18940,8 @@
       "MSc Information Technologies in Construction Management",
       "MSc Architectural Design Computing",
       "PhD Civil Engineering",
-      "PhD Architectural Design Computing"
+      "PhD Architectural Design Computing",
+      "BIM Süreçleri Eğitim Programı (İTÜ SEM)"
     ],
     "programLinks": [
       "https://www.tyyc.itu.edu.tr/ProgramHakkinda.php?Program=INS_LS&Dili=EN",
@@ -18948,7 +18949,8 @@
       "https://www.tyyc.itu.edu.tr/ProgramHakkinda.php?Program=IYB_IY_YL&Dili=EN",
       "https://mbl.itu.edu.tr/?p=530",
       "https://insmuh.itu.edu.tr/en/education/graduate",
-      "https://mbl.itu.edu.tr/?p=530"
+      "https://mbl.itu.edu.tr/?p=530",
+      "https://itusem.itu.edu.tr/egitim-ve-programlar/insaat-fakultesi-sertifika-programlari/bim-surecleri-egitim-programi"
     ],
     "accreditation": [
       "MÜDEK",
@@ -18998,7 +19000,7 @@
     "lat": 41.10456,
     "lon": 29.02634,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-10-12",
+    "lastChecked": "2026-11-03",
     "region": "Europe",
     "costCurrency": "TRY",
     "graduatesEstimated": true
@@ -19065,11 +19067,13 @@
     "city": "Istanbul",
     "programs": [
       "BSc Civil Engineering",
+      "BArch Mimarlık",
       "MSc Construction Management (non-thesis)",
       "PhD Civil Engineering"
     ],
     "programLinks": [
       "https://bologna2024.yildiz.edu.tr/index.php?r=program/view&id=397&aid=28",
+      "https://mimarlik.yildiz.edu.tr/",
       "https://bologna2024.yildiz.edu.tr/index.php?r=program/view&id=544&aid=28",
       "https://bologna2024.yildiz.edu.tr/index.php?r=program/view&id=420&aid=28"
     ],
@@ -19084,10 +19088,11 @@
     "graduatesPerYear": "80-120",
     "topics": [
       "BIM",
-      "Construction Management",
       "Digital Construction",
+      "3D Modeling & Scanning",
+      "Construction Management",
       "Facility & Asset Management",
-      "3D Modeling & Scanning"
+      "Architecture"
     ],
     "computingTopics": [
       "BIM",
@@ -19096,14 +19101,15 @@
     ],
     "domains": [
       "Construction Management",
-      "Facility & Asset Management"
+      "Facility & Asset Management",
+      "Architecture"
     ],
     "verificationLevel": 2,
     "website": "https://www.yildiz.edu.tr/",
     "lat": 41.05224,
     "lon": 29.01053,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-07-20",
+    "lastChecked": "2026-11-03",
     "region": "Europe",
     "costCurrency": "TRY",
     "graduatesEstimated": true
@@ -19114,11 +19120,15 @@
     "city": "Ankara",
     "programs": [
       "MSc Building Science",
-      "PhD Building Science"
+      "PhD Building Science",
+      "BSc Civil Engineering",
+      "Yapı Bilgi Modelleme Uzmanı Sertifika Programı (METU SEM)"
     ],
     "programLinks": [
       "https://bs.metu.edu.tr/msc-building-science",
-      "https://bs.metu.edu.tr/phd-building-science"
+      "https://bs.metu.edu.tr/phd-building-science",
+      "https://ce.metu.edu.tr/undergraduate-program",
+      "https://sem.metu.edu.tr/egitim/yapi-bilgi-modelleme-uzmani-sertifika-programi-online1.html"
     ],
     "accreditation": [
       "-"
@@ -19126,36 +19136,40 @@
     "language": "English",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "-",
+    "cost": "0 - 2,400",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
       "nD BIM",
       "Collaborative Workflows",
       "Digital Fabrication",
+      "Energy Performance",
       "Architecture",
       "Facility & Asset Management",
-      "Sustainability"
+      "Sustainability",
+      "Civil Engineering"
     ],
     "computingTopics": [
       "BIM",
       "nD BIM",
       "Collaborative Workflows",
-      "Digital Fabrication"
+      "Digital Fabrication",
+      "Energy Performance"
     ],
     "domains": [
       "Architecture",
       "Facility & Asset Management",
-      "Sustainability"
+      "Sustainability",
+      "Civil Engineering"
     ],
     "verificationLevel": 2,
     "website": "https://www.metu.edu.tr",
     "lat": 39.89734,
     "lon": 32.78172,
     "geoSource": "manual:campus",
-    "lastChecked": "2026-10-12",
+    "lastChecked": "2026-11-03",
     "region": "Western Asia",
-    "costCurrency": "TRY"
+    "costCurrency": "USD"
   },
   {
     "name": "TED University (TEDU)",
@@ -19212,7 +19226,7 @@
     "language": "English",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "-",
+    "cost": "1,975,000",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
@@ -19255,7 +19269,7 @@
     "language": "German / Turkish",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "-",
+    "cost": "0",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
@@ -19302,7 +19316,7 @@
     "language": "English",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "-",
+    "cost": "827,640",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
@@ -19345,7 +19359,7 @@
     "language": "English",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "-",
+    "cost": "0",
     "graduatesPerYear": "Not published",
     "topics": [
       "Programming",
@@ -19396,7 +19410,7 @@
     "language": "English",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "-",
+    "cost": "1,070,000",
     "graduatesPerYear": "Not published",
     "topics": [
       "Parametric & Generative Design",
@@ -19441,7 +19455,7 @@
     "language": "English",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "-",
+    "cost": "1,298,000",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
@@ -19488,7 +19502,7 @@
     "language": "Turkish",
     "mode": "Full-time / Part-time",
     "delivery": "Presential / Online",
-    "cost": "-",
+    "cost": "0",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
@@ -19545,7 +19559,7 @@
     "language": "English",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "-",
+    "cost": "1,310,000",
     "graduatesPerYear": "Not published",
     "topics": [
       "AI & Machine Learning",
@@ -19584,7 +19598,7 @@
     "language": "English",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "-",
+    "cost": "1,200,000",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
@@ -19637,7 +19651,7 @@
     "language": "Turkish",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "-",
+    "cost": "1,250,000",
     "graduatesPerYear": "Not published",
     "topics": [
       "AI & Machine Learning",
@@ -19680,7 +19694,7 @@
     "language": "Turkish",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "-",
+    "cost": "0",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
@@ -19725,7 +19739,7 @@
     "language": "Turkish",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "-",
+    "cost": "0",
     "graduatesPerYear": "Not published",
     "topics": [
       "CAD/CAM",
@@ -19774,7 +19788,7 @@
     "language": "English",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "-",
+    "cost": "0",
     "graduatesPerYear": "Not published",
     "topics": [
       "Programming",
@@ -55275,5 +55289,990 @@
     "lastChecked": "2026-11-02",
     "region": "Western Asia",
     "costCurrency": "QAR"
+  },
+  {
+    "name": "King Fahd University of Petroleum & Minerals (KFUPM)",
+    "country": "Saudi Arabia",
+    "city": "Dhahran",
+    "programs": [
+      "MS in High Performance Building Engineering",
+      "PhD in Construction and Building Engineering"
+    ],
+    "programLinks": [
+      "https://aecm.kfupm.edu.sa/academics/ms-in-high-performance-building-engineering-(project-based)/program-overview",
+      "https://aecm.kfupm.edu.sa/academics/doctor-of-philosophy-in-construction-and-building-engineering/program-overview"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 6,025",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Collaborative Workflows",
+      "IoT",
+      "Energy Performance",
+      "Data Management",
+      "Digital Twins",
+      "3D Modeling & Scanning",
+      "Robotics & Automation",
+      "Construction Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Collaborative Workflows",
+      "IoT",
+      "Energy Performance",
+      "Data Management",
+      "Digital Twins",
+      "3D Modeling & Scanning",
+      "Robotics & Automation"
+    ],
+    "domains": [
+      "Construction Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.kfupm.edu.sa",
+    "lat": 26.3057,
+    "lon": 50.1513,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-02",
+    "region": "Western Asia",
+    "costCurrency": "USD"
+  },
+  {
+    "name": "Imam Abdulrahman Bin Faisal University (IAU)",
+    "country": "Saudi Arabia",
+    "city": "Dammam",
+    "programs": [
+      "Bachelor of Architecture",
+      "Master of Engineering Management (Construction)",
+      "Master of Construction Engineering Management"
+    ],
+    "programLinks": [
+      "https://www.iau.edu.sa/en/colleges/college-of-architecture-and-planning/programs/bachelor-of-architecture",
+      "https://iau.edu.sa/en/colleges/college-of-engineering/programs/master-of-engineering-management",
+      "https://iau.edu.sa/en/colleges/college-of-architecture-and-planning/programs/master-of-construction-engineering-management"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English / Arabic",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 18,400",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Parametric & Generative Design",
+      "3D Modeling & Scanning",
+      "Architecture",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Parametric & Generative Design",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Architecture",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.iau.edu.sa",
+    "lat": 26.3927,
+    "lon": 50.1912,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-11-02",
+    "region": "Western Asia",
+    "costCurrency": "SAR"
+  },
+  {
+    "name": "Umm Al-Qura University (UQU)",
+    "country": "Saudi Arabia",
+    "city": "Al Qunfudhah",
+    "programs": [
+      "Bachelor of Construction Engineering"
+    ],
+    "programLinks": [
+      "https://uqu.edu.sa/en/ecc_cee"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English / Arabic",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "3D Modeling & Scanning",
+      "Construction Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Construction Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://uqu.edu.sa",
+    "lat": 19.1264,
+    "lon": 41.0789,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-02",
+    "region": "Western Asia",
+    "costCurrency": "SAR"
+  },
+  {
+    "name": "Alfaisal University",
+    "country": "Saudi Arabia",
+    "city": "Riyadh",
+    "programs": [
+      "Bachelor of Architecture"
+    ],
+    "programLinks": [
+      "https://catalog.alfaisal.edu/node/1926"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "94,000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "Parametric & Generative Design",
+      "AI & Machine Learning",
+      "Digital Fabrication",
+      "Robotics & Automation",
+      "Smart Cities & Buildings",
+      "Energy Performance",
+      "3D Modeling & Scanning",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "Parametric & Generative Design",
+      "AI & Machine Learning",
+      "Digital Fabrication",
+      "Robotics & Automation",
+      "Smart Cities & Buildings",
+      "Energy Performance",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.alfaisal.edu",
+    "lat": 24.6644,
+    "lon": 46.6764,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-02",
+    "region": "Western Asia",
+    "costCurrency": "SAR"
+  },
+  {
+    "name": "King Saud University (KSU)",
+    "country": "Saudi Arabia",
+    "city": "Riyadh",
+    "programs": [
+      "Bachelor of Architecture and Building Sciences"
+    ],
+    "programLinks": [
+      "https://cap.ksu.edu.sa/en/architecture-and-construction"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Arabic / English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://ksu.edu.sa",
+    "lat": 24.7242,
+    "lon": 46.6232,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-02",
+    "region": "Western Asia",
+    "costCurrency": "SAR"
+  },
+  {
+    "name": "Prince Sultan University (PSU)",
+    "country": "Saudi Arabia",
+    "city": "Riyadh",
+    "programs": [
+      "Bachelor of Science in Civil Engineering",
+      "Bachelor of Science in Engineering Management"
+    ],
+    "programLinks": [
+      "https://info.psu.edu.sa/UniversityBulletin/files/basic-html/page175.html",
+      "https://info.psu.edu.sa/UniversityBulletin/files/basic-html/page215.html"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "90,000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "Civil Engineering",
+      "Construction Management",
+      "Project Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management",
+      "Project Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.psu.edu.sa",
+    "lat": 24.7346,
+    "lon": 46.6982,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-02",
+    "region": "Western Asia",
+    "costCurrency": "SAR"
+  },
+  {
+    "name": "Sultan Qaboos University (SQU)",
+    "country": "Oman",
+    "city": "Muscat",
+    "programs": [
+      "BSc Architectural Engineering",
+      "MSc Architectural Engineering",
+      "MSc Construction Engineering and Management"
+    ],
+    "programLinks": [
+      "https://www.squ.edu.om/engineering/Academic/Undergraduate-Programs/Architectural-Engineering",
+      "https://www.squ.edu.om/engineering/Academic/Postgraduate-Programs/MSc/Architectural-Engineering",
+      "https://www.squ.edu.om/engineering/Academic/Postgraduate-Programs/MSc/Construction-Engineering-and-Management"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 2,800",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Parametric & Generative Design",
+      "Energy Performance",
+      "Collaborative Workflows",
+      "CAD/CAM",
+      "Architecture",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Parametric & Generative Design",
+      "Energy Performance",
+      "Collaborative Workflows",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Architecture",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.squ.edu.om",
+    "lat": 23.5939,
+    "lon": 58.1713,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-02",
+    "region": "Western Asia",
+    "costCurrency": "OMR"
+  },
+  {
+    "name": "Dhofar University",
+    "country": "Oman",
+    "city": "Salalah",
+    "programs": [
+      "Bachelor of Science in Architectural Engineering"
+    ],
+    "programLinks": [
+      "http://ce.du.edu.om/bachelor-of-science-in-architectural-engineering/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "2,100",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.du.edu.om",
+    "lat": 17.0893,
+    "lon": 54.1473,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-02",
+    "region": "Western Asia",
+    "costCurrency": "OMR"
+  },
+  {
+    "name": "A'Sharqiyah University (ASU)",
+    "country": "Oman",
+    "city": "Ibra",
+    "programs": [
+      "Bachelor of Engineering in Civil and Environmental Engineering"
+    ],
+    "programLinks": [
+      "https://www.asu.edu.om/Page/Details/52?t=College%20of%20Engineering"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "3,144",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.asu.edu.om",
+    "lat": 22.783,
+    "lon": 58.522,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-02",
+    "region": "Western Asia",
+    "costCurrency": "OMR"
+  },
+  {
+    "name": "National University of Science and Technology (NUST Oman)",
+    "country": "Oman",
+    "city": "Muscat",
+    "programs": [
+      "BSc Quantity Surveying and Cost Management",
+      "Diploma in Quantity Surveying"
+    ],
+    "programLinks": [
+      "https://nu.edu.om/engineering/bsc-quantity-surveying-and-cost-management/",
+      "https://nu.edu.om/engineering/diploma-in-quantity-surveying/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential",
+    "cost": "3,750 - 4,375",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "nD BIM",
+      "Construction Management",
+      "Procurement & Contracts"
+    ],
+    "computingTopics": [
+      "BIM",
+      "nD BIM"
+    ],
+    "domains": [
+      "Construction Management",
+      "Procurement & Contracts"
+    ],
+    "verificationLevel": 2,
+    "website": "https://nu.edu.om",
+    "lat": 23.5521,
+    "lon": 58.399,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-02",
+    "region": "Western Asia",
+    "costCurrency": "OMR"
+  },
+  {
+    "name": "Applied Science University (ASU Bahrain)",
+    "country": "Bahrain",
+    "city": "Manama",
+    "programs": [
+      "BEng (Hons) Architectural Engineering"
+    ],
+    "programLinks": [
+      "https://www.asu.edu.bh/courses/beng-hons-architectural-engineering/"
+    ],
+    "accreditation": [
+      "CIOB"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "6,480",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "Architecture",
+      "Construction Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Architecture",
+      "Construction Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.asu.edu.bh",
+    "lat": 26.1435,
+    "lon": 50.6146,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-02",
+    "region": "Western Asia",
+    "costCurrency": "BHD"
+  },
+  {
+    "name": "Kingdom University (KU Bahrain)",
+    "country": "Bahrain",
+    "city": "Riffa",
+    "programs": [
+      "Bachelor in Architectural Engineering"
+    ],
+    "programLinks": [
+      "https://www.ku.edu.bh/college-aed/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "3,262 - 4,674",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Energy Performance",
+      "VR/AR",
+      "CAD/CAM",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Energy Performance",
+      "VR/AR",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.ku.edu.bh",
+    "lat": 26.1357,
+    "lon": 50.5834,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-02",
+    "region": "Western Asia",
+    "costCurrency": "BHD"
+  },
+  {
+    "name": "Royal University for Women (RUW)",
+    "country": "Bahrain",
+    "city": "Riffa",
+    "programs": [
+      "MSc Building Information Modelling and Digital Transformation (with University of Liverpool)"
+    ],
+    "programLinks": [
+      "https://www.liverpool.ac.uk/postgraduate-taught/bahrain-partnership/building-information-modelling-and-digital-transformation-msc"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "-",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Collaborative Workflows",
+      "openBIM & IFC",
+      "VR/AR",
+      "Parametric & Generative Design",
+      "Energy Performance",
+      "Architecture",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Collaborative Workflows",
+      "openBIM & IFC",
+      "VR/AR",
+      "Parametric & Generative Design",
+      "Energy Performance"
+    ],
+    "domains": [
+      "Architecture",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.ruw.edu.bh",
+    "lat": 26.1021,
+    "lon": 50.551,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-02",
+    "region": "Western Asia",
+    "costCurrency": "BHD"
+  },
+  {
+    "name": "American University of the Middle East (AUM)",
+    "country": "Kuwait",
+    "city": "Egaila",
+    "programs": [
+      "Bachelor of Science in Architectural Engineering"
+    ],
+    "programLinks": [
+      "https://www.aum.edu.kw/english/academics/undergraduate-programs/architectural-engineering"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "7,800",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Architecture",
+      "Construction Engineering"
+    ],
+    "computingTopics": [
+      "BIM"
+    ],
+    "domains": [
+      "Architecture",
+      "Construction Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.aum.edu.kw",
+    "lat": 29.166897,
+    "lon": 48.1005185,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-11-02",
+    "region": "Western Asia",
+    "costCurrency": "KWD"
+  },
+  {
+    "name": "Cihan University – Sulaimaniya",
+    "country": "Iraq",
+    "city": "Sulaymaniyah",
+    "programs": [
+      "BSc Architectural Engineering"
+    ],
+    "programLinks": [
+      "https://sulicihan.edu.krd/architectural-engineering-department/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "4,250,000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Parametric & Generative Design",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Parametric & Generative Design"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://sulicihan.edu.krd",
+    "lat": 35.5262,
+    "lon": 45.416,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-02",
+    "region": "Western Asia",
+    "costCurrency": "IQD"
+  },
+  {
+    "name": "Erbil Polytechnic University (EPU)",
+    "country": "Iraq",
+    "city": "Erbil",
+    "programs": [
+      "BSc Civil Engineering (Erbil Technical Engineering College)"
+    ],
+    "programLinks": [
+      "https://etec.epu.edu.iq/en/departments"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "-",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://epu.edu.iq",
+    "lat": 36.1442,
+    "lon": 44.0175,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-02",
+    "region": "Western Asia",
+    "costCurrency": "USD"
+  },
+  {
+    "name": "Hasan Kalyoncu University (HKU)",
+    "country": "Turkey",
+    "city": "Gaziantep",
+    "programs": [
+      "BSc Civil Engineering"
+    ],
+    "programLinks": [
+      "https://civil.hku.edu.tr/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "814,000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Energy Performance",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Energy Performance"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.hku.edu.tr",
+    "lat": 37.0058,
+    "lon": 37.4378,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-03",
+    "region": "Europe",
+    "costCurrency": "TRY"
+  },
+  {
+    "name": "Istanbul Kültür University (IKU)",
+    "country": "Turkey",
+    "city": "Istanbul",
+    "programs": [
+      "BArch Architecture (English)"
+    ],
+    "programLinks": [
+      "https://akademikpaket.iku.edu.tr/TR/ects_bolum.php?m=1&p=94"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "1,435,000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.iku.edu.tr",
+    "lat": 40.9912,
+    "lon": 28.8321,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-03",
+    "region": "Europe",
+    "costCurrency": "TRY"
+  },
+  {
+    "name": "Bahçeşehir University (BAU)",
+    "country": "Turkey",
+    "city": "Istanbul",
+    "programs": [
+      "BArch Mimarlık"
+    ],
+    "programLinks": [
+      "https://akts.bau.edu.tr/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Turkish / English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "1,667,500",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://bau.edu.tr",
+    "lat": 41.0422,
+    "lon": 29.0077,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-03",
+    "region": "Europe",
+    "costCurrency": "TRY"
+  },
+  {
+    "name": "Çukurova University",
+    "country": "Turkey",
+    "city": "Adana",
+    "programs": [
+      "BArch Mimarlık"
+    ],
+    "programLinks": [
+      "https://mimarlik.cu.edu.tr/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Turkish",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Parametric & Generative Design",
+      "Digital Fabrication",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Parametric & Generative Design",
+      "Digital Fabrication"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.cu.edu.tr",
+    "lat": 37.05,
+    "lon": 35.3574,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-03",
+    "region": "Europe",
+    "costCurrency": "TRY"
+  },
+  {
+    "name": "Başkent University",
+    "country": "Turkey",
+    "city": "Ankara",
+    "programs": [
+      "BArch Mimarlık"
+    ],
+    "programLinks": [
+      "https://bilgipaketi.baskent.edu.tr/tr/program/370/katalog"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Turkish / English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "1,300,000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "Parametric & Generative Design",
+      "Digital Fabrication",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "Parametric & Generative Design",
+      "Digital Fabrication"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.baskent.edu.tr",
+    "lat": 39.8875,
+    "lon": 32.6548,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-03",
+    "region": "Europe",
+    "costCurrency": "TRY"
+  },
+  {
+    "name": "Bursa Uludağ University",
+    "country": "Turkey",
+    "city": "Bursa",
+    "programs": [
+      "BArch Mimarlık"
+    ],
+    "programLinks": [
+      "https://bilgipaketi.uludag.edu.tr/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Turkish",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://uludag.edu.tr",
+    "lat": 40.2217,
+    "lon": 28.8698,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-03",
+    "region": "Europe",
+    "costCurrency": "TRY"
+  },
+  {
+    "name": "Hadhramout University",
+    "country": "Yemen",
+    "city": "Mukalla",
+    "programs": [
+      "Bachelor of Architectural Engineering"
+    ],
+    "programLinks": [
+      "https://hu.edu.ye/engfac/en/?p=24"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Arabic / English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "-",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "Energy Performance",
+      "CAD/CAM",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "Energy Performance",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 1,
+    "website": "https://hu.edu.ye",
+    "lat": 14.5068,
+    "lon": 49.0607,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-03",
+    "region": "Western Asia",
+    "costCurrency": "YER"
   }
 ]

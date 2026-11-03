@@ -26,7 +26,8 @@ Apply this identical threshold to every institution.
 - Evidence comes from compulsory courses, electives or explicit learning outcomes in the official curriculum. Research activity counts only at doctoral level.
 - Records are per institution. A failing programme is removed from the record without removing the institution if another programme qualifies; qualifying programmes found during review are added.
 - `programLinks` point to the programme's own page (not a homepage, a general list or a PDF) wherever one exists.
-- Fees are taken only from the institution's own pages (never third-party aggregators) and recorded as a yearly figure.
+- Fees are taken from the institution's own pages, or an official national source where the institution publishes none (never third-party aggregators), and recorded as a yearly figure.
+- CPD and professional courses count only with a dedicated course page and evidence that they recur (not a one-off offering).
 - A programme that no longer exists, or whose site cannot be reached, is removed rather than kept unverified.
 
 ## Sources of record
