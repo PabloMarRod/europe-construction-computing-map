@@ -3517,7 +3517,7 @@
     "language": "Lithuanian",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "-",
+    "cost": "3,300",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
@@ -3611,7 +3611,7 @@
     "language": "Lithuanian",
     "mode": "Full-time / Part-time",
     "delivery": "Presential",
-    "cost": "-",
+    "cost": "2,053 - 3,079",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
@@ -3797,7 +3797,7 @@
     "language": "Latvian",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "-",
+    "cost": "0 - 1,600",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
@@ -15526,7 +15526,7 @@
     "language": "French",
     "mode": "Apprenticeship",
     "delivery": "Presential",
-    "cost": "-",
+    "cost": "0 - 2,250",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
@@ -15573,7 +15573,7 @@
     "language": "French",
     "mode": "Apprenticeship",
     "delivery": "Presential",
-    "cost": "-",
+    "cost": "0 - 150",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
@@ -15974,7 +15974,7 @@
     "language": "Bulgarian",
     "mode": "Full-time / Part-time",
     "delivery": "Presential",
-    "cost": "-",
+    "cost": "1,227 - 1,687",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
@@ -16336,7 +16336,7 @@
     "language": "Ukrainian",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "-",
+    "cost": "22,000 - 33,000",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
@@ -16379,7 +16379,7 @@
     "language": "Ukrainian",
     "mode": "Full-time / Part-time",
     "delivery": "Presential",
-    "cost": "-",
+    "cost": "29,999",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
@@ -19187,7 +19187,7 @@
     "language": "English",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "-",
+    "cost": "4,000 - 5,333",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
@@ -19208,7 +19208,7 @@
     "geoSource": "manual:campus",
     "lastChecked": "2026-10-12",
     "region": "Western Asia",
-    "costCurrency": "TRY"
+    "costCurrency": "USD"
   },
   {
     "name": "Özyeğin University",
@@ -20175,7 +20175,7 @@
     "language": "Arabic / English",
     "mode": "Part-time",
     "delivery": "Online",
-    "cost": "-",
+    "cost": "2,800",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
@@ -20396,7 +20396,7 @@
     "language": "French",
     "mode": "Part-time",
     "delivery": "Presential",
-    "cost": "-",
+    "cost": "2,160",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
@@ -20445,7 +20445,7 @@
     "language": "Hebrew",
     "mode": "Part-time",
     "delivery": "Presential / Online",
-    "cost": "-",
+    "cost": "2,636 - 3,036",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
@@ -20500,7 +20500,7 @@
     "language": "Hebrew",
     "mode": "Part-time",
     "delivery": "Presential / Online",
-    "cost": "-",
+    "cost": "5,796 - 7,980",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
@@ -20639,7 +20639,7 @@
     "language": "Arabic / English",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "-",
+    "cost": "1,000 - 2,500",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
@@ -20666,7 +20666,7 @@
     "geoSource": "manual:campus",
     "lastChecked": "2026-10-17",
     "region": "Western Asia",
-    "costCurrency": "JOD"
+    "costCurrency": "USD"
   },
   {
     "name": "Al-Quds University",
@@ -20684,7 +20684,7 @@
     "language": "Arabic / English",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "-",
+    "cost": "1,000 - 5,000",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
@@ -20709,7 +20709,7 @@
     "geoSource": "manual:campus",
     "lastChecked": "2026-10-17",
     "region": "Western Asia",
-    "costCurrency": "JOD"
+    "costCurrency": "USD"
   },
   {
     "name": "Al-Ahliyya Amman University (AAU)",
@@ -26228,7 +26228,7 @@
     "language": "Spanish",
     "mode": "Part-time",
     "delivery": "Online",
-    "cost": "-",
+    "cost": "10,800",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
@@ -26275,7 +26275,7 @@
     "language": "Spanish",
     "mode": "Part-time",
     "delivery": "Presential / Hybrid",
-    "cost": "-",
+    "cost": "5,490",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
@@ -26322,7 +26322,7 @@
     "language": "Spanish",
     "mode": "Part-time",
     "delivery": "Presential",
-    "cost": "-",
+    "cost": "11,000",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
@@ -42131,88 +42131,6 @@
     "costCurrency": "BRL"
   },
   {
-    "name": "Universidade Federal do Amapá (UNIFAP)",
-    "country": "Brazil",
-    "city": "Macapá",
-    "programs": [
-      "Engenharia Civil"
-    ],
-    "programLinks": [
-      "https://www2.unifap.br/engcivil/"
-    ],
-    "accreditation": [
-      "MEC",
-      "SINAES",
-      "CONFEA/CREA"
-    ],
-    "language": "Portuguese",
-    "mode": "Full-time",
-    "delivery": "Presential",
-    "cost": "0",
-    "graduatesPerYear": "Not published",
-    "topics": [
-      "CAD/CAM",
-      "Civil Engineering",
-      "Infrastructure Engineering"
-    ],
-    "computingTopics": [
-      "CAD/CAM"
-    ],
-    "domains": [
-      "Civil Engineering",
-      "Infrastructure Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://www2.unifap.br/engcivil/",
-    "lat": 0.034,
-    "lon": -51.07,
-    "geoSource": "manual:city",
-    "lastChecked": "2026-10-29",
-    "region": "South America",
-    "costCurrency": "BRL"
-  },
-  {
-    "name": "Universidade Federal do Sul e Sudeste do Pará (UNIFESSPA)",
-    "country": "Brazil",
-    "city": "Marabá",
-    "programs": [
-      "Engenharia Civil"
-    ],
-    "programLinks": [
-      "https://engenhariacivil.unifesspa.edu.br/"
-    ],
-    "accreditation": [
-      "MEC",
-      "SINAES",
-      "CONFEA/CREA"
-    ],
-    "language": "Portuguese",
-    "mode": "Full-time",
-    "delivery": "Presential",
-    "cost": "0",
-    "graduatesPerYear": "Not published",
-    "topics": [
-      "CAD/CAM",
-      "Civil Engineering",
-      "Infrastructure Engineering"
-    ],
-    "computingTopics": [
-      "CAD/CAM"
-    ],
-    "domains": [
-      "Civil Engineering",
-      "Infrastructure Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://civil.unifesspa.edu.br/",
-    "lat": -5.368,
-    "lon": -49.118,
-    "geoSource": "manual:city",
-    "lastChecked": "2026-10-29",
-    "region": "South America",
-    "costCurrency": "BRL"
-  },
-  {
     "name": "Universidade do Estado do Rio de Janeiro (UERJ)",
     "country": "Brazil",
     "city": "Rio de Janeiro",
@@ -42400,129 +42318,6 @@
     "website": "https://www.uepg.br/engenharia-civil/",
     "lat": -25.095,
     "lon": -50.105,
-    "geoSource": "manual:city",
-    "lastChecked": "2026-10-29",
-    "region": "South America",
-    "costCurrency": "BRL"
-  },
-  {
-    "name": "Universidade Estadual do Oeste do Paraná (UNIOESTE)",
-    "country": "Brazil",
-    "city": "Cascavel",
-    "programs": [
-      "Engenharia Civil"
-    ],
-    "programLinks": [
-      "https://www.unioeste.br/portal/comunidade-externa/cursos"
-    ],
-    "accreditation": [
-      "MEC",
-      "SINAES",
-      "CONFEA/CREA"
-    ],
-    "language": "Portuguese",
-    "mode": "Full-time",
-    "delivery": "Presential",
-    "cost": "0",
-    "graduatesPerYear": "Not published",
-    "topics": [
-      "CAD/CAM",
-      "Civil Engineering",
-      "Infrastructure Engineering"
-    ],
-    "computingTopics": [
-      "CAD/CAM"
-    ],
-    "domains": [
-      "Civil Engineering",
-      "Infrastructure Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://www.unioeste.br/portal/prograd-outros/cursos-campus-todos/cascavelcursos/engenharia-civil-bacharelado",
-    "lat": -24.987,
-    "lon": -53.459,
-    "geoSource": "manual:city",
-    "lastChecked": "2026-10-29",
-    "region": "South America",
-    "costCurrency": "BRL"
-  },
-  {
-    "name": "Universidade Estadual de Goiás (UEG)",
-    "country": "Brazil",
-    "city": "Anápolis",
-    "programs": [
-      "Engenharia Civil"
-    ],
-    "programLinks": [
-      "https://www.ueg.br/exec/consulta_cursos/?funcao=dados_v2&variavel=12&mod=1"
-    ],
-    "accreditation": [
-      "MEC",
-      "SINAES",
-      "CONFEA/CREA"
-    ],
-    "language": "Portuguese",
-    "mode": "Full-time",
-    "delivery": "Presential",
-    "cost": "0",
-    "graduatesPerYear": "Not published",
-    "topics": [
-      "CAD/CAM",
-      "Civil Engineering",
-      "Infrastructure Engineering"
-    ],
-    "computingTopics": [
-      "CAD/CAM"
-    ],
-    "domains": [
-      "Civil Engineering",
-      "Infrastructure Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://ueg.br/cliente/paginas_cursos/engenharia_civil.php",
-    "lat": -16.328,
-    "lon": -48.953,
-    "geoSource": "manual:city",
-    "lastChecked": "2026-10-29",
-    "region": "South America",
-    "costCurrency": "BRL"
-  },
-  {
-    "name": "Universidade do Estado do Amazonas (UEA)",
-    "country": "Brazil",
-    "city": "Manaus",
-    "programs": [
-      "Engenharia Civil"
-    ],
-    "programLinks": [
-      "https://cursos1.uea.edu.br/index.php?dest=info&curso=59"
-    ],
-    "accreditation": [
-      "MEC",
-      "SINAES",
-      "CONFEA/CREA"
-    ],
-    "language": "Portuguese",
-    "mode": "Full-time",
-    "delivery": "Presential",
-    "cost": "0",
-    "graduatesPerYear": "Not published",
-    "topics": [
-      "CAD/CAM",
-      "Civil Engineering",
-      "Infrastructure Engineering"
-    ],
-    "computingTopics": [
-      "CAD/CAM"
-    ],
-    "domains": [
-      "Civil Engineering",
-      "Infrastructure Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://cursos2.uea.edu.br/index.php?dest=info&curso=59",
-    "lat": -3.102,
-    "lon": -60.025,
     "geoSource": "manual:city",
     "lastChecked": "2026-10-29",
     "region": "South America",
@@ -42826,7 +42621,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "-",
+    "cost": "49,906 - 57,638",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
@@ -42922,7 +42717,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "-",
+    "cost": "40,686 - 52,309",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
@@ -42970,7 +42765,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "-",
+    "cost": "17,974 - 29,788",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
@@ -43066,11 +42861,17 @@
     "cost": "-",
     "graduatesPerYear": "Not published",
     "topics": [
+      "BIM",
+      "3D Modeling & Scanning",
+      "Smart Cities & Buildings",
       "CAD/CAM",
       "Civil Engineering",
       "Infrastructure Engineering"
     ],
     "computingTopics": [
+      "BIM",
+      "3D Modeling & Scanning",
+      "Smart Cities & Buildings",
       "CAD/CAM"
     ],
     "domains": [
@@ -43082,7 +42883,7 @@
     "lat": -23.666,
     "lon": -46.563,
     "geoSource": "manual:city",
-    "lastChecked": "2026-10-29",
+    "lastChecked": "2026-11-03",
     "region": "South America",
     "costCurrency": "BRL"
   },
@@ -43153,26 +42954,28 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "-",
+    "cost": "60,408",
     "graduatesPerYear": "Not published",
     "topics": [
+      "BIM",
       "CAD/CAM",
       "Civil Engineering",
       "Infrastructure Engineering"
     ],
     "computingTopics": [
+      "BIM",
       "CAD/CAM"
     ],
     "domains": [
       "Civil Engineering",
       "Infrastructure Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://maua.br/graduacao/engenharia-civil",
     "lat": -23.618,
     "lon": -46.565,
     "geoSource": "manual:city",
-    "lastChecked": "2026-10-29",
+    "lastChecked": "2026-11-03",
     "region": "South America",
     "costCurrency": "BRL"
   },
@@ -43294,7 +43097,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "-",
+    "cost": "15,275 - 38,212",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
@@ -43534,7 +43337,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "-",
+    "cost": "20,400 - 31,200",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
@@ -43627,26 +43430,28 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "-",
+    "cost": "11,717",
     "graduatesPerYear": "Not published",
     "topics": [
+      "BIM",
       "CAD/CAM",
       "Civil Engineering",
       "Infrastructure Engineering"
     ],
     "computingTopics": [
+      "BIM",
       "CAD/CAM"
     ],
     "domains": [
       "Civil Engineering",
       "Infrastructure Engineering"
     ],
-    "verificationLevel": 2,
+    "verificationLevel": 1,
     "website": "https://www.usjt.br/cursos/graduacao/engenharia-civil-bacharelado/",
     "lat": -23.626,
     "lon": -46.572,
     "geoSource": "manual:city",
-    "lastChecked": "2026-10-29",
+    "lastChecked": "2026-11-03",
     "region": "South America",
     "costCurrency": "BRL"
   },
@@ -43767,7 +43572,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "-",
+    "cost": "16,800 - 22,038",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
@@ -44007,11 +43812,17 @@
     "cost": "-",
     "graduatesPerYear": "Not published",
     "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Programming",
       "CAD/CAM",
       "Civil Engineering",
       "Infrastructure Engineering"
     ],
     "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Programming",
       "CAD/CAM"
     ],
     "domains": [
@@ -44023,7 +43834,7 @@
     "lat": -23.53,
     "lon": -46.47,
     "geoSource": "manual:city",
-    "lastChecked": "2026-10-29",
+    "lastChecked": "2026-11-03",
     "region": "South America",
     "costCurrency": "BRL"
   },
@@ -44172,47 +43983,6 @@
     "costCurrency": "BRL"
   },
   {
-    "name": "Universidade São Francisco (USF)",
-    "country": "Brazil",
-    "city": "Itatiba",
-    "programs": [
-      "Engenharia Civil"
-    ],
-    "programLinks": [
-      "https://www.usf.edu.br/vestibular/curso/?curso=Engenharia+Civil&id=582E03"
-    ],
-    "accreditation": [
-      "MEC",
-      "SINAES",
-      "CONFEA/CREA"
-    ],
-    "language": "Portuguese",
-    "mode": "Full-time",
-    "delivery": "Presential",
-    "cost": "-",
-    "graduatesPerYear": "Not published",
-    "topics": [
-      "CAD/CAM",
-      "Civil Engineering",
-      "Infrastructure Engineering"
-    ],
-    "computingTopics": [
-      "CAD/CAM"
-    ],
-    "domains": [
-      "Civil Engineering",
-      "Infrastructure Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://www.usf.edu.br/vestibular/curso.vm?curso=Engenharia+Civil&id=582E03",
-    "lat": -23.0,
-    "lon": -46.84,
-    "geoSource": "manual:city",
-    "lastChecked": "2026-10-29",
-    "region": "South America",
-    "costCurrency": "BRL"
-  },
-  {
     "name": "Universidade do Vale do Taquari (Univates)",
     "country": "Brazil",
     "city": "Lajeado",
@@ -44233,7 +44003,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "-",
+    "cost": "38,484 - 41,983",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
@@ -44453,88 +44223,6 @@
     "costCurrency": "BRL"
   },
   {
-    "name": "Universidade do Oeste de Santa Catarina (UNOESC)",
-    "country": "Brazil",
-    "city": "Joaçaba",
-    "programs": [
-      "Engenharia Civil"
-    ],
-    "programLinks": [
-      "https://www.unoesc.edu.br/cursos/curso/engenharia-civil/"
-    ],
-    "accreditation": [
-      "MEC",
-      "SINAES",
-      "CONFEA/CREA"
-    ],
-    "language": "Portuguese",
-    "mode": "Full-time",
-    "delivery": "Presential",
-    "cost": "-",
-    "graduatesPerYear": "Not published",
-    "topics": [
-      "CAD/CAM",
-      "Civil Engineering",
-      "Infrastructure Engineering"
-    ],
-    "computingTopics": [
-      "CAD/CAM"
-    ],
-    "domains": [
-      "Civil Engineering",
-      "Infrastructure Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://www.unoesc.edu.br/cursos/curso/engenharia-civil/",
-    "lat": -27.17,
-    "lon": -51.5,
-    "geoSource": "manual:city",
-    "lastChecked": "2026-10-29",
-    "region": "South America",
-    "costCurrency": "BRL"
-  },
-  {
-    "name": "Universidade Regional Integrada (URI)",
-    "country": "Brazil",
-    "city": "Erechim",
-    "programs": [
-      "Engenharia Civil"
-    ],
-    "programLinks": [
-      "https://www.reitoria.uri.br/pt/cursos/graduacao/engenharia-civil"
-    ],
-    "accreditation": [
-      "MEC",
-      "SINAES",
-      "CONFEA/CREA"
-    ],
-    "language": "Portuguese",
-    "mode": "Full-time",
-    "delivery": "Presential",
-    "cost": "-",
-    "graduatesPerYear": "Not published",
-    "topics": [
-      "CAD/CAM",
-      "Civil Engineering",
-      "Infrastructure Engineering"
-    ],
-    "computingTopics": [
-      "CAD/CAM"
-    ],
-    "domains": [
-      "Civil Engineering",
-      "Infrastructure Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://www.reitoria.uri.br/pt/cursos/graduacao/engenharia-civil",
-    "lat": -27.63,
-    "lon": -52.27,
-    "geoSource": "manual:city",
-    "lastChecked": "2026-10-29",
-    "region": "South America",
-    "costCurrency": "BRL"
-  },
-  {
     "name": "Centro Universitário Uninassau",
     "country": "Brazil",
     "city": "Recife",
@@ -44651,7 +44339,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "-",
+    "cost": "22,099",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
@@ -44675,47 +44363,6 @@
     "lon": -47.89,
     "geoSource": "manual:city",
     "lastChecked": "2026-07-27",
-    "region": "South America",
-    "costCurrency": "BRL"
-  },
-  {
-    "name": "Universidade Católica de Santos (UniSantos)",
-    "country": "Brazil",
-    "city": "Santos",
-    "programs": [
-      "Engenharia Civil"
-    ],
-    "programLinks": [
-      "https://www.unisantos.br/graduacao/engenharia-civil/"
-    ],
-    "accreditation": [
-      "MEC",
-      "SINAES",
-      "CONFEA/CREA"
-    ],
-    "language": "Portuguese",
-    "mode": "Full-time",
-    "delivery": "Presential",
-    "cost": "-",
-    "graduatesPerYear": "Not published",
-    "topics": [
-      "CAD/CAM",
-      "Civil Engineering",
-      "Infrastructure Engineering"
-    ],
-    "computingTopics": [
-      "CAD/CAM"
-    ],
-    "domains": [
-      "Civil Engineering",
-      "Infrastructure Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://www.unisantos.br/graduacao/engenharia-civil/",
-    "lat": -23.96,
-    "lon": -46.33,
-    "geoSource": "manual:city",
-    "lastChecked": "2026-10-29",
     "region": "South America",
     "costCurrency": "BRL"
   },
@@ -44768,47 +44415,6 @@
     "costCurrency": "BRL"
   },
   {
-    "name": "Instituto Federal do Ceará (IFCE)",
-    "country": "Brazil",
-    "city": "Juazeiro do Norte",
-    "programs": [
-      "Tecnologia em Construção de Edifícios"
-    ],
-    "programLinks": [
-      "https://acervo.ifce.edu.br/juazeirodonorte/campus_juazeiro/cursos/superiores/tecnologicos/construcaodeedificios"
-    ],
-    "accreditation": [
-      "MEC",
-      "SINAES",
-      "CONFEA/CREA"
-    ],
-    "language": "Portuguese",
-    "mode": "Full-time",
-    "delivery": "Presential",
-    "cost": "0",
-    "graduatesPerYear": "Not published",
-    "topics": [
-      "CAD/CAM",
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "computingTopics": [
-      "CAD/CAM"
-    ],
-    "domains": [
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://www.ifce.edu.br/cursos",
-    "lat": -7.2153,
-    "lon": -39.3153,
-    "geoSource": "nominatim:city",
-    "lastChecked": "2026-10-29",
-    "region": "South America",
-    "costCurrency": "BRL"
-  },
-  {
     "name": "Instituto Federal da Paraíba (IFPB)",
     "country": "Brazil",
     "city": "João Pessoa",
@@ -44848,47 +44454,6 @@
     "website": "https://estudante.ifpb.edu.br/cursos/16/",
     "lat": -7.14,
     "lon": -34.87,
-    "geoSource": "manual:city",
-    "lastChecked": "2026-10-29",
-    "region": "South America",
-    "costCurrency": "BRL"
-  },
-  {
-    "name": "Instituto Federal da Bahia (IFBA)",
-    "country": "Brazil",
-    "city": "Salvador",
-    "programs": [
-      "Engenharia Civil"
-    ],
-    "programLinks": [
-      "https://portal.ifba.edu.br/euclides-da-cunha/ensino/engenharia-civil"
-    ],
-    "accreditation": [
-      "MEC",
-      "SINAES",
-      "CONFEA/CREA"
-    ],
-    "language": "Portuguese",
-    "mode": "Full-time",
-    "delivery": "Presential",
-    "cost": "0",
-    "graduatesPerYear": "Not published",
-    "topics": [
-      "CAD/CAM",
-      "Civil Engineering",
-      "Infrastructure Engineering"
-    ],
-    "computingTopics": [
-      "CAD/CAM"
-    ],
-    "domains": [
-      "Civil Engineering",
-      "Infrastructure Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://portal.ifba.edu.br/euclides-da-cunha/ensino/engenharia-civil",
-    "lat": -12.99,
-    "lon": -38.51,
     "geoSource": "manual:city",
     "lastChecked": "2026-10-29",
     "region": "South America",
@@ -44987,47 +44552,6 @@
     "lon": -43.94,
     "geoSource": "manual:city",
     "lastChecked": "2026-10-12",
-    "region": "South America",
-    "costCurrency": "BRL"
-  },
-  {
-    "name": "Instituto Federal de Mato Grosso (IFMT)",
-    "country": "Brazil",
-    "city": "Cuiabá",
-    "programs": [
-      "Tecnologia em Construção de Edifícios"
-    ],
-    "programLinks": [
-      "https://ifmt.edu.br/blog/curso/curso-superior-de-tecnologia-em-construcao-de-edificios/"
-    ],
-    "accreditation": [
-      "MEC",
-      "SINAES",
-      "CONFEA/CREA"
-    ],
-    "language": "Portuguese",
-    "mode": "Full-time",
-    "delivery": "Presential",
-    "cost": "0",
-    "graduatesPerYear": "Not published",
-    "topics": [
-      "CAD/CAM",
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "computingTopics": [
-      "CAD/CAM"
-    ],
-    "domains": [
-      "Construction Management",
-      "Civil Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://www.ifmt.edu.br/",
-    "lat": -15.6,
-    "lon": -56.1,
-    "geoSource": "manual:city",
-    "lastChecked": "2026-10-29",
     "region": "South America",
     "costCurrency": "BRL"
   },
@@ -45849,7 +45373,7 @@
     "language": "Spanish",
     "mode": "Part-time / Distance",
     "delivery": "Online",
-    "cost": "-",
+    "cost": "9,123",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
@@ -47316,7 +46840,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "-",
+    "cost": "0",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
@@ -47484,7 +47008,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "-",
+    "cost": "0 - 4,083",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
@@ -48198,7 +47722,7 @@
     "language": "Portuguese",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "-",
+    "cost": "0 - 4,200",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
@@ -48408,10 +47932,10 @@
     "country": "Colombia",
     "city": "Bogotá",
     "programs": [
-      "Diplomado BIM"
+      "Ingeniería Civil"
     ],
     "programLinks": [
-      "https://www.ugc.edu.co/formacion-continuada/diplomados/"
+      "https://ugc.edu.co/bogota/pregrado-ingenieria-civil/"
     ],
     "accreditation": [
       "-"
@@ -48419,31 +47943,30 @@
     "language": "Spanish",
     "mode": "Part-time / Distance",
     "delivery": "Online",
-    "cost": "-",
+    "cost": "15,330,000",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
-      "openBIM & IFC",
-      "Collaborative Workflows",
+      "nD BIM",
+      "CAD/CAM",
       "3D Modeling & Scanning",
-      "VR/AR",
-      "nD BIM"
+      "Civil Engineering"
     ],
     "computingTopics": [
       "BIM",
-      "openBIM & IFC",
-      "Collaborative Workflows",
-      "3D Modeling & Scanning",
-      "VR/AR",
-      "nD BIM"
+      "nD BIM",
+      "CAD/CAM",
+      "3D Modeling & Scanning"
     ],
-    "domains": [],
+    "domains": [
+      "Civil Engineering"
+    ],
     "verificationLevel": 2,
     "website": "https://www.ugc.edu.co",
     "lat": 4.59958,
     "lon": -74.07271,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-10-12",
+    "lastChecked": "2026-11-03",
     "region": "South America",
     "costCurrency": "COP"
   },
@@ -52208,7 +51731,7 @@
     "language": "English",
     "mode": "Full-time / Part-time",
     "delivery": "Presential",
-    "cost": "-",
+    "cost": "8,780 - 28,500",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
@@ -52294,7 +51817,7 @@
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "-",
+    "cost": "158",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
@@ -52331,7 +51854,7 @@
     "geoSource": "manual:campus",
     "lastChecked": "2026-10-12",
     "region": "Central America",
-    "costCurrency": "USD"
+    "costCurrency": "PAB"
   },
   {
     "name": "Universidad del Valle de Guatemala (UVG)",
@@ -52353,7 +51876,7 @@
     "language": "Spanish",
     "mode": "Full-time / Part-time",
     "delivery": "Presential",
-    "cost": "-",
+    "cost": "53,690",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
@@ -52385,47 +51908,6 @@
     "costCurrency": "GTQ"
   },
   {
-    "name": "Pontificia Universidad Católica Madre y Maestra (PUCMM)",
-    "country": "Dominican Republic",
-    "city": "Santiago de los Caballeros",
-    "programs": [
-      "Diplomado BIM-Revit"
-    ],
-    "programLinks": [
-      "https://tep.pucmm.edu.do/bim-revit"
-    ],
-    "accreditation": [
-      "-"
-    ],
-    "language": "Spanish",
-    "mode": "Part-time",
-    "delivery": "Presential / Online",
-    "cost": "-",
-    "graduatesPerYear": "Not published",
-    "topics": [
-      "BIM",
-      "BIM Software",
-      "Architecture",
-      "Civil Engineering"
-    ],
-    "computingTopics": [
-      "BIM",
-      "BIM Software"
-    ],
-    "domains": [
-      "Architecture",
-      "Civil Engineering"
-    ],
-    "verificationLevel": 2,
-    "website": "https://www.pucmm.edu.do",
-    "lat": 19.44328,
-    "lon": -70.68262,
-    "geoSource": "manual:campus",
-    "lastChecked": "2026-10-12",
-    "region": "Caribbean",
-    "costCurrency": "DOP"
-  },
-  {
     "name": "Universidad Nacional Pedro Henríquez Ureña (UNPHU)",
     "country": "Dominican Republic",
     "city": "Santo Domingo",
@@ -52441,7 +51923,7 @@
     "language": "Spanish",
     "mode": "Part-time",
     "delivery": "Online",
-    "cost": "-",
+    "cost": "35,000",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
@@ -52572,7 +52054,7 @@
     "language": "Spanish",
     "mode": "Part-time",
     "delivery": "Online",
-    "cost": "-",
+    "cost": "5,250",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
@@ -52603,7 +52085,7 @@
     "geoSource": "manual:city",
     "lastChecked": "2026-10-12",
     "region": "Central America",
-    "costCurrency": "MXN"
+    "costCurrency": "USD"
   },
   {
     "name": "Universidad Anáhuac México",
@@ -52621,7 +52103,7 @@
     "language": "Spanish",
     "mode": "Part-time",
     "delivery": "Online",
-    "cost": "-",
+    "cost": "45,000",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
@@ -52660,7 +52142,7 @@
     "language": "Spanish",
     "mode": "Part-time",
     "delivery": "Presential",
-    "cost": "-",
+    "cost": "140,000 - 170,000",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
@@ -52701,7 +52183,7 @@
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "-",
+    "cost": "285,840",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
@@ -52752,7 +52234,7 @@
     "language": "Spanish / English",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "-",
+    "cost": "361,440",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
@@ -52801,7 +52283,7 @@
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "-",
+    "cost": "342,900",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
@@ -52854,7 +52336,7 @@
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "-",
+    "cost": "342,900",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
@@ -52905,7 +52387,7 @@
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "-",
+    "cost": "285,840",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
@@ -52952,7 +52434,7 @@
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "-",
+    "cost": "285,840",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
@@ -53001,7 +52483,7 @@
     "language": "Spanish / English",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "-",
+    "cost": "365,580",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
@@ -53054,7 +52536,7 @@
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "-",
+    "cost": "313,200",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
@@ -53107,7 +52589,7 @@
     "language": "Spanish / English",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "-",
+    "cost": "342,900",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
@@ -53158,7 +52640,7 @@
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "-",
+    "cost": "285,840",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
@@ -53207,7 +52689,7 @@
     "language": "Spanish / English",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "-",
+    "cost": "389,880",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
@@ -53258,7 +52740,7 @@
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "-",
+    "cost": "282,420",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
@@ -53305,7 +52787,7 @@
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "-",
+    "cost": "285,840",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
@@ -53352,7 +52834,7 @@
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "-",
+    "cost": "285,840",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
@@ -53399,7 +52881,7 @@
     "language": "Spanish",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "-",
+    "cost": "247,200",
     "graduatesPerYear": "Not published",
     "topics": [
       "Programming",
@@ -53650,7 +53132,7 @@
     "language": "English / Arabic",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "-",
+    "cost": "1,720 - 2,580",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
@@ -54013,84 +53495,6 @@
     "website": "https://portal.ufrrj.br/pro-reitoria-de-graduacao/cursos/",
     "lat": -22.768,
     "lon": -43.685,
-    "geoSource": "manual:city",
-    "lastChecked": "2026-10-29",
-    "region": "South America",
-    "costCurrency": "BRL"
-  },
-  {
-    "name": "Universidade Federal do Amazonas (UFAM)",
-    "country": "Brazil",
-    "city": "Manaus",
-    "programs": [
-      "Arquitetura e Urbanismo"
-    ],
-    "programLinks": [
-      "https://proeg.ufam.edu.br/dae/57-proeg/1235-ppc-do-curso-de-arquitetura-e-urbanismo.html"
-    ],
-    "accreditation": [
-      "MEC",
-      "SINAES",
-      "CONFEA/CREA"
-    ],
-    "language": "Portuguese",
-    "mode": "Full-time",
-    "delivery": "Presential",
-    "cost": "0",
-    "graduatesPerYear": "Not published",
-    "topics": [
-      "CAD/CAM",
-      "Architecture"
-    ],
-    "computingTopics": [
-      "CAD/CAM"
-    ],
-    "domains": [
-      "Architecture"
-    ],
-    "verificationLevel": 2,
-    "website": "https://www.arquivosdec.ufam.edu.br/excivis.html",
-    "lat": -3.093,
-    "lon": -59.972,
-    "geoSource": "manual:city",
-    "lastChecked": "2026-10-29",
-    "region": "South America",
-    "costCurrency": "BRL"
-  },
-  {
-    "name": "Universidade Federal de Ouro Preto (UFOP)",
-    "country": "Brazil",
-    "city": "Ouro Preto",
-    "programs": [
-      "Arquitetura e Urbanismo"
-    ],
-    "programLinks": [
-      "https://seja.ufop.br/cursos/arquitetura-e-urbanismo"
-    ],
-    "accreditation": [
-      "MEC",
-      "SINAES",
-      "CONFEA/CREA"
-    ],
-    "language": "Portuguese",
-    "mode": "Full-time",
-    "delivery": "Presential",
-    "cost": "0",
-    "graduatesPerYear": "Not published",
-    "topics": [
-      "CAD/CAM",
-      "Architecture"
-    ],
-    "computingTopics": [
-      "CAD/CAM"
-    ],
-    "domains": [
-      "Architecture"
-    ],
-    "verificationLevel": 2,
-    "website": "https://seja.ufop.br/cursos",
-    "lat": -20.398,
-    "lon": -43.504,
     "geoSource": "manual:city",
     "lastChecked": "2026-10-29",
     "region": "South America",
@@ -55842,7 +55246,7 @@
     "language": "English",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "-",
+    "cost": "13,000 - 31,000",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
@@ -55875,7 +55279,7 @@
     "geoSource": "nominatim:name+city",
     "lastChecked": "2026-11-02",
     "region": "Western Asia",
-    "costCurrency": "BHD"
+    "costCurrency": "GBP"
   },
   {
     "name": "American University of the Middle East (AUM)",
@@ -55973,7 +55377,7 @@
     "language": "English",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "-",
+    "cost": "5,508,000",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
@@ -55994,7 +55398,7 @@
     "geoSource": "nominatim:name+city",
     "lastChecked": "2026-11-02",
     "region": "Western Asia",
-    "costCurrency": "USD"
+    "costCurrency": "IQD"
   },
   {
     "name": "Hasan Kalyoncu University (HKU)",
@@ -56252,7 +55656,7 @@
     "language": "Arabic / English",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "-",
+    "cost": "0 - 2,500",
     "graduatesPerYear": "Not published",
     "topics": [
       "Energy Performance",
@@ -56273,6 +55677,2501 @@
     "geoSource": "nominatim:name+city",
     "lastChecked": "2026-11-03",
     "region": "Western Asia",
-    "costCurrency": "YER"
+    "costCurrency": "USD"
+  },
+  {
+    "name": "Istanbul Technical University – TRNC Education and Research Campuses (ITU-TRNC)",
+    "country": "Cyprus",
+    "city": "Famagusta",
+    "programs": [
+      "Bachelor of Architecture"
+    ],
+    "programLinks": [
+      "https://kktc.itu.edu.tr/index.php/en/architecture"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 94,500",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Parametric & Generative Design",
+      "Data Management",
+      "Energy Performance",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Parametric & Generative Design",
+      "Data Management",
+      "Energy Performance"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://kktc.itu.edu.tr",
+    "lat": 35.1205,
+    "lon": 33.9388,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-03",
+    "region": "Western Asia",
+    "costCurrency": "TRY"
+  },
+  {
+    "name": "Istanbul Gelişim University",
+    "country": "Turkey",
+    "city": "Istanbul",
+    "programs": [
+      "MSc Architecture (English, with thesis)"
+    ],
+    "programLinks": [
+      "https://gbs.gelisim.edu.tr/bolum-genel-bilgiler-16-377-2"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "3,500 - 4,750",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Parametric & Generative Design",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Parametric & Generative Design"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://gelisim.edu.tr",
+    "lat": 40.9938,
+    "lon": 28.7,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-03",
+    "region": "Europe",
+    "costCurrency": "USD"
+  },
+  {
+    "name": "Nazarbayev University (NU)",
+    "country": "Kazakhstan",
+    "city": "Astana",
+    "programs": [
+      "MSc Civil & Environmental Engineering"
+    ],
+    "programLinks": [
+      "https://seds.nu.edu.kz/msc_in_cee"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 27,000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Energy Performance",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Energy Performance"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://nu.edu.kz",
+    "lat": 51.0921,
+    "lon": 71.3976,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-03",
+    "region": "Central Asia",
+    "costCurrency": "USD"
+  },
+  {
+    "name": "Satbayev University (KazNRTU)",
+    "country": "Kazakhstan",
+    "city": "Almaty",
+    "programs": [
+      "Bachelor 6B07311 BIM Design and Construction Management",
+      "PhD 8D07302 Architecture and Urban Planning"
+    ],
+    "programLinks": [
+      "https://satbayev.university/en/specialties/bim-proektirovanie-i-upravlenie-stroitelstvom",
+      "https://official.satbayev.university/en/protection/yaskevich-vladimir-"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Kazakh / Russian / English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 1,600,000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "ISO 19650",
+      "Civil Engineering",
+      "Construction Management",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "ISO 19650"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management",
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://satbayev.university",
+    "lat": 43.2364,
+    "lon": 76.9307,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-03",
+    "region": "Central Asia",
+    "costCurrency": "KZT"
+  },
+  {
+    "name": "L. N. Gumilyov Eurasian National University (ENU)",
+    "country": "Kazakhstan",
+    "city": "Astana",
+    "programs": [
+      "Bachelor 6B07330 Digital Design in Construction"
+    ],
+    "programLinks": [
+      "https://fac.enu.kz/en/page/departments/department-of-construction-1/educational-programmes"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Kazakh / Russian",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 1,750,000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Digital Design",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Digital Design"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://enu.kz",
+    "lat": 51.1601,
+    "lon": 71.4646,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-03",
+    "region": "Central Asia",
+    "costCurrency": "KZT"
+  },
+  {
+    "name": "ALT University named after Mukhamedzhan Tynyshpayev",
+    "country": "Kazakhstan",
+    "city": "Almaty",
+    "programs": [
+      "Bachelor 6B07347 Digital Construction in BIM Technology"
+    ],
+    "programLinks": [
+      "https://alt.edu.kz/institutes/transport-engineering/department-structural-engineering/6b07347-digital-construction-in-bim-technology/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Kazakh / Russian",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 2,000,000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Digital Construction",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Digital Construction"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://alt.edu.kz",
+    "lat": 43.2457,
+    "lon": 76.9298,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-03",
+    "region": "Central Asia",
+    "costCurrency": "KZT"
+  },
+  {
+    "name": "Shokan Ualikhanov Kokshetau University",
+    "country": "Kazakhstan",
+    "city": "Kokshetau",
+    "programs": [
+      "Bachelor 6B07301 BIM Design of Buildings and Structures"
+    ],
+    "programLinks": [
+      "https://shokan.edu.kz/en/educational-programs/proektirovanie-zdanij-i-sooruzhenij"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Kazakh / Russian / English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 440,000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "3D Modeling & Scanning",
+      "Digital Design",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "3D Modeling & Scanning",
+      "Digital Design"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://shokan.edu.kz",
+    "lat": 53.2832,
+    "lon": 69.3707,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-11-03",
+    "region": "Central Asia",
+    "costCurrency": "KZT"
+  },
+  {
+    "name": "International Educational Corporation (KazGASA / МОК)",
+    "country": "Kazakhstan",
+    "city": "Almaty",
+    "programs": [
+      "Bachelor 6B07321 Calculation and Design of Buildings and Structures",
+      "Bachelor 6B07327 Information Technology in Construction"
+    ],
+    "programLinks": [
+      "https://kazgasa.kz/en/fakultet-obshhego-stroitelstva-en/",
+      "https://kazgasa.kz/?p=6633"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Kazakh / Russian",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 1,875,000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "3D Modeling & Scanning",
+      "CAD/CAM",
+      "Construction Informatics",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "3D Modeling & Scanning",
+      "CAD/CAM",
+      "Construction Informatics"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://kazgasa.kz",
+    "lat": 43.2337,
+    "lon": 76.9459,
+    "geoSource": "manual:city",
+    "lastChecked": "2026-11-03",
+    "region": "Central Asia",
+    "costCurrency": "KZT"
+  },
+  {
+    "name": "Caspian University",
+    "country": "Kazakhstan",
+    "city": "Almaty",
+    "programs": [
+      "Bachelor 6B07325 Architecture"
+    ],
+    "programLinks": [
+      "https://cu.edu.kz/educational-programs/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Kazakh / Russian",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 1,140,000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Digital Design",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Digital Design"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://cu.edu.kz",
+    "lat": 43.244,
+    "lon": 76.9559,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-03",
+    "region": "Central Asia",
+    "costCurrency": "KZT"
+  },
+  {
+    "name": "Turin Polytechnic University in Tashkent (TTPU)",
+    "country": "Uzbekistan",
+    "city": "Tashkent",
+    "programs": [
+      "BSc Architecture & Design"
+    ],
+    "programLinks": [
+      "https://turin.uz/architecture-design-study-plan-tree/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English / Uzbek",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "25,000,000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "3D Modeling & Scanning",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://turin.uz",
+    "lat": 41.352,
+    "lon": 69.2221,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-03",
+    "region": "Central Asia",
+    "costCurrency": "UZS"
+  },
+  {
+    "name": "Kimyo International University in Tashkent (KIUT)",
+    "country": "Uzbekistan",
+    "city": "Tashkent",
+    "programs": [
+      "Bachelor Civil Engineering (Building and Construction Engineering)"
+    ],
+    "programLinks": [
+      "https://www.kiut.uz/en/programs/bachelors-programs/faculty-directions/Civil-Engineering/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English / Uzbek / Russian",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "16,892,000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM Software",
+      "CAD/CAM",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM Software",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://kiut.uz",
+    "lat": 41.2581,
+    "lon": 69.2208,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-03",
+    "region": "Central Asia",
+    "costCurrency": "UZS"
+  },
+  {
+    "name": "Tashkent University of Architecture and Civil Engineering (TACEU)",
+    "country": "Uzbekistan",
+    "city": "Tashkent",
+    "programs": [
+      "PhD (Tayanch doktorantura) in Civil Engineering"
+    ],
+    "programLinks": [
+      "https://taqu.uz/toskent-arxitektura-qurilis-universitetida-2027-yil-ucun-oliy-talimdan-keyingi-talimga-qabul-boyica-kiris-imtihonlari-va-suhbatlar-jadvali"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Uzbek / Russian",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 26,000,000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Digital Twins",
+      "Parametric & Generative Design",
+      "GIS & BIM Integration",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Digital Twins",
+      "Parametric & Generative Design",
+      "GIS & BIM Integration"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 1,
+    "website": "https://taqu.uz",
+    "lat": 41.35972,
+    "lon": 69.30472,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-11-03",
+    "region": "Central Asia",
+    "costCurrency": "UZS"
+  },
+  {
+    "name": "D. Serikbayev East Kazakhstan Technical University (EKTU)",
+    "country": "Kazakhstan",
+    "city": "Ust-Kamenogorsk",
+    "programs": [
+      "Bachelor 6B07305 Construction (BIM Technologies in Design track)"
+    ],
+    "programLinks": [
+      "https://ektu.kz/departments/as_dep/eduproglist/undergraduate/building/directions/bim-technologies-in-design.aspx?lang=en"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Kazakh / Russian",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 805,860",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://ektu.kz",
+    "lat": 49.9483,
+    "lon": 82.6275,
+    "geoSource": "manual:city",
+    "lastChecked": "2026-11-03",
+    "region": "Central Asia",
+    "costCurrency": "KZT"
+  },
+  {
+    "name": "Korkyt Ata Kyzylorda University",
+    "country": "Kazakhstan",
+    "city": "Kyzylorda",
+    "programs": [
+      "Bachelor 6B07365 Construction (Minor: BIM technologies in construction)"
+    ],
+    "programLinks": [
+      "https://korkyt.edu.kz/en/staticpages/233"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Kazakh / Russian",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 500,000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "3D Modeling & Scanning",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://korkyt.edu.kz",
+    "lat": 44.8488,
+    "lon": 65.4823,
+    "geoSource": "manual:city",
+    "lastChecked": "2026-11-03",
+    "region": "Central Asia",
+    "costCurrency": "KZT"
+  },
+  {
+    "name": "Yessenov University (Caspian University of Technology and Engineering)",
+    "country": "Kazakhstan",
+    "city": "Aktau",
+    "programs": [
+      "Bachelor 6B07305 BIM Technologies in Construction"
+    ],
+    "programLinks": [
+      "https://engineering.yu.edu.kz/en/6b07305/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Kazakh / Russian",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 798,000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Digital Construction",
+      "Collaborative Workflows",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Digital Construction",
+      "Collaborative Workflows"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://yu.edu.kz",
+    "lat": 43.6812,
+    "lon": 51.1691,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-03",
+    "region": "Central Asia",
+    "costCurrency": "KZT"
+  },
+  {
+    "name": "Karaganda Industrial University (KarIU)",
+    "country": "Kazakhstan",
+    "city": "Temirtau",
+    "programs": [
+      "Bachelor 6B07301 Industrial and Civil Construction"
+    ],
+    "programLinks": [
+      "https://tttu.edu.kz/page/6b07301-promyshlennoe-i-grazhdanskoe-stroitelstvo?lang=en"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Kazakh / Russian",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 690,000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "AI & Machine Learning",
+      "3D Modeling & Scanning",
+      "CAD/CAM",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "AI & Machine Learning",
+      "3D Modeling & Scanning",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://tttu.edu.kz",
+    "lat": 50.0549,
+    "lon": 72.9646,
+    "geoSource": "manual:city",
+    "lastChecked": "2026-11-03",
+    "region": "Central Asia",
+    "costCurrency": "KZT"
+  },
+  {
+    "name": "West Kazakhstan Innovation and Technological University (WKITU)",
+    "country": "Kazakhstan",
+    "city": "Uralsk",
+    "programs": [
+      "Bachelor 6B07302 Civil Engineering",
+      "Bachelor 6B07301 Architecture"
+    ],
+    "programLinks": [
+      "https://wkitu.kz/en/department-of-architecture-and-civil-engineering/",
+      "https://wkitu.kz/en/department-of-architecture-and-civil-engineering/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Kazakh / Russian",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 451,800",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "Civil Engineering",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://wkitu.kz",
+    "lat": 51.2333,
+    "lon": 51.3667,
+    "geoSource": "manual:city",
+    "lastChecked": "2026-11-03",
+    "region": "Central Asia",
+    "costCurrency": "KZT"
+  },
+  {
+    "name": "Turkmen State Institute of Architecture and Construction (TSACI)",
+    "country": "Turkmenistan",
+    "city": "Ashgabat",
+    "programs": [
+      "Specialist programme Architecture (Binagärlik), fee-paying"
+    ],
+    "programLinks": [
+      "https://tdbgi.edu.tm/en/main-section"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Turkmen / Russian / English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "8,775",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Digital Design",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Digital Design"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://tdbgi.edu.tm",
+    "lat": 37.9358,
+    "lon": 58.3911,
+    "geoSource": "manual:city",
+    "lastChecked": "2026-11-04",
+    "region": "Central Asia",
+    "costCurrency": "TMT"
+  },
+  {
+    "name": "Kazan State University of Architecture and Engineering (KSUAE)",
+    "country": "Russia",
+    "city": "Kazan",
+    "programs": [
+      "Bachelor 09.03.02 Information Systems and Technologies (profile: Information Systems and Technologies in Construction)",
+      "Master 08.04.01 Civil Engineering: Informational Modeling in Civil Engineering"
+    ],
+    "programLinks": [
+      "https://www.kgasu.ru/sveden/education/op.php",
+      "https://ksuae.kgasu.ru/index.php/component/content/category/11-programmes-courses"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Russian",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 199,968",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Construction Informatics",
+      "AI & Machine Learning",
+      "Data Management",
+      "Programming",
+      "CAD/CAM",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Construction Informatics",
+      "AI & Machine Learning",
+      "Data Management",
+      "Programming",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.kgasu.ru",
+    "lat": 55.8007,
+    "lon": 49.1438,
+    "geoSource": "manual:city",
+    "lastChecked": "2026-11-04",
+    "region": "Europe",
+    "costCurrency": "RUB"
+  },
+  {
+    "name": "National University of Science and Technology MISIS",
+    "country": "Russia",
+    "city": "Moscow",
+    "programs": [
+      "Master 09.04.01 Informatics and Computer Engineering: BIM Technologies in Design and Construction"
+    ],
+    "programLinks": [
+      "https://misis.ru/applicants/admission/magistracy/faculties/informatikaivtmag/bim-teh/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Russian",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 399,000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Construction Informatics",
+      "Data Management",
+      "Infrastructure BIM",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Construction Informatics",
+      "Data Management",
+      "Infrastructure BIM"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://misis.ru",
+    "lat": 55.7271,
+    "lon": 37.6068,
+    "geoSource": "manual:city",
+    "lastChecked": "2026-11-04",
+    "region": "Europe",
+    "costCurrency": "RUB"
+  },
+  {
+    "name": "Irkutsk National Research Technical University (INRTU)",
+    "country": "Russia",
+    "city": "Irkutsk",
+    "programs": [
+      "Master 08.04.01 Construction: New Technologies in Design, Construction and Pricing"
+    ],
+    "programLinks": [
+      "https://www.istu.edu/sveden/education/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Russian",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "200,000 - 230,000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Digital Twins",
+      "Collaborative Workflows",
+      "Data Management",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Digital Twins",
+      "Collaborative Workflows",
+      "Data Management"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.istu.edu",
+    "lat": 52.2623,
+    "lon": 104.26,
+    "geoSource": "manual:city",
+    "lastChecked": "2026-11-04",
+    "region": "Europe",
+    "costCurrency": "RUB"
+  },
+  {
+    "name": "RUDN University (Peoples' Friendship University of Russia)",
+    "country": "Russia",
+    "city": "Moscow",
+    "programs": [
+      "Master 08.04.01 Construction: Design of Buildings and Special Structures",
+      "Master 07.04.01 Architecture: Architecture of Residential, Public and Industrial Buildings",
+      "Bachelor 08.03.01 Construction"
+    ],
+    "programLinks": [
+      "https://www.rudn.ru/sveden/education/",
+      "https://www.rudn.ru/sveden/education/",
+      "https://www.rudn.ru/sveden/education/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Russian",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 407,000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "nD BIM",
+      "Civil Engineering",
+      "Architecture",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "nD BIM"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Architecture",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.rudn.ru",
+    "lat": 55.6509,
+    "lon": 37.5007,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-04",
+    "region": "Europe",
+    "costCurrency": "RUB"
+  },
+  {
+    "name": "Saint Petersburg Mining University",
+    "country": "Russia",
+    "city": "Saint Petersburg",
+    "programs": [
+      "Master 08.04.01 Construction: Design of Construction and Reconstruction of Industrial and Civil Buildings and Structures"
+    ],
+    "programLinks": [
+      "https://spmi.ru/sveden/education/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Russian",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 400,000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Civil Engineering",
+      "Structural Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Structural Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://spmi.ru",
+    "lat": 59.9295,
+    "lon": 30.271,
+    "geoSource": "manual:city",
+    "lastChecked": "2026-11-04",
+    "region": "Europe",
+    "costCurrency": "RUB"
+  },
+  {
+    "name": "Nizhny Novgorod State Technical University (NNTU)",
+    "country": "Russia",
+    "city": "Nizhny Novgorod",
+    "programs": [
+      "Bachelor 09.03.02 Information Systems and Technologies: Information Technologies in Design"
+    ],
+    "programLinks": [
+      "https://www.nntu.ru/sveden/education/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Russian",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 114,880",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "nD BIM",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "nD BIM"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.nntu.ru",
+    "lat": 56.2863,
+    "lon": 44.0836,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-04",
+    "region": "Europe",
+    "costCurrency": "RUB"
+  },
+  {
+    "name": "Cheboksary Institute (branch) of Moscow Polytechnic University",
+    "country": "Russia",
+    "city": "Cheboksary",
+    "programs": [
+      "Bachelor 08.03.01 Construction: Industrial and Civil Construction"
+    ],
+    "programLinks": [
+      "https://polytech21.ru/sveden/education/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Russian",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 149,800",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Collaborative Workflows",
+      "nD BIM",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Collaborative Workflows",
+      "nD BIM"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://polytech21.ru",
+    "lat": 56.1439,
+    "lon": 47.2489,
+    "geoSource": "manual:city",
+    "lastChecked": "2026-11-04",
+    "region": "Europe",
+    "costCurrency": "RUB"
+  },
+  {
+    "name": "South Ural State University (SUSU)",
+    "country": "Russia",
+    "city": "Chelyabinsk",
+    "programs": [
+      "Master 08.04.01 Construction: Information Modelling and Calculation of Building Structures, Buildings and Facilities"
+    ],
+    "programLinks": [
+      "https://www.susu.ru/sveden/education/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Russian",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 233,000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Digital Design",
+      "Civil Engineering",
+      "Structural Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Digital Design"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Structural Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.susu.ru",
+    "lat": 55.1609,
+    "lon": 61.3702,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-04",
+    "region": "Europe",
+    "costCurrency": "RUB"
+  },
+  {
+    "name": "Voronezh State Technical University (VSTU)",
+    "country": "Russia",
+    "city": "Voronezh",
+    "programs": [
+      "Bachelor 08.03.01 Construction (profiles incl. Urban Construction and Management; Industrial and Civil Construction; Highways)"
+    ],
+    "programLinks": [
+      "https://cchgeu.ru/sveden/education/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Russian",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 161,500",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "openBIM & IFC",
+      "Collaborative Workflows",
+      "Infrastructure BIM",
+      "Civil Engineering",
+      "Infrastructure Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "openBIM & IFC",
+      "Collaborative Workflows",
+      "Infrastructure BIM"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Infrastructure Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://cchgeu.ru",
+    "lat": 51.7574,
+    "lon": 39.1808,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-04",
+    "region": "Europe",
+    "costCurrency": "RUB"
+  },
+  {
+    "name": "Siberian Federal University (SFU)",
+    "country": "Russia",
+    "city": "Krasnoyarsk",
+    "programs": [
+      "Bachelor 08.03.01 Construction (profiles 08.03.01.32 Industrial and Civil Construction; 08.03.01.36 Organisation of Investment and Construction Activity)"
+    ],
+    "programLinks": [
+      "https://www.sfu-kras.ru/sveden/education/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Russian",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "83,000 - 246,000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.sfu-kras.ru",
+    "lat": 55.995,
+    "lon": 92.7936,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-04",
+    "region": "Europe",
+    "costCurrency": "RUB"
+  },
+  {
+    "name": "Surgut State University",
+    "country": "Russia",
+    "city": "Surgut",
+    "programs": [
+      "Bachelor 08.03.01 Construction: Industrial and Civil Construction"
+    ],
+    "programLinks": [
+      "https://www.surgu.ru/sveden/education/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Russian",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 215,400",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Collaborative Workflows",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Collaborative Workflows"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.surgu.ru",
+    "lat": 61.254,
+    "lon": 73.3962,
+    "geoSource": "manual:city",
+    "lastChecked": "2026-11-04",
+    "region": "Europe",
+    "costCurrency": "RUB"
+  },
+  {
+    "name": "Don State Technical University (DSTU)",
+    "country": "Russia",
+    "city": "Rostov-on-Don",
+    "programs": [
+      "Bachelor 08.03.01 Construction: Information Modelling in Urban Construction",
+      "Master 08.04.01 Construction: Information Modelling and Artificial Intelligence in Construction and Urban Management"
+    ],
+    "programLinks": [
+      "https://donstu.ru/sveden/education/programs/informacionnoe-modelirovanie-v-gorodskom-stroitelystve-08.03.01.html",
+      "https://donstu.ru/sveden/education/programs/informacionnoe-modelirovanie-i-iskusstvennyy-intellekt-v-stroitelystve-i-gorodskom-hozyaystve_op0303.html"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Russian",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 228,800",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Smart Cities & Buildings",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Smart Cities & Buildings"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://donstu.ru",
+    "lat": 47.2372,
+    "lon": 39.7116,
+    "geoSource": "manual:city",
+    "lastChecked": "2026-11-04",
+    "region": "Europe",
+    "costCurrency": "RUB"
+  },
+  {
+    "name": "Industrial University of Tyumen (TIU)",
+    "country": "Russia",
+    "city": "Tyumen",
+    "programs": [
+      "Bachelor 08.03.01 Construction: Industrial and Civil Construction",
+      "Bachelor 07.03.01 Architecture: Architectural Design"
+    ],
+    "programLinks": [
+      "https://www.tyuiu.ru/sveden/education/",
+      "https://www.tyuiu.ru/sveden/education/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Russian",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 260,600",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Parametric & Generative Design",
+      "Civil Engineering",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Parametric & Generative Design"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.tyuiu.ru",
+    "lat": 57.1593,
+    "lon": 65.5232,
+    "geoSource": "manual:city",
+    "lastChecked": "2026-11-04",
+    "region": "Europe",
+    "costCurrency": "RUB"
+  },
+  {
+    "name": "Russian University of Transport (RUT MIIT)",
+    "country": "Russia",
+    "city": "Moscow",
+    "programs": [
+      "Master 08.04.01 Construction: Information Modelling of Transport Infrastructure Objects"
+    ],
+    "programLinks": [
+      "https://www.miit.ru/sveden/education/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Russian",
+    "mode": "Part-time",
+    "delivery": "Presential",
+    "cost": "135,000 - 374,000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Infrastructure BIM",
+      "Civil Engineering",
+      "Infrastructure Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Infrastructure BIM"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Infrastructure Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.miit.ru",
+    "lat": 55.7889,
+    "lon": 37.6083,
+    "geoSource": "manual:city",
+    "lastChecked": "2026-11-04",
+    "region": "Europe",
+    "costCurrency": "RUB"
+  },
+  {
+    "name": "Polzunov Altai State Technical University",
+    "country": "Russia",
+    "city": "Barnaul",
+    "programs": [
+      "Master 08.04.01 Construction: Organisation of Information Modelling in Construction"
+    ],
+    "programLinks": [
+      "https://www.altstu.ru/sveden/education/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Russian",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "110,000 - 185,000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "GIS & BIM Integration",
+      "nD BIM",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "GIS & BIM Integration",
+      "nD BIM"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.altstu.ru",
+    "lat": 53.348,
+    "lon": 83.7769,
+    "geoSource": "manual:city",
+    "lastChecked": "2026-11-04",
+    "region": "Europe",
+    "costCurrency": "RUB"
+  },
+  {
+    "name": "Belgorod State Technological University (BSTU)",
+    "country": "Russia",
+    "city": "Belgorod",
+    "programs": [
+      "Bachelor Construction Management (English-taught)",
+      "Master 08.04.01 BIM Management (English-taught)",
+      "Master 08.04.01 Construction (part-time)"
+    ],
+    "programLinks": [
+      "https://eiun_en.bstu.ru/study",
+      "https://eiun_en.bstu.ru/study",
+      "https://www.bstu.ru/sveden/education/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English / Russian",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential",
+    "cost": "0 - 200,200",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "nD BIM",
+      "Collaborative Workflows",
+      "VR/AR",
+      "Digital Fabrication",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "nD BIM",
+      "Collaborative Workflows",
+      "VR/AR",
+      "Digital Fabrication"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.bstu.ru",
+    "lat": 50.5813,
+    "lon": 36.5966,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-04",
+    "region": "Europe",
+    "costCurrency": "RUB"
+  },
+  {
+    "name": "Kazan Federal University, Naberezhnye Chelny Institute",
+    "country": "Russia",
+    "city": "Naberezhnye Chelny",
+    "programs": [
+      "Bachelor 08.03.01 Construction: Industrial and Civil Construction"
+    ],
+    "programLinks": [
+      "https://kpfu.ru/chelny"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Russian",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "155,100 - 199,000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Collaborative Workflows",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Collaborative Workflows"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 1,
+    "website": "https://kpfu.ru/chelny",
+    "lat": 55.7436,
+    "lon": 52.4065,
+    "geoSource": "manual:city",
+    "lastChecked": "2026-11-04",
+    "region": "Europe",
+    "costCurrency": "RUB"
+  },
+  {
+    "name": "Far Eastern Federal University (FEFU)",
+    "country": "Russia",
+    "city": "Vladivostok",
+    "programs": [
+      "Master 08.04.01 Construction: BIM Design Technology (Технологии информационного моделирования в строительстве)"
+    ],
+    "programLinks": [
+      "https://www.dvfu.ru"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Russian",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "-",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 1,
+    "website": "https://www.dvfu.ru",
+    "lat": 43.0247,
+    "lon": 131.8938,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-11-04",
+    "region": "Europe",
+    "costCurrency": "RUB"
+  },
+  {
+    "name": "Ivanovo State Polytechnic University (IVGPU)",
+    "country": "Russia",
+    "city": "Ivanovo",
+    "programs": [
+      "Master 08.04.01 Construction: Information Modelling in Construction"
+    ],
+    "programLinks": [
+      "https://ivgpu.com/sveden/education"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Russian",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential",
+    "cost": "-",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 1,
+    "website": "https://ivgpu.com",
+    "lat": 57.0003,
+    "lon": 40.9739,
+    "geoSource": "manual:city",
+    "lastChecked": "2026-11-04",
+    "region": "Europe",
+    "costCurrency": "RUB"
+  },
+  {
+    "name": "Perm National Research Polytechnic University (PNIPU)",
+    "country": "Russia",
+    "city": "Perm",
+    "programs": [
+      "Master 08.04.01 Construction"
+    ],
+    "programLinks": [
+      "https://pstu.ru"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Russian",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "-",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 1,
+    "website": "https://pstu.ru",
+    "lat": 58.0103,
+    "lon": 56.2342,
+    "geoSource": "manual:city",
+    "lastChecked": "2026-11-04",
+    "region": "Europe",
+    "costCurrency": "RUB"
+  },
+  {
+    "name": "Ufa State Petroleum Technological University (USPTU)",
+    "country": "Russia",
+    "city": "Ufa",
+    "programs": [
+      "Master 08.04.01 Construction"
+    ],
+    "programLinks": [
+      "https://rusoil.net"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Russian",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "-",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 1,
+    "website": "https://rusoil.net",
+    "lat": 54.8204,
+    "lon": 56.0597,
+    "geoSource": "manual:city",
+    "lastChecked": "2026-11-04",
+    "region": "Europe",
+    "costCurrency": "RUB"
+  },
+  {
+    "name": "Saint Petersburg State Institute of Technology (SPbTI)",
+    "country": "Russia",
+    "city": "Saint Petersburg",
+    "programs": [
+      "Bachelor 08.03.01 Construction: Industrial and Civil Construction (part-time)"
+    ],
+    "programLinks": [
+      "https://spbti.ru"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Russian",
+    "mode": "Part-time",
+    "delivery": "Presential",
+    "cost": "-",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 1,
+    "website": "https://spbti.ru",
+    "lat": 59.9165,
+    "lon": 30.318,
+    "geoSource": "manual:city",
+    "lastChecked": "2026-11-04",
+    "region": "Europe",
+    "costCurrency": "RUB"
+  },
+  {
+    "name": "Mongolian University of Science and Technology (MUST)",
+    "country": "Mongolia",
+    "city": "Ulaanbaatar",
+    "programs": [
+      "Bachelor Structural Engineering (School of Civil Engineering and Architecture)"
+    ],
+    "programLinks": [
+      "https://www.must.edu.mn/en/page/1050"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Mongolian",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "7,549,152",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "Programming",
+      "Civil Engineering",
+      "Structural Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM",
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Structural Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.must.edu.mn",
+    "lat": 47.9228,
+    "lon": 106.9213,
+    "geoSource": "manual:city",
+    "lastChecked": "2026-11-04",
+    "region": "Eastern Asia",
+    "costCurrency": "MNT"
+  },
+  {
+    "name": "Kabul Polytechnic University (KPU)",
+    "country": "Afghanistan",
+    "city": "Kabul",
+    "programs": [
+      "Bachelor of Architecture (Faculty of Construction)"
+    ],
+    "programLinks": [
+      "https://kpu.edu.af/en/node/396"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "Dari / Pashto",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "150,000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM Software",
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM Software",
+      "CAD/CAM",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://kpu.edu.af",
+    "lat": 34.5357,
+    "lon": 69.1199,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-04",
+    "region": "Southern Asia",
+    "costCurrency": "AFN"
+  },
+  {
+    "name": "National University of Sciences and Technology (NUST), NUST Institute of Civil Engineering",
+    "country": "Pakistan",
+    "city": "Islamabad",
+    "programs": [
+      "BE Civil Engineering (Fall 2025 onward)",
+      "MS Construction Engineering and Management",
+      "PhD Construction Engineering and Management"
+    ],
+    "programLinks": [
+      "https://scee.nust.edu.pk/program/be-civil-engineering-for-fall-2025-onward",
+      "https://scee.nust.edu.pk/program/ms-construction-engineering-and-management",
+      "https://scee.nust.edu.pk/program/phd-construction-engineering-and-management"
+    ],
+    "accreditation": [
+      "PEC"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "433,500",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "GIS & BIM Integration",
+      "Programming",
+      "CAD/CAM",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "GIS & BIM Integration",
+      "Programming",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://nust.edu.pk",
+    "lat": 33.6448,
+    "lon": 72.9918,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-04",
+    "region": "Southern Asia",
+    "costCurrency": "PKR"
+  },
+  {
+    "name": "NED University of Engineering and Technology",
+    "country": "Pakistan",
+    "city": "Karachi",
+    "programs": [
+      "BE Civil Engineering",
+      "BE Civil Engineering (Specialization in Construction)"
+    ],
+    "programLinks": [
+      "https://ced.neduet.edu.pk/",
+      "https://ced.neduet.edu.pk/"
+    ],
+    "accreditation": [
+      "PEC"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "133,400",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Programming",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.neduet.edu.pk",
+    "lat": 24.933,
+    "lon": 67.111,
+    "geoSource": "manual:city",
+    "lastChecked": "2026-11-04",
+    "region": "Southern Asia",
+    "costCurrency": "PKR"
+  },
+  {
+    "name": "Mehran University of Engineering and Technology (MUET)",
+    "country": "Pakistan",
+    "city": "Jamshoro",
+    "programs": [
+      "BS Civil Engineering Technology / B.E. Tech (Civil)"
+    ],
+    "programLinks": [
+      "https://site.muet.edu.pk/"
+    ],
+    "accreditation": [
+      "PEC"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "50,000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "nD BIM",
+      "Collaborative Workflows",
+      "Energy Performance",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "nD BIM",
+      "Collaborative Workflows",
+      "Energy Performance"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.muet.edu.pk",
+    "lat": 25.4093,
+    "lon": 68.2602,
+    "geoSource": "manual:city",
+    "lastChecked": "2026-11-04",
+    "region": "Southern Asia",
+    "costCurrency": "PKR"
+  },
+  {
+    "name": "University of Management and Technology (UMT)",
+    "country": "Pakistan",
+    "city": "Lahore",
+    "programs": [
+      "BS Construction Management",
+      "BS Civil Engineering"
+    ],
+    "programLinks": [
+      "https://sen.umt.edu.pk/Programs/Undergraduate-Programs/BS-Construction-Management.aspx",
+      "https://sen.umt.edu.pk/Programs/Undergraduate-Programs/Bs-Civil-Engineering/Roadmap-25.aspx"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "247,500 - 547,500",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "Programming",
+      "Robotics & Automation",
+      "CAD/CAM",
+      "Construction Management",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "Programming",
+      "Robotics & Automation",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Construction Management",
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.umt.edu.pk",
+    "lat": 31.4514,
+    "lon": 74.2941,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-04",
+    "region": "Southern Asia",
+    "costCurrency": "PKR"
+  },
+  {
+    "name": "Capital University of Science and Technology (CUST)",
+    "country": "Pakistan",
+    "city": "Islamabad",
+    "programs": [
+      "BS Civil Engineering"
+    ],
+    "programLinks": [
+      "https://cust.edu.pk/faculty-of-engineering/department-of-civil-engineering/bs-civil-engineering/"
+    ],
+    "accreditation": [
+      "PEC"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "480,000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "AI & Machine Learning",
+      "Programming",
+      "CAD/CAM",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "AI & Machine Learning",
+      "Programming",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 1,
+    "website": "https://cust.edu.pk",
+    "lat": 33.5451,
+    "lon": 73.1858,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-04",
+    "region": "Southern Asia",
+    "costCurrency": "PKR"
+  },
+  {
+    "name": "National University of Computer and Emerging Sciences (FAST-NUCES), Lahore Campus",
+    "country": "Pakistan",
+    "city": "Lahore",
+    "programs": [
+      "BS Civil Engineering"
+    ],
+    "programLinks": [
+      "https://www.nu.edu.pk/Degree-Programs"
+    ],
+    "accreditation": [
+      "PEC"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "360,000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Programming",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.nu.edu.pk",
+    "lat": 31.4815,
+    "lon": 74.303,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-11-04",
+    "region": "Southern Asia",
+    "costCurrency": "PKR"
+  },
+  {
+    "name": "Mir Chakar Khan Rind University of Technology (MCUT)",
+    "country": "Pakistan",
+    "city": "Dera Ghazi Khan",
+    "programs": [
+      "BS Civil Engineering Technology"
+    ],
+    "programLinks": [
+      "https://test.mcut.edu.pk/view_program.php?id=6"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "65,000 - 68,500",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://mcut.edu.pk",
+    "lat": 30.0561,
+    "lon": 70.6346,
+    "geoSource": "manual:city",
+    "lastChecked": "2026-11-04",
+    "region": "Southern Asia",
+    "costCurrency": "PKR"
+  },
+  {
+    "name": "University of Sargodha",
+    "country": "Pakistan",
+    "city": "Sargodha",
+    "programs": [
+      "BS Civil Engineering Technology"
+    ],
+    "programLinks": [
+      "https://uos.edu.pk"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "80,100 - 163,700",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://uos.edu.pk",
+    "lat": 32.0728,
+    "lon": 72.6842,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-04",
+    "region": "Southern Asia",
+    "costCurrency": "PKR"
+  },
+  {
+    "name": "University of Rasul (UoR), Mandi Bahauddin",
+    "country": "Pakistan",
+    "city": "Mandi Bahauddin",
+    "programs": [
+      "BSc Civil Engineering Technology"
+    ],
+    "programLinks": [
+      "https://www.uorm.edu.pk/academics/faculty-engineering-computing-physical-sciences/department-civil-engineering/bsc-civil-engineering-technology"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "74,000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "Programming",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM",
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.uorm.edu.pk",
+    "lat": 32.6793,
+    "lon": 73.56,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-04",
+    "region": "Southern Asia",
+    "costCurrency": "PKR"
+  },
+  {
+    "name": "Grand Asian University Sialkot (GAUS)",
+    "country": "Pakistan",
+    "city": "Sialkot",
+    "programs": [
+      "BSc Civil Engineering Technology"
+    ],
+    "programLinks": [
+      "https://gaus.edu.pk/course/bsc-civil-engineering-technology"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "-",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "Smart Cities & Buildings",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM",
+      "Smart Cities & Buildings"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://gaus.edu.pk",
+    "lat": 32.4945,
+    "lon": 74.5229,
+    "geoSource": "manual:city",
+    "lastChecked": "2026-11-04",
+    "region": "Southern Asia",
+    "costCurrency": "PKR"
+  },
+  {
+    "name": "Sarhad University of Science and Information Technology (SUIT)",
+    "country": "Pakistan",
+    "city": "Peshawar",
+    "programs": [
+      "B.E. Technology (Civil)"
+    ],
+    "programLinks": [
+      "https://www.suit.edu.pk/department/degree/5"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "117,720",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "AI & Machine Learning",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM",
+      "AI & Machine Learning"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.suit.edu.pk",
+    "lat": 34.0151,
+    "lon": 71.5249,
+    "geoSource": "manual:city",
+    "lastChecked": "2026-11-04",
+    "region": "Southern Asia",
+    "costCurrency": "PKR"
+  },
+  {
+    "name": "Mirpur University of Science and Technology (MUST), Mirpur Institute of Technology",
+    "country": "Pakistan",
+    "city": "Mirpur",
+    "programs": [
+      "BSc Architectural Engineering Technology"
+    ],
+    "programLinks": [
+      "https://must.edu.pk/?p=6019"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "102,600",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "CAD/CAM",
+      "Architecture",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Architecture",
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://must.edu.pk",
+    "lat": 33.1505,
+    "lon": 73.7451,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-04",
+    "region": "Southern Asia",
+    "costCurrency": "PKR"
+  },
+  {
+    "name": "The University of Chenab",
+    "country": "Pakistan",
+    "city": "Gujrat",
+    "programs": [
+      "BSc Civil Engineering Technology"
+    ],
+    "programLinks": [
+      "https://uchenab.edu.pk/civil-engineering-technology-bsc"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "132,600 - 144,000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM Software",
+      "nD BIM",
+      "Digital Fabrication",
+      "CAD/CAM",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM Software",
+      "nD BIM",
+      "Digital Fabrication",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://uchenab.edu.pk",
+    "lat": 32.489,
+    "lon": 74.0912,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-04",
+    "region": "Southern Asia",
+    "costCurrency": "PKR"
+  },
+  {
+    "name": "The Superior University",
+    "country": "Pakistan",
+    "city": "Lahore",
+    "programs": [
+      "BSc Civil Engineering"
+    ],
+    "programLinks": [
+      "https://www.superior.edu.pk/faculties/faculty-of-engineering-and-technology/bsc-civil-engineering/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "410,000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Programming",
+      "CAD/CAM",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Programming",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.superior.edu.pk",
+    "lat": 31.4069,
+    "lon": 74.2389,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-11-04",
+    "region": "Southern Asia",
+    "costCurrency": "PKR"
+  },
+  {
+    "name": "University of Engineering and Technology (UET) Lahore, Department of Architecture",
+    "country": "Pakistan",
+    "city": "Lahore",
+    "programs": [
+      "Bachelor of Architecture (B.Arch)"
+    ],
+    "programLinks": [
+      "https://architecture.uet.edu.pk/programs/undergraduate-programs/"
+    ],
+    "accreditation": [
+      "PCATP"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "124,031 - 340,400",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Parametric & Generative Design",
+      "Programming",
+      "AI & Machine Learning",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Parametric & Generative Design",
+      "Programming",
+      "AI & Machine Learning"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.uet.edu.pk",
+    "lat": 31.5799,
+    "lon": 74.3546,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-04",
+    "region": "Southern Asia",
+    "costCurrency": "PKR"
+  },
+  {
+    "name": "Indus Valley School of Art and Architecture",
+    "country": "Pakistan",
+    "city": "Karachi",
+    "programs": [
+      "Bachelor of Architecture (B.Arch)"
+    ],
+    "programLinks": [
+      "https://indusvalley.edu.pk/bachelor-of-architecture"
+    ],
+    "accreditation": [
+      "PCATP"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "385,200",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM Software",
+      "CAD/CAM",
+      "3D Modeling & Scanning",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM Software",
+      "CAD/CAM",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://indusvalley.edu.pk",
+    "lat": 24.8116,
+    "lon": 67.0156,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-04",
+    "region": "Southern Asia",
+    "costCurrency": "PKR"
+  },
+  {
+    "name": "Tribhuvan University, Institute of Engineering, Pulchowk Campus",
+    "country": "Nepal",
+    "city": "Lalitpur",
+    "programs": [
+      "MSc in Construction Engineering and Management (Course Structure 2024)"
+    ],
+    "programLinks": [
+      "https://pcampus.edu.np"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "24,360 - 270,000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Collaborative Workflows",
+      "GIS & BIM Integration",
+      "AI & Machine Learning",
+      "IoT",
+      "Parametric & Generative Design",
+      "Construction Management",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Collaborative Workflows",
+      "GIS & BIM Integration",
+      "AI & Machine Learning",
+      "IoT",
+      "Parametric & Generative Design"
+    ],
+    "domains": [
+      "Construction Management",
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://ioe.tu.edu.np",
+    "lat": 27.6822,
+    "lon": 85.3238,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-04",
+    "region": "Southern Asia",
+    "costCurrency": "NPR"
   }
 ]

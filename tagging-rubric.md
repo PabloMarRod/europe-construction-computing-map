@@ -28,7 +28,16 @@ Apply this identical threshold to every institution.
 - `programLinks` point to the programme's own page (not a homepage, a general list or a PDF) wherever one exists.
 - Fees are taken from the institution's own pages, or an official national source where the institution publishes none (never third-party aggregators), and recorded as a yearly figure.
 - CPD and professional courses count only with a dedicated course page and evidence that they recur (not a one-off offering).
-- A programme that no longer exists, or whose site cannot be reached, is removed rather than kept unverified.
+- A programme that no longer exists is removed. Where the institution's site cannot be reached but official programme or course evidence exists (e.g. a programme document found elsewhere on the institution's servers), the record may be kept at `verificationLevel` 1.
+
+- An approved programme document (curriculum, course programme, scheme of studies) remains valid evidence until it is superseded by a newer version or the programme closes, whatever its intake year.
+- A course counts only where an official source ties it to a named programme. A course list that does not say which programme it belongs to is not sufficient.
+- Where a national standard or model curriculum defines a degree (e.g. Russia's ФГОС ВО codes such as 08.04.01, Pakistan's BS/B.E. Civil Engineering Technology schemes), the code alone is not evidence: each institution's own profile, scheme or course document must show the computing content.
+- Generic AI courses (not applied to construction) are tagged AI & Machine Learning but, if they are a record's only computing evidence, the record is held at `verificationLevel` 1.
+- Each record should carry at least two computing tags supported by its evidence. Exception: level-1 records where only a programme or course name can be reached.
+- Doctoral programmes may qualify through the institution's own doctoral research (e.g. a dissertation defence or PhD project on BIM); staff research alone does not qualify a programme.
+- Where state-funded or grant places exist alongside paid places, the fee range starts at 0 (`0 - X`).
+- Searches use the formats `<INSTITUTION> bim or computing in construction programs` (programmes) and `<INSTITUTION> tuition per year for <PROGRAMME>` (fees), one search per institution, followed by the institution's own fee or admissions pages and a local-language search before a fee is left as `-`.
 
 ## Sources of record
 
