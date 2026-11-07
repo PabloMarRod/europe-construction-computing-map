@@ -58173,5 +58173,4501 @@
     "lastChecked": "2026-11-04",
     "region": "Southern Asia",
     "costCurrency": "NPR"
+  },
+  {
+    "name": "Sardar Patel College of Engineering (SPCE), Mumbai",
+    "country": "India",
+    "city": "Mumbai",
+    "programs": [
+      "M.Tech Civil Engineering (Construction Management)"
+    ],
+    "programLinks": [
+      "https://www.spce.ac.in/civil.php"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "3185 - 84791",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Construction Management",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning"
+    ],
+    "domains": [
+      "Construction Management",
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.spce.ac.in",
+    "lat": 19.1234,
+    "lon": 72.8361,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-05",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Brahma Valley College of Engineering and Research Institute",
+    "country": "India",
+    "city": "Nashik",
+    "programs": [
+      "B.E. Civil Engineering"
+    ],
+    "programLinks": [
+      "https://engineering.brahmavalley.edu.in/civil-engineering"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 94000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://engineering.brahmavalley.edu.in",
+    "lat": 19.946,
+    "lon": 73.5868,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "MET's Institute of Engineering, Bhujbal Knowledge City",
+    "country": "India",
+    "city": "Nashik",
+    "programs": [
+      "B.E. Civil Engineering"
+    ],
+    "programLinks": [
+      "https://metbkcengg.ac.in/civil-engineering/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 134000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://metbkcengg.ac.in",
+    "lat": 20.0112,
+    "lon": 73.7902,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Dr. Vithalrao Vikhe Patil College of Engineering",
+    "country": "India",
+    "city": "Ahilyanagar",
+    "programs": [
+      "B.E. Civil Engineering"
+    ],
+    "programLinks": [
+      "https://enggnagar.com/department-of-civil-engineering/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 119500",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://enggnagar.com",
+    "lat": 19.1985,
+    "lon": 74.6747,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Vishwabharati Academy's College of Engineering",
+    "country": "India",
+    "city": "Ahilyanagar",
+    "programs": [
+      "B.E. Civil Engineering"
+    ],
+    "programLinks": [
+      "https://vacoea.in/departments/bachelors-of-engineering/civil-enggineering/civil-enggineerings/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "71000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://vacoea.in",
+    "lat": 19.093,
+    "lon": 74.7493,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Gokhale Education Society's R. H. Sapat College of Engineering, Management Studies and Research",
+    "country": "India",
+    "city": "Nashik",
+    "programs": [
+      "B.E. Civil Engineering"
+    ],
+    "programLinks": [
+      "https://ges-coengg.org/rt-department/civil-engineering"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 77000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://ges-coengg.org",
+    "lat": 20.0112,
+    "lon": 73.7902,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Late G. N. Sapkal College of Engineering",
+    "country": "India",
+    "city": "Nashik",
+    "programs": [
+      "B.E. Civil Engineering"
+    ],
+    "programLinks": [
+      "https://www.lgnscoe.sapkalknowledgehub.org/civil-engineering-department"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 95000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.lgnscoe.sapkalknowledgehub.org",
+    "lat": 19.946,
+    "lon": 73.5868,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Shatabdi Institute of Engineering and Research",
+    "country": "India",
+    "city": "Sinnar",
+    "programs": [
+      "B.E. Civil Engineering"
+    ],
+    "programLinks": [
+      "https://siernashik.org.in/civil-engineering/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 81500",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://siernashik.org.in",
+    "lat": 19.8453,
+    "lon": 74.0,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Parikrama Group of Institutions, Faculty of Engineering",
+    "country": "India",
+    "city": "Kashti",
+    "programs": [
+      "B.E. Civil Engineering"
+    ],
+    "programLinks": [
+      "https://parikramaengineering.com/department/civil"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 85000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://parikramaengineering.com",
+    "lat": 18.5501,
+    "lon": 74.5824,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Sandip Institute of Engineering and Management",
+    "country": "India",
+    "city": "Nashik",
+    "programs": [
+      "B.E. Civil Engineering"
+    ],
+    "programLinks": [
+      "https://siem.sandipfoundation.org/civil-engineering/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 156000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://siem.sandipfoundation.org",
+    "lat": 19.962,
+    "lon": 73.6677,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Adsul's Technical Campus",
+    "country": "India",
+    "city": "Ahilyanagar",
+    "programs": [
+      "B.E. Civil Engineering"
+    ],
+    "programLinks": [
+      "https://www.sgvssatc.com/department/civil/vision-mission"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 112000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.sgvssatc.com",
+    "lat": 19.0343,
+    "lon": 74.6494,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Shri Chhatrapati Shivaji Maharaj College of Engineering",
+    "country": "India",
+    "city": "Ahilyanagar",
+    "programs": [
+      "B.E. Civil Engineering"
+    ],
+    "programLinks": [
+      "https://www.scoea.org/civil/civil-about-department.php"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 55000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.scoea.org",
+    "lat": 19.093,
+    "lon": 74.7493,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Loknete Gopinathji Munde Institute of Engineering Education and Research",
+    "country": "India",
+    "city": "Nashik",
+    "programs": [
+      "B.E. Civil Engineering"
+    ],
+    "programLinks": [
+      "https://civil.logmieer.edu.in/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 81500",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://logmieer.edu.in",
+    "lat": 20.0112,
+    "lon": 73.7902,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Sanghavi College of Engineering",
+    "country": "India",
+    "city": "Dindori",
+    "programs": [
+      "B.E. Civil Engineering"
+    ],
+    "programLinks": [
+      "http://engineering.shreemahavir.org/civil-about-department.php"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 81500",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "http://engineering.shreemahavir.org",
+    "lat": 20.2037,
+    "lon": 73.8326,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Jawahar Education Society's Institute of Technology, Management and Research",
+    "country": "India",
+    "city": "Nashik",
+    "programs": [
+      "B.E. Civil Engineering"
+    ],
+    "programLinks": [
+      "https://jitnashik.edu.in/jit-main/department/civil/civildepartment.php"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 73000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://jitnashik.edu.in",
+    "lat": 20.03,
+    "lon": 73.7167,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Vidya Niketan College of Engineering",
+    "country": "India",
+    "city": "Bota",
+    "programs": [
+      "B.E. Civil Engineering"
+    ],
+    "programLinks": [
+      "https://vidyaniketanglobal.com/civil-engineering-degree/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "84000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://vidyaniketanglobal.com",
+    "lat": 19.257,
+    "lon": 74.1441,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Maulana Mukhtar Ahmad Nadvi Technical Campus",
+    "country": "India",
+    "city": "Malegaon",
+    "programs": [
+      "B.E. Civil Engineering"
+    ],
+    "programLinks": [
+      "https://mmantc.edu.in/civil-engineering/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "59000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://mmantc.edu.in",
+    "lat": 20.5576,
+    "lon": 74.5247,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Guru Gobind Singh College of Engineering and Research Centre",
+    "country": "India",
+    "city": "Nashik",
+    "programs": [
+      "B.E. Civil Engineering"
+    ],
+    "programLinks": [
+      "https://engg.ggsf.edu.in/menu_subdropdown.php?pg_ds=bWlkPTYmbWRpZD0xOCZtc2lkPTkmbXNwaWQ9MjA="
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 94000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://engg.ggsf.edu.in",
+    "lat": 19.958,
+    "lon": 73.7787,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Government College of Engineering and Research, Avasari Khurd",
+    "country": "India",
+    "city": "Manchar",
+    "programs": [
+      "B.E. Civil Engineering"
+    ],
+    "programLinks": [
+      "https://gcoeara.ac.in/departments/civil-engineering/about-department"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 25000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://gcoeara.ac.in",
+    "lat": 19.0033,
+    "lon": 73.9427,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Padmabhooshan Vasantdada Patil Institute of Technology",
+    "country": "India",
+    "city": "Pune",
+    "programs": [
+      "B.E. Civil Engineering"
+    ],
+    "programLinks": [
+      "https://pvpittssm.edu.in/civil.php"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 132000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://pvpittssm.edu.in",
+    "lat": 18.521,
+    "lon": 73.7781,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Parvatibai Genba Moze College of Engineering",
+    "country": "India",
+    "city": "Pune",
+    "programs": [
+      "B.E. Civil Engineering"
+    ],
+    "programLinks": [
+      "https://www.pgmozecoepune.in/civil-department/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 49000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.pgmozecoepune.in",
+    "lat": 18.5806,
+    "lon": 73.9833,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Genba Sopanrao Moze College of Engineering",
+    "country": "India",
+    "city": "Pune",
+    "programs": [
+      "B.E. Civil Engineering"
+    ],
+    "programLinks": [
+      "http://www.gsmozecoe.org/CIVIL%20department/civil.html"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 58000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "http://www.gsmozecoe.org",
+    "lat": 18.574,
+    "lon": 73.7684,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Siddhant College of Engineering",
+    "country": "India",
+    "city": "Sudumbare",
+    "programs": [
+      "B.E. Civil Engineering"
+    ],
+    "programLinks": [
+      "https://siddhantcoe.in/department-of-civil-engineering/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 64500",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://siddhantcoe.in",
+    "lat": 18.7592,
+    "lon": 73.7566,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Sinhgad College of Engineering",
+    "country": "India",
+    "city": "Pune",
+    "programs": [
+      "B.E. Civil Engineering"
+    ],
+    "programLinks": [
+      "https://sinhgad.edu/sinhgad-engineering-institutes/Departments/SCOE/SEI-civil.html"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 145500",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://sinhgad.edu",
+    "lat": 18.4676,
+    "lon": 73.8362,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Sinhgad Institute of Technology and Science",
+    "country": "India",
+    "city": "Pune",
+    "programs": [
+      "B.E. Civil Engineering"
+    ],
+    "programLinks": [
+      "https://cms.sinhgad.edu/sinhgad_engineering_institutes/sits_narhetechnicalcampus/sits_nt_civil_dept.aspx"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 119500",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://sinhgad.edu",
+    "lat": 18.5214,
+    "lon": 73.8545,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Sinhgad Academy of Engineering",
+    "country": "India",
+    "city": "Pune",
+    "programs": [
+      "B.E. Civil Engineering"
+    ],
+    "programLinks": [
+      "https://cms.sinhgad.edu/sinhgad_engineering_institutes/saoe/departments/civil/hod's-desk.aspx"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 111000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://sinhgad.edu",
+    "lat": 18.4433,
+    "lon": 73.8957,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Marathwada Mitra Mandal's Institute of Technology",
+    "country": "India",
+    "city": "Pune",
+    "programs": [
+      "B.E. Civil Engineering"
+    ],
+    "programLinks": [
+      "https://mmit.edu.in/civil/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 126500",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://mmit.edu.in",
+    "lat": 18.5214,
+    "lon": 73.8545,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Dr. D. Y. Patil Institute of Technology, Pimpri",
+    "country": "India",
+    "city": "Pune",
+    "programs": [
+      "B.E. Civil Engineering"
+    ],
+    "programLinks": [
+      "https://engg.dypvp.edu.in/civil-engineering.aspx"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 142500",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://engg.dypvp.edu.in",
+    "lat": 18.6232,
+    "lon": 73.802,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Shivnagar Vidya Prasarak Mandal's College of Engineering",
+    "country": "India",
+    "city": "Baramati",
+    "programs": [
+      "B.E. Civil Engineering"
+    ],
+    "programLinks": [
+      "https://engg.svpm.org.in/civil-engineering"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 98000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://engg.svpm.org.in",
+    "lat": 18.2199,
+    "lon": 74.4534,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "S. B. Patil College of Engineering",
+    "country": "India",
+    "city": "Indapur",
+    "programs": [
+      "B.E. Civil Engineering"
+    ],
+    "programLinks": [
+      "https://www.sbpcoe.edu.in/civil-engineering.php"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 95500",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.sbpcoe.edu.in",
+    "lat": 18.1125,
+    "lon": 74.9239,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "K. J. College of Engineering and Management Research",
+    "country": "India",
+    "city": "Pune",
+    "programs": [
+      "B.E. Civil Engineering"
+    ],
+    "programLinks": [
+      "https://www.kjei.edu.in/kjcoemr/index.php?/CivilEngineering"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 96000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.kjei.edu.in/kjcoemr",
+    "lat": 18.4516,
+    "lon": 73.8928,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Rajgad Technical Campus",
+    "country": "India",
+    "city": "Bhor",
+    "programs": [
+      "B.E. Civil Engineering"
+    ],
+    "programLinks": [
+      "https://rajgad.edu.in/rtc/engg/department/2/Civil-Engineering#!/civil-engineering?sectionId=1"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 121500",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://rajgad.edu.in",
+    "lat": 18.2128,
+    "lon": 73.8164,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Jaihind College of Engineering",
+    "country": "India",
+    "city": "Junnar",
+    "programs": [
+      "B.E. Civil Engineering"
+    ],
+    "programLinks": [
+      "https://jaihind.edu.in/jcoe/civil/index.php"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 80500",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://jaihind.edu.in",
+    "lat": 19.2007,
+    "lon": 73.9768,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Universal College of Engineering and Research",
+    "country": "India",
+    "city": "Bhor",
+    "programs": [
+      "B.E. Civil Engineering"
+    ],
+    "programLinks": [
+      "https://www.ucoer.edu.in/index.php/departments/civilengineering"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 34000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.ucoer.edu.in",
+    "lat": 18.2128,
+    "lon": 73.8164,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Dattakala Group of Institutions, Faculty of Engineering",
+    "country": "India",
+    "city": "Daund",
+    "programs": [
+      "B.E. Civil Engineering"
+    ],
+    "programLinks": [
+      "https://dgoi.dattakala.edu.in/civil-engineering"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 102500",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://dgoi.dattakala.edu.in",
+    "lat": 18.4834,
+    "lon": 74.3622,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Trinity Academy of Engineering",
+    "country": "India",
+    "city": "Pune",
+    "programs": [
+      "B.E. Civil Engineering"
+    ],
+    "programLinks": [
+      "https://kjei.edu.in/trinityacademy/index.php?/CivilEngineering"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 107000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://kjei.edu.in/trinityacademy",
+    "lat": 18.4358,
+    "lon": 73.8964,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Samarth College of Engineering and Management",
+    "country": "India",
+    "city": "Belhe",
+    "programs": [
+      "B.E. Civil Engineering"
+    ],
+    "programLinks": [
+      "https://samarthinstitute.edu.in/engg/department/21/Civil-Engineering#!/21/civil-engineering?sectionId=104"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 98500",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://samarthinstitute.edu.in",
+    "lat": 19.1157,
+    "lon": 74.1754,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Bhivarabai Sawant College of Engineering and Research",
+    "country": "India",
+    "city": "Pune",
+    "programs": [
+      "B.E. Civil Engineering"
+    ],
+    "programLinks": [
+      "https://tssm.edu.in/AcademicsDepartment/30"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 123500",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://tssm.edu.in",
+    "lat": 18.4427,
+    "lon": 73.8318,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "JSPM Narhe Technical Campus",
+    "country": "India",
+    "city": "Pune",
+    "programs": [
+      "B.E. Civil Engineering"
+    ],
+    "programLinks": [
+      "https://jspmntc.edu.in/AcademicsDepartment/48"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 117500",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://jspmntc.edu.in",
+    "lat": 18.5214,
+    "lon": 73.8545,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Sahyadri Valley College of Engineering and Technology",
+    "country": "India",
+    "city": "Junnar",
+    "programs": [
+      "B.E. Civil Engineering"
+    ],
+    "programLinks": [
+      "https://www.sahyadrivalleycollege.com/civil-engineering-faculty.html"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "74000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.sahyadrivalleycollege.com",
+    "lat": 19.2007,
+    "lon": 73.9768,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Shree Ramchandra College of Engineering",
+    "country": "India",
+    "city": "Lonikand",
+    "programs": [
+      "B.E. Civil Engineering"
+    ],
+    "programLinks": [
+      "https://www.srespune.org/index.php/Welcome/CivilDept"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 78000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.srespune.org",
+    "lat": 18.5973,
+    "lon": 74.0207,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Suman Ramesh Tulsiani Technical Campus, Faculty of Engineering",
+    "country": "India",
+    "city": "Kamshet",
+    "programs": [
+      "B.E. Civil Engineering"
+    ],
+    "programLinks": [
+      "https://www.srttc.ac.in/dept.php?slug=civil-engineering"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 74500",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.srttc.ac.in",
+    "lat": 18.7669,
+    "lon": 73.5524,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "RMD Sinhgad School of Engineering",
+    "country": "India",
+    "city": "Pune",
+    "programs": [
+      "B.E. Civil Engineering"
+    ],
+    "programLinks": [
+      "http://rmdstic.sinhgad.edu/civil-about-us/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 106500",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "http://rmdstic.sinhgad.edu",
+    "lat": 18.482,
+    "lon": 73.8002,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Flora Institute of Technology",
+    "country": "India",
+    "city": "Bhor",
+    "programs": [
+      "B.E. Civil Engineering"
+    ],
+    "programLinks": [
+      "https://engineering.flora.ac.in/admission.html"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "96500",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://engineering.flora.ac.in",
+    "lat": 18.2128,
+    "lon": 73.8164,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Anantrao Pawar College of Engineering and Research",
+    "country": "India",
+    "city": "Pune",
+    "programs": [
+      "B.E. Civil Engineering"
+    ],
+    "programLinks": [
+      "https://abmspcoerpune.org/civil-engineering/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 87500",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://abmspcoerpune.org",
+    "lat": 18.4906,
+    "lon": 73.8434,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Sharadchandra Pawar College of Engineering and Technology",
+    "country": "India",
+    "city": "Baramati",
+    "programs": [
+      "B.E. Civil Engineering"
+    ],
+    "programLinks": [
+      "https://www.secsomeshwar.ac.in/department-of-civil-engineering"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 66000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.secsomeshwar.ac.in",
+    "lat": 18.2199,
+    "lon": 74.4534,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Bharati Vidyapeeth's College of Engineering, Lavale",
+    "country": "India",
+    "city": "Pune",
+    "programs": [
+      "B.E. Civil Engineering"
+    ],
+    "programLinks": [
+      "https://bvcoe.bharatividyapeeth.edu/site/department-of-civil-engineering"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 117000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://bvcoe.bharatividyapeeth.edu",
+    "lat": 18.523,
+    "lon": 73.7224,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Dr. G. V. Shingre VPS College of Engineering and Technology",
+    "country": "India",
+    "city": "Lonavala",
+    "programs": [
+      "B.E. Civil Engineering"
+    ],
+    "programLinks": [
+      "https://www.vpscet.in/civil.html"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "55000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.vpscet.in",
+    "lat": 18.7504,
+    "lon": 73.4069,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Yadavrao Tasgaonkar Institute of Engineering and Technology",
+    "country": "India",
+    "city": "Karjat",
+    "programs": [
+      "B.E. Civil Engineering"
+    ],
+    "programLinks": [
+      "https://ytiet.com/departments/civil-engineering/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "63000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://ytiet.com",
+    "lat": 18.9128,
+    "lon": 73.3228,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "MGM's College of Engineering and Technology, Kamothe",
+    "country": "India",
+    "city": "Navi Mumbai",
+    "programs": [
+      "B.E. Civil Engineering"
+    ],
+    "programLinks": [
+      "https://www.mgmmumbai.ac.in/mgmcet/departments/undergraduate/civil"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 94000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.mgmmumbai.ac.in/mgmcet",
+    "lat": 19.0164,
+    "lon": 73.0807,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "M.H. Saboo Siddik College of Engineering",
+    "country": "India",
+    "city": "Mumbai",
+    "programs": [
+      "B.E. Civil Engineering",
+      "M.E. Civil Engineering (Construction Engineering and Management)"
+    ],
+    "programLinks": [
+      "https://mhssce.ac.in/Civil.php",
+      "https://mhssce.ac.in/Civil.php"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 159500",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "Construction Informatics",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "Construction Informatics"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://mhssce.ac.in",
+    "lat": 18.9766,
+    "lon": 72.8328,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Datta Meghe College of Engineering",
+    "country": "India",
+    "city": "Navi Mumbai",
+    "programs": [
+      "B.E. Civil Engineering"
+    ],
+    "programLinks": [
+      "https://dmce.ac.in/departments/civil-engineering/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 105000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://dmce.ac.in",
+    "lat": 19.1604,
+    "lon": 72.9956,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Rizvi College of Engineering",
+    "country": "India",
+    "city": "Mumbai",
+    "programs": [
+      "B.E. Civil Engineering"
+    ],
+    "programLinks": [
+      "https://eng.rizvi.edu.in/civil"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 108000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://eng.rizvi.edu.in",
+    "lat": 19.0583,
+    "lon": 72.8303,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Watumull Institute of Engineering and Technology",
+    "country": "India",
+    "city": "Ulhasnagar",
+    "programs": [
+      "B.E. Civil Engineering"
+    ],
+    "programLinks": [
+      "https://www.watumull.edu/2024/WIShowPageContent2ColSBMenu2.php?id=Civil%20Engineering"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "161500",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.watumull.edu",
+    "lat": 19.2236,
+    "lon": 73.1672,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Gharda Institute of Technology",
+    "country": "India",
+    "city": "Khed",
+    "programs": [
+      "B.E. Civil Engineering"
+    ],
+    "programLinks": [
+      "https://git-india.edu.in/about-civil-department/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "140000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://git-india.edu.in",
+    "lat": 17.7126,
+    "lon": 73.4107,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Smt. Alamuri Ratnamala Institute of Engineering and Technology",
+    "country": "India",
+    "city": "Shahapur",
+    "programs": [
+      "B.E. Civil Engineering"
+    ],
+    "programLinks": [
+      "https://armiet.in/b-e-in-civil-engineering-2026/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "83000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://armiet.in",
+    "lat": 19.4518,
+    "lon": 73.3266,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Yadavrao Tasgaonkar College of Engineering and Management",
+    "country": "India",
+    "city": "Karjat",
+    "programs": [
+      "B.E. Civil Engineering"
+    ],
+    "programLinks": [
+      "https://ytcem.com/departments/civil-engineering/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "58500",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://ytcem.com",
+    "lat": 18.9128,
+    "lon": 73.3228,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Theem College of Engineering",
+    "country": "India",
+    "city": "Boisar",
+    "programs": [
+      "B.E. Civil Engineering"
+    ],
+    "programLinks": [
+      "https://theemcoe.org/course-degree.php?dept=civil"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "70500",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://theemcoe.org",
+    "lat": 19.7985,
+    "lon": 72.7615,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "G.V. Acharya Institute of Engineering and Technology",
+    "country": "India",
+    "city": "Shelu",
+    "programs": [
+      "B.E. Civil Engineering"
+    ],
+    "programLinks": [
+      "https://www.gvaiet.org/civil-engineering/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "60500",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.gvaiet.org",
+    "lat": 19.0635,
+    "lon": 73.3179,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Pravin Rohidas Patil College of Engineering and Technology",
+    "country": "India",
+    "city": "Bhayandar",
+    "programs": [
+      "B.E. Civil Engineering and Planning"
+    ],
+    "programLinks": [
+      "https://prpengineering.in/coursedetails/4"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 88500",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://prpengineering.in",
+    "lat": 19.3102,
+    "lon": 72.8527,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Bharat College of Engineering",
+    "country": "India",
+    "city": "Badlapur",
+    "programs": [
+      "B.E. Civil Engineering"
+    ],
+    "programLinks": [
+      "https://bharatenggcollege.com/civil-engineering/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "78000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://bharatenggcollege.com",
+    "lat": 19.1666,
+    "lon": 73.2389,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Dilkap Research Institute of Engineering and Management Studies",
+    "country": "India",
+    "city": "Neral",
+    "programs": [
+      "B.E. Civil Engineering"
+    ],
+    "programLinks": [
+      "https://driems.in/civil-engineering/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "67500",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://driems.in",
+    "lat": 19.0266,
+    "lon": 73.3181,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "B.R. Harne College of Engineering and Technology",
+    "country": "India",
+    "city": "Vangani",
+    "programs": [
+      "B.E. Civil Engineering"
+    ],
+    "programLinks": [
+      "https://brharnetc.edu.in/department/detail.php?dept=civil"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "71111 - 92500",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://brharnetc.edu.in",
+    "lat": 19.0943,
+    "lon": 73.3009,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Metropolitan Institute of Technology and Management",
+    "country": "India",
+    "city": "Oros",
+    "programs": [
+      "B.E. Civil Engineering"
+    ],
+    "programLinks": [
+      "https://mitm.ac.in/Civil"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "66000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://mitm.ac.in",
+    "lat": 16.1163,
+    "lon": 73.7079,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Atma Malik Institute of Technology and Research",
+    "country": "India",
+    "city": "Shahapur",
+    "programs": [
+      "B.E. Civil Engineering"
+    ],
+    "programLinks": [
+      "https://amitr.edu.in/civil-deg.html"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "91000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://amitr.edu.in",
+    "lat": 19.4518,
+    "lon": 73.3266,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "G.M. Vedak Institute of Technology",
+    "country": "India",
+    "city": "Tala",
+    "programs": [
+      "B.E. Civil Engineering"
+    ],
+    "programLinks": [
+      "https://gmvit.com/academics_civil_home.html"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "63500",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://gmvit.com",
+    "lat": 18.4388,
+    "lon": 73.1261,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Maharshi Parshuram College of Engineering",
+    "country": "India",
+    "city": "Guhagar",
+    "programs": [
+      "B.E. Civil Engineering"
+    ],
+    "programLinks": [
+      "https://vpmmpcoe.org/mpcoenew/department/civil.html"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "68000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://vpmmpcoe.org",
+    "lat": 17.4838,
+    "lon": 73.1911,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Ideal Institute of Technology",
+    "country": "India",
+    "city": "Wada",
+    "programs": [
+      "B.E. Civil Engineering"
+    ],
+    "programLinks": [
+      "https://idealwada.com/about_civil.php"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "85750",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://idealwada.com",
+    "lat": 19.6547,
+    "lon": 73.148,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Vishwaniketan's Institute of Management Entrepreneurship and Engineering Technology (iMEET)",
+    "country": "India",
+    "city": "Khalapur",
+    "programs": [
+      "B.E. Civil Engineering"
+    ],
+    "programLinks": [
+      "https://civil.vishwaniketan.edu.in/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "81000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://vimeet.vishwaniketan.edu.in",
+    "lat": 18.8322,
+    "lon": 73.2852,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "New Horizon Institute of Technology and Management",
+    "country": "India",
+    "city": "Thane",
+    "programs": [
+      "B.E. Civil Engineering"
+    ],
+    "programLinks": [
+      "https://nhitm.ac.in/civil/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 84000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://nhitm.ac.in",
+    "lat": 19.1943,
+    "lon": 72.9702,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "A.P. Shah Institute of Technology",
+    "country": "India",
+    "city": "Thane",
+    "programs": [
+      "B.E. Civil Engineering"
+    ],
+    "programLinks": [
+      "https://www.apsit.edu.in/civil-engg"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 143000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.apsit.edu.in",
+    "lat": 19.1943,
+    "lon": 72.9702,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Indala College of Engineering",
+    "country": "India",
+    "city": "Kalyan",
+    "programs": [
+      "B.E. Civil Engineering"
+    ],
+    "programLinks": [
+      "https://icoe.ac.in/programs/engineering/civil"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "73000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://icoe.ac.in",
+    "lat": 19.2397,
+    "lon": 73.1366,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Devi Mahalaxmi College of Engineering and Technology",
+    "country": "India",
+    "city": "Titwala",
+    "programs": [
+      "B.E. Civil Engineering"
+    ],
+    "programLinks": [
+      "https://mahalakshmitechcampus.com/civil-engineering/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "84000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://mahalakshmitechcampus.com",
+    "lat": 19.2964,
+    "lon": 73.2031,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Indian Institute of Technology Bombay (IIT Bombay)",
+    "country": "India",
+    "city": "Mumbai",
+    "programs": [
+      "PhD in Civil Engineering (Construction Technology and Management)"
+    ],
+    "programLinks": [
+      "https://www.civil.iitb.ac.in/phd-admission/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "73400",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "VR/AR",
+      "Construction Informatics",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "VR/AR",
+      "Construction Informatics"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.iitb.ac.in",
+    "lat": 19.1326,
+    "lon": 72.915,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "COEP Technological University",
+    "country": "India",
+    "city": "Pune",
+    "programs": [
+      "B.Tech Civil Engineering",
+      "M.Tech Civil Engineering (Construction Management)"
+    ],
+    "programLinks": [
+      "https://www.coeptech.ac.in/academics/schools/school-of-engineering-and-technology/school-of-civil-engineering-and-planning/civil-engineering-department/",
+      "https://www.coeptech.ac.in/academics/schools/school-of-engineering-and-technology/school-of-civil-engineering-and-planning/civil-engineering-department/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 150464",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "AI & Machine Learning",
+      "GIS & BIM Integration",
+      "Digital Twins",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "AI & Machine Learning",
+      "GIS & BIM Integration",
+      "Digital Twins"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.coeptech.ac.in",
+    "lat": 18.5306,
+    "lon": 73.8568,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Veermata Jijabai Technological Institute (VJTI)",
+    "country": "India",
+    "city": "Mumbai",
+    "programs": [
+      "M.Tech Civil Engineering (Construction Management)"
+    ],
+    "programLinks": [
+      "https://vjti.ac.in/post-graduate-admission/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "90500 - 91500",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "GIS & BIM Integration",
+      "Construction Informatics",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "GIS & BIM Integration",
+      "Construction Informatics"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://vjti.ac.in",
+    "lat": 19.0222,
+    "lon": 72.8562,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Pimpri Chinchwad College of Engineering (PCCOE)",
+    "country": "India",
+    "city": "Pune",
+    "programs": [
+      "B.Tech Civil Engineering",
+      "M.Tech Civil Engineering (Construction Management)"
+    ],
+    "programLinks": [
+      "https://civil.pccoepune.com/",
+      "https://civil.pccoepune.com/pages/academics/mtech.php"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 193000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "GIS & BIM Integration",
+      "Digital Twins",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "GIS & BIM Integration",
+      "Digital Twins"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.pccoepune.com",
+    "lat": 18.6527,
+    "lon": 73.7624,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Vishwakarma Institute of Technology (VIT Pune)",
+    "country": "India",
+    "city": "Pune",
+    "programs": [
+      "B.Tech Civil Engineering"
+    ],
+    "programLinks": [
+      "https://www.vit.edu/CIVIL/undergraduate-programme/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 206000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "nD BIM",
+      "ISO 19650",
+      "Digital Twins",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "nD BIM",
+      "ISO 19650",
+      "Digital Twins"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.vit.edu",
+    "lat": 18.4638,
+    "lon": 73.8682,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Sanjivani College of Engineering",
+    "country": "India",
+    "city": "Kopargaon",
+    "programs": [
+      "B.Tech Structural Engineering (Honours in Building Information Modelling)"
+    ],
+    "programLinks": [
+      "https://sanjivanicoe.org.in/department/structural"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "173000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Programming",
+      "Civil Engineering",
+      "Structural Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Structural Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://sanjivanicoe.org.in",
+    "lat": 19.9021,
+    "lon": 74.4944,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "JSPM's Rajarshi Shahu College of Engineering (RSCOE)",
+    "country": "India",
+    "city": "Pune",
+    "programs": [
+      "B.Tech Civil Engineering"
+    ],
+    "programLinks": [
+      "https://www.jspmrscoe.edu.in/civil-engineering"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 145000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "Programming",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.jspmrscoe.edu.in",
+    "lat": 18.62,
+    "lon": 73.7478,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "AISSMS College of Engineering",
+    "country": "India",
+    "city": "Pune",
+    "programs": [
+      "B.E. Civil Engineering",
+      "M.E. Civil Engineering (Construction Management)"
+    ],
+    "programLinks": [
+      "https://aissmscoe.com/civil-engineering/introduction/",
+      "https://aissmscoe.com/civil-engineering/introduction/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 175000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "nD BIM",
+      "Digital Twins",
+      "Robotics & Automation",
+      "Data Management",
+      "Programming",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "nD BIM",
+      "Digital Twins",
+      "Robotics & Automation",
+      "Data Management",
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://aissmscoe.com",
+    "lat": 18.5313,
+    "lon": 73.8657,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "KIT's College of Engineering (Autonomous), Kolhapur",
+    "country": "India",
+    "city": "Kolhapur",
+    "programs": [
+      "B.Tech Civil Engineering"
+    ],
+    "programLinks": [
+      "https://www.kitcoek.in/best-civil-engineering-college-kolhapur-civil-engineering-college"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 123000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Digital Twins",
+      "Robotics & Automation",
+      "IoT",
+      "Data Management",
+      "Programming",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Digital Twins",
+      "Robotics & Automation",
+      "IoT",
+      "Data Management",
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.kitcoek.in",
+    "lat": 16.7028,
+    "lon": 74.2405,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Walchand Institute of Technology, Solapur",
+    "country": "India",
+    "city": "Solapur",
+    "programs": [
+      "B.Tech Civil Engineering"
+    ],
+    "programLinks": [
+      "https://www.witsolapur.org/pages/departments/ce.html"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 140000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Programming",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.witsolapur.org",
+    "lat": 17.6689,
+    "lon": 75.9227,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "St. John College of Engineering and Management (SJCEM)",
+    "country": "India",
+    "city": "Palghar",
+    "programs": [
+      "B.Tech Civil Engineering"
+    ],
+    "programLinks": [
+      "https://sjcem.edu.in/eng-civil/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 105000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Programming",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://sjcem.edu.in",
+    "lat": 19.6967,
+    "lon": 72.7695,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Government College of Engineering, Chhatrapati Sambhajinagar",
+    "country": "India",
+    "city": "Chhatrapati Sambhajinagar",
+    "programs": [
+      "B.Tech Civil Engineering"
+    ],
+    "programLinks": [
+      "https://www.geca.ac.in/dep-civil-home.aspx"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 81851",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Programming",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.geca.ac.in",
+    "lat": 19.8681,
+    "lon": 75.3241,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Amrutvahini College of Engineering",
+    "country": "India",
+    "city": "Sangamner",
+    "programs": [
+      "B.E. Civil Engineering"
+    ],
+    "programLinks": [
+      "https://www.avcoe.org/programmes-ug-civil-engineering.php"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 162500",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "GIS & BIM Integration",
+      "Programming",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "GIS & BIM Integration",
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.avcoe.org",
+    "lat": 19.5663,
+    "lon": 74.2113,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "K.B.T. College of Engineering (MVP Samaj's KBTCOE)",
+    "country": "India",
+    "city": "Nashik",
+    "programs": [
+      "B.Tech Civil Engineering"
+    ],
+    "programLinks": [
+      "https://kbtcoe.org/civil-department/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 134000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Programming",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://kbtcoe.org",
+    "lat": 20.0112,
+    "lon": 73.7902,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Karmaveer Bhaurao Patil College of Engineering, Satara",
+    "country": "India",
+    "city": "Satara",
+    "programs": [
+      "B.Tech Civil Engineering",
+      "M.Tech Construction Engineering and Management"
+    ],
+    "programLinks": [
+      "https://www.kbpcoes.edu.in/department_of_civil_engineering.php",
+      "https://www.kbpcoes.edu.in/department_of_civil_engineering.php"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 124500",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "nD BIM",
+      "Collaborative Workflows",
+      "AI & Machine Learning",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "nD BIM",
+      "Collaborative Workflows",
+      "AI & Machine Learning"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.kbpcoes.edu.in",
+    "lat": 17.6904,
+    "lon": 74.0155,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Pimpri Chinchwad College of Engineering and Research (PCCOE&R)",
+    "country": "India",
+    "city": "Pune",
+    "programs": [
+      "B.E. Civil Engineering"
+    ],
+    "programLinks": [
+      "https://www.pccoer.com/civil/civil.php"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 143000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "GIS & BIM Integration",
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.pccoer.com",
+    "lat": 18.6513,
+    "lon": 73.7454,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Shree L.R. Tiwari College of Engineering (SLRTCE)",
+    "country": "India",
+    "city": "Mira Road",
+    "programs": [
+      "B.Tech Civil Engineering with Computer Application"
+    ],
+    "programLinks": [
+      "https://slrtce.in/departments/civil-engineering-with-computer-application-"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 130000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Programming",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://slrtce.in",
+    "lat": 19.2817,
+    "lon": 72.8561,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Pillai HOC College of Engineering and Technology",
+    "country": "India",
+    "city": "Rasayani",
+    "programs": [
+      "M.Tech Construction Engineering and Management"
+    ],
+    "programLinks": [
+      "https://phcet.ac.in/academics/masters/civil-engineering-construction-engineering-and-management/program-overview/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "72200",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Construction Informatics",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Construction Informatics"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://phcet.ac.in",
+    "lat": 18.8927,
+    "lon": 73.1767,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Dr. Rajendra Gode Institute of Technology and Research (DRGITR)",
+    "country": "India",
+    "city": "Amravati",
+    "programs": [
+      "B.Tech Civil Engineering"
+    ],
+    "programLinks": [
+      "https://drgitr.ac.in/department.php?department=Civil%20Engineering"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 106500",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "AI & Machine Learning",
+      "IoT",
+      "Data Management",
+      "Smart Cities & Buildings",
+      "Civil Engineering",
+      "Infrastructure Engineering"
+    ],
+    "computingTopics": [
+      "AI & Machine Learning",
+      "IoT",
+      "Data Management",
+      "Smart Cities & Buildings"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Infrastructure Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://drgitr.ac.in",
+    "lat": 20.9316,
+    "lon": 77.7588,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Tulsiramji Gaikwad-Patil College of Engineering and Technology (TGPCET)",
+    "country": "India",
+    "city": "Nagpur",
+    "programs": [
+      "B.Tech Civil Engineering"
+    ],
+    "programLinks": [
+      "https://tgpcet.com/Civil-dept.php"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 117500",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "nD BIM",
+      "Collaborative Workflows",
+      "VR/AR",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "nD BIM",
+      "Collaborative Workflows",
+      "VR/AR"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://tgpcet.com",
+    "lat": 21.1498,
+    "lon": 79.0821,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Wainganga College of Engineering and Management (WCEM)",
+    "country": "India",
+    "city": "Nagpur",
+    "programs": [
+      "B.Tech Civil Engineering"
+    ],
+    "programLinks": [
+      "https://www.wcem.edu.in/civil-engineering"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 101000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Programming",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.wcem.edu.in",
+    "lat": 21.1498,
+    "lon": 79.0821,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Yeshwantrao Chavan College of Engineering (YCCE)",
+    "country": "India",
+    "city": "Nagpur",
+    "programs": [
+      "B.Tech Civil Engineering"
+    ],
+    "programLinks": [
+      "https://ycce.edu/departments/department-of-civil-engineering/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 175000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "nD BIM",
+      "AI & Machine Learning",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "nD BIM",
+      "AI & Machine Learning"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://ycce.edu",
+    "lat": 21.0952,
+    "lon": 78.9786,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "DKTE Society's Textile and Engineering Institute",
+    "country": "India",
+    "city": "Ichalkaranji",
+    "programs": [
+      "B.Tech Civil Engineering"
+    ],
+    "programLinks": [
+      "https://www.dkte.ac.in/under-graduate/engineering-department/b-tech-civil-engineering/b-tech-civil-overview"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 135500",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "AI & Machine Learning",
+      "BIM",
+      "Digital Twins",
+      "IoT",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "AI & Machine Learning",
+      "BIM",
+      "Digital Twins",
+      "IoT"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.dkte.ac.in",
+    "lat": 16.6959,
+    "lon": 74.4556,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "N.K. Orchid College of Engineering and Technology",
+    "country": "India",
+    "city": "Solapur",
+    "programs": [
+      "B.Tech Civil Engineering"
+    ],
+    "programLinks": [
+      "https://orchidengg.ac.in/civil-engineering/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 118500",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://orchidengg.ac.in",
+    "lat": 17.67,
+    "lon": 75.9008,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "NICMAR University, Pune",
+    "country": "India",
+    "city": "Pune",
+    "programs": [
+      "MBA in Advanced Construction Management",
+      "M.Tech in Infrastructure Project Management"
+    ],
+    "programLinks": [
+      "https://www.nicmar.ac.in/pune/program-acm",
+      "https://www.nicmar.ac.in/pune/program-mtechipm"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "505000 - 675000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "AI & Machine Learning",
+      "IoT",
+      "Data Management",
+      "Construction Informatics",
+      "Construction Management",
+      "Project Management",
+      "Infrastructure Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "AI & Machine Learning",
+      "IoT",
+      "Data Management",
+      "Construction Informatics"
+    ],
+    "domains": [
+      "Construction Management",
+      "Project Management",
+      "Infrastructure Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.nicmar.ac.in",
+    "lat": 18.5741,
+    "lon": 73.767,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Anjuman-I-Islam's Kalsekar Technical Campus (AIKTC), School of Engineering and Technology",
+    "country": "India",
+    "city": "Panvel",
+    "programs": [
+      "M.Tech Civil Engineering (Construction Engineering and Management)"
+    ],
+    "programLinks": [
+      "https://soet.aiktc.ac.in/?p=223851"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "100000 - 115000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Construction Informatics",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Construction Informatics"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://soet.aiktc.ac.in",
+    "lat": 18.9895,
+    "lon": 73.1222,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "K.J.'s Trinity College of Engineering and Research, Pisoli",
+    "country": "India",
+    "city": "Pune",
+    "programs": [
+      "B.Tech Civil Engineering"
+    ],
+    "programLinks": [
+      "http://www.trinity-autonomous.in/index.php?/CivilEngineering"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "0 - 114500",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "GIS & BIM Integration",
+      "Programming",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "GIS & BIM Integration",
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "http://www.trinity-autonomous.in",
+    "lat": 18.5214,
+    "lon": 73.8545,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
   }
 ]

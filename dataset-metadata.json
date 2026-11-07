@@ -1,16 +1,16 @@
 {
   "name": "Construction-Computing Education Map",
-  "description": "Dataset of higher-education institutions offering programmes in digital construction, BIM, and construction informatics, with programme, cost, accreditation, delivery, and geographic detail. 1203 institutions in 87 countries: Europe (387), North America (341), South America (285), Western Asia (90), Oceania (42), Central America (21), Southern Asia (18), Central Asia (16), Caribbean (2), Eastern Asia (1).",
-  "version": "1.4.0",
-  "generated": "2026-11-05",
+  "description": "Dataset of higher-education institutions offering programmes in digital construction, BIM, and construction informatics, with programme, cost, accreditation, delivery, and geographic detail. 1303 institutions in 88 countries: Europe (387), North America (341), South America (285), Southern Asia (118), Western Asia (90), Oceania (42), Central America (21), Central Asia (16), Caribbean (2), Eastern Asia (1).",
+  "version": "1.5.0",
+  "generated": "2026-11-07",
   "license": "CC BY 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-  "citation": "Construction-Computing Education Map (v1.4.0). CC BY 4.0. <add author / DOI on deposit>.",
+  "citation": "Construction-Computing Education Map (v1.5.0). CC BY 4.0. <add author / DOI on deposit>.",
   "maintainerContact": "<add maintainer email or ORCID>",
   "repository": "https://github.com/PabloMarRod/europe-construction-computing-map",
   "coverage": {
-    "institutions": 1203,
-    "countries": 87,
+    "institutions": 1303,
+    "countries": 88,
     "countryList": [
       "Afghanistan",
       "Albania",
@@ -47,6 +47,7 @@
       "Guyana",
       "Hungary",
       "Iceland",
+      "India",
       "Iraq",
       "Ireland",
       "Israel",
@@ -105,10 +106,10 @@
       "Europe": 387,
       "North America": 341,
       "South America": 285,
+      "Southern Asia": 118,
       "Western Asia": 90,
       "Oceania": 42,
       "Central America": 21,
-      "Southern Asia": 18,
       "Central Asia": 16,
       "Caribbean": 2,
       "Eastern Asia": 1
@@ -123,39 +124,41 @@
       "method": "Geocoded with OpenStreetMap Nominatim, then a precision-audit pass that re-queried city-centroid fallbacks with a 25 km distance gate, plus manual verification of unresolved cases. Per-record method recorded in `geoSource`.",
       "derived": "2026-07-20",
       "geoSourceLegend": {
-        "manual:campus": 463,
-        "nominatim:name+city": 336,
+        "manual:campus": 464,
+        "nominatim:name+city": 359,
         "manual:city": 218,
+        "nominatim:city": 149,
         "nominatim:name (audited)": 85,
-        "nominatim:city": 76,
-        "nominatim:name": 20,
+        "nominatim:name": 23,
         "manual:campus (audited)": 5
       },
       "geoSourceCounts": {
-        "manual:campus": 463,
-        "nominatim:name+city": 336,
+        "manual:campus": 464,
+        "nominatim:name+city": 359,
         "manual:city": 218,
+        "nominatim:city": 149,
         "nominatim:name (audited)": 85,
-        "nominatim:city": 76,
-        "nominatim:name": 20,
+        "nominatim:name": 23,
         "manual:campus (audited)": 5
       },
-      "campusLevel": 573,
-      "cityCentroidOnly": 630
+      "campusLevel": 577,
+      "cityCentroidOnly": 726
     },
     "graduatesPerYear": {
       "nature": "Values are annual-graduate estimates, expressed as ranges. They are indicative, not official institutional statistics.",
       "imputation": "Records originally lacking a figure were imputed from the median of peer institutions in this dataset (same country and institution type where n>=3, widening to type, then to all). Imputed records carry `graduatesEstimated: true`.",
       "imputedCount": 298,
       "note2026-10": "842 records carry 'Not published' (no intake or graduate figure on the programme page); the rest carry ranges, either collected, peer-imputed, or derived from published intake caps.",
-      "notPublishedCount": 886
+      "notPublishedCount": 986,
+      "note2026-11": "India records (added 2026-11-06/07) carry 'Not published' unless the institution publishes an intake or graduate figure."
     },
     "cost": {
       "unit": "indicative tuition in each record's costCurrency (local currency; per year unless the record states otherwise in its sources).",
       "note": "Ranges run from the lowest to the highest published yearly fee (e.g. home to international, or across the record's programmes), taken from the institution's own pages or, where the institution publishes none, an official national source (e.g. Türkiye's ÖSYM programme guide, Oman's Ministry of Higher Education guide). Per-credit or whole-programme fees are converted to a yearly figure (standard full-time load, or total divided by stated duration). '0' = no tuition charged (e.g. state-university places for citizens, funded places). '-' = fee not published.",
-      "numericRecords": 1143,
+      "numericRecords": 1243,
       "notPublishedRecords": 60,
-      "note2026-11": "Where state-funded or grant places exist alongside paid places (e.g. Kazakhstan state grants, Russian budget places, SENAI gratuity places), the range starts at 0 ('0 - X'). Some fees were supplied by the maintainer from official institutional sources during review."
+      "note2026-11": "Where state-funded or grant places exist alongside paid places (e.g. Kazakhstan state grants, Russian budget places, SENAI gratuity places), the range starts at 0 ('0 - X'). Some fees were supplied by the maintainer from official institutional sources during review.",
+      "note2026-11-india": "India: fees for colleges in Maharashtra are taken from the Fee Regulating Authority (FRA) 2026-27 approved-fee lists (tuition + development fee), or from the institution's own fee notice; the range starts at 0 where the CET seat matrix lists Tuition Fee Waiver Scheme (TFWS) seats. Whole-programme totals are divided by the programme duration."
     },
     "verificationLevel": {
       "legend": {
@@ -165,7 +168,7 @@
       },
       "counts": {
         "1": 37,
-        "2": 1165,
+        "2": 1265,
         "3": 1
       }
     },
@@ -176,8 +179,8 @@
         "computingTerms": 25,
         "domainTerms": 15
       },
-      "recordsWithComputingTopic": 1158,
-      "recordsWithDomain": 1127,
+      "recordsWithComputingTopic": 1302,
+      "recordsWithDomain": 1272,
       "tagging": {
         "rubric": "tagging-rubric.md",
         "rule": "Tag a topic only where the institution's own pages show a named course/module or an explicit programme learning outcome; applied uniformly to all institutions. CAD, programming, GIS or 3D visualisation on their own do not qualify a record.",
@@ -192,15 +195,17 @@
     "lastChecked": "ISO date a record's programme/fee data was last verified against source; null = not yet verified in this provenance system"
   },
   "knownLimitations": [
-    "630 institutions are pinned to a city/state-capital location rather than the exact campus (geoSource 'nominatim:city', 'manual:city', 'manual:state capital', 'manual:regional capital').",
-    "886 graduatesPerYear values are 'Not published'; all graduate figures are indicative, not official statistics.",
+    "726 institutions are pinned to a location other than an audited campus point (geoSource 'nominatim:name+city', 'nominatim:city', 'manual:city'); 367 of these are city or regional-capital centroids rather than the campus.",
+    "986 graduatesPerYear values are 'Not published'; all graduate figures are indicative, not official statistics.",
     "60 cost values are '-' because the institution does not publish the fee (enquiry-gated, apprenticeship-funded, calculator-only, or price on request).",
     "'0' cost conflates fully free tuition with tuition-free programmes that still charge semester/administrative contributions.",
     "Cost figures are current-year rates and will drift; re-verify against source before citing.",
-    "Coverage gaps: Africa, East Asia (except Mongolia), South-East Asia, India, Bangladesh, Sri Lanka and Iran have not yet been swept; Central America and the Caribbean are partial. Azerbaijan, Lebanon, Israel and Kuwait were re-swept only partially. In Türkiye, Yemen, Kazakhstan, Uzbekistan, Kyrgyzstan, Tajikistan, Russia, Pakistan and Nepal, institutions whose curricula were unreachable or unpublished are not yet confirmed either way.",
+    "Coverage gaps: Africa, East Asia (except Mongolia), South-East Asia, Bangladesh, Sri Lanka and Iran have not yet been swept; Central America and the Caribbean are partial. Azerbaijan, Lebanon, Israel and Kuwait were re-swept only partially. In Türkiye, Yemen, Kazakhstan, Uzbekistan, Kyrgyzstan, Tajikistan, Russia, Pakistan and Nepal, institutions whose curricula were unreachable or unpublished are not yet confirmed either way. India has been swept for Maharashtra only (plus IIT Bombay); other states are pending.",
     "Russia: many university sites block automated access; 5 Russian records (FEFU, IVGPU, PNIPU, USPTU, SPbTI) are kept at verificationLevel 1 on programme-name or course-name evidence only, and may carry a single computing tag.",
     "Pakistan: BS/B.E. Civil Engineering Technology programmes follow a national model scheme; only institutions whose own published scheme names the 'Computer Aided Drawing and Building Information Modelling' course (or equivalent BIM content) are included. Schemes using the older 'Computer Aided Building Modeling and Design' course without BIM content are excluded.",
-    "Generic AI courses (e.g. 'Basics of AI', 'Artificial Intelligence' taught by computing departments) are tagged AI & Machine Learning; where they are a record's only computing evidence the record is held at verificationLevel 1."
+    "Generic AI courses (e.g. 'Basics of AI', 'Artificial Intelligence' taught by computing departments) are tagged AI & Machine Learning; where they are a record's only computing evidence the record is held at verificationLevel 1.",
+    "India (Maharashtra): affiliated colleges are tagged from their affiliating university's common syllabus where it is compulsory for all colleges (Savitribai Phule Pune University 2024 pattern; University of Mumbai NEP second year and M.E. Construction Engineering & Management R-2022). Electives in a common university syllabus count only where the college is known to run them; Dr. Babasaheb Ambedkar Technological University (DBATU) colleges are excluded because BIM appears only in an open-elective module. Autonomous colleges are tagged from their own published syllabi; colleges that publish no syllabus, or whose site is unreachable, are not included. Programme-structure documents that list course titles without syllabus content are not treated as evidence.",
+    "India: 73 of 100 Indian records use city-level geocodes (geoSource 'nominatim:city')."
   ],
   "validation": {
     "method": "Stratified random sample (seed=42, region-stratified), each institution checked against its own programme pages under tagging-rubric.md.",
@@ -212,7 +217,7 @@
     "overTagged": 0,
     "underTaggedRate": "52% of verified (100% of single-tag records)",
     "mostCommonlyOmitted": "AI & Machine Learning",
-    "recordsVerifiedToDate": 1203,
-    "censusStatus": "In progress (38/309 verified). Sample rate (>50% under-tagged) warrants full verification; CESI campuses corrected via shared national-programme evidence. Priority: <=2-tag population. Records verified under the rubric carry lastChecked. | 2026-07-22: added 21 Chile records (South America pilot), each verified against its own programme page and link-checked; all at verificationLevel 2. | 2026-10-12: gap audit added 18 institutions and new programmes to existing records, each verified against official programme pages; lastChecked set to 2026-10-12 on 39 records. | 2026-10-29 to 2026-11-02: single-tag audit across all countries; records failing the rule (CAD, programming, GIS or visualisation only; generic curricula; unreachable or non-existent programmes) removed, failing programmes dropped at programme level, qualifying programmes added at institution level. Caucasus and Levant re-sweep added 7 institutions (Georgia 4, Azerbaijan 1, Lebanon 2). 117 records carry lastChecked on or after 2026-10-29. | 2026-11-02: UAE and Qatar sweep from the CAA register and university catalogues (UAE 16 institutions, Qatar 1), including doctoral routes; yearly fees taken only from official university pages. | 2026-11-03: Gulf, Iraq, Türkiye and Yemen sweep (Saudi Arabia 6, Oman 4, Kuwait 1, Bahrain 3, Iraq 2, Türkiye +6 and 3 updated, Yemen 1); recurring CPD counted only with a dedicated course page and evidence of recurrence."
+    "recordsVerifiedToDate": 1303,
+    "censusStatus": "In progress (38/309 verified). Sample rate (>50% under-tagged) warrants full verification; CESI campuses corrected via shared national-programme evidence. Priority: <=2-tag population. Records verified under the rubric carry lastChecked. | 2026-07-22: added 21 Chile records (South America pilot), each verified against its own programme page and link-checked; all at verificationLevel 2. | 2026-10-12: gap audit added 18 institutions and new programmes to existing records, each verified against official programme pages; lastChecked set to 2026-10-12 on 39 records. | 2026-10-29 to 2026-11-02: single-tag audit across all countries; records failing the rule (CAD, programming, GIS or visualisation only; generic curricula; unreachable or non-existent programmes) removed, failing programmes dropped at programme level, qualifying programmes added at institution level. Caucasus and Levant re-sweep added 7 institutions (Georgia 4, Azerbaijan 1, Lebanon 2). 117 records carry lastChecked on or after 2026-10-29. | 2026-11-02: UAE and Qatar sweep from the CAA register and university catalogues (UAE 16 institutions, Qatar 1), including doctoral routes; yearly fees taken only from official university pages. | 2026-11-03: Gulf, Iraq, Türkiye and Yemen sweep (Saudi Arabia 6, Oman 4, Kuwait 1, Bahrain 3, Iraq 2, Türkiye +6 and 3 updated, Yemen 1); recurring CPD counted only with a dedicated course page and evidence of recurrence. | 2026-11-06 to 2026-11-07: India (Maharashtra) sweep: 99 institutions added from the CET Cell 2026-27 seat matrix, FRA 2026-27 fee lists and each college's own syllabus documents (SPPU-affiliated 47, Mumbai University-affiliated 26, autonomous colleges and universities 26, including COEP, VJTI, IIT Bombay and NICMAR); all at verificationLevel 2."
   }
 }
