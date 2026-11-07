@@ -42959,23 +42959,25 @@
     "topics": [
       "BIM",
       "CAD/CAM",
+      "Programming",
       "Civil Engineering",
       "Infrastructure Engineering"
     ],
     "computingTopics": [
       "BIM",
-      "CAD/CAM"
+      "CAD/CAM",
+      "Programming"
     ],
     "domains": [
       "Civil Engineering",
       "Infrastructure Engineering"
     ],
-    "verificationLevel": 1,
+    "verificationLevel": 2,
     "website": "https://maua.br/graduacao/engenharia-civil",
     "lat": -23.618,
     "lon": -46.565,
     "geoSource": "manual:city",
-    "lastChecked": "2026-11-03",
+    "lastChecked": "2026-11-07",
     "region": "South America",
     "costCurrency": "BRL"
   },
@@ -43446,12 +43448,12 @@
       "Civil Engineering",
       "Infrastructure Engineering"
     ],
-    "verificationLevel": 1,
+    "verificationLevel": 2,
     "website": "https://www.usjt.br/cursos/graduacao/engenharia-civil-bacharelado/",
     "lat": -23.626,
     "lon": -46.572,
     "geoSource": "manual:city",
-    "lastChecked": "2026-11-03",
+    "lastChecked": "2026-11-07",
     "region": "South America",
     "costCurrency": "BRL"
   },
@@ -55670,12 +55672,12 @@
     "domains": [
       "Architecture"
     ],
-    "verificationLevel": 1,
+    "verificationLevel": 2,
     "website": "https://hu.edu.ye",
     "lat": 14.5068,
     "lon": 49.0607,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-11-03",
+    "lastChecked": "2026-11-07",
     "region": "Western Asia",
     "costCurrency": "USD"
   },
@@ -56132,49 +56134,6 @@
     "lat": 41.2581,
     "lon": 69.2208,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-11-03",
-    "region": "Central Asia",
-    "costCurrency": "UZS"
-  },
-  {
-    "name": "Tashkent University of Architecture and Civil Engineering (TACEU)",
-    "country": "Uzbekistan",
-    "city": "Tashkent",
-    "programs": [
-      "PhD (Tayanch doktorantura) in Civil Engineering"
-    ],
-    "programLinks": [
-      "https://taqu.uz/toskent-arxitektura-qurilis-universitetida-2027-yil-ucun-oliy-talimdan-keyingi-talimga-qabul-boyica-kiris-imtihonlari-va-suhbatlar-jadvali"
-    ],
-    "accreditation": [
-      "-"
-    ],
-    "language": "Uzbek / Russian",
-    "mode": "Full-time",
-    "delivery": "Presential",
-    "cost": "0 - 26,000,000",
-    "graduatesPerYear": "Not published",
-    "topics": [
-      "BIM",
-      "Digital Twins",
-      "Parametric & Generative Design",
-      "GIS & BIM Integration",
-      "Civil Engineering"
-    ],
-    "computingTopics": [
-      "BIM",
-      "Digital Twins",
-      "Parametric & Generative Design",
-      "GIS & BIM Integration"
-    ],
-    "domains": [
-      "Civil Engineering"
-    ],
-    "verificationLevel": 1,
-    "website": "https://taqu.uz",
-    "lat": 41.35972,
-    "lon": 69.30472,
-    "geoSource": "manual:campus",
     "lastChecked": "2026-11-03",
     "region": "Central Asia",
     "costCurrency": "UZS"
@@ -57665,12 +57624,12 @@
     "domains": [
       "Civil Engineering"
     ],
-    "verificationLevel": 1,
+    "verificationLevel": 2,
     "website": "https://cust.edu.pk",
     "lat": 33.5451,
     "lon": 73.1858,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-11-04",
+    "lastChecked": "2026-11-07",
     "region": "Southern Asia",
     "costCurrency": "PKR"
   },
@@ -62666,6 +62625,133 @@
     "lat": 18.5214,
     "lon": 73.8545,
     "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "National Institute of Technology Srinagar (NIT Srinagar)",
+    "country": "India",
+    "city": "Srinagar",
+    "programs": [
+      "B.Tech Civil Engineering",
+      "M.Tech Structural Engineering"
+    ],
+    "programLinks": [
+      "https://nitsri.ac.in/Department/DisplayDeptPage.aspx?page=eacio&ItemID=makmk&nDeptID=c",
+      "https://nitsri.ac.in/Department/DisplayDeptPage.aspx?page=eacio&ItemID=makmk&nDeptID=c"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "21000 - 128000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "nD BIM",
+      "Collaborative Workflows",
+      "Civil Engineering",
+      "Structural Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "nD BIM",
+      "Collaborative Workflows"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Structural Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://nitsri.ac.in",
+    "lat": 34.1244,
+    "lon": 74.8416,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Shri Mata Vaishno Devi University (SMVDU)",
+    "country": "India",
+    "city": "Katra",
+    "programs": [
+      "B.Tech Civil Engineering"
+    ],
+    "programLinks": [
+      "https://smvdu.ac.in/academics/faculty-of-engineering/school-of-civil-engineering/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "158740",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "AI & Machine Learning",
+      "Programming",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "AI & Machine Learning",
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://smvdu.ac.in",
+    "lat": 32.9414,
+    "lon": 74.9542,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Shoolini University",
+    "country": "India",
+    "city": "Solan",
+    "programs": [
+      "B.Tech Civil Engineering (AI & Geoinformatics)"
+    ],
+    "programLinks": [
+      "https://shooliniuniversity.com/b-tech-civil-engineering"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "189000 - 206000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "AI & Machine Learning",
+      "Programming",
+      "Data Management",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "AI & Machine Learning",
+      "Programming",
+      "Data Management"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://shooliniuniversity.com",
+    "lat": 30.8645,
+    "lon": 77.1181,
+    "geoSource": "nominatim:name+city",
     "lastChecked": "2026-11-06",
     "region": "Southern Asia",
     "costCurrency": "INR"
