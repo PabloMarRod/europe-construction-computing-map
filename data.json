@@ -9198,7 +9198,7 @@
     "costCurrency": "EUR"
   },
   {
-    "name": "FH Oberösterreich (Campus Wels)",
+    "name": "FH Oberösterreich",
     "country": "Austria",
     "city": "Wels",
     "programs": [
@@ -9239,7 +9239,10 @@
     "geoSource": "nominatim:name+city",
     "lastChecked": "2026-07-20",
     "region": "Europe",
-    "costCurrency": "EUR"
+    "costCurrency": "EUR",
+    "aliases": [
+      "FH Oberösterreich (Campus Wels)"
+    ]
   },
   {
     "name": "Universität für Weiterbildung Krems",
@@ -11695,7 +11698,7 @@
     "costCurrency": "EUR"
   },
   {
-    "name": "Instituto Superior Técnico (IST), University of Lisbon",
+    "name": "Universidade de Lisboa",
     "country": "Portugal",
     "city": "Lisbon",
     "programs": [
@@ -11745,7 +11748,10 @@
     "lastChecked": "2026-07-20",
     "region": "Europe",
     "costCurrency": "EUR",
-    "graduatesEstimated": true
+    "graduatesEstimated": true,
+    "aliases": [
+      "Instituto Superior Técnico (IST), University of Lisbon"
+    ]
   },
   {
     "name": "University of Porto (FEUP)",
@@ -11956,7 +11962,7 @@
     "graduatesEstimated": true
   },
   {
-    "name": "NOVA FCT (Faculdade de Ciências e Tecnologia, Universidade NOVA de Lisboa)",
+    "name": "Universidade NOVA de Lisboa",
     "country": "Portugal",
     "city": "Caparica (Lisbon)",
     "programs": [
@@ -12002,7 +12008,10 @@
     "geoSource": "nominatim:name (audited)",
     "lastChecked": "2026-07-20",
     "region": "Europe",
-    "costCurrency": "EUR"
+    "costCurrency": "EUR",
+    "aliases": [
+      "NOVA FCT (Faculdade de Ciências e Tecnologia, Universidade NOVA de Lisboa)"
+    ]
   },
   {
     "name": "Universidade da Beira Interior (UBI)",
@@ -12111,7 +12120,7 @@
     "costCurrency": "EUR"
   },
   {
-    "name": "ISEP — Instituto Superior de Engenharia do Porto (Politécnico do Porto)",
+    "name": "Politécnico do Porto",
     "country": "Portugal",
     "city": "Porto",
     "programs": [
@@ -12165,7 +12174,10 @@
     "geoSource": "nominatim:name (audited)",
     "lastChecked": "2026-10-12",
     "region": "Europe",
-    "costCurrency": "EUR"
+    "costCurrency": "EUR",
+    "aliases": [
+      "ISEP — Instituto Superior de Engenharia do Porto (Politécnico do Porto)"
+    ]
   },
   {
     "name": "Instituto Politécnico de Setúbal (IPS)",
@@ -15558,7 +15570,7 @@
     "costCurrency": "EUR"
   },
   {
-    "name": "Conservatoire national des arts et métiers (Cnam) — Pays de la Loire (Clisson)",
+    "name": "Conservatoire national des arts et métiers (Cnam) — Clisson",
     "country": "France",
     "city": "Clisson",
     "programs": [
@@ -15602,7 +15614,10 @@
     "geoSource": "manual:campus",
     "lastChecked": "2026-10-12",
     "region": "Europe",
-    "costCurrency": "EUR"
+    "costCurrency": "EUR",
+    "aliases": [
+      "Conservatoire national des arts et métiers (Cnam) — Pays de la Loire (Clisson)"
+    ]
   },
   {
     "name": "Technical University of Civil Engineering Bucharest (UTCB)",
@@ -20289,7 +20304,7 @@
     "costCurrency": "USD"
   },
   {
-    "name": "Université Saint-Joseph de Beyrouth (USJ) — Campus des Sciences et Technologies",
+    "name": "Université Saint-Joseph de Beyrouth (USJ)",
     "country": "Lebanon",
     "city": "Dekwaneh",
     "programs": [
@@ -20329,7 +20344,10 @@
     "geoSource": "manual:campus",
     "lastChecked": "2026-10-17",
     "region": "Western Asia",
-    "costCurrency": "USD"
+    "costCurrency": "USD",
+    "aliases": [
+      "Université Saint-Joseph de Beyrouth (USJ) — Campus des Sciences et Technologies"
+    ]
   },
   {
     "name": "American University of Beirut (AUB)",
@@ -20379,7 +20397,7 @@
     "costCurrency": "USD"
   },
   {
-    "name": "Conservatoire national des arts et métiers (Cnam) — ISAE-Cnam Liban",
+    "name": "Conservatoire national des arts et métiers (Cnam) — Liban",
     "country": "Lebanon",
     "city": "Dekwaneh",
     "programs": [
@@ -20425,7 +20443,10 @@
     "geoSource": "manual:campus",
     "lastChecked": "2026-10-17",
     "region": "Western Asia",
-    "costCurrency": "USD"
+    "costCurrency": "USD",
+    "aliases": [
+      "Conservatoire national des arts et métiers (Cnam) — ISAE-Cnam Liban"
+    ]
   },
   {
     "name": "Association of Engineers, Architects and Graduates in Technological Sciences in Israel (AEAI)",
@@ -28398,7 +28419,7 @@
     "costCurrency": "CAD"
   },
   {
-    "name": "California Polytechnic State University, San Luis Obispo (Cal Poly)",
+    "name": "California Polytechnic State University (Cal Poly)",
     "country": "United States",
     "city": "San Luis Obispo",
     "programs": [
@@ -28436,7 +28457,10 @@
     "geoSource": "manual:campus",
     "lastChecked": "2026-10-12",
     "region": "North America",
-    "costCurrency": "USD"
+    "costCurrency": "USD",
+    "aliases": [
+      "California Polytechnic State University, San Luis Obispo (Cal Poly)"
+    ]
   },
   {
     "name": "California State University, Chico",
@@ -29084,7 +29108,7 @@
     "costCurrency": "USD"
   },
   {
-    "name": "California State Polytechnic University, Pomona (Cal Poly Pomona)",
+    "name": "California State Polytechnic University (Cal Poly Pomona)",
     "country": "United States",
     "city": "Pomona",
     "programs": [
@@ -29122,7 +29146,10 @@
     "geoSource": "manual:campus",
     "lastChecked": "2026-10-12",
     "region": "North America",
-    "costCurrency": "USD"
+    "costCurrency": "USD",
+    "aliases": [
+      "California State Polytechnic University, Pomona (Cal Poly Pomona)"
+    ]
   },
   {
     "name": "Cosumnes River College (Los Rios Community College District)",
@@ -31120,7 +31147,7 @@
     "costCurrency": "USD"
   },
   {
-    "name": "University of Nevada, Las Vegas (UNLV)",
+    "name": "University of Nevada (UNLV)",
     "country": "United States",
     "city": "Las Vegas",
     "programs": [
@@ -31168,7 +31195,10 @@
     "geoSource": "manual:campus",
     "lastChecked": "2026-10-12",
     "region": "North America",
-    "costCurrency": "USD"
+    "costCurrency": "USD",
+    "aliases": [
+      "University of Nevada, Las Vegas (UNLV)"
+    ]
   },
   {
     "name": "University of California, San Diego (UCSD)",
@@ -35566,7 +35596,7 @@
     "costCurrency": "USD"
   },
   {
-    "name": "University of Tennessee, Knoxville (UTK)",
+    "name": "University of Tennessee (UTK)",
     "country": "United States",
     "city": "Knoxville",
     "programs": [
@@ -35608,7 +35638,10 @@
     "geoSource": "manual:campus",
     "lastChecked": "2026-10-12",
     "region": "North America",
-    "costCurrency": "USD"
+    "costCurrency": "USD",
+    "aliases": [
+      "University of Tennessee, Knoxville (UTK)"
+    ]
   },
   {
     "name": "Mississippi State University (MSU)",
@@ -37578,7 +37611,7 @@
     "costCurrency": "USD"
   },
   {
-    "name": "Wake Technical Community College — Campus Southern Wake",
+    "name": "Wake Technical Community College",
     "country": "United States",
     "city": "Raleigh",
     "programs": [
@@ -37618,7 +37651,10 @@
     "geoSource": "manual:campus",
     "lastChecked": "2026-10-30",
     "region": "North America",
-    "costCurrency": "USD"
+    "costCurrency": "USD",
+    "aliases": [
+      "Wake Technical Community College — Campus Southern Wake"
+    ]
   },
   {
     "name": "The Citadel",
@@ -38047,7 +38083,7 @@
     "costCurrency": "USD"
   },
   {
-    "name": "University of Maryland, College Park (UMD)",
+    "name": "University of Maryland (UMD)",
     "country": "United States",
     "city": "College Park",
     "programs": [
@@ -38091,7 +38127,10 @@
     "geoSource": "manual:campus",
     "lastChecked": "2026-10-12",
     "region": "North America",
-    "costCurrency": "USD"
+    "costCurrency": "USD",
+    "aliases": [
+      "University of Maryland, College Park (UMD)"
+    ]
   },
   {
     "name": "Montgomery College",
@@ -38325,7 +38364,7 @@
     "costCurrency": "USD"
   },
   {
-    "name": "Delaware Technical Community College — Campus Dover (Terry)",
+    "name": "Delaware Technical Community College",
     "country": "United States",
     "city": "Dover",
     "programs": [
@@ -38363,10 +38402,13 @@
     "geoSource": "manual:campus",
     "lastChecked": "2026-10-12",
     "region": "North America",
-    "costCurrency": "USD"
+    "costCurrency": "USD",
+    "aliases": [
+      "Delaware Technical Community College — Campus Dover (Terry)"
+    ]
   },
   {
-    "name": "Pennsylvania State University (Penn State) — Campus University Park",
+    "name": "Pennsylvania State University (Penn State)",
     "country": "United States",
     "city": "University Park",
     "programs": [
@@ -38430,7 +38472,10 @@
     "geoSource": "manual:campus",
     "lastChecked": "2026-10-12",
     "region": "North America",
-    "costCurrency": "USD"
+    "costCurrency": "USD",
+    "aliases": [
+      "Pennsylvania State University (Penn State) — Campus University Park"
+    ]
   },
   {
     "name": "Carnegie Mellon University (CMU)",
@@ -38535,7 +38580,7 @@
     "costCurrency": "USD"
   },
   {
-    "name": "Thomas Jefferson University — Campus East Falls",
+    "name": "Thomas Jefferson University",
     "country": "United States",
     "city": "Philadelphia",
     "programs": [
@@ -38573,7 +38618,10 @@
     "geoSource": "manual:campus",
     "lastChecked": "2026-10-12",
     "region": "North America",
-    "costCurrency": "USD"
+    "costCurrency": "USD",
+    "aliases": [
+      "Thomas Jefferson University — Campus East Falls"
+    ]
   },
   {
     "name": "Anoka Technical College",
@@ -38746,7 +38794,7 @@
     "costCurrency": "USD"
   },
   {
-    "name": "Rutgers, The State University of New Jersey — Campus New Brunswick",
+    "name": "Rutgers, The State University of New Jersey",
     "country": "United States",
     "city": "Piscataway",
     "programs": [
@@ -38792,7 +38840,10 @@
     "geoSource": "manual:campus",
     "lastChecked": "2026-10-12",
     "region": "North America",
-    "costCurrency": "USD"
+    "costCurrency": "USD",
+    "aliases": [
+      "Rutgers, The State University of New Jersey — Campus New Brunswick"
+    ]
   },
   {
     "name": "Bergen Community College",
@@ -39173,7 +39224,7 @@
     "costCurrency": "USD"
   },
   {
-    "name": "New York University (NYU) — Tandon School of Engineering",
+    "name": "New York University (NYU)",
     "country": "United States",
     "city": "Brooklyn",
     "programs": [
@@ -39223,7 +39274,10 @@
     "geoSource": "manual:campus",
     "lastChecked": "2026-10-12",
     "region": "North America",
-    "costCurrency": "USD"
+    "costCurrency": "USD",
+    "aliases": [
+      "New York University (NYU) — Tandon School of Engineering"
+    ]
   },
   {
     "name": "Columbia University",
@@ -39938,7 +39992,7 @@
     "costCurrency": "USD"
   },
   {
-    "name": "Harvard University — Graduate School of Design",
+    "name": "Harvard University",
     "country": "United States",
     "city": "Cambridge",
     "programs": [
@@ -39982,7 +40036,10 @@
     "geoSource": "manual:campus",
     "lastChecked": "2026-10-12",
     "region": "North America",
-    "costCurrency": "USD"
+    "costCurrency": "USD",
+    "aliases": [
+      "Harvard University — Graduate School of Design"
+    ]
   },
   {
     "name": "Central Connecticut State University (CCSU)",
@@ -40026,7 +40083,7 @@
     "costCurrency": "USD"
   },
   {
-    "name": "Vermont State University — Campus Randolph",
+    "name": "Vermont State University",
     "country": "United States",
     "city": "Randolph Center",
     "programs": [
@@ -40068,7 +40125,10 @@
     "geoSource": "manual:campus",
     "lastChecked": "2026-10-12",
     "region": "North America",
-    "costCurrency": "USD"
+    "costCurrency": "USD",
+    "aliases": [
+      "Vermont State University — Campus Randolph"
+    ]
   },
   {
     "name": "Norwich University",
@@ -44645,7 +44705,7 @@
     "costCurrency": "GYD"
   },
   {
-    "name": "UTU/CETP — Instituto de Enseñanza de la Construcción (IEC)",
+    "name": "UTU/CETP",
     "country": "Uruguay",
     "city": "Montevideo",
     "programs": [
@@ -44683,7 +44743,10 @@
     "geoSource": "manual:campus",
     "lastChecked": "2026-10-30",
     "region": "South America",
-    "costCurrency": "UYU"
+    "costCurrency": "UYU",
+    "aliases": [
+      "UTU/CETP — Instituto de Enseñanza de la Construcción (IEC)"
+    ]
   },
   {
     "name": "CFT Estatal Región de Los Lagos",
@@ -46826,7 +46889,7 @@
     "costCurrency": "CLP"
   },
   {
-    "name": "SENAI São Paulo — Departamento Regional",
+    "name": "SENAI São Paulo",
     "country": "Brazil",
     "city": "São Paulo",
     "programs": [
@@ -46865,10 +46928,13 @@
     "geoSource": "manual:city",
     "lastChecked": "2026-07-27",
     "region": "South America",
-    "costCurrency": "BRL"
+    "costCurrency": "BRL",
+    "aliases": [
+      "SENAI São Paulo — Departamento Regional"
+    ]
   },
   {
-    "name": "SENAI Rio Grande do Sul — Departamento Regional",
+    "name": "SENAI Rio Grande do Sul",
     "country": "Brazil",
     "city": "Porto Alegre",
     "programs": [
@@ -46907,10 +46973,13 @@
     "geoSource": "manual:city",
     "lastChecked": "2026-07-27",
     "region": "South America",
-    "costCurrency": "BRL"
+    "costCurrency": "BRL",
+    "aliases": [
+      "SENAI Rio Grande do Sul — Departamento Regional"
+    ]
   },
   {
-    "name": "SENAI Paraná — Departamento Regional",
+    "name": "SENAI Paraná",
     "country": "Brazil",
     "city": "Curitiba",
     "programs": [
@@ -46949,10 +47018,13 @@
     "geoSource": "manual:city",
     "lastChecked": "2026-07-27",
     "region": "South America",
-    "costCurrency": "BRL"
+    "costCurrency": "BRL",
+    "aliases": [
+      "SENAI Paraná — Departamento Regional"
+    ]
   },
   {
-    "name": "SENAI Bahia — Departamento Regional",
+    "name": "SENAI Bahia",
     "country": "Brazil",
     "city": "Salvador",
     "programs": [
@@ -46991,10 +47063,13 @@
     "geoSource": "manual:city",
     "lastChecked": "2026-07-27",
     "region": "South America",
-    "costCurrency": "BRL"
+    "costCurrency": "BRL",
+    "aliases": [
+      "SENAI Bahia — Departamento Regional"
+    ]
   },
   {
-    "name": "SENAI Alagoas — Departamento Regional",
+    "name": "SENAI Alagoas",
     "country": "Brazil",
     "city": "Maceió",
     "programs": [
@@ -47033,10 +47108,13 @@
     "geoSource": "manual:city",
     "lastChecked": "2026-07-27",
     "region": "South America",
-    "costCurrency": "BRL"
+    "costCurrency": "BRL",
+    "aliases": [
+      "SENAI Alagoas — Departamento Regional"
+    ]
   },
   {
-    "name": "SENAI Espírito Santo — Departamento Regional",
+    "name": "SENAI Espírito Santo",
     "country": "Brazil",
     "city": "Vitória",
     "programs": [
@@ -47075,10 +47153,13 @@
     "geoSource": "manual:city",
     "lastChecked": "2026-07-27",
     "region": "South America",
-    "costCurrency": "BRL"
+    "costCurrency": "BRL",
+    "aliases": [
+      "SENAI Espírito Santo — Departamento Regional"
+    ]
   },
   {
-    "name": "SENAI Goiás — Departamento Regional",
+    "name": "SENAI Goiás",
     "country": "Brazil",
     "city": "Goiânia",
     "programs": [
@@ -47117,10 +47198,13 @@
     "geoSource": "manual:city",
     "lastChecked": "2026-07-27",
     "region": "South America",
-    "costCurrency": "BRL"
+    "costCurrency": "BRL",
+    "aliases": [
+      "SENAI Goiás — Departamento Regional"
+    ]
   },
   {
-    "name": "SENAI Paraíba — Departamento Regional",
+    "name": "SENAI Paraíba",
     "country": "Brazil",
     "city": "João Pessoa",
     "programs": [
@@ -47159,10 +47243,13 @@
     "geoSource": "manual:city",
     "lastChecked": "2026-07-27",
     "region": "South America",
-    "costCurrency": "BRL"
+    "costCurrency": "BRL",
+    "aliases": [
+      "SENAI Paraíba — Departamento Regional"
+    ]
   },
   {
-    "name": "SENAI Piauí — Departamento Regional",
+    "name": "SENAI Piauí",
     "country": "Brazil",
     "city": "Teresina",
     "programs": [
@@ -47201,10 +47288,13 @@
     "geoSource": "manual:city",
     "lastChecked": "2026-07-27",
     "region": "South America",
-    "costCurrency": "BRL"
+    "costCurrency": "BRL",
+    "aliases": [
+      "SENAI Piauí — Departamento Regional"
+    ]
   },
   {
-    "name": "SENAI Minas Gerais — Departamento Regional",
+    "name": "SENAI Minas Gerais",
     "country": "Brazil",
     "city": "Belo Horizonte",
     "programs": [
@@ -47243,10 +47333,13 @@
     "geoSource": "manual:city",
     "lastChecked": "2026-07-27",
     "region": "South America",
-    "costCurrency": "BRL"
+    "costCurrency": "BRL",
+    "aliases": [
+      "SENAI Minas Gerais — Departamento Regional"
+    ]
   },
   {
-    "name": "SENAI Rio de Janeiro — Departamento Regional",
+    "name": "SENAI Rio de Janeiro",
     "country": "Brazil",
     "city": "Rio de Janeiro",
     "programs": [
@@ -47285,10 +47378,13 @@
     "geoSource": "manual:city",
     "lastChecked": "2026-07-27",
     "region": "South America",
-    "costCurrency": "BRL"
+    "costCurrency": "BRL",
+    "aliases": [
+      "SENAI Rio de Janeiro — Departamento Regional"
+    ]
   },
   {
-    "name": "SENAI Santa Catarina — Departamento Regional",
+    "name": "SENAI Santa Catarina",
     "country": "Brazil",
     "city": "Florianópolis",
     "programs": [
@@ -47327,10 +47423,13 @@
     "geoSource": "manual:city",
     "lastChecked": "2026-07-27",
     "region": "South America",
-    "costCurrency": "BRL"
+    "costCurrency": "BRL",
+    "aliases": [
+      "SENAI Santa Catarina — Departamento Regional"
+    ]
   },
   {
-    "name": "SENAI Pernambuco — Departamento Regional",
+    "name": "SENAI Pernambuco",
     "country": "Brazil",
     "city": "Recife",
     "programs": [
@@ -47369,10 +47468,13 @@
     "geoSource": "manual:city",
     "lastChecked": "2026-07-27",
     "region": "South America",
-    "costCurrency": "BRL"
+    "costCurrency": "BRL",
+    "aliases": [
+      "SENAI Pernambuco — Departamento Regional"
+    ]
   },
   {
-    "name": "SENAI Ceará — Departamento Regional",
+    "name": "SENAI Ceará",
     "country": "Brazil",
     "city": "Fortaleza",
     "programs": [
@@ -47411,10 +47513,13 @@
     "geoSource": "manual:city",
     "lastChecked": "2026-07-27",
     "region": "South America",
-    "costCurrency": "BRL"
+    "costCurrency": "BRL",
+    "aliases": [
+      "SENAI Ceará — Departamento Regional"
+    ]
   },
   {
-    "name": "SENAI Mato Grosso — Departamento Regional",
+    "name": "SENAI Mato Grosso",
     "country": "Brazil",
     "city": "Cuiabá",
     "programs": [
@@ -47453,10 +47558,13 @@
     "geoSource": "manual:city",
     "lastChecked": "2026-07-27",
     "region": "South America",
-    "costCurrency": "BRL"
+    "costCurrency": "BRL",
+    "aliases": [
+      "SENAI Mato Grosso — Departamento Regional"
+    ]
   },
   {
-    "name": "SENAI Pará — Departamento Regional",
+    "name": "SENAI Pará",
     "country": "Brazil",
     "city": "Belém",
     "programs": [
@@ -47495,10 +47603,13 @@
     "geoSource": "manual:city",
     "lastChecked": "2026-07-27",
     "region": "South America",
-    "costCurrency": "BRL"
+    "costCurrency": "BRL",
+    "aliases": [
+      "SENAI Pará — Departamento Regional"
+    ]
   },
   {
-    "name": "SENAI Rio Grande do Norte — Departamento Regional",
+    "name": "SENAI Rio Grande do Norte",
     "country": "Brazil",
     "city": "Natal",
     "programs": [
@@ -47537,10 +47648,13 @@
     "geoSource": "manual:city",
     "lastChecked": "2026-07-27",
     "region": "South America",
-    "costCurrency": "BRL"
+    "costCurrency": "BRL",
+    "aliases": [
+      "SENAI Rio Grande do Norte — Departamento Regional"
+    ]
   },
   {
-    "name": "SENAI Amapá — Departamento Regional",
+    "name": "SENAI Amapá",
     "country": "Brazil",
     "city": "Macapá",
     "programs": [
@@ -47579,10 +47693,13 @@
     "geoSource": "manual:city",
     "lastChecked": "2026-07-27",
     "region": "South America",
-    "costCurrency": "BRL"
+    "costCurrency": "BRL",
+    "aliases": [
+      "SENAI Amapá — Departamento Regional"
+    ]
   },
   {
-    "name": "SENAI Roraima — Departamento Regional",
+    "name": "SENAI Roraima",
     "country": "Brazil",
     "city": "Boa Vista",
     "programs": [
@@ -47621,10 +47738,13 @@
     "geoSource": "manual:city",
     "lastChecked": "2026-07-27",
     "region": "South America",
-    "costCurrency": "BRL"
+    "costCurrency": "BRL",
+    "aliases": [
+      "SENAI Roraima — Departamento Regional"
+    ]
   },
   {
-    "name": "SENAI Rondônia — Departamento Regional",
+    "name": "SENAI Rondônia",
     "country": "Brazil",
     "city": "Porto Velho",
     "programs": [
@@ -47663,10 +47783,13 @@
     "geoSource": "manual:city",
     "lastChecked": "2026-07-27",
     "region": "South America",
-    "costCurrency": "BRL"
+    "costCurrency": "BRL",
+    "aliases": [
+      "SENAI Rondônia — Departamento Regional"
+    ]
   },
   {
-    "name": "SENAI Maranhão — Departamento Regional",
+    "name": "SENAI Maranhão",
     "country": "Brazil",
     "city": "São Luís",
     "programs": [
@@ -47705,10 +47828,13 @@
     "geoSource": "manual:city",
     "lastChecked": "2026-07-27",
     "region": "South America",
-    "costCurrency": "BRL"
+    "costCurrency": "BRL",
+    "aliases": [
+      "SENAI Maranhão — Departamento Regional"
+    ]
   },
   {
-    "name": "SENAI Tocantins — Departamento Regional",
+    "name": "SENAI Tocantins",
     "country": "Brazil",
     "city": "Palmas",
     "programs": [
@@ -47747,10 +47873,13 @@
     "geoSource": "manual:city",
     "lastChecked": "2026-07-27",
     "region": "South America",
-    "costCurrency": "BRL"
+    "costCurrency": "BRL",
+    "aliases": [
+      "SENAI Tocantins — Departamento Regional"
+    ]
   },
   {
-    "name": "SENAI Mato Grosso do Sul — Departamento Regional",
+    "name": "SENAI Mato Grosso do Sul",
     "country": "Brazil",
     "city": "Campo Grande",
     "programs": [
@@ -47789,10 +47918,13 @@
     "geoSource": "manual:city",
     "lastChecked": "2026-07-27",
     "region": "South America",
-    "costCurrency": "BRL"
+    "costCurrency": "BRL",
+    "aliases": [
+      "SENAI Mato Grosso do Sul — Departamento Regional"
+    ]
   },
   {
-    "name": "SENAI Distrito Federal — Departamento Regional",
+    "name": "SENAI Distrito Federal",
     "country": "Brazil",
     "city": "Brasília",
     "programs": [
@@ -47831,10 +47963,13 @@
     "geoSource": "manual:city",
     "lastChecked": "2026-07-27",
     "region": "South America",
-    "costCurrency": "BRL"
+    "costCurrency": "BRL",
+    "aliases": [
+      "SENAI Distrito Federal — Departamento Regional"
+    ]
   },
   {
-    "name": "SENAI Sergipe — Departamento Regional",
+    "name": "SENAI Sergipe",
     "country": "Brazil",
     "city": "Aracaju",
     "programs": [
@@ -47873,7 +48008,10 @@
     "geoSource": "manual:city",
     "lastChecked": "2026-07-27",
     "region": "South America",
-    "costCurrency": "BRL"
+    "costCurrency": "BRL",
+    "aliases": [
+      "SENAI Sergipe — Departamento Regional"
+    ]
   },
   {
     "name": "SENA (Servicio Nacional de Aprendizaje)",
@@ -49136,7 +49274,7 @@
     "lastChecked": "2026-07-28",
     "region": "South America",
     "costCurrency": "EUR",
-    "name": "Université de Guyane — Cayenne (Campus de Troubiran)",
+    "name": "Université de Guyane — Cayenne",
     "country": "French Guiana",
     "city": "Cayenne",
     "programs": [
@@ -49176,7 +49314,10 @@
     "website": "https://www.univ-guyane.fr/",
     "lat": 4.9247,
     "lon": -52.3141,
-    "geoSource": "manual:campus"
+    "geoSource": "manual:campus",
+    "aliases": [
+      "Université de Guyane — Cayenne (Campus de Troubiran)"
+    ]
   },
   {
     "language": "French",
@@ -49187,7 +49328,7 @@
     "lastChecked": "2026-07-28",
     "region": "South America",
     "costCurrency": "EUR",
-    "name": "Université de Guyane — IUT de Kourou",
+    "name": "Université de Guyane — Kourou",
     "country": "French Guiana",
     "city": "Kourou",
     "programs": [
@@ -49221,7 +49362,10 @@
     "website": "https://www.univ-guyane.fr/",
     "lat": 5.1553,
     "lon": -52.6497,
-    "geoSource": "manual:campus"
+    "geoSource": "manual:campus",
+    "aliases": [
+      "Université de Guyane — IUT de Kourou"
+    ]
   },
   {
     "language": "Spanish",
@@ -52129,7 +52273,7 @@
     "costCurrency": "MXN"
   },
   {
-    "name": "Universidad Panamericana (UP) — Campus Guadalajara",
+    "name": "Universidad Panamericana (UP)",
     "country": "Mexico",
     "city": "Zapopan",
     "programs": [
@@ -52165,7 +52309,10 @@
     "geoSource": "manual:campus",
     "lastChecked": "2026-10-12",
     "region": "Central America",
-    "costCurrency": "MXN"
+    "costCurrency": "MXN",
+    "aliases": [
+      "Universidad Panamericana (UP) — Campus Guadalajara"
+    ]
   },
   {
     "name": "Tecnológico de Monterrey — Campus Chihuahua",
@@ -54402,7 +54549,7 @@
     "costCurrency": "AED"
   },
   {
-    "name": "BITS Pilani, Dubai Campus",
+    "name": "Birla Institute of Technology and Science, Pilani (BITS Pilani)",
     "country": "United Arab Emirates",
     "city": "Dubai",
     "programs": [
@@ -54440,7 +54587,10 @@
     "geoSource": "manual:campus",
     "lastChecked": "2026-11-02",
     "region": "Western Asia",
-    "costCurrency": "AED"
+    "costCurrency": "AED",
+    "aliases": [
+      "BITS Pilani, Dubai Campus"
+    ]
   },
   {
     "name": "Zayed University",
@@ -55323,7 +55473,7 @@
     "costCurrency": "KWD"
   },
   {
-    "name": "Cihan University – Sulaimaniya",
+    "name": "Cihan University",
     "country": "Iraq",
     "city": "Sulaymaniyah",
     "programs": [
@@ -55361,7 +55511,10 @@
     "geoSource": "nominatim:name+city",
     "lastChecked": "2026-11-02",
     "region": "Western Asia",
-    "costCurrency": "IQD"
+    "costCurrency": "IQD",
+    "aliases": [
+      "Cihan University – Sulaimaniya"
+    ]
   },
   {
     "name": "Erbil Polytechnic University (EPU)",
@@ -55682,7 +55835,7 @@
     "costCurrency": "USD"
   },
   {
-    "name": "Istanbul Technical University – TRNC Education and Research Campuses (ITU-TRNC)",
+    "name": "Istanbul Technical University — TRNC",
     "country": "Cyprus",
     "city": "Famagusta",
     "programs": [
@@ -55724,7 +55877,10 @@
     "geoSource": "nominatim:city",
     "lastChecked": "2026-11-03",
     "region": "Western Asia",
-    "costCurrency": "TRY"
+    "costCurrency": "TRY",
+    "aliases": [
+      "Istanbul Technical University – TRNC Education and Research Campuses (ITU-TRNC)"
+    ]
   },
   {
     "name": "Istanbul Gelişim University",
@@ -56655,7 +56811,7 @@
     "costCurrency": "RUB"
   },
   {
-    "name": "Cheboksary Institute (branch) of Moscow Polytechnic University",
+    "name": "Moscow Polytechnic University",
     "country": "Russia",
     "city": "Cheboksary",
     "programs": [
@@ -56695,7 +56851,10 @@
     "geoSource": "manual:city",
     "lastChecked": "2026-11-04",
     "region": "Europe",
-    "costCurrency": "RUB"
+    "costCurrency": "RUB",
+    "aliases": [
+      "Cheboksary Institute (branch) of Moscow Polytechnic University"
+    ]
   },
   {
     "name": "South Ural State University (SUSU)",
@@ -57091,7 +57250,7 @@
     "costCurrency": "RUB"
   },
   {
-    "name": "Kazan Federal University, Naberezhnye Chelny Institute",
+    "name": "Kazan Federal University",
     "country": "Russia",
     "city": "Naberezhnye Chelny",
     "programs": [
@@ -57129,7 +57288,10 @@
     "geoSource": "manual:city",
     "lastChecked": "2026-11-04",
     "region": "Europe",
-    "costCurrency": "RUB"
+    "costCurrency": "RUB",
+    "aliases": [
+      "Kazan Federal University, Naberezhnye Chelny Institute"
+    ]
   },
   {
     "name": "Far Eastern Federal University (FEFU)",
@@ -57403,7 +57565,7 @@
     "costCurrency": "AFN"
   },
   {
-    "name": "National University of Sciences and Technology (NUST), NUST Institute of Civil Engineering",
+    "name": "National University of Sciences and Technology (NUST)",
     "country": "Pakistan",
     "city": "Islamabad",
     "programs": [
@@ -57451,7 +57613,10 @@
     "geoSource": "nominatim:name+city",
     "lastChecked": "2026-11-04",
     "region": "Southern Asia",
-    "costCurrency": "PKR"
+    "costCurrency": "PKR",
+    "aliases": [
+      "National University of Sciences and Technology (NUST), NUST Institute of Civil Engineering"
+    ]
   },
   {
     "name": "NED University of Engineering and Technology",
@@ -57634,7 +57799,7 @@
     "costCurrency": "PKR"
   },
   {
-    "name": "National University of Computer and Emerging Sciences (FAST-NUCES), Lahore Campus",
+    "name": "National University of Computer and Emerging Sciences (FAST-NUCES)",
     "country": "Pakistan",
     "city": "Lahore",
     "programs": [
@@ -57672,7 +57837,10 @@
     "geoSource": "manual:campus",
     "lastChecked": "2026-11-04",
     "region": "Southern Asia",
-    "costCurrency": "PKR"
+    "costCurrency": "PKR",
+    "aliases": [
+      "National University of Computer and Emerging Sciences (FAST-NUCES), Lahore Campus"
+    ]
   },
   {
     "name": "Mir Chakar Khan Rind University of Technology (MCUT)",
@@ -57753,7 +57921,7 @@
     "costCurrency": "PKR"
   },
   {
-    "name": "University of Rasul (UoR), Mandi Bahauddin",
+    "name": "University of Rasul (UoR)",
     "country": "Pakistan",
     "city": "Mandi Bahauddin",
     "programs": [
@@ -57791,7 +57959,10 @@
     "geoSource": "nominatim:name+city",
     "lastChecked": "2026-11-04",
     "region": "Southern Asia",
-    "costCurrency": "PKR"
+    "costCurrency": "PKR",
+    "aliases": [
+      "University of Rasul (UoR), Mandi Bahauddin"
+    ]
   },
   {
     "name": "Grand Asian University Sialkot (GAUS)",
@@ -57876,7 +58047,7 @@
     "costCurrency": "PKR"
   },
   {
-    "name": "Mirpur University of Science and Technology (MUST), Mirpur Institute of Technology",
+    "name": "Mirpur University of Science and Technology (MUST)",
     "country": "Pakistan",
     "city": "Mirpur",
     "programs": [
@@ -57914,7 +58085,10 @@
     "geoSource": "nominatim:name+city",
     "lastChecked": "2026-11-04",
     "region": "Southern Asia",
-    "costCurrency": "PKR"
+    "costCurrency": "PKR",
+    "aliases": [
+      "Mirpur University of Science and Technology (MUST), Mirpur Institute of Technology"
+    ]
   },
   {
     "name": "The University of Chenab",
@@ -58001,7 +58175,7 @@
     "costCurrency": "PKR"
   },
   {
-    "name": "University of Engineering and Technology (UET) Lahore, Department of Architecture",
+    "name": "University of Engineering and Technology (UET) Lahore",
     "country": "Pakistan",
     "city": "Lahore",
     "programs": [
@@ -58041,7 +58215,10 @@
     "geoSource": "nominatim:name+city",
     "lastChecked": "2026-11-04",
     "region": "Southern Asia",
-    "costCurrency": "PKR"
+    "costCurrency": "PKR",
+    "aliases": [
+      "University of Engineering and Technology (UET) Lahore, Department of Architecture"
+    ]
   },
   {
     "name": "Indus Valley School of Art and Architecture",
@@ -58085,7 +58262,7 @@
     "costCurrency": "PKR"
   },
   {
-    "name": "Tribhuvan University, Institute of Engineering, Pulchowk Campus",
+    "name": "Tribhuvan University",
     "country": "Nepal",
     "city": "Lalitpur",
     "programs": [
@@ -58131,10 +58308,13 @@
     "geoSource": "nominatim:name+city",
     "lastChecked": "2026-11-04",
     "region": "Southern Asia",
-    "costCurrency": "NPR"
+    "costCurrency": "NPR",
+    "aliases": [
+      "Tribhuvan University, Institute of Engineering, Pulchowk Campus"
+    ]
   },
   {
-    "name": "Sardar Patel College of Engineering (SPCE), Mumbai",
+    "name": "Sardar Patel College of Engineering (SPCE)",
     "country": "India",
     "city": "Mumbai",
     "programs": [
@@ -58172,7 +58352,10 @@
     "geoSource": "nominatim:name+city",
     "lastChecked": "2026-11-05",
     "region": "Southern Asia",
-    "costCurrency": "INR"
+    "costCurrency": "INR",
+    "aliases": [
+      "Sardar Patel College of Engineering (SPCE), Mumbai"
+    ]
   },
   {
     "name": "Brahma Valley College of Engineering and Research Institute",
@@ -58222,7 +58405,7 @@
     "costCurrency": "INR"
   },
   {
-    "name": "MET's Institute of Engineering, Bhujbal Knowledge City",
+    "name": "MET's Institute of Engineering",
     "country": "India",
     "city": "Nashik",
     "programs": [
@@ -58266,7 +58449,10 @@
     "geoSource": "nominatim:city",
     "lastChecked": "2026-11-06",
     "region": "Southern Asia",
-    "costCurrency": "INR"
+    "costCurrency": "INR",
+    "aliases": [
+      "MET's Institute of Engineering, Bhujbal Knowledge City"
+    ]
   },
   {
     "name": "Dr. Vithalrao Vikhe Patil College of Engineering",
@@ -58504,7 +58690,7 @@
     "costCurrency": "INR"
   },
   {
-    "name": "Parikrama Group of Institutions, Faculty of Engineering",
+    "name": "Parikrama Group of Institutions",
     "country": "India",
     "city": "Kashti",
     "programs": [
@@ -58548,7 +58734,10 @@
     "geoSource": "nominatim:city",
     "lastChecked": "2026-11-06",
     "region": "Southern Asia",
-    "costCurrency": "INR"
+    "costCurrency": "INR",
+    "aliases": [
+      "Parikrama Group of Institutions, Faculty of Engineering"
+    ]
   },
   {
     "name": "Sandip Institute of Engineering and Management",
@@ -58974,7 +59163,7 @@
     "costCurrency": "INR"
   },
   {
-    "name": "Government College of Engineering and Research, Avasari Khurd",
+    "name": "Government College of Engineering and Research",
     "country": "India",
     "city": "Manchar",
     "programs": [
@@ -59018,7 +59207,10 @@
     "geoSource": "nominatim:city",
     "lastChecked": "2026-11-06",
     "region": "Southern Asia",
-    "costCurrency": "INR"
+    "costCurrency": "INR",
+    "aliases": [
+      "Government College of Engineering and Research, Avasari Khurd"
+    ]
   },
   {
     "name": "Padmabhooshan Vasantdada Patil Institute of Technology",
@@ -59397,7 +59589,7 @@
     "costCurrency": "INR"
   },
   {
-    "name": "Dr. D. Y. Patil Institute of Technology, Pimpri",
+    "name": "Dr. D. Y. Patil Institute of Technology",
     "country": "India",
     "city": "Pune",
     "programs": [
@@ -59441,7 +59633,10 @@
     "geoSource": "nominatim:city",
     "lastChecked": "2026-11-06",
     "region": "Southern Asia",
-    "costCurrency": "INR"
+    "costCurrency": "INR",
+    "aliases": [
+      "Dr. D. Y. Patil Institute of Technology, Pimpri"
+    ]
   },
   {
     "name": "Shivnagar Vidya Prasarak Mandal's College of Engineering",
@@ -59726,7 +59921,7 @@
     "costCurrency": "INR"
   },
   {
-    "name": "Dattakala Group of Institutions, Faculty of Engineering",
+    "name": "Dattakala Group of Institutions",
     "country": "India",
     "city": "Daund",
     "programs": [
@@ -59770,7 +59965,10 @@
     "geoSource": "nominatim:city",
     "lastChecked": "2026-11-06",
     "region": "Southern Asia",
-    "costCurrency": "INR"
+    "costCurrency": "INR",
+    "aliases": [
+      "Dattakala Group of Institutions, Faculty of Engineering"
+    ]
   },
   {
     "name": "Trinity Academy of Engineering",
@@ -60055,7 +60253,7 @@
     "costCurrency": "INR"
   },
   {
-    "name": "Suman Ramesh Tulsiani Technical Campus, Faculty of Engineering",
+    "name": "Suman Ramesh Tulsiani Technical Campus",
     "country": "India",
     "city": "Kamshet",
     "programs": [
@@ -60099,7 +60297,10 @@
     "geoSource": "nominatim:city",
     "lastChecked": "2026-11-06",
     "region": "Southern Asia",
-    "costCurrency": "INR"
+    "costCurrency": "INR",
+    "aliases": [
+      "Suman Ramesh Tulsiani Technical Campus, Faculty of Engineering"
+    ]
   },
   {
     "name": "RMD Sinhgad School of Engineering",
@@ -60290,7 +60491,7 @@
     "costCurrency": "INR"
   },
   {
-    "name": "Bharati Vidyapeeth's College of Engineering, Lavale",
+    "name": "Bharati Vidyapeeth's College of Engineering",
     "country": "India",
     "city": "Pune",
     "programs": [
@@ -60334,7 +60535,10 @@
     "geoSource": "nominatim:city",
     "lastChecked": "2026-11-06",
     "region": "Southern Asia",
-    "costCurrency": "INR"
+    "costCurrency": "INR",
+    "aliases": [
+      "Bharati Vidyapeeth's College of Engineering, Lavale"
+    ]
   },
   {
     "name": "Dr. G. V. Shingre VPS College of Engineering and Technology",
@@ -60425,7 +60629,7 @@
     "costCurrency": "INR"
   },
   {
-    "name": "MGM's College of Engineering and Technology, Kamothe",
+    "name": "MGM's College of Engineering and Technology",
     "country": "India",
     "city": "Navi Mumbai",
     "programs": [
@@ -60463,7 +60667,10 @@
     "geoSource": "nominatim:city",
     "lastChecked": "2026-11-06",
     "region": "Southern Asia",
-    "costCurrency": "INR"
+    "costCurrency": "INR",
+    "aliases": [
+      "MGM's College of Engineering and Technology, Kamothe"
+    ]
   },
   {
     "name": "M.H. Saboo Siddik College of Engineering",
@@ -61787,7 +61994,7 @@
     "costCurrency": "INR"
   },
   {
-    "name": "KIT's College of Engineering (Autonomous), Kolhapur",
+    "name": "KIT's College of Engineering (Autonomous)",
     "country": "India",
     "city": "Kolhapur",
     "programs": [
@@ -61835,10 +62042,13 @@
     "geoSource": "nominatim:city",
     "lastChecked": "2026-11-06",
     "region": "Southern Asia",
-    "costCurrency": "INR"
+    "costCurrency": "INR",
+    "aliases": [
+      "KIT's College of Engineering (Autonomous), Kolhapur"
+    ]
   },
   {
-    "name": "Walchand Institute of Technology, Solapur",
+    "name": "Walchand Institute of Technology",
     "country": "India",
     "city": "Solapur",
     "programs": [
@@ -61876,7 +62086,10 @@
     "geoSource": "nominatim:name+city",
     "lastChecked": "2026-11-06",
     "region": "Southern Asia",
-    "costCurrency": "INR"
+    "costCurrency": "INR",
+    "aliases": [
+      "Walchand Institute of Technology, Solapur"
+    ]
   },
   {
     "name": "St. John College of Engineering and Management (SJCEM)",
@@ -61958,7 +62171,8 @@
     "geoSource": "nominatim:name+city",
     "lastChecked": "2026-11-06",
     "region": "Southern Asia",
-    "costCurrency": "INR"
+    "costCurrency": "INR",
+    "aliases": []
   },
   {
     "name": "Amrutvahini College of Engineering",
@@ -62047,7 +62261,7 @@
     "costCurrency": "INR"
   },
   {
-    "name": "Karmaveer Bhaurao Patil College of Engineering, Satara",
+    "name": "Karmaveer Bhaurao Patil College of Engineering",
     "country": "India",
     "city": "Satara",
     "programs": [
@@ -62093,7 +62307,10 @@
     "geoSource": "nominatim:name+city",
     "lastChecked": "2026-11-06",
     "region": "Southern Asia",
-    "costCurrency": "INR"
+    "costCurrency": "INR",
+    "aliases": [
+      "Karmaveer Bhaurao Patil College of Engineering, Satara"
+    ]
   },
   {
     "name": "Pimpri Chinchwad College of Engineering and Research (PCCOE&R)",
@@ -62489,7 +62706,7 @@
     "costCurrency": "INR"
   },
   {
-    "name": "NICMAR University, Pune",
+    "name": "NICMAR University",
     "country": "India",
     "city": "Pune",
     "programs": [
@@ -62539,10 +62756,13 @@
     "geoSource": "nominatim:name+city",
     "lastChecked": "2026-11-06",
     "region": "Southern Asia",
-    "costCurrency": "INR"
+    "costCurrency": "INR",
+    "aliases": [
+      "NICMAR University, Pune"
+    ]
   },
   {
-    "name": "Anjuman-I-Islam's Kalsekar Technical Campus (AIKTC), School of Engineering and Technology",
+    "name": "Anjuman-I-Islam's Kalsekar Technical Campus (AIKTC)",
     "country": "India",
     "city": "Panvel",
     "programs": [
@@ -62582,10 +62802,13 @@
     "geoSource": "nominatim:city",
     "lastChecked": "2026-11-06",
     "region": "Southern Asia",
-    "costCurrency": "INR"
+    "costCurrency": "INR",
+    "aliases": [
+      "Anjuman-I-Islam's Kalsekar Technical Campus (AIKTC), School of Engineering and Technology"
+    ]
   },
   {
-    "name": "K.J.'s Trinity College of Engineering and Research, Pisoli",
+    "name": "K.J.'s Trinity College of Engineering and Research",
     "country": "India",
     "city": "Pune",
     "programs": [
@@ -62627,7 +62850,10 @@
     "geoSource": "nominatim:city",
     "lastChecked": "2026-11-06",
     "region": "Southern Asia",
-    "costCurrency": "INR"
+    "costCurrency": "INR",
+    "aliases": [
+      "K.J.'s Trinity College of Engineering and Research, Pisoli"
+    ]
   },
   {
     "name": "National Institute of Technology Srinagar (NIT Srinagar)",
@@ -62757,7 +62983,7 @@
     "costCurrency": "INR"
   },
   {
-    "name": "Institute of Technology, University of Kashmir (Zakura Campus)",
+    "name": "University of Kashmir",
     "country": "India",
     "city": "Srinagar",
     "programs": [
@@ -62793,7 +63019,10 @@
     "geoSource": "nominatim:city",
     "lastChecked": "2026-11-06",
     "region": "Southern Asia",
-    "costCurrency": "INR"
+    "costCurrency": "INR",
+    "aliases": [
+      "Institute of Technology, University of Kashmir (Zakura Campus)"
+    ]
   },
   {
     "name": "SSM College of Engineering",
@@ -63261,7 +63490,7 @@
     "costCurrency": "INR"
   },
   {
-    "name": "RICS School of Built Environment, Amity University Noida",
+    "name": "Amity University Noida",
     "country": "India",
     "city": "Noida",
     "programs": [
@@ -63299,7 +63528,10 @@
     "geoSource": "nominatim:city",
     "lastChecked": "2026-11-06",
     "region": "Southern Asia",
-    "costCurrency": "INR"
+    "costCurrency": "INR",
+    "aliases": [
+      "RICS School of Built Environment, Amity University Noida"
+    ]
   },
   {
     "name": "Shiv Nadar University",
@@ -63468,7 +63700,7 @@
     "costCurrency": "INR"
   },
   {
-    "name": "RICS School of Built Environment, Amity University Mumbai",
+    "name": "Amity University Mumbai",
     "country": "India",
     "city": "Panvel",
     "programs": [
@@ -63508,7 +63740,10 @@
     "geoSource": "nominatim:city",
     "lastChecked": "2026-11-06",
     "region": "Southern Asia",
-    "costCurrency": "INR"
+    "costCurrency": "INR",
+    "aliases": [
+      "RICS School of Built Environment, Amity University Mumbai"
+    ]
   },
   {
     "name": "MIT Art, Design and Technology University (MIT-ADT)",
@@ -63556,7 +63791,7 @@
     "costCurrency": "INR"
   },
   {
-    "name": "Sardar Vallabhbhai National Institute of Technology (SVNIT), Surat",
+    "name": "Sardar Vallabhbhai National Institute of Technology (SVNIT)",
     "country": "India",
     "city": "Surat",
     "programs": [
@@ -63598,7 +63833,10 @@
     "geoSource": "nominatim:name+city",
     "lastChecked": "2026-11-06",
     "region": "Southern Asia",
-    "costCurrency": "INR"
+    "costCurrency": "INR",
+    "aliases": [
+      "Sardar Vallabhbhai National Institute of Technology (SVNIT), Surat"
+    ]
   },
   {
     "name": "Pandit Deendayal Energy University (PDEU)",
