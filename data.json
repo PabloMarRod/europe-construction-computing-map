@@ -54553,9 +54553,11 @@
     "country": "United Arab Emirates",
     "city": "Dubai",
     "programs": [
-      "B.E. Architectural and Urban Engineering"
+      "B.E. Architectural and Urban Engineering",
+      "B.E. Civil Engineering"
     ],
     "programLinks": [
+      "https://www.bits-pilani.ac.in/dubai/civil-engineering/programscourses/",
       "https://www.bits-pilani.ac.in/dubai/civil-engineering/programscourses/"
     ],
     "accreditation": [
@@ -54585,7 +54587,7 @@
     "lat": 25.1288,
     "lon": 55.4205,
     "geoSource": "manual:campus",
-    "lastChecked": "2026-11-02",
+    "lastChecked": "2026-11-10",
     "region": "Western Asia",
     "costCurrency": "AED",
     "aliases": [
@@ -63894,10 +63896,12 @@
     "country": "India",
     "city": "Ahmedabad",
     "programs": [
-      "Master’s in Construction Engineering & Management"
+      "Master’s in Construction Engineering & Management",
+      "M.Tech Building Energy Performance"
     ],
     "programLinks": [
-      "https://cept.ac.in/73/533/programs/master-s-in-construction-engineering-management"
+      "https://cept.ac.in/73/533/programs/master-s-in-construction-engineering-management",
+      "https://cept.ac.in/faculty-of-technology/master-s-in-building-energy-performance"
     ],
     "accreditation": [
       "-"
@@ -63905,7 +63909,7 @@
     "language": "English",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "527000",
+    "cost": "468000 - 527000",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
@@ -63913,24 +63917,28 @@
       "Collaborative Workflows",
       "Digital Construction",
       "Construction Management",
-      "Project Management"
+      "Project Management",
+      "Energy Performance",
+      "Sustainability"
     ],
     "computingTopics": [
       "BIM",
       "BIM Software",
       "Collaborative Workflows",
-      "Digital Construction"
+      "Digital Construction",
+      "Energy Performance"
     ],
     "domains": [
       "Construction Management",
-      "Project Management"
+      "Project Management",
+      "Sustainability"
     ],
     "verificationLevel": 2,
     "website": "https://cept.ac.in",
     "lat": 23.0379,
     "lon": 72.5498,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-11-06",
+    "lastChecked": "2026-11-10",
     "region": "Southern Asia",
     "costCurrency": "INR"
   },
@@ -65085,6 +65093,180 @@
     "website": "https://bbdu.ac.in",
     "lat": 26.8467,
     "lon": 80.9462,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-10",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Malaviya National Institute of Technology Jaipur (MNIT Jaipur)",
+    "country": "India",
+    "city": "Jaipur",
+    "programs": [
+      "B.Tech Civil Engineering with Honours (Industrial Track)"
+    ],
+    "programLinks": [
+      "https://mnit.ac.in/dept_civil/academics"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "63500 - 150000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Collaborative Workflows",
+      "Robotics & Automation",
+      "Digital Fabrication",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Collaborative Workflows",
+      "Robotics & Automation",
+      "Digital Fabrication"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://mnit.ac.in",
+    "lat": 26.8636,
+    "lon": 75.8103,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-10",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Swami Keshvanand Institute of Technology, Management & Gramothan (SKIT)",
+    "country": "India",
+    "city": "Jaipur",
+    "programs": [
+      "B.Tech Civil Engineering"
+    ],
+    "programLinks": [
+      "https://www.skit.ac.in/departments/ce-menu.html"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "115000 - 123000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "AI & Machine Learning",
+      "BIM Software",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "AI & Machine Learning",
+      "BIM Software"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.skit.ac.in",
+    "lat": 26.9124,
+    "lon": 75.7873,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-10",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "JECRC University",
+    "country": "India",
+    "city": "Jaipur",
+    "programs": [
+      "B.Tech Civil Engineering (in collaboration with L&T EduTech)"
+    ],
+    "programLinks": [
+      "https://jecrcuniversity.edu.in/admission/b-tech-civil-engineering-lt-edutech/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "175000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "ISO 19650",
+      "Collaborative Workflows",
+      "VR/AR",
+      "IoT",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "ISO 19650",
+      "Collaborative Workflows",
+      "VR/AR",
+      "IoT"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://jecrcuniversity.edu.in",
+    "lat": 26.9124,
+    "lon": 75.7873,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-10",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Poornima University",
+    "country": "India",
+    "city": "Jaipur",
+    "programs": [
+      "B.Arch"
+    ],
+    "programLinks": [
+      "https://www.poornima.edu.in/academics/faculty-of-planning-architecture/barch/vision-mission-learning-outcomes"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "117500",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.poornima.edu.in",
+    "lat": 26.9124,
+    "lon": 75.7873,
     "geoSource": "nominatim:city",
     "lastChecked": "2026-11-10",
     "region": "Southern Asia",
