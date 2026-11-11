@@ -64370,10 +64370,14 @@
     "country": "India",
     "city": "Indore",
     "programs": [
+      "B.Tech Civil Engineering",
       "B.Tech Civil Engineering (AI and ML)",
-      "B.Tech Civil Engineering (Smart Cities and Generative AI)"
+      "B.Tech Civil Engineering (Smart Cities and Generative AI)",
+      "M.Tech Construction Technology and Management"
     ],
     "programLinks": [
+      "https://www.svvv.edu.in/Civil.html",
+      "https://www.svvv.edu.in/Civil.html",
       "https://www.svvv.edu.in/Civil.html",
       "https://www.svvv.edu.in/Civil.html"
     ],
@@ -64383,19 +64387,27 @@
     "language": "English",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "125000 - 175000",
+    "cost": "70000 - 175000",
     "graduatesPerYear": "Not published",
     "topics": [
+      "BIM",
+      "BIM Software",
+      "Data Management",
       "AI & Machine Learning",
       "Smart Cities & Buildings",
-      "Civil Engineering"
+      "Civil Engineering",
+      "Construction Management"
     ],
     "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Data Management",
       "AI & Machine Learning",
       "Smart Cities & Buildings"
     ],
     "domains": [
-      "Civil Engineering"
+      "Civil Engineering",
+      "Construction Management"
     ],
     "verificationLevel": 2,
     "website": "https://www.svvv.edu.in",
@@ -64542,9 +64554,11 @@
     "country": "India",
     "city": "Bhopal",
     "programs": [
+      "B.Arch",
       "Master of Building Engineering and Management (MBEM)"
     ],
     "programLinks": [
+      "https://ar.spab.ac.in/",
       "https://www.bem.spab.ac.in/"
     ],
     "accreditation": [
@@ -64560,6 +64574,8 @@
       "Digital Twins",
       "AI & Machine Learning",
       "Digital Construction",
+      "Smart Cities & Buildings",
+      "Digital Fabrication",
       "Construction Management",
       "Architecture"
     ],
@@ -64567,7 +64583,9 @@
       "BIM",
       "Digital Twins",
       "AI & Machine Learning",
-      "Digital Construction"
+      "Digital Construction",
+      "Smart Cities & Buildings",
+      "Digital Fabrication"
     ],
     "domains": [
       "Construction Management",
@@ -64578,7 +64596,7 @@
     "lat": 23.2987,
     "lon": 77.2696,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-11-06",
+    "lastChecked": "2026-11-11",
     "region": "Southern Asia",
     "costCurrency": "INR"
   },
@@ -64587,10 +64605,10 @@
     "country": "India",
     "city": "Gwalior",
     "programs": [
-      "B.Tech Civil Engineering"
+      "B.Arch"
     ],
     "programLinks": [
-      "https://web.mitsgwalior.in/images/Departments/Civil/scheme%20syllabus/2024/BTech%20Civil%202022%20admitted%20syllabus.pdf"
+      "https://www.mitsgwalior.in/department.php?id=arch"
     ],
     "accreditation": [
       "-"
@@ -64598,19 +64616,19 @@
     "language": "English",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "150000 - 290000",
+    "cost": "85000 - 127000",
     "graduatesPerYear": "Not published",
     "topics": [
       "AI & Machine Learning",
-      "Programming",
-      "Civil Engineering"
+      "Digital Fabrication",
+      "Architecture"
     ],
     "computingTopics": [
       "AI & Machine Learning",
-      "Programming"
+      "Digital Fabrication"
     ],
     "domains": [
-      "Civil Engineering"
+      "Architecture"
     ],
     "verificationLevel": 2,
     "website": "https://web.mitsgwalior.in",
@@ -65449,6 +65467,182 @@
     "website": "https://www.spav.ac.in",
     "lat": 16.5058,
     "lon": 80.6564,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-11",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "IPS Academy, Institute of Engineering & Science",
+    "country": "India",
+    "city": "Indore",
+    "programs": [
+      "M.Tech Construction Planning and Management"
+    ],
+    "programLinks": [
+      "https://ies.ipsacademy.org/academics/academic-programs/m-e/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "62000 - 74000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Smart Cities & Buildings",
+      "Construction Management",
+      "Project Management",
+      "Risk & Safety Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Smart Cities & Buildings"
+    ],
+    "domains": [
+      "Construction Management",
+      "Project Management",
+      "Risk & Safety Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://ies.ipsacademy.org",
+    "lat": 22.7204,
+    "lon": 75.8682,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-11",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "VIT Bhopal University",
+    "country": "India",
+    "city": "Sehore",
+    "programs": [
+      "B.Arch"
+    ],
+    "programLinks": [
+      "https://vitbhopal.ac.in/architecture/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "285000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Parametric & Generative Design",
+      "VR/AR",
+      "AI & Machine Learning",
+      "Robotics & Automation",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Parametric & Generative Design",
+      "VR/AR",
+      "AI & Machine Learning",
+      "Robotics & Automation"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://vitbhopal.ac.in",
+    "lat": 23.0755,
+    "lon": 76.8498,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-11",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "SAGE University, Indore",
+    "country": "India",
+    "city": "Indore",
+    "programs": [
+      "B.Tech Civil Engineering"
+    ],
+    "programLinks": [
+      "https://sageuniversity.in/Courses/bachelor-of-technology-civil-engineering"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "60000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "AI & Machine Learning",
+      "Programming",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "AI & Machine Learning",
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://sageuniversity.in",
+    "lat": 22.6366,
+    "lon": 75.8523,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-11",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Maulana Azad National Institute of Technology (MANIT)",
+    "country": "India",
+    "city": "Bhopal",
+    "programs": [
+      "B.Tech Civil Engineering",
+      "B.Arch"
+    ],
+    "programLinks": [
+      "https://www.manit.ac.in/sites/default/files/B.Tech._Civil_Engineering.pdf",
+      "https://www.manit.ac.in/sites/default/files/documents/B.Arch%20program%20detailed%20syllabus%20June%202020%20FINAL%20REVISED%2024-09-2026.pdf"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "125000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Programming",
+      "Civil Engineering",
+      "Architecture",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Architecture",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.manit.ac.in",
+    "lat": 23.2134,
+    "lon": 77.4045,
     "geoSource": "nominatim:name+city",
     "lastChecked": "2026-11-11",
     "region": "Southern Asia",

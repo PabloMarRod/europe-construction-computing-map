@@ -33,8 +33,9 @@ Apply this identical threshold to every institution.
 - An approved programme document (curriculum, course programme, scheme of studies) remains valid evidence until it is superseded by a newer version or the programme closes, whatever its intake year.
 - A course counts only where an official source ties it to a named programme. A course list that does not say which programme it belongs to is not sufficient.
 - Where a national standard or model curriculum defines a degree (e.g. Russia's ФГОС ВО codes such as 08.04.01, Pakistan's BS/B.E. Civil Engineering Technology schemes), the code alone is not evidence: each institution's own profile, scheme or course document must show the computing content.
-- Generic AI courses (not applied to construction) are tagged AI & Machine Learning but, if they are a record's only computing evidence, the record is held at `verificationLevel` 1.
-- Each record should carry at least two computing tags supported by its evidence. Exception: level-1 records where only a programme or course name can be reached.
+- Generic AI courses (not applied to construction) are tagged AI & Machine Learning alongside other qualifying evidence, but do not qualify a programme on their own: a programme whose only computing evidence is generic AI is removed.
+- Each record must carry at least two computing tags supported by its evidence.
+- `verificationLevel` reflects confidence in the record's data (whether it was checked against the institution's own sources), not the amount or strength of computing evidence; content strength decides inclusion, never the level.
 - Doctoral programmes may qualify through the institution's own doctoral research (e.g. a dissertation defence or PhD project on BIM); staff research alone does not qualify a programme.
 - Where state-funded or grant places exist alongside paid places, the fee range starts at 0 (`0 - X`).
 - Searches use the formats `<INSTITUTION> bim or computing in construction programs` (programmes) and `<INSTITUTION> tuition per year for <PROGRAMME>` (fees), one search per institution, followed by the institution's own fee or admissions pages and a local-language search before a fee is left as `-`.
