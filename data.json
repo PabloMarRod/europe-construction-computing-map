@@ -7815,11 +7815,13 @@
     "graduatesPerYear": "Not published",
     "topics": [
       "Data Management",
+      "BIM",
       "Facility & Asset Management",
       "Sustainability"
     ],
     "computingTopics": [
-      "Data Management"
+      "Data Management",
+      "BIM"
     ],
     "domains": [
       "Facility & Asset Management",
@@ -7830,7 +7832,7 @@
     "lat": 51.50709,
     "lon": 0.07082,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-10-30",
+    "lastChecked": "2026-11-11",
     "region": "Europe",
     "costCurrency": "GBP"
   },
@@ -13270,13 +13272,15 @@
     "cost": "0",
     "graduatesPerYear": "15-20",
     "topics": [
+      "BIM",
+      "nD BIM",
       "Sustainability",
       "Construction Management",
-      "BIM",
       "Lean & Integrated Delivery"
     ],
     "computingTopics": [
-      "BIM"
+      "BIM",
+      "nD BIM"
     ],
     "domains": [
       "Sustainability",
@@ -13288,10 +13292,9 @@
     "lat": 43.4715,
     "lon": -3.80188,
     "geoSource": "nominatim:name (audited)",
-    "lastChecked": "2026-07-20",
+    "lastChecked": "2026-11-11",
     "region": "Europe",
-    "costCurrency": "EUR",
-    "graduatesEstimated": true
+    "costCurrency": "EUR"
   },
   {
     "name": "Structuralia",
@@ -16472,54 +16475,6 @@
     "region": "Europe",
     "costCurrency": "ALL",
     "graduatesEstimated": true
-  },
-  {
-    "name": "Polytechnic University of Tirana (PUT)",
-    "country": "Albania",
-    "city": "Tirana",
-    "programs": [
-      "MSc Civil Engineering",
-      "MSc Architecture and Urban Planning",
-      "BSc Civil Engineering",
-      "PhD Civil Engineering"
-    ],
-    "programLinks": [
-      "https://upt.edu.al/index.php?option=com_content&view=article&id=139&Itemid=185&lang=en",
-      "https://upt.edu.al/index.php?option=com_content&view=article&id=140&Itemid=187&lang=en",
-      "https://upt.edu.al/index.php?option=com_content&view=article&id=110&Itemid=183&lang=en",
-      "https://upt.edu.al/index.php?option=com_content&view=article&id=212&Itemid=243&lang=en"
-    ],
-    "accreditation": [
-      "APAAHE Albania"
-    ],
-    "language": "Albanian / English",
-    "mode": "Full-time / Part-time",
-    "delivery": "Presential / Hybrid",
-    "cost": "147,000 - 196,000",
-    "graduatesPerYear": "50-150",
-    "graduatesEstimated": true,
-    "topics": [
-      "BIM",
-      "Civil Engineering",
-      "Architecture",
-      "Sustainability"
-    ],
-    "computingTopics": [
-      "BIM"
-    ],
-    "domains": [
-      "Civil Engineering",
-      "Architecture",
-      "Sustainability"
-    ],
-    "verificationLevel": 2,
-    "website": "https://upt.edu.al/?lang=en",
-    "lat": 41.32815,
-    "lon": 19.81844,
-    "geoSource": "nominatim:city",
-    "lastChecked": "2026-07-20",
-    "region": "Europe",
-    "costCurrency": "ALL"
   },
   {
     "name": "EPOKA University",
@@ -30468,11 +30423,13 @@
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
+      "BIM Software",
       "Architecture",
       "Sustainability"
     ],
     "computingTopics": [
-      "BIM"
+      "BIM",
+      "BIM Software"
     ],
     "domains": [
       "Architecture",
@@ -30483,7 +30440,7 @@
     "lat": 47.70475,
     "lon": -122.16733,
     "geoSource": "manual:campus",
-    "lastChecked": "2026-10-30",
+    "lastChecked": "2026-11-11",
     "region": "North America",
     "costCurrency": "USD"
   },
@@ -30554,11 +30511,17 @@
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
+      "BIM Software",
+      "Collaborative Workflows",
+      "CAD/CAM",
       "Architecture",
       "Construction Management"
     ],
     "computingTopics": [
-      "BIM"
+      "BIM",
+      "BIM Software",
+      "Collaborative Workflows",
+      "CAD/CAM"
     ],
     "domains": [
       "Architecture",
@@ -30569,7 +30532,7 @@
     "lat": 61.19038,
     "lon": -149.82233,
     "geoSource": "manual:campus",
-    "lastChecked": "2026-10-30",
+    "lastChecked": "2026-11-11",
     "region": "North America",
     "costCurrency": "USD"
   },
@@ -30857,10 +30820,12 @@
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
+      "BIM Software",
       "Construction Management"
     ],
     "computingTopics": [
-      "BIM"
+      "BIM",
+      "BIM Software"
     ],
     "domains": [
       "Construction Management"
@@ -30870,7 +30835,7 @@
     "lat": 43.60328,
     "lon": -116.19941,
     "geoSource": "manual:campus",
-    "lastChecked": "2026-10-30",
+    "lastChecked": "2026-11-11",
     "region": "North America",
     "costCurrency": "USD"
   },
@@ -31666,10 +31631,12 @@
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
+      "BIM Software",
       "Architecture"
     ],
     "computingTopics": [
-      "BIM"
+      "BIM",
+      "BIM Software"
     ],
     "domains": [
       "Architecture"
@@ -31679,7 +31646,7 @@
     "lat": 39.74126,
     "lon": -105.00461,
     "geoSource": "manual:campus",
-    "lastChecked": "2026-10-30",
+    "lastChecked": "2026-11-11",
     "region": "North America",
     "costCurrency": "USD"
   },
@@ -32022,11 +31989,13 @@
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
+      "BIM Software",
       "Construction Management",
       "Sustainability"
     ],
     "computingTopics": [
-      "BIM"
+      "BIM",
+      "BIM Software"
     ],
     "domains": [
       "Construction Management",
@@ -32037,7 +32006,7 @@
     "lat": 35.07588,
     "lon": -106.62494,
     "geoSource": "manual:campus",
-    "lastChecked": "2026-10-30",
+    "lastChecked": "2026-11-11",
     "region": "North America",
     "costCurrency": "USD"
   },
@@ -33363,11 +33332,17 @@
     "graduatesPerYear": "Not published",
     "topics": [
       "AI & Machine Learning",
+      "BIM",
+      "Construction Informatics",
+      "Collaborative Workflows",
       "Construction Management",
       "Civil Engineering"
     ],
     "computingTopics": [
-      "AI & Machine Learning"
+      "AI & Machine Learning",
+      "BIM",
+      "Construction Informatics",
+      "Collaborative Workflows"
     ],
     "domains": [
       "Construction Management",
@@ -33378,7 +33353,7 @@
     "lat": 37.95324,
     "lon": -91.77427,
     "geoSource": "manual:campus",
-    "lastChecked": "2026-10-30",
+    "lastChecked": "2026-11-11",
     "region": "North America",
     "costCurrency": "USD"
   },
@@ -33625,10 +33600,12 @@
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
+      "BIM Software",
       "Construction Management"
     ],
     "computingTopics": [
-      "BIM"
+      "BIM",
+      "BIM Software"
     ],
     "domains": [
       "Construction Management"
@@ -33638,7 +33615,7 @@
     "lat": 30.21173,
     "lon": -92.01958,
     "geoSource": "manual:campus",
-    "lastChecked": "2026-10-30",
+    "lastChecked": "2026-11-11",
     "region": "North America",
     "costCurrency": "USD"
   },
@@ -33889,11 +33866,13 @@
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
+      "BIM Software",
       "Construction Management",
       "Architecture"
     ],
     "computingTopics": [
-      "BIM"
+      "BIM",
+      "BIM Software"
     ],
     "domains": [
       "Construction Management",
@@ -33904,7 +33883,7 @@
     "lat": 43.04577,
     "lon": -87.90794,
     "geoSource": "manual:campus",
-    "lastChecked": "2026-10-30",
+    "lastChecked": "2026-11-11",
     "region": "North America",
     "costCurrency": "USD"
   },
@@ -35041,11 +35020,13 @@
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
+      "BIM Software",
       "Construction Management",
       "Sustainability"
     ],
     "computingTopics": [
-      "BIM"
+      "BIM",
+      "BIM Software"
     ],
     "domains": [
       "Construction Management",
@@ -35056,7 +35037,7 @@
     "lat": 39.47092,
     "lon": -87.40921,
     "geoSource": "manual:campus",
-    "lastChecked": "2026-10-30",
+    "lastChecked": "2026-11-11",
     "region": "North America",
     "costCurrency": "USD"
   },
@@ -36010,10 +35991,16 @@
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
+      "BIM Software",
+      "nD BIM",
+      "Digital Construction",
       "Construction Management"
     ],
     "computingTopics": [
-      "BIM"
+      "BIM",
+      "BIM Software",
+      "nD BIM",
+      "Digital Construction"
     ],
     "domains": [
       "Construction Management"
@@ -36023,7 +36010,7 @@
     "lat": 41.14418,
     "lon": -81.33983,
     "geoSource": "manual:campus",
-    "lastChecked": "2026-10-30",
+    "lastChecked": "2026-11-11",
     "region": "North America",
     "costCurrency": "USD"
   },
@@ -36839,10 +36826,12 @@
     "graduatesPerYear": "Not published",
     "topics": [
       "Construction Informatics",
+      "BIM",
       "Construction Management"
     ],
     "computingTopics": [
-      "Construction Informatics"
+      "Construction Informatics",
+      "BIM"
     ],
     "domains": [
       "Construction Management"
@@ -36852,7 +36841,7 @@
     "lat": 30.26899,
     "lon": -81.50966,
     "geoSource": "manual:campus",
-    "lastChecked": "2026-10-30",
+    "lastChecked": "2026-11-11",
     "region": "North America",
     "costCurrency": "USD"
   },
@@ -37591,11 +37580,13 @@
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
+      "BIM Software",
       "Construction Management",
       "Sustainability"
     ],
     "computingTopics": [
-      "BIM"
+      "BIM",
+      "BIM Software"
     ],
     "domains": [
       "Construction Management",
@@ -37606,7 +37597,7 @@
     "lat": 36.00127,
     "lon": -79.91508,
     "geoSource": "manual:campus",
-    "lastChecked": "2026-10-30",
+    "lastChecked": "2026-11-11",
     "region": "North America",
     "costCurrency": "USD"
   },
@@ -53668,9 +53659,16 @@
     "cost": "3,960",
     "graduatesPerYear": "Not published",
     "topics": [
+      "BIM",
+      "BIM Software",
+      "Parametric & Generative Design",
       "Architecture"
     ],
-    "computingTopics": [],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Parametric & Generative Design"
+    ],
     "domains": [
       "Architecture"
     ],
@@ -53679,7 +53677,7 @@
     "lat": 31.8931,
     "lon": 35.8744,
     "geoSource": "nominatim:name",
-    "lastChecked": "2026-10-29",
+    "lastChecked": "2026-11-11",
     "region": "Western Asia",
     "costCurrency": "JOD"
   },
@@ -55455,11 +55453,13 @@
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
+      "BIM Software",
       "Architecture",
       "Construction Engineering"
     ],
     "computingTopics": [
-      "BIM"
+      "BIM",
+      "BIM Software"
     ],
     "domains": [
       "Architecture",
@@ -55470,7 +55470,7 @@
     "lat": 29.166897,
     "lon": 48.1005185,
     "geoSource": "manual:campus",
-    "lastChecked": "2026-11-02",
+    "lastChecked": "2026-11-11",
     "region": "Western Asia",
     "costCurrency": "KWD"
   },
@@ -57315,10 +57315,12 @@
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
+      "BIM Software",
       "Civil Engineering"
     ],
     "computingTopics": [
-      "BIM"
+      "BIM",
+      "BIM Software"
     ],
     "domains": [
       "Civil Engineering"
@@ -57328,44 +57330,7 @@
     "lat": 43.0247,
     "lon": 131.8938,
     "geoSource": "manual:campus",
-    "lastChecked": "2026-11-04",
-    "region": "Europe",
-    "costCurrency": "RUB"
-  },
-  {
-    "name": "Ivanovo State Polytechnic University (IVGPU)",
-    "country": "Russia",
-    "city": "Ivanovo",
-    "programs": [
-      "Master 08.04.01 Construction: Information Modelling in Construction"
-    ],
-    "programLinks": [
-      "https://ivgpu.com/sveden/education"
-    ],
-    "accreditation": [
-      "-"
-    ],
-    "language": "Russian",
-    "mode": "Full-time / Part-time",
-    "delivery": "Presential",
-    "cost": "-",
-    "graduatesPerYear": "Not published",
-    "topics": [
-      "BIM",
-      "Civil Engineering"
-    ],
-    "computingTopics": [
-      "BIM"
-    ],
-    "domains": [
-      "Civil Engineering"
-    ],
-    "verificationLevel": 1,
-    "website": "https://ivgpu.com",
-    "lat": 57.0003,
-    "lon": 40.9739,
-    "geoSource": "manual:city",
-    "lastChecked": "2026-11-04",
+    "lastChecked": "2026-11-11",
     "region": "Europe",
     "costCurrency": "RUB"
   },
@@ -57416,7 +57381,7 @@
       "Master 08.04.01 Construction"
     ],
     "programLinks": [
-      "https://rusoil.net"
+      "https://rusoil.net/files/sveden/eduop/rpd13476855.pdf"
     ],
     "accreditation": [
       "-"
@@ -57428,10 +57393,12 @@
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
+      "BIM Software",
       "Civil Engineering"
     ],
     "computingTopics": [
-      "BIM"
+      "BIM",
+      "BIM Software"
     ],
     "domains": [
       "Civil Engineering"
@@ -57441,7 +57408,7 @@
     "lat": 54.8204,
     "lon": 56.0597,
     "geoSource": "manual:city",
-    "lastChecked": "2026-11-04",
+    "lastChecked": "2026-11-11",
     "region": "Europe",
     "costCurrency": "RUB"
   },
@@ -57453,7 +57420,7 @@
       "Bachelor 08.03.01 Construction: Industrial and Civil Construction (part-time)"
     ],
     "programLinks": [
-      "https://spbti.ru"
+      "https://spbti.ru/sveden/files/08.03.01_2019_ZFO_RPD_Informacionnoe_modelirovanie_v_stroitelystve_(BIM-texnologii).pdf"
     ],
     "accreditation": [
       "-"
@@ -57465,10 +57432,12 @@
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
+      "BIM Software",
       "Civil Engineering"
     ],
     "computingTopics": [
-      "BIM"
+      "BIM",
+      "BIM Software"
     ],
     "domains": [
       "Civil Engineering"
@@ -57478,7 +57447,7 @@
     "lat": 59.9165,
     "lon": 30.318,
     "geoSource": "manual:city",
-    "lastChecked": "2026-11-04",
+    "lastChecked": "2026-11-11",
     "region": "Europe",
     "costCurrency": "RUB"
   },
@@ -65190,21 +65159,26 @@
     "graduatesPerYear": "Not published",
     "topics": [
       "Digital Construction",
+      "CAD/CAM",
+      "Programming",
       "Civil Engineering",
       "Construction Management"
     ],
     "computingTopics": [
-      "Digital Construction"
+      "Digital Construction",
+      "CAD/CAM",
+      "Programming"
     ],
     "domains": [
-      "Civil Engineering"
+      "Civil Engineering",
+      "Construction Management"
     ],
     "verificationLevel": 2,
     "website": "https://www.amity.edu/lucknow/",
     "lat": 26.8467,
     "lon": 80.9462,
     "geoSource": "nominatim:city",
-    "lastChecked": "2026-11-10",
+    "lastChecked": "2026-11-11",
     "region": "Southern Asia",
     "costCurrency": "INR"
   },
@@ -65644,6 +65618,108 @@
     "lat": 23.2134,
     "lon": 77.4045,
     "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-11",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Symbiosis Institute of Technology (SIT)",
+    "country": "India",
+    "city": "Pune",
+    "programs": [
+      "B.Tech Civil Engineering"
+    ],
+    "programLinks": [
+      "https://www.sitpune.edu.in/btech-civil-engineering"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "330000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Digital Construction",
+      "Digital Fabrication",
+      "Smart Cities & Buildings",
+      "IoT",
+      "AI & Machine Learning",
+      "Robotics & Automation",
+      "Digital Twins",
+      "Programming",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Digital Construction",
+      "Digital Fabrication",
+      "Smart Cities & Buildings",
+      "IoT",
+      "AI & Machine Learning",
+      "Robotics & Automation",
+      "Digital Twins",
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.sitpune.edu.in",
+    "lat": 18.5412,
+    "lon": 73.7275,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-11",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Symbiosis Skills and Professional University (SSPU)",
+    "country": "India",
+    "city": "Pune",
+    "programs": [
+      "B.Tech Construction Engineering and Management"
+    ],
+    "programLinks": [
+      "https://sspu.ac.in/program/btech-construction-engineering-management"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "275000 - 295000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Smart Cities & Buildings",
+      "Programming",
+      "Construction Engineering",
+      "Construction Management",
+      "Project Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Smart Cities & Buildings",
+      "Programming"
+    ],
+    "domains": [
+      "Construction Engineering",
+      "Construction Management",
+      "Project Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://sspu.ac.in",
+    "lat": 18.6604,
+    "lon": 73.7316,
+    "geoSource": "manual:campus",
     "lastChecked": "2026-11-11",
     "region": "Southern Asia",
     "costCurrency": "INR"

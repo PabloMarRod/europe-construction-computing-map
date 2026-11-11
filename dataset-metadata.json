@@ -1,6 +1,6 @@
 {
   "name": "Construction-Computing Education Map",
-  "description": "Dataset of higher-education institutions offering programmes in digital construction, BIM, and construction informatics, with programme, cost, accreditation, delivery, and geographic detail. 1365 institutions in 88 countries: Europe (387), North America (341), South America (285), Southern Asia (181), Western Asia (90), Oceania (42), Central America (21), Central Asia (15), Caribbean (2), Eastern Asia (1).",
+  "description": "Dataset of higher-education institutions offering programmes in digital construction, BIM, and construction informatics, with programme, cost, accreditation, delivery, and geographic detail. 1365 institutions in 88 countries: Europe (385), North America (341), South America (285), Southern Asia (183), Western Asia (90), Oceania (42), Central America (21), Central Asia (15), Caribbean (2), Eastern Asia (1).",
   "version": "1.6.0",
   "generated": "2026-11-11",
   "license": "CC BY 4.0",
@@ -103,10 +103,10 @@
     ],
     "distinctTopics": 43,
     "regions": {
-      "Europe": 387,
+      "Europe": 385,
       "North America": 341,
       "South America": 285,
-      "Southern Asia": 181,
+      "Southern Asia": 183,
       "Western Asia": 90,
       "Oceania": 42,
       "Central America": 21,
@@ -124,39 +124,39 @@
       "method": "Geocoded with OpenStreetMap Nominatim, then a precision-audit pass that re-queried city-centroid fallbacks with a 25 km distance gate, plus manual verification of unresolved cases. Per-record method recorded in `geoSource`.",
       "derived": "2026-07-20",
       "geoSourceLegend": {
-        "manual:campus": 463,
-        "nominatim:name+city": 382,
-        "manual:city": 218,
-        "nominatim:city": 189,
+        "manual:campus": 464,
+        "nominatim:name+city": 383,
+        "manual:city": 217,
+        "nominatim:city": 188,
         "nominatim:name (audited)": 85,
         "nominatim:name": 23,
         "manual:campus (audited)": 5
       },
       "geoSourceCounts": {
-        "manual:campus": 463,
-        "nominatim:name+city": 382,
-        "manual:city": 218,
-        "nominatim:city": 189,
+        "manual:campus": 464,
+        "nominatim:name+city": 383,
+        "manual:city": 217,
+        "nominatim:city": 188,
         "nominatim:name (audited)": 85,
         "nominatim:name": 23,
         "manual:campus (audited)": 5
       },
-      "campusLevel": 576,
-      "cityCentroidOnly": 789
+      "campusLevel": 577,
+      "cityCentroidOnly": 788
     },
     "graduatesPerYear": {
       "nature": "Values are annual-graduate estimates, expressed as ranges. They are indicative, not official institutional statistics.",
       "imputation": "Records originally lacking a figure were imputed from the median of peer institutions in this dataset (same country and institution type where n>=3, widening to type, then to all). Imputed records carry `graduatesEstimated: true`.",
       "imputedCount": 298,
       "note2026-10": "842 records carry 'Not published' (no intake or graduate figure on the programme page); the rest carry ranges, either collected, peer-imputed, or derived from published intake caps.",
-      "notPublishedCount": 1048,
+      "notPublishedCount": 1049,
       "note2026-11": "India records (added 2026-11-06/07) carry 'Not published' unless the institution publishes an intake or graduate figure."
     },
     "cost": {
       "unit": "indicative tuition in each record's costCurrency (local currency; per year unless the record states otherwise in its sources).",
       "note": "Ranges run from the lowest to the highest published yearly fee (e.g. home to international, or across the record's programmes), taken from the institution's own pages or, where the institution publishes none, an official national source (e.g. Türkiye's ÖSYM programme guide, Oman's Ministry of Higher Education guide). Per-credit or whole-programme fees are converted to a yearly figure (standard full-time load, or total divided by stated duration). '0' = no tuition charged (e.g. state-university places for citizens, funded places). '-' = fee not published.",
       "numericRecords": 1243,
-      "notPublishedRecords": 61,
+      "notPublishedRecords": 60,
       "note2026-11": "Where state-funded or grant places exist alongside paid places (e.g. Kazakhstan state grants, Russian budget places, SENAI gratuity places), the range starts at 0 ('0 - X'). Some fees were supplied by the maintainer from official institutional sources during review.",
       "note2026-11-india": "India: fees for colleges in Maharashtra are taken from the Fee Regulating Authority (FRA) 2026-27 approved-fee lists (tuition + development fee), or from the institution's own fee notice; the range starts at 0 where the CET seat matrix lists Tuition Fee Waiver Scheme (TFWS) seats. Whole-programme totals are divided by the programme duration."
     },
@@ -167,8 +167,8 @@
         "3": "confirmed directly by the institution"
       },
       "counts": {
-        "1": 32,
-        "2": 1332,
+        "1": 31,
+        "2": 1333,
         "3": 1
       }
     },
@@ -179,7 +179,7 @@
         "computingTerms": 25,
         "domainTerms": 15
       },
-      "recordsWithComputingTopic": 1364,
+      "recordsWithComputingTopic": 1365,
       "recordsWithDomain": 1334,
       "tagging": {
         "rubric": "tagging-rubric.md",
@@ -195,9 +195,9 @@
     "lastChecked": "ISO date a record's programme/fee data was last verified against source; null = not yet verified in this provenance system"
   },
   "knownLimitations": [
-    "789 institutions are pinned to a location other than an audited campus point (geoSource 'nominatim:name+city', 'nominatim:city', 'manual:city'); 399 of these are city or regional-capital centroids rather than the campus.",
-    "1048 graduatesPerYear values are 'Not published'; all graduate figures are indicative, not official statistics.",
-    "61 cost values are '-' because the institution does not publish the fee (enquiry-gated, apprenticeship-funded, calculator-only, or price on request).",
+    "788 institutions are pinned to a location other than an audited campus point (geoSource 'nominatim:name+city', 'nominatim:city', 'manual:city'); 399 of these are city or regional-capital centroids rather than the campus.",
+    "1049 graduatesPerYear values are 'Not published'; all graduate figures are indicative, not official statistics.",
+    "60 cost values are '-' because the institution does not publish the fee (enquiry-gated, apprenticeship-funded, calculator-only, or price on request).",
     "'0' cost conflates fully free tuition with tuition-free programmes that still charge semester/administrative contributions.",
     "Cost figures are current-year rates and will drift; re-verify against source before citing.",
     "Coverage gaps: Africa, East Asia (except Mongolia), South-East Asia, Bangladesh, Sri Lanka and Iran have not yet been swept; Central America and the Caribbean are partial. Azerbaijan, Lebanon, Israel and Kuwait were re-swept only partially. In Türkiye, Yemen, Kazakhstan, Uzbekistan, Kyrgyzstan, Tajikistan, Russia, Pakistan and Nepal, institutions whose curricula were unreachable or unpublished are not yet confirmed either way. India: Maharashtra fully swept; Jammu & Kashmir, Ladakh, Himachal Pradesh, Punjab, Chandigarh, Haryana, Delhi, Uttarakhand and Uttar Pradesh swept and re-swept; Rajasthan, Gujarat, Madhya Pradesh and Chhattisgarh first-passed only (re-sweep pending); eastern, north-eastern and southern states pending.",
