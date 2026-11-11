@@ -63947,10 +63947,12 @@
     "country": "India",
     "city": "Ahmedabad",
     "programs": [
-      "M.Tech Civil Engineering (Construction Technology and Management)"
+      "M.Tech Civil Engineering (Construction Technology and Management)",
+      "B.Arch"
     ],
     "programLinks": [
-      "https://technology.nirmauni.ac.in/admission-aid/post-graduate/mtech/"
+      "https://technology.nirmauni.ac.in/admission-aid/post-graduate/mtech/",
+      "https://architecture.nirmauni.ac.in/academics/academic-programmes/b-arch/"
     ],
     "accreditation": [
       "-"
@@ -63958,30 +63960,34 @@
     "language": "English",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "294000",
+    "cost": "294000 - 300000",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
+      "BIM Software",
       "AI & Machine Learning",
       "Smart Cities & Buildings",
       "Construction Management",
-      "Civil Engineering"
+      "Civil Engineering",
+      "Architecture"
     ],
     "computingTopics": [
       "BIM",
+      "BIM Software",
       "AI & Machine Learning",
       "Smart Cities & Buildings"
     ],
     "domains": [
       "Construction Management",
-      "Civil Engineering"
+      "Civil Engineering",
+      "Architecture"
     ],
     "verificationLevel": 2,
     "website": "https://nirmauni.ac.in",
     "lat": 23.0215,
     "lon": 72.5801,
     "geoSource": "nominatim:city",
-    "lastChecked": "2026-11-06",
+    "lastChecked": "2026-11-11",
     "region": "Southern Asia",
     "costCurrency": "INR"
   },
@@ -64405,10 +64411,12 @@
     "country": "India",
     "city": "Rajkot",
     "programs": [
-      "B.Tech Civil Engineering"
+      "B.Tech Civil Engineering",
+      "M.Tech Civil Engineering (Construction Project Management)"
     ],
     "programLinks": [
-      "https://www.marwadiuniversity.ac.in/be/civil-engineering"
+      "https://www.marwadiuniversity.ac.in/be/civil-engineering",
+      "https://www.marwadiuniversity.ac.in/civil-engineering-m-tech/"
     ],
     "accreditation": [
       "-"
@@ -64419,25 +64427,113 @@
     "cost": "89000 - 175000",
     "graduatesPerYear": "Not published",
     "topics": [
+      "BIM",
+      "BIM Software",
       "AI & Machine Learning",
       "Programming",
       "IoT",
-      "Civil Engineering"
+      "Civil Engineering",
+      "Construction Management"
     ],
     "computingTopics": [
+      "BIM",
+      "BIM Software",
       "AI & Machine Learning",
       "Programming",
       "IoT"
     ],
     "domains": [
-      "Civil Engineering"
+      "Civil Engineering",
+      "Construction Management"
     ],
     "verificationLevel": 2,
     "website": "https://www.marwadiuniversity.ac.in",
     "lat": 22.3676,
     "lon": 70.7971,
     "geoSource": "nominatim:name+city",
-    "lastChecked": "2026-11-06",
+    "lastChecked": "2026-11-10",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Ganpat University",
+    "country": "India",
+    "city": "Mehsana",
+    "programs": [
+      "B.Tech Civil Engineering"
+    ],
+    "programLinks": [
+      "https://www.ganpatuniversity.ac.in/programmes/after-12th-programs-undergraduate-programs/engineering-technology/bachelor-of-technology-in-civil-engineering"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "160000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "AI & Machine Learning",
+      "Programming",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "AI & Machine Learning",
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.ganpatuniversity.ac.in",
+    "lat": 23.5441,
+    "lon": 72.4413,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-11",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Silver Oak University",
+    "country": "India",
+    "city": "Ahmedabad",
+    "programs": [
+      "B.Tech Civil Engineering"
+    ],
+    "programLinks": [
+      "https://silveroakuni.ac.in/branches/btech-civil-engineering"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "75000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Programming",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://silveroakuni.ac.in",
+    "lat": 23.101,
+    "lon": 72.5408,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-11",
     "region": "Southern Asia",
     "costCurrency": "INR"
   },
@@ -64483,6 +64579,45 @@
     "lon": 77.2696,
     "geoSource": "nominatim:name+city",
     "lastChecked": "2026-11-06",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Madhav Institute of Technology & Science (MITS)",
+    "country": "India",
+    "city": "Gwalior",
+    "programs": [
+      "B.Tech Civil Engineering"
+    ],
+    "programLinks": [
+      "https://web.mitsgwalior.in/images/Departments/Civil/scheme%20syllabus/2024/BTech%20Civil%202022%20admitted%20syllabus.pdf"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "150000 - 290000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "AI & Machine Learning",
+      "Programming",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "AI & Machine Learning",
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://web.mitsgwalior.in",
+    "lat": 26.2037,
+    "lon": 78.1574,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-11",
     "region": "Southern Asia",
     "costCurrency": "INR"
   },
@@ -65269,6 +65404,53 @@
     "lon": 75.7873,
     "geoSource": "nominatim:city",
     "lastChecked": "2026-11-10",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "School of Planning and Architecture, Vijayawada (SPA Vijayawada)",
+    "country": "India",
+    "city": "Vijayawada",
+    "programs": [
+      "Master of Building Engineering and Management (MBEM)"
+    ],
+    "programLinks": [
+      "https://www.spav.ac.in/2026/pdf/MBEM%20Course%20Stturcture.pdf"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "100000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "nD BIM",
+      "AI & Machine Learning",
+      "GIS & BIM Integration",
+      "Digital Construction",
+      "Construction Management",
+      "Project Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "nD BIM",
+      "AI & Machine Learning",
+      "GIS & BIM Integration",
+      "Digital Construction"
+    ],
+    "domains": [
+      "Construction Management",
+      "Project Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.spav.ac.in",
+    "lat": 16.5058,
+    "lon": 80.6564,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-11",
     "region": "Southern Asia",
     "costCurrency": "INR"
   }
