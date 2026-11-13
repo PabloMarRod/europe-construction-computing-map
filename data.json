@@ -65407,7 +65407,7 @@
       "Master of Building Engineering and Management (MBEM)"
     ],
     "programLinks": [
-      "https://www.spav.ac.in/2026/pdf/MBEM%20Course%20Stturcture.pdf"
+      "https://spav.ac.in/arch-programs.php"
     ],
     "accreditation": [
       "-"
@@ -65584,8 +65584,8 @@
       "B.Arch"
     ],
     "programLinks": [
-      "https://www.manit.ac.in/sites/default/files/B.Tech._Civil_Engineering.pdf",
-      "https://www.manit.ac.in/sites/default/files/documents/B.Arch%20program%20detailed%20syllabus%20June%202020%20FINAL%20REVISED%2024-09-2026.pdf"
+      "https://www.manit.ac.in/civil-engineering-department",
+      "https://www.manit.ac.in/architecture-planning"
     ],
     "accreditation": [
       "-"
@@ -65723,5 +65723,968 @@
     "lastChecked": "2026-11-11",
     "region": "Southern Asia",
     "costCurrency": "INR"
+  },
+  {
+    "name": "National Institute of Technology Rourkela (NIT Rourkela)",
+    "country": "India",
+    "city": "Rourkela",
+    "programs": [
+      "B.Tech Civil Engineering",
+      "B.Arch"
+    ],
+    "programLinks": [
+      "https://www.nitrkl.ac.in/Academic/Curriculum/?id=3",
+      "https://www.nitrkl.ac.in/Academic/Curriculum/?id=21"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "125000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "AI & Machine Learning",
+      "Robotics & Automation",
+      "Parametric & Generative Design",
+      "Smart Cities & Buildings",
+      "Programming",
+      "Civil Engineering",
+      "Architecture",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "AI & Machine Learning",
+      "Robotics & Automation",
+      "Parametric & Generative Design",
+      "Smart Cities & Buildings",
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Architecture",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.nitrkl.ac.in",
+    "lat": 22.2531,
+    "lon": 84.901,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-11-12",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Kalinga Institute of Industrial Technology (KIIT)",
+    "country": "India",
+    "city": "Bhubaneswar",
+    "programs": [
+      "B.Tech Construction Technology",
+      "M.Tech Construction Engineering and Management"
+    ],
+    "programLinks": [
+      "https://civil.kiit.ac.in/bachelor-of-technology-b-tech-in-construction-technology/",
+      "https://civil.kiit.ac.in/master-of-technology-in-construction-engineering-management/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "244000 - 350000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Digital Construction",
+      "CAD/CAM",
+      "Construction Engineering",
+      "Construction Management",
+      "Project Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Digital Construction",
+      "CAD/CAM"
+    ],
+    "domains": [
+      "Construction Engineering",
+      "Construction Management",
+      "Project Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://kiit.ac.in",
+    "lat": 20.3549,
+    "lon": 85.8181,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-11-12",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Centurion University of Technology and Management (CUTM), Bhubaneswar",
+    "country": "India",
+    "city": "Bhubaneswar",
+    "programs": [
+      "B.Tech Civil Engineering"
+    ],
+    "programLinks": [
+      "https://cutm.ac.in/courses/bachelor-of-technology-in-civil-engineering"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "155000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://cutm.ac.in",
+    "lat": 20.1748,
+    "lon": 85.7063,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-11-12",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Centurion University of Technology and Management (CUTM), Paralakhemundi",
+    "country": "India",
+    "city": "Paralakhemundi",
+    "programs": [
+      "B.Tech Civil Engineering"
+    ],
+    "programLinks": [
+      "https://cutm.ac.in/courses/bachelor-of-technology-in-civil-engineering"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "155000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://cutm.ac.in",
+    "lat": 18.8061,
+    "lon": 84.1405,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-11-12",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "C. V. Raman Global University (CGU)",
+    "country": "India",
+    "city": "Bhubaneswar",
+    "programs": [
+      "B.Tech Civil and Environmental Engineering"
+    ],
+    "programLinks": [
+      "https://cgu-odisha.ac.in/b-tech-civil-environmental-engineering/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "225000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://cgu-odisha.ac.in",
+    "lat": 20.2287,
+    "lon": 85.7357,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-11-12",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Odisha University of Technology and Research (OUTR)",
+    "country": "India",
+    "city": "Bhubaneswar",
+    "programs": [
+      "B.Arch"
+    ],
+    "programLinks": [
+      "https://www.outr.ac.in/school-of-infrastructure-and-planning-1/ug-15/barchitecture"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "19000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.outr.ac.in",
+    "lat": 20.2766,
+    "lon": 85.7765,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-11-12",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Veer Surendra Sai University of Technology (VSSUT)",
+    "country": "India",
+    "city": "Burla",
+    "programs": [
+      "B.Arch"
+    ],
+    "programLinks": [
+      "https://www.vssut.ac.in/department/architecture/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "41040",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "Energy Performance",
+      "Smart Cities & Buildings",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "Energy Performance",
+      "Smart Cities & Buildings"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://vssut.ac.in",
+    "lat": 21.4949,
+    "lon": 83.9015,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-11-12",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Birla Institute of Technology, Mesra (BIT Mesra)",
+    "country": "India",
+    "city": "Ranchi",
+    "programs": [
+      "B.Arch"
+    ],
+    "programLinks": [
+      "https://bitmesra.ac.in/course/details/1/UG/5"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "350000 - 500000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://bitmesra.ac.in",
+    "lat": 23.4123,
+    "lon": 85.4399,
+    "geoSource": "manual:campus",
+    "lastChecked": "2026-11-12",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Dr. B. C. Roy Engineering College (BCREC)",
+    "country": "India",
+    "city": "Durgapur",
+    "programs": [
+      "B.Tech Civil Engineering"
+    ],
+    "programLinks": [
+      "https://www.bcrec.ac.in/depertment-details/b-tech-civil-engineering"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "99000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Robotics & Automation",
+      "AI & Machine Learning",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Robotics & Automation",
+      "AI & Machine Learning"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.bcrec.ac.in",
+    "lat": 23.543488,
+    "lon": 87.3430712,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-12",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Jadavpur University, Salt Lake Campus",
+    "country": "India",
+    "city": "Kolkata",
+    "programs": [
+      "B.E. Construction Engineering"
+    ],
+    "programLinks": [
+      "https://jadavpuruniversity.in/academics/construction-engineering/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "5210 - 5710",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "Construction Informatics",
+      "Data Management",
+      "Construction Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "Construction Informatics",
+      "Data Management"
+    ],
+    "domains": [
+      "Construction Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://jadavpuruniversity.in",
+    "lat": 22.5611537,
+    "lon": 88.4131019,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-13",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Adamas University",
+    "country": "India",
+    "city": "Kolkata",
+    "programs": [
+      "B.Tech Civil Engineering (Smart Infrastructure Management)"
+    ],
+    "programLinks": [
+      "https://engineering.adamasuniversity.ac.in/b-tech-courses-in-civil-engineering/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "115000 - 128000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "AI & Machine Learning",
+      "Smart Cities & Buildings",
+      "Civil Engineering",
+      "Infrastructure Engineering"
+    ],
+    "computingTopics": [
+      "AI & Machine Learning",
+      "Smart Cities & Buildings"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Infrastructure Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://adamasuniversity.ac.in",
+    "lat": 22.7381718,
+    "lon": 88.4566792,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-13",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Sister Nivedita University",
+    "country": "India",
+    "city": "Kolkata",
+    "programs": [
+      "B.Arch"
+    ],
+    "programLinks": [
+      "https://arc.snuniv.ac.in"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "152200 - 191200",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Parametric & Generative Design",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Parametric & Generative Design"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://snuniv.ac.in",
+    "lat": 22.5726,
+    "lon": 88.3639,
+    "geoSource": "manual:city",
+    "lastChecked": "2026-11-13",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Jadavpur University, Jadavpur Campus",
+    "country": "India",
+    "city": "Kolkata",
+    "programs": [
+      "B.Arch"
+    ],
+    "programLinks": [
+      "https://jadavpuruniversity.in/courses/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "5210",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://jadavpuruniversity.in",
+    "lat": 22.4995309,
+    "lon": 88.3715953,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-13",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Indian Institute of Technology Guwahati (IIT Guwahati)",
+    "country": "India",
+    "city": "Guwahati",
+    "programs": [
+      "PhD Civil Engineering"
+    ],
+    "programLinks": [
+      "https://iitg.ac.in/acad/admission/doctoral/disciplines.php"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "30000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "nD BIM",
+      "VR/AR",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "nD BIM",
+      "VR/AR"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://www.iitg.ac.in",
+    "lat": 26.1924788,
+    "lon": 91.6946357,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-13",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Royal Global University (RGU)",
+    "country": "India",
+    "city": "Guwahati",
+    "programs": [
+      "B.Tech Civil Engineering"
+    ],
+    "programLinks": [
+      "https://www.rgu.ac/department-civil-engineering"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "180000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "Robotics & Automation",
+      "Smart Cities & Buildings",
+      "Civil Engineering",
+      "Construction Engineering"
+    ],
+    "computingTopics": [
+      "Robotics & Automation",
+      "Smart Cities & Buildings"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://rgu.ac",
+    "lat": 26.1805978,
+    "lon": 91.753943,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-13",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Protrainy",
+    "country": "India",
+    "city": "Bhubaneswar",
+    "programs": [
+      "PG Certification in Advanced BIM and Structural Projects",
+      "PG Advanced Certification in Architectural BIM",
+      "Executive PG in Construction Management",
+      "Integrated Revit Design",
+      "Synchro and Navisworks Training",
+      "RIB CostX Training",
+      "Tekla Structures Training"
+    ],
+    "programLinks": [
+      "https://protrainy.com/course-details/pg-certification-for-civil-engineers-in-advanced-bim-and-structural-projects-TIH-IITP",
+      "https://protrainy.com/course-details/pg-advance-certification-in-architectural-bim-IIT-20Roorkee-20I-HUB-III",
+      "https://protrainy.com/course-details/executive-pg-construction-management-ai",
+      "https://protrainy.com/course-details/Integrated-Revit-Design",
+      "https://protrainy.com/course-details/syncro-naviwork",
+      "https://protrainy.com/course-details/RIB-costx",
+      "https://protrainy.com/course-details/tek-la"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Part-time",
+    "delivery": "Online",
+    "cost": "2500 - 165000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "nD BIM",
+      "ISO 19650",
+      "Infrastructure BIM",
+      "3D Modeling & Scanning",
+      "Collaborative Workflows",
+      "Energy Performance",
+      "AI & Machine Learning",
+      "Digital Twins",
+      "IoT",
+      "Smart Cities & Buildings",
+      "Civil Engineering",
+      "Architecture",
+      "Structural Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "nD BIM",
+      "ISO 19650",
+      "Infrastructure BIM",
+      "3D Modeling & Scanning",
+      "Collaborative Workflows",
+      "Energy Performance",
+      "AI & Machine Learning",
+      "Digital Twins",
+      "IoT",
+      "Smart Cities & Buildings"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Architecture",
+      "Structural Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://protrainy.com",
+    "lat": 20.3604502,
+    "lon": 85.8247661,
+    "geoSource": "nominatim:locality",
+    "lastChecked": "2026-11-13",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Asansol Engineering College (AEC)",
+    "country": "India",
+    "city": "Asansol",
+    "programs": [
+      "B.Tech Civil Engineering"
+    ],
+    "programLinks": [
+      "http://www.aecwb.edu.in/civil-department.php"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "107600",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "IoT",
+      "Smart Cities & Buildings",
+      "AI & Machine Learning",
+      "Civil Engineering",
+      "Construction Engineering"
+    ],
+    "computingTopics": [
+      "IoT",
+      "Smart Cities & Buildings",
+      "AI & Machine Learning"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "http://www.aecwb.edu.in",
+    "lat": 23.7155238,
+    "lon": 86.9510664,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-13",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Assam down town University (AdtU)",
+    "country": "India",
+    "city": "Guwahati",
+    "programs": [
+      "B.Tech Civil Engineering"
+    ],
+    "programLinks": [
+      "https://adtu.in/programme/btech-civil.html"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "105000 - 147500",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "nD BIM",
+      "AI & Machine Learning",
+      "Civil Engineering",
+      "Construction Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "nD BIM",
+      "AI & Machine Learning"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://adtu.in",
+    "lat": 26.2017061,
+    "lon": 91.8622787,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-13",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "North-Eastern Hill University (NEHU)",
+    "country": "India",
+    "city": "Shillong",
+    "programs": [
+      "B.Arch"
+    ],
+    "programLinks": [
+      "https://nehu.ac.in/course/display/72"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "36000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "ISO 19650",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "ISO 19650"
+    ],
+    "domains": [
+      "Architecture"
+    ],
+    "verificationLevel": 2,
+    "website": "https://nehu.ac.in",
+    "lat": 25.6138516,
+    "lon": 91.9014978,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-13",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "National Institute of Technology Manipur (NIT Manipur)",
+    "country": "India",
+    "city": "Imphal",
+    "programs": [
+      "B.Tech Civil Engineering"
+    ],
+    "programLinks": [
+      "https://nitmanipur.ac.in/Deptindex.aspx?page=a&ItemID=s&nDeptID=i"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "125000 - 160000",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "Construction Informatics",
+      "BIM",
+      "Robotics & Automation",
+      "AI & Machine Learning",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "Construction Informatics",
+      "BIM",
+      "Robotics & Automation",
+      "AI & Machine Learning"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "verificationLevel": 2,
+    "website": "https://nitmanipur.ac.in",
+    "lat": 24.8314984,
+    "lon": 93.9125767,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-13",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "name": "Manipur Technical University (MTU)",
+    "country": "India",
+    "city": "Imphal",
+    "programs": [
+      "B.Tech Civil Engineering",
+      "M.Tech Civil Engineering"
+    ],
+    "programLinks": [
+      "https://mtu.ac.in/civil-engineering/"
+    ],
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "cost": "52200 - 66500",
+    "graduatesPerYear": "Not published",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "AI & Machine Learning",
+      "Civil Engineering"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "AI & Machine Learning"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ],
+    "verificationLevel": 2,
+    "website": "https://mtu.ac.in",
+    "lat": 24.7978101,
+    "lon": 93.9048674,
+    "geoSource": "nominatim:name+city",
+    "lastChecked": "2026-11-13",
+    "region": "Southern Asia",
+    "costCurrency": "INR"
+  },
+  {
+    "country": "India",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Southern Asia",
+    "costCurrency": "INR",
+    "name": "Model Institute of Engineering and Technology (MIET)",
+    "city": "Jammu",
+    "programs": [
+      "B.Tech Civil Engineering"
+    ],
+    "programLinks": [
+      "https://mietjmu.in/btech-ce"
+    ],
+    "cost": "109100",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Civil Engineering"
+    ],
+    "website": "https://mietjmu.in",
+    "lat": 32.812439,
+    "lon": 74.8190809,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-13",
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ]
   }
 ]
