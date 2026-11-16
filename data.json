@@ -68555,5 +68555,210 @@
       "Civil Engineering",
       "Procurement & Contracts"
     ]
+  },
+  {
+    "country": "Bangladesh",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Southern Asia",
+    "costCurrency": "BDT",
+    "name": "Khulna University of Engineering & Technology (KUET)",
+    "city": "Khulna",
+    "programs": [
+      "BSc Engineering in Building Engineering and Construction Management"
+    ],
+    "programLinks": [
+      "https://new.kuet.ac.bd/dept/becm/academic/ugcurriculum"
+    ],
+    "cost": "8000 - 32900",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Construction Informatics",
+      "Programming",
+      "Construction Management"
+    ],
+    "website": "https://www.kuet.ac.bd",
+    "lat": 22.9009132,
+    "lon": 89.5024705,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-16",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Construction Informatics",
+      "Programming"
+    ],
+    "domains": [
+      "Construction Management"
+    ]
+  },
+  {
+    "country": "Bangladesh",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Southern Asia",
+    "costCurrency": "BDT",
+    "name": "Rajshahi University of Engineering & Technology (RUET)",
+    "city": "Rajshahi",
+    "programs": [
+      "BSc Engineering in Building Engineering and Construction Management"
+    ],
+    "programLinks": [
+      "https://www.becm.ruet.ac.bd"
+    ],
+    "cost": "0 - 123200",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Construction Management"
+    ],
+    "website": "https://www.ruet.ac.bd",
+    "lat": 24.3665307,
+    "lon": 88.6270919,
+    "geoSource": "nominatim:road",
+    "lastChecked": "2026-11-16",
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Construction Management"
+    ]
+  },
+  {
+    "country": "Bangladesh",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Southern Asia",
+    "costCurrency": "BDT",
+    "name": "Daffodil International University (DIU)",
+    "city": "Savar",
+    "programs": [
+      "B.Arch - Architectural Technology & Construction"
+    ],
+    "programLinks": [
+      "https://daffodilvarsity.edu.bd/department/architecture/program/bachelor-of-arch"
+    ],
+    "cost": "210000 - 296700",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture"
+    ],
+    "website": "https://daffodilvarsity.edu.bd",
+    "lat": 23.8790923,
+    "lon": 90.3214822,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-16",
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Bangladesh",
+    "accreditation": [
+      "IAB"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Southern Asia",
+    "costCurrency": "BDT",
+    "name": "BRAC University",
+    "city": "Dhaka",
+    "programs": [
+      "Bachelor of Architecture (B.Arch)"
+    ],
+    "programLinks": [
+      "https://www.bracu.ac.bd/avilable-program/bachelor-architecture-arc"
+    ],
+    "cost": "379350 - 402120",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "3D Modeling & Scanning",
+      "Digital Design",
+      "Architecture"
+    ],
+    "website": "https://www.bracu.ac.bd",
+    "lat": 23.7733146,
+    "lon": 90.424371,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-16",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "3D Modeling & Scanning",
+      "Digital Design"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Bhutan",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Southern Asia",
+    "costCurrency": "BTN",
+    "name": "College of Science and Technology (CST), Royal University of Bhutan",
+    "city": "Phuentsholing",
+    "programs": [
+      "Masters in Construction Management"
+    ],
+    "programLinks": [
+      "https://cst.edu.bt/construction-management"
+    ],
+    "cost": "133726 - 509294",
+    "topics": [
+      "BIM",
+      "nD BIM",
+      "Construction Management",
+      "Project Management"
+    ],
+    "website": "https://cst.edu.bt",
+    "lat": 26.8504529,
+    "lon": 89.3889819,
+    "geoSource": "nominatim:locality",
+    "lastChecked": "2026-11-16",
+    "computingTopics": [
+      "BIM",
+      "nD BIM"
+    ],
+    "domains": [
+      "Construction Management",
+      "Project Management"
+    ]
   }
 ]
