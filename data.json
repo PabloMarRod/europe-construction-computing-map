@@ -68234,5 +68234,326 @@
     "domains": [
       "Construction Management"
     ]
+  },
+  {
+    "country": "Sri Lanka",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Southern Asia",
+    "costCurrency": "LKR",
+    "name": "Sri Lanka Institute of Information Technology (SLIIT)",
+    "city": "Malabe",
+    "programs": [
+      "BSc (Hons) Quantity Surveying"
+    ],
+    "programLinks": [
+      "https://www.sliit.lk/study/find-a-program/bsc-hons-in-quantity-surveying"
+    ],
+    "cost": "730000",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "nD BIM",
+      "Digital Construction",
+      "Procurement & Contracts"
+    ],
+    "website": "https://www.sliit.lk",
+    "lat": 6.9150816,
+    "lon": 79.9743479,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-16",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "nD BIM",
+      "Digital Construction"
+    ],
+    "domains": [
+      "Procurement & Contracts"
+    ]
+  },
+  {
+    "country": "Sri Lanka",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Southern Asia",
+    "costCurrency": "LKR",
+    "name": "University of Moratuwa",
+    "city": "Moratuwa",
+    "programs": [
+      "BSc (Hons) Quantity Surveying",
+      "PhD (Building Economics)",
+      "BSc (Hons) Facilities Management"
+    ],
+    "programLinks": [
+      "https://uom.lk/becon/programmes/undergraduate/quantity-surveying",
+      "https://uom.lk/becon/programmes/research-degree",
+      "https://uom.lk/becon/programmes/undergraduate/facilities-management"
+    ],
+    "cost": "0 - 100000",
+    "topics": [
+      "BIM",
+      "Robotics & Automation",
+      "Construction Informatics",
+      "Energy Performance",
+      "Smart Cities & Buildings",
+      "Digital Construction",
+      "Procurement & Contracts",
+      "Facility & Asset Management"
+    ],
+    "website": "https://uom.lk",
+    "lat": 6.798182,
+    "lon": 79.9028134,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-16",
+    "computingTopics": [
+      "BIM",
+      "Robotics & Automation",
+      "Construction Informatics",
+      "Energy Performance",
+      "Smart Cities & Buildings",
+      "Digital Construction"
+    ],
+    "domains": [
+      "Procurement & Contracts",
+      "Facility & Asset Management"
+    ]
+  },
+  {
+    "country": "Sri Lanka",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Southern Asia",
+    "costCurrency": "LKR",
+    "name": "General Sir John Kotelawala Defence University (KDU) — Southern Campus",
+    "city": "Sewanagala",
+    "programs": [
+      "BSc (Hons) Quantity Surveying"
+    ],
+    "programLinks": [
+      "https://fbess.kdu.ac.lk/department-of-quantity-surveying/curriculum-2"
+    ],
+    "cost": "225000 - 450000",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Procurement & Contracts"
+    ],
+    "website": "https://kdu.ac.lk",
+    "lat": 6.3676125,
+    "lon": 80.9732806,
+    "geoSource": "nominatim:locality",
+    "lastChecked": "2026-11-16",
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Procurement & Contracts"
+    ]
+  },
+  {
+    "country": "Sri Lanka",
+    "accreditation": [
+      "RICS"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Southern Asia",
+    "costCurrency": "LKR",
+    "name": "Liverpool John Moores University — Campus Colombo (SLIIT)",
+    "city": "Malabe",
+    "programs": [
+      "BSc (Hons) Quantity Surveying",
+      "BSc (Hons) Quantity Surveying (Top-up)"
+    ],
+    "programLinks": [
+      "https://www.sliit.lk/study/find-a-program/bachelor-of-science-hons-quantity-surveying",
+      "https://www.sliit.lk/study/find-a-program/bachelor-of-science-hons-quantity-surveying"
+    ],
+    "cost": "680000",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Digital Construction",
+      "Procurement & Contracts"
+    ],
+    "website": "https://www.ljmu.ac.uk",
+    "lat": 6.9150816,
+    "lon": 79.9743479,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-16",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Digital Construction"
+    ],
+    "domains": [
+      "Procurement & Contracts"
+    ]
+  },
+  {
+    "country": "Sri Lanka",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Southern Asia",
+    "costCurrency": "LKR",
+    "name": "University of Plymouth — Campus Homagama (NSBM)",
+    "city": "Homagama",
+    "programs": [
+      "BSc (Hons) Quantity Surveying",
+      "BSc (Hons) Quantity Surveying (Top-up)"
+    ],
+    "programLinks": [
+      "https://www.nsbm.ac.lk/?p=7990",
+      "https://www.nsbm.ac.lk/course/bsc-hons-quantity-surveying-top-up-degree/"
+    ],
+    "cost": "700000 - 1200000",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Digital Construction",
+      "Procurement & Contracts"
+    ],
+    "website": "https://www.plymouth.ac.uk",
+    "lat": 6.8208936,
+    "lon": 80.0397229,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-16",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Digital Construction"
+    ],
+    "domains": [
+      "Procurement & Contracts"
+    ]
+  },
+  {
+    "country": "Sri Lanka",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Southern Asia",
+    "costCurrency": "LKR",
+    "name": "Liverpool John Moores University — Campus Colombo (ICBT)",
+    "city": "Colombo",
+    "programs": [
+      "MSc Quantity Surveying and Commercial Management",
+      "MSc Construction Project Management"
+    ],
+    "programLinks": [
+      "https://icbt.lk/?p=10719",
+      "https://icbt.lk/?p=10735"
+    ],
+    "cost": "425000",
+    "topics": [
+      "BIM",
+      "Collaborative Workflows",
+      "BIM Software",
+      "Procurement & Contracts",
+      "Project Management",
+      "Lean & Integrated Delivery"
+    ],
+    "website": "https://www.ljmu.ac.uk",
+    "lat": 6.8849746,
+    "lon": 79.8583875,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-16",
+    "computingTopics": [
+      "BIM",
+      "Collaborative Workflows",
+      "BIM Software"
+    ],
+    "domains": [
+      "Procurement & Contracts",
+      "Project Management",
+      "Lean & Integrated Delivery"
+    ]
+  },
+  {
+    "country": "Maldives",
+    "accreditation": [
+      "MQA"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Southern Asia",
+    "costCurrency": "MVR",
+    "name": "Villa College",
+    "city": "Malé",
+    "programs": [
+      "Bachelor of Quantity Surveying",
+      "Bachelor of Civil Engineering (Honours)"
+    ],
+    "programLinks": [
+      "https://www.villacollege.edu.mv/programmes/bachelor-of-quantity-surveying/102",
+      "https://www.villacollege.edu.mv/programmes/bachelor-of-civil-engineering-honours/96"
+    ],
+    "cost": "58788 - 80388",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "Digital Construction",
+      "Digital Fabrication",
+      "IoT",
+      "Robotics & Automation",
+      "Civil Engineering",
+      "Procurement & Contracts"
+    ],
+    "website": "https://www.villacollege.edu.mv",
+    "lat": 4.1696145,
+    "lon": 73.5090481,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-16",
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "Digital Construction",
+      "Digital Fabrication",
+      "IoT",
+      "Robotics & Automation"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Procurement & Contracts"
+    ]
   }
 ]
