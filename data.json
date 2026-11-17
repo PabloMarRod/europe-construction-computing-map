@@ -74673,5 +74673,588 @@
     "domains": [
       "Architecture"
     ]
+  },
+  {
+    "country": "Indonesia",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time / Part-time / Online",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "IDR",
+    "name": "Institut Teknologi Bandung (ITB)",
+    "city": "Bandung",
+    "programs": [
+      "Sarjana Arsitektur (S1)",
+      "Magister Arsitektur (S2)",
+      "Magister Teknik Sipil (S2)",
+      "Open Course: Pengantar BIM untuk Arsitektur (ICE Center, CPD)"
+    ],
+    "programLinks": [
+      "https://six.itb.ac.id/pub/kur2024/152",
+      "https://six.itb.ac.id/pub/kur2024/252",
+      "https://six.itb.ac.id/pub/kur2024/250",
+      "https://icecenter.itb.ac.id/en/courses/pengantar-building-information-modelling-bim-untuk-arsitektur/"
+    ],
+    "cost": "1000000 - 29000000",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Parametric & Generative Design",
+      "Infrastructure BIM",
+      "Facility & Asset Management",
+      "Architecture",
+      "Civil Engineering"
+    ],
+    "website": "https://www.itb.ac.id",
+    "lat": -6.8904487,
+    "lon": 107.6103136,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Parametric & Generative Design",
+      "Infrastructure BIM",
+      "Data Management"
+    ],
+    "domains": [
+      "Facility & Asset Management",
+      "Architecture",
+      "Civil Engineering"
+    ]
+  },
+  {
+    "country": "Indonesia",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "IDR",
+    "name": "Universitas Islam Indonesia (UII)",
+    "city": "Sleman",
+    "programs": [
+      "Sarjana Arsitektur / Pendidikan Profesi Arsitek – BIM untuk Desain Arsitektur (4 SKS)"
+    ],
+    "programLinks": [
+      "https://sakapari.uii.ac.id/kurikulum-prodi-sarjana/"
+    ],
+    "cost": "34200000 - 46200000",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Parametric & Generative Design",
+      "Architecture"
+    ],
+    "website": "https://www.uii.ac.id",
+    "lat": -7.6880648,
+    "lon": 110.41383,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Parametric & Generative Design"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Indonesia",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "IDR",
+    "name": "Universitas Tidar (UNTIDAR)",
+    "city": "Magelang",
+    "programs": [
+      "Sarjana Teknik Sipil (S1)"
+    ],
+    "programLinks": [
+      "https://ft.untidar.ac.id/wp-content/uploads/2022/01/KURIKULUM-PRODI-TEKNIK-SIPIL-UNTIDAR-2021.pdf"
+    ],
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Civil Engineering"
+    ],
+    "website": "https://untidar.ac.id",
+    "lat": -7.4605762,
+    "lon": 110.2168766,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "cost": "1000000 - 17000000",
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ]
+  },
+  {
+    "country": "Indonesia",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "IDR",
+    "name": "Institut Teknologi PLN (IT-PLN)",
+    "city": "Jakarta",
+    "programs": [
+      "Sarjana Teknik Sipil (S1)"
+    ],
+    "programLinks": [
+      "https://ftik.itpln.ac.id/kurikulum-teknik-sipil/"
+    ],
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Civil Engineering"
+    ],
+    "website": "https://itpln.ac.id",
+    "lat": -6.1683086,
+    "lon": 106.7264581,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "cost": "25000000 - 40000000",
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ]
+  },
+  {
+    "country": "Indonesia",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "IDR",
+    "name": "Universitas Sebelas Maret (UNS)",
+    "city": "Surakarta",
+    "programs": [
+      "Sarjana Teknik Sipil (S1)"
+    ],
+    "programLinks": [
+      "https://ocw.uns.ac.id/site/listmakul?id=38b317A4054yaVmtaa2QxTnRWbFpOVlZaVFlXMW9kRlZxVGxOaU6c23bcbb12f578660dbe4043d851963ceb72c9de1XeHpZVVprVGxZeFNscFdiWEJHVUZFOVBRPT0%3D"
+    ],
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Civil Engineering"
+    ],
+    "website": "https://uns.ac.id",
+    "lat": -7.5594794,
+    "lon": 110.8568535,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "cost": "1000000 - 22406000",
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ]
+  },
+  {
+    "country": "Indonesia",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "IDR",
+    "name": "Universitas Kristen Maranatha",
+    "city": "Bandung",
+    "programs": [
+      "Magister Teknik Sipil (S2, construction business management)"
+    ],
+    "programLinks": [
+      "https://www.maranatha.edu/en/prodi/s-2-teknik-sipil/"
+    ],
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Construction Management"
+    ],
+    "website": "https://www.maranatha.edu",
+    "lat": -6.8866689,
+    "lon": 107.5806748,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "cost": "28000000",
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Construction Management"
+    ]
+  },
+  {
+    "country": "Indonesia",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "IDR",
+    "name": "Universitas Indonesia (UI)",
+    "city": "Depok",
+    "programs": [
+      "Pendidikan Profesi Arsitek (PPAr)"
+    ],
+    "programLinks": [
+      "https://eng.ui.ac.id/wp-content/uploads/struktur-kurikulum-profesi-arsitektur.pdf"
+    ],
+    "website": "https://www.ui.ac.id",
+    "lat": -6.3603157,
+    "lon": 106.8271856,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "cost": "40000000",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Indonesia",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "IDR",
+    "name": "Universitas Katolik Parahyangan (UNPAR)",
+    "city": "Bandung",
+    "programs": [
+      "Sarjana Arsitektur (S1)"
+    ],
+    "programLinks": [
+      "https://arsitektur.unpar.ac.id/en/bachelor-program/bachelors-curriculum/"
+    ],
+    "website": "https://unpar.ac.id",
+    "lat": -6.9116663,
+    "lon": 107.6108713,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "cost": "50000000",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Parametric & Generative Design",
+      "Smart Cities & Buildings",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Parametric & Generative Design",
+      "Smart Cities & Buildings"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Indonesia",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "IDR",
+    "name": "Universitas Gadjah Mada (UGM)",
+    "city": "Yogyakarta",
+    "programs": [
+      "Sarjana Arsitektur (S1)"
+    ],
+    "programLinks": [
+      "https://elok.ugm.ac.id/course/info.php?id=10944"
+    ],
+    "website": "https://ugm.ac.id",
+    "lat": -7.7693966,
+    "lon": 110.3804236,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "cost": "0 - 24600000",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Parametric & Generative Design",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Parametric & Generative Design"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Indonesia",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "IDR",
+    "name": "Universitas Diponegoro (UNDIP)",
+    "city": "Semarang",
+    "programs": [
+      "Sarjana Teknik Sipil (S1)"
+    ],
+    "programLinks": [
+      "https://sipil.ft.undip.ac.id/silabus-mata-kuliah-pilihan/"
+    ],
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "nD BIM",
+      "Collaborative Workflows",
+      "Digital Construction",
+      "Civil Engineering"
+    ],
+    "website": "https://www.undip.ac.id",
+    "lat": -7.0483698,
+    "lon": 110.4401071,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "cost": "1000000 - 40000000",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "nD BIM",
+      "Collaborative Workflows",
+      "Digital Construction"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ]
+  },
+  {
+    "country": "Indonesia",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "IDR",
+    "name": "Institut Teknologi Sepuluh Nopember (ITS)",
+    "city": "Surabaya",
+    "programs": [
+      "Sarjana Arsitektur (S1, International Undergraduate Program)"
+    ],
+    "programLinks": [
+      "https://www.its.ac.id/arsitektur/program-studi/program-internasional/"
+    ],
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture"
+    ],
+    "website": "https://www.its.ac.id",
+    "lat": -7.2826954,
+    "lon": 112.7956782,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "cost": "50000000 - 87628800",
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Indonesia",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Part-time",
+    "delivery": "Presential / Blended",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "IDR",
+    "name": "BPSDM Kementerian Pekerjaan Umum",
+    "city": "Jakarta",
+    "programs": [
+      "TK203B Penyelenggaraan Proyek Infrastruktur PUPR dengan Metodologi BIM (61 JP, blended)",
+      "TA1201K Bimbingan Teknis BIM untuk Proyek Strategis Nasional Sumber Daya Air"
+    ],
+    "programLinks": [
+      "https://bpsdm.pu.go.id/center/pelatihan/diklat-detail-view?id_diklat=598",
+      "https://sibangkoman.pu.go.id/center/pelatihan/diklat-versi-detail-view?id_diklat=937&id_diklat_versi=458"
+    ],
+    "cost": "0",
+    "topics": [
+      "BIM",
+      "Infrastructure BIM",
+      "Collaborative Workflows",
+      "Construction Management"
+    ],
+    "website": "https://bpsdm.pu.go.id",
+    "lat": -6.235993,
+    "lon": 106.8006857,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "Infrastructure BIM",
+      "Collaborative Workflows"
+    ],
+    "domains": [
+      "Construction Management"
+    ]
+  },
+  {
+    "country": "Indonesia",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Part-time",
+    "delivery": "Online",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "IDR",
+    "name": "Powerindo Training",
+    "city": "Semarang",
+    "programs": [
+      "Building Information Modeling (BIM) – online class (4 sessions)",
+      "Pemodelan BIM Konstruksi Jalan"
+    ],
+    "programLinks": [
+      "https://www.powerindo-training.com/",
+      "https://www.powerindo-training.com/"
+    ],
+    "cost": "350000 - 500000",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Infrastructure BIM",
+      "Civil Engineering"
+    ],
+    "website": "https://www.powerindo-training.com",
+    "lat": -7.004148,
+    "lon": 110.4422265,
+    "geoSource": "nominatim:road",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Infrastructure BIM"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ]
+  },
+  {
+    "country": "Indonesia",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "IDR",
+    "name": "Institut Teknologi Nasional Malang (ITN Malang)",
+    "city": "Malang",
+    "programs": [
+      "Sarjana Teknik Sipil (S1)"
+    ],
+    "programLinks": [
+      "https://sipil.itn.ac.id/wp-content/uploads/2024/09/Buku-Kurikulum-Prodi_Sipil-S1_Mahasiswa_REVISI.pdf"
+    ],
+    "cost": "13200000 - 29200000",
+    "topics": [
+      "BIM",
+      "Construction Management",
+      "Civil Engineering"
+    ],
+    "website": "https://www.itn.ac.id",
+    "lat": -7.9583801,
+    "lon": 112.6123297,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM"
+    ],
+    "domains": [
+      "Construction Management",
+      "Civil Engineering"
+    ]
   }
 ]
