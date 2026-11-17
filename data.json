@@ -63292,7 +63292,7 @@
       "Smart Cities & Buildings",
       "IoT",
       "Civil Engineering",
-      "Urban Planning"
+      "Infrastructure Engineering"
     ],
     "computingTopics": [
       "Digital Twins",
@@ -63303,7 +63303,7 @@
     ],
     "domains": [
       "Civil Engineering",
-      "Urban Planning"
+      "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
     "website": "https://www.dtu.ac.in",
@@ -63594,14 +63594,14 @@
     "topics": [
       "BIM",
       "AI & Machine Learning",
-      "Information Management",
+      "Data Management",
       "Civil Engineering",
       "Construction Management"
     ],
     "computingTopics": [
       "BIM",
       "AI & Machine Learning",
-      "Information Management"
+      "Data Management"
     ],
     "domains": [
       "Civil Engineering",
@@ -63680,16 +63680,14 @@
     "topics": [
       "BIM",
       "BIM Software",
-      "Architecture",
-      "Interior Design"
+      "Architecture"
     ],
     "computingTopics": [
       "BIM",
       "BIM Software"
     ],
     "domains": [
-      "Architecture",
-      "Interior Design"
+      "Architecture"
     ],
     "verificationLevel": 2,
     "website": "https://vgu.ac.in",
@@ -64011,7 +64009,7 @@
       "Programming",
       "Data Management",
       "Civil Engineering",
-      "Urban Planning"
+      "Infrastructure Engineering"
     ],
     "computingTopics": [
       "AI & Machine Learning",
@@ -64022,7 +64020,7 @@
     ],
     "domains": [
       "Civil Engineering",
-      "Urban Planning"
+      "Infrastructure Engineering"
     ],
     "verificationLevel": 2,
     "website": "https://www.galgotiasuniversity.edu.in",
@@ -66647,6 +66645,7 @@
       "M.Tech Civil Engineering"
     ],
     "programLinks": [
+      "https://mtu.ac.in/civil-engineering/",
       "https://mtu.ac.in/civil-engineering/"
     ],
     "accreditation": [
@@ -67325,7 +67324,7 @@
     "verificationLevel": 2,
     "region": "Southern Asia",
     "costCurrency": "INR",
-    "name": "ICFAI Foundation for Higher Education (IFHE), Hyderabad",
+    "name": "ICFAI Foundation for Higher Education (IFHE)",
     "city": "Hyderabad",
     "programs": [
       "B.Arch"
@@ -67446,10 +67445,10 @@
     "verificationLevel": 2,
     "region": "Southern Asia",
     "costCurrency": "INR",
-    "name": "Nitte (Deemed to be University) - NMAM Institute of Technology",
+    "name": "Nitte (Deemed to be University)",
     "city": "Nitte",
     "programs": [
-      "M.Tech Construction Technology"
+      "M.Tech Construction Technology (NMAM Institute of Technology)"
     ],
     "programLinks": [
       "https://nitte.edu.in/nmamit/MTech-CCT.php"
@@ -68172,16 +68171,19 @@
     "name": "SRM Institute of Science and Technology (SRMIST)",
     "city": "Kattankulathur",
     "programs": [
-      "PhD Civil Engineering"
+      "PhD Civil Engineering",
+      "B.Tech Civil Engineering"
     ],
     "programLinks": [
-      "https://www.srmist.edu.in/admission-india/phd/"
+      "https://www.srmist.edu.in/admission-india/phd/",
+      "https://newsitepreview.srmist.edu.in/?p=14956"
     ],
-    "cost": "18000 - 30000",
+    "cost": "18000 - 275000",
     "topics": [
       "BIM",
       "nD BIM",
-      "Construction Management"
+      "Construction Management",
+      "Civil Engineering"
     ],
     "website": "https://www.srmist.edu.in",
     "lat": 12.8234361,
@@ -68193,7 +68195,8 @@
       "nD BIM"
     ],
     "domains": [
-      "Construction Management"
+      "Construction Management",
+      "Civil Engineering"
     ]
   },
   {
@@ -68343,7 +68346,7 @@
     "verificationLevel": 2,
     "region": "Southern Asia",
     "costCurrency": "LKR",
-    "name": "General Sir John Kotelawala Defence University (KDU) — Southern Campus",
+    "name": "General Sir John Kotelawala Defence University (KDU)",
     "city": "Sewanagala",
     "programs": [
       "BSc (Hons) Quantity Surveying"
@@ -68732,7 +68735,7 @@
     "verificationLevel": 2,
     "region": "Southern Asia",
     "costCurrency": "BTN",
-    "name": "College of Science and Technology (CST), Royal University of Bhutan",
+    "name": "College of Science and Technology (CST)",
     "city": "Phuentsholing",
     "programs": [
       "Masters in Construction Management"
@@ -68759,6 +68762,1668 @@
     "domains": [
       "Construction Management",
       "Project Management"
+    ]
+  },
+  {
+    "country": "Thailand",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "THB",
+    "name": "King Mongkut's Institute of Technology Ladkrabang (KMITL)",
+    "city": "Bangkok",
+    "programs": [
+      "Bachelor of Science in Architecture (International Program)",
+      "Doctor of Engineering (Civil Engineering)"
+    ],
+    "programLinks": [
+      "https://www.aad.kmitl.ac.th/architecture/",
+      "https://civil.kmitl.ac.th/doctor/"
+    ],
+    "cost": "185000",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Digital Fabrication",
+      "AI & Machine Learning",
+      "Parametric & Generative Design",
+      "Digital Construction",
+      "VR/AR",
+      "Architecture"
+    ],
+    "website": "https://www.kmitl.ac.th",
+    "lat": 13.7299068,
+    "lon": 100.7829827,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-16",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Digital Fabrication",
+      "AI & Machine Learning",
+      "Parametric & Generative Design",
+      "Digital Construction",
+      "VR/AR"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Thailand",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "THB",
+    "name": "Chulalongkorn University",
+    "city": "Bangkok",
+    "programs": [
+      "PhD in Civil Engineering (Construction Engineering and Management)",
+      "M.Eng. Civil Engineering (Construction Engineering and Management)",
+      "PhD in Architecture"
+    ],
+    "programLinks": [
+      "https://www.chula.ac.th/en/programs/25430011101562/",
+      "https://www.chula.ac.th/en/programs/25430011101562/",
+      "https://www.arch.arch.chula.ac.th/programs/graduate/doctor-of-philosophy-program-in-architecture/"
+    ],
+    "cost": "40000 - 187000",
+    "topics": [
+      "BIM",
+      "Robotics & Automation",
+      "Construction Informatics",
+      "VR/AR",
+      "3D Modeling & Scanning",
+      "Heritage BIM",
+      "Facility & Asset Management",
+      "Construction Management"
+    ],
+    "website": "https://www.chula.ac.th",
+    "lat": 13.7430893,
+    "lon": 100.5328725,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-16",
+    "computingTopics": [
+      "BIM",
+      "Robotics & Automation",
+      "Construction Informatics",
+      "VR/AR",
+      "3D Modeling & Scanning",
+      "Heritage BIM"
+    ],
+    "domains": [
+      "Facility & Asset Management",
+      "Construction Management"
+    ]
+  },
+  {
+    "country": "Thailand",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "THB",
+    "name": "King Mongkut's University of Technology Thonburi (KMUTT)",
+    "city": "Bangkok",
+    "programs": [
+      "Bachelor of Architecture",
+      "B.Eng Civil Engineering (International Program)",
+      "B.Eng Civil Engineering (Thai programme)"
+    ],
+    "programLinks": [
+      "https://soad.kmutt.ac.th/program/architecture-undergraduate-degree/",
+      "https://ce.kmutt.ac.th/?p=3233",
+      "https://ce.kmutt.ac.th/curriculums/undergraduate/"
+    ],
+    "cost": "106000 - 164000",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Parametric & Generative Design",
+      "Digital Design",
+      "Digital Fabrication",
+      "Architecture",
+      "Civil Engineering"
+    ],
+    "website": "https://www.kmutt.ac.th",
+    "lat": 13.6517718,
+    "lon": 100.4944087,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-16",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Parametric & Generative Design",
+      "Digital Design",
+      "Digital Fabrication"
+    ],
+    "domains": [
+      "Architecture",
+      "Civil Engineering"
+    ]
+  },
+  {
+    "country": "Thailand",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "THB",
+    "name": "Suranaree University of Technology (SUT)",
+    "city": "Nakhon Ratchasima",
+    "programs": [
+      "B.Eng Civil Engineering"
+    ],
+    "programLinks": [
+      "https://eng.sut.ac.th/ENG2023/?p=12861"
+    ],
+    "cost": "48800 - 50400",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Civil Engineering"
+    ],
+    "website": "https://www.sut.ac.th",
+    "lat": 14.8812177,
+    "lon": 102.0121748,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-16",
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ]
+  },
+  {
+    "country": "Thailand",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "THB",
+    "name": "Naresuan University",
+    "city": "Phitsanulok",
+    "programs": [
+      "M.Eng Construction Management",
+      "M.Eng Civil Engineering"
+    ],
+    "programLinks": [
+      "https://civil.eng.nu.ac.th/?page_id=2677",
+      "https://civil.eng.nu.ac.th/?page_id=2667"
+    ],
+    "cost": "50000",
+    "topics": [
+      "BIM",
+      "Construction Informatics",
+      "openBIM & IFC",
+      "Construction Management"
+    ],
+    "website": "https://www.nu.ac.th",
+    "lat": 16.742714,
+    "lon": 100.1948931,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-16",
+    "computingTopics": [
+      "BIM",
+      "Construction Informatics",
+      "openBIM & IFC"
+    ],
+    "domains": [
+      "Construction Management"
+    ]
+  },
+  {
+    "country": "India",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Southern Asia",
+    "costCurrency": "INR",
+    "name": "Gayatri Vidya Parishad College of Engineering (GVPCE)",
+    "city": "Visakhapatnam",
+    "programs": [
+      "B.Tech Civil Engineering"
+    ],
+    "programLinks": [
+      "https://gvpce.ac.in/civil.php"
+    ],
+    "cost": "105000 - 120000",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Civil Engineering"
+    ],
+    "website": "https://gvpce.ac.in",
+    "lat": 17.8102465,
+    "lon": 83.3540167,
+    "geoSource": "nominatim:locality",
+    "lastChecked": "2026-11-16",
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ]
+  },
+  {
+    "country": "India",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Southern Asia",
+    "costCurrency": "INR",
+    "name": "Vaagdevi College of Engineering",
+    "city": "Warangal",
+    "programs": [
+      "B.Tech Civil Engineering"
+    ],
+    "programLinks": [
+      "https://www.vaagdevi.edu.in/civil-engineering-2/"
+    ],
+    "cost": "105000",
+    "topics": [
+      "BIM",
+      "Civil Engineering"
+    ],
+    "website": "https://www.vaagdevi.edu.in",
+    "lat": 17.9820644,
+    "lon": 79.5970954,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-16",
+    "computingTopics": [
+      "BIM"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ]
+  },
+  {
+    "country": "India",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Southern Asia",
+    "costCurrency": "INR",
+    "name": "Nandha Engineering College",
+    "city": "Erode",
+    "programs": [
+      "B.E. Civil Engineering"
+    ],
+    "programLinks": [
+      "https://nandhaengg.org/b-e-civil-engineering/"
+    ],
+    "cost": "50000",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Civil Engineering"
+    ],
+    "website": "https://nandhaengg.org",
+    "lat": 11.2857155,
+    "lon": 77.6212312,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-16",
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ]
+  },
+  {
+    "country": "India",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Southern Asia",
+    "costCurrency": "INR",
+    "name": "Government College of Engineering, Salem",
+    "city": "Salem",
+    "programs": [
+      "B.E. Civil Engineering"
+    ],
+    "programLinks": [
+      "https://gcesalem.edu.in/15/department-civil-engineering"
+    ],
+    "cost": "9000 - 14000",
+    "topics": [
+      "BIM",
+      "Civil Engineering"
+    ],
+    "website": "https://www.gcesalem.edu.in",
+    "lat": 11.7200276,
+    "lon": 78.092039,
+    "geoSource": "nominatim:locality",
+    "lastChecked": "2026-11-16",
+    "computingTopics": [
+      "BIM"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ]
+  },
+  {
+    "country": "India",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Southern Asia",
+    "costCurrency": "INR",
+    "name": "DIT University",
+    "city": "Dehradun",
+    "programs": [
+      "B.Arch"
+    ],
+    "programLinks": [
+      "https://www.dituniversity.edu.in/ug-courses/barch"
+    ],
+    "cost": "215976 - 309200",
+    "topics": [
+      "BIM",
+      "Architecture"
+    ],
+    "website": "https://www.dituniversity.edu.in",
+    "lat": 30.3983396,
+    "lon": 78.0753455,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-16",
+    "computingTopics": [
+      "BIM"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "India",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Southern Asia",
+    "costCurrency": "INR",
+    "name": "Mar Athanasius College of Engineering (MACE)",
+    "city": "Kothamangalam",
+    "programs": [
+      "B.Tech Civil Engineering"
+    ],
+    "programLinks": [
+      "https://mace.ac.in/department/civil-engineering/"
+    ],
+    "cost": "8225 - 8650",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Civil Engineering"
+    ],
+    "website": "https://mace.ac.in",
+    "lat": 10.0539422,
+    "lon": 76.6199244,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-16",
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ]
+  },
+  {
+    "country": "India",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Southern Asia",
+    "costCurrency": "INR",
+    "name": "BMS Institute of Technology and Management (BMSIT&M)",
+    "city": "Bengaluru",
+    "programs": [
+      "B.E. Civil Engineering"
+    ],
+    "programLinks": [
+      "https://bmsit.ac.in/dep-civil.php"
+    ],
+    "cost": "200000",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Civil Engineering"
+    ],
+    "website": "https://bmsit.ac.in",
+    "lat": 13.1337434,
+    "lon": 77.5681741,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-16",
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ]
+  },
+  {
+    "country": "India",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Southern Asia",
+    "costCurrency": "INR",
+    "name": "Malnad College of Engineering (MCE)",
+    "city": "Hassan",
+    "programs": [
+      "B.E. Civil Engineering"
+    ],
+    "programLinks": [
+      "https://www.mcehassan.ac.in/home/Programmes/Civil-Engineering"
+    ],
+    "cost": "20610 - 350000",
+    "topics": [
+      "BIM",
+      "Civil Engineering"
+    ],
+    "website": "https://www.mcehassan.ac.in",
+    "lat": 13.0238143,
+    "lon": 76.1037125,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-16",
+    "computingTopics": [
+      "BIM"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ]
+  },
+  {
+    "country": "Bangladesh",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Southern Asia",
+    "costCurrency": "BDT",
+    "name": "Shahjalal University of Science and Technology (SUST)",
+    "city": "Sylhet",
+    "programs": [
+      "B.Arch"
+    ],
+    "programLinks": [
+      "https://alpha.sust.edu/dept/arc/academic-programs"
+    ],
+    "cost": "9000 - 17500",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture"
+    ],
+    "website": "https://www.sust.edu",
+    "lat": 24.9200204,
+    "lon": 91.8314022,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-16",
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Bangladesh",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Southern Asia",
+    "costCurrency": "BDT",
+    "name": "Dhaka University of Engineering & Technology (DUET)",
+    "city": "Gazipur",
+    "programs": [
+      "B.Arch"
+    ],
+    "programLinks": [
+      "https://www.duet.ac.bd/department/arch"
+    ],
+    "cost": "6000 - 12000",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture"
+    ],
+    "website": "https://www.duet.ac.bd",
+    "lat": 24.0184821,
+    "lon": 90.4172731,
+    "geoSource": "nominatim:landmark",
+    "lastChecked": "2026-11-16",
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Sri Lanka",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Southern Asia",
+    "costCurrency": "LKR",
+    "name": "Sri Lanka Technology Campus (SLTC)",
+    "city": "Padukka",
+    "programs": [
+      "BSc (Hons) in Engineering in Civil Engineering"
+    ],
+    "programLinks": [
+      "https://sltc.ac.lk/faculties/faculty-of-engineering/bachelor-of-science-hons-in-engineering-in-civil-engineering/"
+    ],
+    "cost": "725000",
+    "topics": [
+      "BIM",
+      "Civil Engineering"
+    ],
+    "website": "https://sltc.ac.lk",
+    "lat": 6.8532058,
+    "lon": 80.0925388,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-16",
+    "computingTopics": [
+      "BIM"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ]
+  },
+  {
+    "country": "Thailand",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "THB",
+    "name": "Sripatum University",
+    "city": "Bangkok",
+    "programs": [
+      "B.Eng Civil Engineering"
+    ],
+    "programLinks": [
+      "https://www.spu.ac.th/fac/engineer/?p=13408"
+    ],
+    "cost": "89850",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "nD BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "Digital Construction",
+      "Civil Engineering"
+    ],
+    "website": "https://www.spu.ac.th",
+    "lat": 13.854758,
+    "lon": 100.5854532,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-16",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "nD BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "Digital Construction"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ]
+  },
+  {
+    "country": "Thailand",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "THB",
+    "name": "Silpakorn University",
+    "city": "Bangkok",
+    "programs": [
+      "Bachelor of Architecture (Architecture)",
+      "Bachelor of Architecture (Thai Architecture)"
+    ],
+    "programLinks": [
+      "https://arch.su.ac.th/index.php/programs/p-bachelor?view=article&id=127:b-arch&catid=16",
+      "https://arch.su.ac.th/index.php/programs/p-bachelor?view=article&id=129:b-archthai&catid=16"
+    ],
+    "cost": "44000 - 45700",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Parametric & Generative Design",
+      "Programming",
+      "Architecture"
+    ],
+    "website": "https://www.su.ac.th",
+    "lat": 13.7531839,
+    "lon": 100.4903193,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-16",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Parametric & Generative Design",
+      "Programming"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Thailand",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "THB",
+    "name": "Thammasat University",
+    "city": "Pathum Thani",
+    "programs": [
+      "PhD in Civil Engineering (SIIT)"
+    ],
+    "programLinks": [
+      "https://www.siit.tu.ac.th/about/programs/ce"
+    ],
+    "cost": "172430",
+    "topics": [
+      "BIM",
+      "VR/AR",
+      "3D Modeling & Scanning",
+      "Digital Construction",
+      "Construction Management"
+    ],
+    "website": "https://www.siit.tu.ac.th",
+    "lat": 14.0697326,
+    "lon": 100.6079203,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-16",
+    "computingTopics": [
+      "BIM",
+      "VR/AR",
+      "3D Modeling & Scanning",
+      "Digital Construction"
+    ],
+    "domains": [
+      "Construction Management"
+    ]
+  },
+  {
+    "country": "Thailand",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "THB",
+    "name": "Chiang Mai University",
+    "city": "Chiang Mai",
+    "programs": [
+      "B.Eng Civil Engineering",
+      "PhD in Civil Engineering"
+    ],
+    "programLinks": [
+      "https://civil.eng.cmu.ac.th/?page_id=571",
+      "https://civil.eng.cmu.ac.th/?page_id=1069"
+    ],
+    "cost": "100000 - 140000",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Construction Informatics",
+      "Data Management",
+      "Digital Twins",
+      "IoT",
+      "nD BIM",
+      "Energy Performance",
+      "Civil Engineering"
+    ],
+    "website": "https://www.cmu.ac.th",
+    "lat": 18.8009264,
+    "lon": 98.9521552,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-16",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Construction Informatics",
+      "Data Management",
+      "Digital Twins",
+      "IoT",
+      "nD BIM",
+      "Energy Performance"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ]
+  },
+  {
+    "country": "Thailand",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "THB",
+    "name": "Khon Kaen University",
+    "city": "Khon Kaen",
+    "programs": [
+      "M.Eng Innovation Engineering (Construction Management Innovation Engineering)"
+    ],
+    "programLinks": [
+      "https://www.en.kku.ac.th/web/en/?p=2876"
+    ],
+    "cost": "80000 - 110000",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Construction Management"
+    ],
+    "website": "https://www.kku.ac.th",
+    "lat": 16.4589992,
+    "lon": 102.811967,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-16",
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning"
+    ],
+    "domains": [
+      "Construction Management"
+    ]
+  },
+  {
+    "country": "Thailand",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "THB",
+    "name": "Bangkok University",
+    "city": "Pathum Thani",
+    "programs": [
+      "Bachelor of Architecture"
+    ],
+    "programLinks": [
+      "https://www.bu.ac.th/en/arch/architecture"
+    ],
+    "cost": "93880",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Parametric & Generative Design",
+      "Programming",
+      "VR/AR",
+      "Architecture"
+    ],
+    "website": "https://www.bu.ac.th",
+    "lat": 14.0383459,
+    "lon": 100.6204276,
+    "geoSource": "nominatim:locality",
+    "lastChecked": "2026-11-16",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Parametric & Generative Design",
+      "Programming",
+      "VR/AR"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Thailand",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "THB",
+    "name": "King Mongkut's University of Technology North Bangkok (KMUTNB)",
+    "city": "Bangkok",
+    "programs": [
+      "B.Eng Civil Engineering and Technology (College of Industrial Technology)"
+    ],
+    "programLinks": [
+      "http://civil.cit.kmutnb.ac.th/"
+    ],
+    "cost": "50000",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "nD BIM",
+      "Civil Engineering"
+    ],
+    "website": "https://www.kmutnb.ac.th",
+    "lat": 13.8215586,
+    "lon": 100.5142292,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-16",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "nD BIM"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ]
+  },
+  {
+    "country": "Thailand",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "THB",
+    "name": "Assumption University",
+    "city": "Samut Prakan",
+    "programs": [
+      "Bachelor of Architecture (B.Arch.)"
+    ],
+    "programLinks": [
+      "https://admissions.au.edu/?page_id=2497"
+    ],
+    "cost": "174400",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture"
+    ],
+    "website": "https://www.au.edu",
+    "lat": 13.6138302,
+    "lon": 100.8338379,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-16",
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Thailand",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "THB",
+    "name": "Rajamangala University of Technology Thanyaburi (RMUTT)",
+    "city": "Pathum Thani",
+    "programs": [
+      "Bachelor of Architecture (Architecture, 5 years)"
+    ],
+    "programLinks": [
+      "https://www.eng.rmutt.ac.th/program-in-interior-architecture/"
+    ],
+    "cost": "44000 - 66000",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Digital Fabrication",
+      "Architecture"
+    ],
+    "website": "https://www.rmutt.ac.th",
+    "lat": 14.034999,
+    "lon": 100.7263433,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-16",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Digital Fabrication"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Cambodia",
+    "accreditation": [
+      "-"
+    ],
+    "language": "French / English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "KHR",
+    "name": "Institute of Technology of Cambodia (ITC)",
+    "city": "Phnom Penh",
+    "programs": [
+      "Engineer's Degree in Architectural Engineering (GAR)"
+    ],
+    "programLinks": [
+      "https://itc.edu.kh/department-of-architectural-engineering/"
+    ],
+    "cost": "2658500 - 3272000",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture"
+    ],
+    "website": "https://itc.edu.kh",
+    "lat": 11.5706096,
+    "lon": 104.8980041,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-16",
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Cambodia",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "KHR",
+    "name": "CamTech University",
+    "city": "Phnom Penh",
+    "programs": [
+      "Bachelor of Architecture"
+    ],
+    "programLinks": [
+      "https://camtech.edu.kh/bachelor-of-architecture/"
+    ],
+    "cost": "17137386",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "VR/AR",
+      "3D Modeling & Scanning",
+      "Architecture"
+    ],
+    "website": "https://camtech.edu.kh",
+    "lat": 11.5554975,
+    "lon": 104.8866484,
+    "geoSource": "nominatim:district",
+    "lastChecked": "2026-11-16",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "VR/AR",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Cambodia",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "KHR",
+    "name": "Paragon International University",
+    "city": "Phnom Penh",
+    "programs": [
+      "Bachelor of Architecture"
+    ],
+    "programLinks": [
+      "https://arc.paragoniu.edu.kh/"
+    ],
+    "cost": "18405000",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture"
+    ],
+    "website": "https://www.paragoniu.edu.kh",
+    "lat": 11.5844,
+    "lon": 104.90385,
+    "geoSource": "nominatim:district",
+    "lastChecked": "2026-11-16",
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Cambodia",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "KHR",
+    "name": "Kirirom Institute of Technology (KIT)",
+    "city": "Kampong Speu",
+    "programs": [
+      "BA Planning and Design (Architecture)"
+    ],
+    "programLinks": [
+      "https://www.kit.edu.kh/planning-and-design"
+    ],
+    "cost": "16321320 - 40803300",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "VR/AR",
+      "Architecture"
+    ],
+    "website": "https://www.kit.edu.kh",
+    "lat": 11.3068542,
+    "lon": 104.0527431,
+    "geoSource": "nominatim:landmark",
+    "lastChecked": "2026-11-16",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "VR/AR"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Vietnam",
+    "accreditation": [
+      "-"
+    ],
+    "language": "Vietnamese",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "VND",
+    "name": "Hanoi University of Civil Engineering (HUCE)",
+    "city": "Hanoi",
+    "programs": [
+      "Engineer in Civil Engineering – Construction Informatics",
+      "Doctoral Programme (Civil Engineering)"
+    ],
+    "programLinks": [
+      "https://fit-en.huce.edu.vn/admissions-2026-construction-engineering-major-specializing-in-construction-informatics",
+      "https://xaydung-en.huce.edu.vn/doctoral-education"
+    ],
+    "cost": "16400000 - 41000000",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "AI & Machine Learning",
+      "Programming",
+      "Construction Informatics",
+      "VR/AR",
+      "Robotics & Automation",
+      "Civil Engineering"
+    ],
+    "website": "https://huce.edu.vn",
+    "lat": 21.0032334,
+    "lon": 105.8432672,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-16",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "AI & Machine Learning",
+      "Programming",
+      "Construction Informatics",
+      "VR/AR",
+      "Robotics & Automation"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ]
+  },
+  {
+    "country": "Vietnam",
+    "accreditation": [
+      "-"
+    ],
+    "language": "Vietnamese",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "VND",
+    "name": "Lac Hong University",
+    "city": "Bien Hoa",
+    "programs": [
+      "Construction Engineering Technology – Construction Informatics (BIM Construction)",
+      "Master of Civil Engineering"
+    ],
+    "programLinks": [
+      "https://en-qt.lhu.edu.vn/631/45183/The-Construction-Engineering-Technology-Construction-Informatics-specialization.html",
+      "https://lhu.edu.vn/906/48359/Introduction.html"
+    ],
+    "cost": "18500000 - 46000000",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "nD BIM",
+      "Energy Performance",
+      "Construction Informatics",
+      "AI & Machine Learning"
+    ],
+    "website": "https://lhu.edu.vn",
+    "lat": 10.9573748,
+    "lon": 106.7907569,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-16",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "nD BIM",
+      "Energy Performance",
+      "Construction Informatics",
+      "AI & Machine Learning"
+    ],
+    "domains": []
+  },
+  {
+    "country": "Vietnam",
+    "accreditation": [
+      "-"
+    ],
+    "language": "Vietnamese",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "VND",
+    "name": "Ho Chi Minh City University of Technology and Education (HCMUTE)",
+    "city": "Ho Chi Minh City",
+    "programs": [
+      "Construction Engineering Technology",
+      "Construction Management",
+      "Transport Construction Engineering",
+      "Building Services Engineering (MEP)",
+      "Architecture",
+      "PhD in Civil Engineering"
+    ],
+    "programLinks": [
+      "https://fce.hcmute.edu.vn/TopicId/913a0702-8d34-475c-84a2-435550fb6ca6/expected-learning-outcomes",
+      "https://fce.hcmute.edu.vn/TopicId/0148c330-a86f-40d1-8282-5618e226f56b/expected-learning-outcomes",
+      "https://fce.hcmute.edu.vn/ArticleId/746be222-3bac-4f36-be78-c46b68809d69/",
+      "https://fce.hcmute.edu.vn/TopicId/47b51d68-57b3-40d5-ba66-1222b1a42a6e/expected-learning-outcome",
+      "https://fce.hcmute.edu.vn/TopicId/b4a540cf-b43e-4592-b791-3549fbc27313/program-curriculum-and-content",
+      "https://sdh.hcmute.edu.vn/ArticleId/4dc61f7c-d076-468c-8ac1-8e575da3459e/thong-bao-tuyen-sinh-dao-tao-trinh-do-tien-si-nam-2026-dot-2"
+    ],
+    "cost": "32000000 - 66000000",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Infrastructure BIM",
+      "Civil Engineering",
+      "Architecture"
+    ],
+    "website": "https://hcmute.edu.vn",
+    "lat": 10.8495742,
+    "lon": 106.7725151,
+    "geoSource": "nominatim:road",
+    "lastChecked": "2026-11-16",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Infrastructure BIM"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Vietnam",
+    "accreditation": [
+      "-"
+    ],
+    "language": "Vietnamese",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "VND",
+    "name": "Van Hien University",
+    "city": "Ho Chi Minh City",
+    "programs": [
+      "B.Eng Civil Engineering"
+    ],
+    "programLinks": [
+      "https://ktcn.vhu.edu.vn/vi/khung-chuong-trinh-dao-tao-nganh/chuong-trinh-dao-tao-nganh-ky-thuat-xay-dung-2533"
+    ],
+    "cost": "35800000 - 42960000",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "nD BIM",
+      "Civil Engineering"
+    ],
+    "website": "https://vhu.edu.vn",
+    "lat": 10.7841781,
+    "lon": 106.6412755,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-16",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "nD BIM"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ]
+  },
+  {
+    "country": "Vietnam",
+    "accreditation": [
+      "-"
+    ],
+    "language": "Vietnamese",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "VND",
+    "name": "Hong Duc University",
+    "city": "Thanh Hoa",
+    "programs": [
+      "B.Eng Civil Engineering"
+    ],
+    "programLinks": [
+      "https://en.hdu.edu.vn/Home/DanhMuc?idDanhMuc=3215"
+    ],
+    "cost": "13810000",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Civil Engineering"
+    ],
+    "website": "https://hdu.edu.vn",
+    "lat": 19.7679315,
+    "lon": 105.7793314,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-16",
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ]
+  },
+  {
+    "country": "Vietnam",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "VND",
+    "name": "International University – Vietnam National University HCMC (HCMIU)",
+    "city": "Ho Chi Minh City",
+    "programs": [
+      "BSc Construction Management"
+    ],
+    "programLinks": [
+      "https://hcmiu.edu.vn/?p=15676"
+    ],
+    "cost": "45000000 - 60000000",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Construction Informatics",
+      "Construction Management"
+    ],
+    "website": "https://hcmiu.edu.vn",
+    "lat": 10.8778839,
+    "lon": 106.8015666,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-16",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Construction Informatics"
+    ],
+    "domains": [
+      "Construction Management"
+    ]
+  },
+  {
+    "country": "Vietnam",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "VND",
+    "name": "Vietnamese-German University (VGU)",
+    "city": "Ben Cat",
+    "programs": [
+      "BEng Civil Engineering and Construction Management (with Biberach University of Applied Sciences)"
+    ],
+    "programLinks": [
+      "https://vgu.edu.vn/"
+    ],
+    "cost": "87400000 - 131100000",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Construction Management"
+    ],
+    "website": "https://vgu.edu.vn",
+    "lat": 11.1059476,
+    "lon": 106.6146225,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-16",
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Construction Management"
+    ]
+  },
+  {
+    "country": "Vietnam",
+    "accreditation": [
+      "-"
+    ],
+    "language": "Vietnamese",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "VND",
+    "name": "University of Science and Technology – The University of Da Nang (DUT)",
+    "city": "Da Nang",
+    "programs": [
+      "Building Information Modelling and Artificial Intelligence in Construction",
+      "Civil Engineering – Smart City Construction Engineering and Management",
+      "PhD in Construction Management"
+    ],
+    "programLinks": [
+      "http://dut.udn.vn/TrangDaotao/Gioithieu/id/6937",
+      "http://dut.udn.vn/TrangDaotao/Gioithieu/id/6936",
+      "https://dut.udn.vn/TrangDaotaoSDH/Gioithieu/id/10010"
+    ],
+    "cost": "25900000 - 30896000",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "AI & Machine Learning",
+      "nD BIM",
+      "Construction Informatics",
+      "Smart Cities & Buildings",
+      "Data Management",
+      "Programming",
+      "Digital Twins",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "website": "https://dut.udn.vn",
+    "lat": 16.0750159,
+    "lon": 108.1527236,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-16",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "AI & Machine Learning",
+      "nD BIM",
+      "Construction Informatics",
+      "Smart Cities & Buildings",
+      "Data Management",
+      "Programming",
+      "Digital Twins"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ]
+  },
+  {
+    "country": "Vietnam",
+    "accreditation": [
+      "-"
+    ],
+    "language": "Vietnamese",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "VND",
+    "name": "Van Lang University",
+    "city": "Ho Chi Minh City",
+    "programs": [
+      "Engineering of Construction Management"
+    ],
+    "programLinks": [
+      "https://www.vlu.edu.vn/en/academics/majors/engineering-of-construction-management"
+    ],
+    "cost": "39000000 - 60000000",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "nD BIM",
+      "Construction Management"
+    ],
+    "website": "https://www.vlu.edu.vn",
+    "lat": 10.8284791,
+    "lon": 106.7030312,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-16",
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "nD BIM"
+    ],
+    "domains": [
+      "Construction Management"
+    ]
+  },
+  {
+    "country": "Vietnam",
+    "accreditation": [
+      "-"
+    ],
+    "language": "Vietnamese",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "VND",
+    "name": "Ho Chi Minh City University of Technology (HCMUT)",
+    "city": "Ho Chi Minh City",
+    "programs": [
+      "PhD in Construction Management"
+    ],
+    "programLinks": [
+      "https://hcmut.edu.vn/tuyen-sinh/trinh-do-tien-si"
+    ],
+    "cost": "63000000",
+    "topics": [
+      "BIM",
+      "Heritage BIM",
+      "3D Modeling & Scanning",
+      "Construction Management"
+    ],
+    "website": "https://hcmut.edu.vn",
+    "lat": 10.7733495,
+    "lon": 106.6596319,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-16",
+    "computingTopics": [
+      "BIM",
+      "Heritage BIM",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Construction Management"
     ]
   }
 ]
