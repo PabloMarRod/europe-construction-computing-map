@@ -65757,12 +65757,14 @@
     "programs": [
       "B.Tech Civil Engineering",
       "B.Arch",
-      "PhD Civil Engineering"
+      "PhD Civil Engineering",
+      "Short-Term Course: Building Information Modeling – Fundamentals and Applications in the AECO Industry (5 days, hybrid)"
     ],
     "programLinks": [
       "https://www.nitrkl.ac.in/Academic/Curriculum/?id=3",
       "https://www.nitrkl.ac.in/Academic/Curriculum/?id=21",
-      "https://www.nitrkl.ac.in/Academic/ResearchProgramme/"
+      "https://www.nitrkl.ac.in/Academic/ResearchProgramme/",
+      "https://www.nitrkl.ac.in/docs/Workshop/CE/21092025115506149B.pdf"
     ],
     "accreditation": [
       "-"
@@ -65770,7 +65772,7 @@
     "language": "English",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "54500 - 125000",
+    "cost": "1500 - 125000",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
@@ -68253,10 +68255,12 @@
     "name": "Sri Lanka Institute of Information Technology (SLIIT)",
     "city": "Malabe",
     "programs": [
-      "BSc (Hons) Quantity Surveying"
+      "BSc (Hons) Quantity Surveying",
+      "Short Course on BIM Technology for Construction Professionals"
     ],
     "programLinks": [
-      "https://www.sliit.lk/study/find-a-program/bsc-hons-in-quantity-surveying"
+      "https://www.sliit.lk/study/find-a-program/bsc-hons-in-quantity-surveying",
+      "https://www.sliit.lk/?p=48883"
     ],
     "cost": "730000",
     "topics": [
@@ -69828,16 +69832,19 @@
     "name": "Institute of Technology of Cambodia (ITC)",
     "city": "Phnom Penh",
     "programs": [
-      "Engineer's Degree in Architectural Engineering (GAR)"
+      "Engineer's Degree in Architectural Engineering (GAR)",
+      "Associate Degree in Civil and Structural Engineering Design and Supervision (CSEDS)"
     ],
     "programLinks": [
-      "https://itc.edu.kh/department-of-architectural-engineering/"
+      "https://itc.edu.kh/department-of-architectural-engineering/",
+      "https://itc.edu.kh/"
     ],
-    "cost": "2658500 - 3272000",
+    "cost": "1022500 - 3272000",
     "topics": [
       "BIM",
       "BIM Software",
-      "Architecture"
+      "Architecture",
+      "Civil Engineering"
     ],
     "website": "https://itc.edu.kh",
     "lat": 11.5706096,
@@ -69849,7 +69856,8 @@
       "BIM Software"
     ],
     "domains": [
-      "Architecture"
+      "Architecture",
+      "Civil Engineering"
     ]
   },
   {
@@ -70424,6 +70432,2067 @@
     ],
     "domains": [
       "Construction Management"
+    ]
+  },
+  {
+    "country": "Malaysia",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "MYR",
+    "name": "Taylor's University",
+    "city": "Subang Jaya",
+    "programs": [
+      "BSc (Hons) Sustainable Digital Construction Management"
+    ],
+    "programLinks": [
+      "https://university.taylors.edu.my/en/study/undergraduate/architecture/bachelor-of-science-hons-in-sustainable-digital-construction-management.html"
+    ],
+    "cost": "35829 - 49064",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "IoT",
+      "Data Management",
+      "VR/AR",
+      "Smart Cities & Buildings",
+      "Digital Construction",
+      "Construction Management",
+      "Sustainability"
+    ],
+    "website": "https://university.taylors.edu.my",
+    "lat": 3.0632813,
+    "lon": 101.6170616,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "IoT",
+      "Data Management",
+      "VR/AR",
+      "Smart Cities & Buildings",
+      "Digital Construction"
+    ],
+    "domains": [
+      "Construction Management",
+      "Sustainability"
+    ]
+  },
+  {
+    "country": "Malaysia",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time / Part-time / Online",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "MYR",
+    "name": "INTI International University",
+    "city": "Nilai",
+    "programs": [
+      "Master of Science in Construction Management (Building Information Modelling)",
+      "Bachelor of Technology in Digital Construction Management"
+    ],
+    "programLinks": [
+      "https://newinti.edu.my/programme/master-of-science-in-construction-management-building-information-modelling/",
+      "https://newinti.edu.my/programme/bachelor-of-technology-in-digital-construction-management/"
+    ],
+    "cost": "28610 - 40205",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Digital Construction",
+      "3D Modeling & Scanning",
+      "Smart Cities & Buildings",
+      "Construction Management",
+      "Procurement & Contracts"
+    ],
+    "website": "https://newinti.edu.my",
+    "lat": 2.8114894,
+    "lon": 101.7587713,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Digital Construction",
+      "3D Modeling & Scanning",
+      "Smart Cities & Buildings"
+    ],
+    "domains": [
+      "Construction Management",
+      "Procurement & Contracts"
+    ]
+  },
+  {
+    "country": "Malaysia",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "MYR",
+    "name": "Heriot-Watt University — Campus Putrajaya",
+    "city": "Putrajaya",
+    "programs": [
+      "BSc (Hons) Quantity Surveying"
+    ],
+    "programLinks": [
+      "https://www.hw.ac.uk/malaysia/study/undergraduate/quantity-surveying-bsc-hons.htm"
+    ],
+    "cost": "39300 - 51007",
+    "topics": [
+      "BIM",
+      "Digital Construction",
+      "Procurement & Contracts"
+    ],
+    "website": "https://www.hw.ac.uk/malaysia",
+    "lat": 2.8994792,
+    "lon": 101.6722831,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "Digital Construction"
+    ],
+    "domains": [
+      "Procurement & Contracts"
+    ]
+  },
+  {
+    "country": "Malaysia",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "MYR",
+    "name": "Tunku Abdul Rahman University of Management and Technology (TAR UMT)",
+    "city": "Kuala Lumpur",
+    "programs": [
+      "Bachelor of Construction Management and Economics (Honours)",
+      "Bachelor of Quantity Surveying (Honours)",
+      "Bachelor of Science in Architecture (Honours)",
+      "Diploma in Building",
+      "Diploma in Quantity Surveying",
+      "Doctor of Philosophy in Built Environment"
+    ],
+    "programLinks": [
+      "https://fobe.tarc.edu.my/programmes/bachelors-degree/bachelor-of-construction-management-and-economics-honours",
+      "https://fobe.tarc.edu.my/programmes/bachelors-degree/bachelor-of-quantity-surveying-honours",
+      "https://fobe.tarc.edu.my/programmes/bachelors-degree/bachelor-of-science-in-architecture-honours",
+      "https://fobe.tarc.edu.my/programmes/diploma/diploma-in-building",
+      "https://fobe.tarc.edu.my/programmes/diploma/diploma-in-quantity-surveying",
+      "https://cpsr.tarc.edu.my/programmes/by-research/faculty-of-built-environment/doctor-of-philosophy-in-built-environment"
+    ],
+    "cost": "2913 - 26333",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Digital Construction",
+      "Digital Design",
+      "Energy Performance",
+      "Construction Management",
+      "Procurement & Contracts",
+      "Architecture"
+    ],
+    "website": "https://www.tarc.edu.my",
+    "lat": 3.214887,
+    "lon": 101.7285854,
+    "geoSource": "nominatim:landmark",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Digital Construction",
+      "Digital Design",
+      "Energy Performance"
+    ],
+    "domains": [
+      "Construction Management",
+      "Procurement & Contracts",
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Malaysia",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "MYR",
+    "name": "Universiti Tunku Abdul Rahman (UTAR)",
+    "city": "Kajang",
+    "programs": [
+      "Bachelor of Civil Engineering with Honours",
+      "Master of Civil Engineering"
+    ],
+    "programLinks": [
+      "https://study.utar.edu.my/civil-engineering.php",
+      "https://ipsr.utar.edu.my/MEngCivil.php"
+    ],
+    "cost": "16275 - 22475",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "AI & Machine Learning",
+      "Data Management",
+      "Civil Engineering"
+    ],
+    "website": "https://www.utar.edu.my",
+    "lat": 3.0398137,
+    "lon": 101.794283,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "AI & Machine Learning",
+      "Data Management"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ]
+  },
+  {
+    "country": "Malaysia",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "MYR",
+    "name": "UCSI University",
+    "city": "Kuala Lumpur",
+    "programs": [
+      "Bachelor of Quantity Surveying (Hons)"
+    ],
+    "programLinks": [
+      "https://ucsiuniversity.edu.my/node/5482"
+    ],
+    "cost": "21840 - 31143",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Construction Informatics",
+      "Procurement & Contracts"
+    ],
+    "website": "https://ucsiuniversity.edu.my",
+    "lat": 3.0789392,
+    "lon": 101.7326363,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Construction Informatics"
+    ],
+    "domains": [
+      "Procurement & Contracts"
+    ]
+  },
+  {
+    "country": "Malaysia",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time / Part-time / Online",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "MYR",
+    "name": "Universiti Malaya (UM)",
+    "city": "Kuala Lumpur",
+    "programs": [
+      "Bachelor of Quantity Surveying",
+      "Master of Facilities and Maintenance Management",
+      "Doctor of Philosophy (Built Environment)"
+    ],
+    "programLinks": [
+      "https://fbe.um.edu.my/undergraduate",
+      "https://fbe.um.edu.my/master-s-programme",
+      "https://study.um.edu.my/doctor-of-philosophy-faculty-of-built-environment-research"
+    ],
+    "cost": "2625 - 36900",
+    "topics": [
+      "BIM",
+      "Digital Construction",
+      "VR/AR",
+      "IoT",
+      "AI & Machine Learning",
+      "Data Management",
+      "Digital Twins",
+      "Procurement & Contracts",
+      "Facility & Asset Management"
+    ],
+    "website": "https://www.um.edu.my",
+    "lat": 3.1257602,
+    "lon": 101.6558796,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "Digital Construction",
+      "VR/AR",
+      "IoT",
+      "AI & Machine Learning",
+      "Data Management",
+      "Digital Twins"
+    ],
+    "domains": [
+      "Procurement & Contracts",
+      "Facility & Asset Management"
+    ]
+  },
+  {
+    "country": "Malaysia",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "MYR",
+    "name": "Universiti Teknologi Malaysia (UTM)",
+    "city": "Johor Bahru",
+    "programs": [
+      "Bachelor of Science in Architecture with Honours",
+      "Bachelor of Quantity Surveying with Honours",
+      "Bachelor of Civil Engineering with Honours",
+      "Doctor of Philosophy (Civil Engineering)"
+    ],
+    "programLinks": [
+      "https://builtsurvey.utm.my/departments-units/architecture/",
+      "https://builtsurvey.utm.my/departments-units/quantity-surveying/",
+      "https://civil.utm.my/",
+      "https://civil.utm.my/postgraduate/doctor-of-philosophy/"
+    ],
+    "cost": "2870 - 17207",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "AI & Machine Learning",
+      "GIS & BIM Integration",
+      "Data Management",
+      "Robotics & Automation",
+      "Architecture",
+      "Procurement & Contracts",
+      "Civil Engineering"
+    ],
+    "website": "https://www.utm.my",
+    "lat": 1.5585223,
+    "lon": 103.6399138,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "AI & Machine Learning",
+      "GIS & BIM Integration",
+      "Data Management",
+      "Robotics & Automation"
+    ],
+    "domains": [
+      "Architecture",
+      "Procurement & Contracts",
+      "Civil Engineering"
+    ]
+  },
+  {
+    "country": "Malaysia",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "MYR",
+    "name": "University of Technology Sarawak (UTS)",
+    "city": "Sibu",
+    "programs": [
+      "Bachelor of Quantity Surveying (Hons)"
+    ],
+    "programLinks": [
+      "https://sbe.uts.edu.my/quantity-surveying/"
+    ],
+    "cost": "15489 - 70400",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Procurement & Contracts"
+    ],
+    "website": "https://www.uts.edu.my",
+    "lat": 2.3412444,
+    "lon": 111.8447989,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Procurement & Contracts"
+    ]
+  },
+  {
+    "country": "Malaysia",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "MYR",
+    "name": "Universiti Kebangsaan Malaysia (UKM)",
+    "city": "Bangi",
+    "programs": [
+      "Bachelor of Civil Engineering with Honours"
+    ],
+    "programLinks": [
+      "https://www.ukm.my/fkab/bachelor-degree-programme/"
+    ],
+    "cost": "2150 - 27200",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "GIS & BIM Integration",
+      "Civil Engineering",
+      "Prefabrication & Modular Construction"
+    ],
+    "website": "https://www.ukm.my",
+    "lat": 2.9240809,
+    "lon": 101.7812216,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "GIS & BIM Integration"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Prefabrication & Modular Construction"
+    ]
+  },
+  {
+    "country": "Malaysia",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "MYR",
+    "name": "University of Nottingham — Campus Semenyih",
+    "city": "Semenyih",
+    "programs": [
+      "MEng (Hons) Civil Engineering"
+    ],
+    "programLinks": [
+      "https://nottingham.edu.my/ugstudy/course/civil-engineering-meng-hons"
+    ],
+    "cost": "58000 - 69000",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Civil Engineering"
+    ],
+    "website": "https://www.nottingham.edu.my",
+    "lat": 2.9444848,
+    "lon": 101.8760283,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ]
+  },
+  {
+    "country": "Malaysia",
+    "accreditation": [
+      "CIOB"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "MYR",
+    "name": "Universiti Teknologi MARA (UiTM)",
+    "city": "Shah Alam",
+    "programs": [
+      "Bachelor of Science (Hons) Construction Management",
+      "Doctor of Philosophy (Built Environment)"
+    ],
+    "programLinks": [
+      "https://fab.uitm.edu.my/index.php/be246",
+      "https://kab.uitm.edu.my/index.php/AP991"
+    ],
+    "cost": "3610 - 52884",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Digital Construction",
+      "Facility & Asset Management",
+      "Construction Management"
+    ],
+    "website": "https://www.uitm.edu.my",
+    "lat": 3.0686895,
+    "lon": 101.4995983,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Digital Construction"
+    ],
+    "domains": [
+      "Facility & Asset Management",
+      "Construction Management"
+    ]
+  },
+  {
+    "country": "Malaysia",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "MYR",
+    "name": "Universiti Putra Malaysia (UPM)",
+    "city": "Serdang",
+    "programs": [
+      "Bachelor of Civil Engineering with Honours"
+    ],
+    "programLinks": [
+      "https://eng.upm.edu.my/department/department_of_civil_engineering/introduction-1876"
+    ],
+    "cost": "1400 - 17500",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Programming",
+      "Civil Engineering"
+    ],
+    "website": "https://www.upm.edu.my",
+    "lat": 2.9918365,
+    "lon": 101.720677,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ]
+  },
+  {
+    "country": "Vietnam",
+    "accreditation": [
+      "-"
+    ],
+    "language": "Vietnamese",
+    "mode": "Part-time",
+    "delivery": "Online",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "VND",
+    "name": "Institute of Construction Economics",
+    "city": "Hanoi",
+    "programs": [
+      "BIM Management Training Programme (AGC curriculum, 32 hours)"
+    ],
+    "programLinks": [
+      "https://kinhtexaydung.gov.vn/wp-content/uploads/2026/02/Thong-bao-chuong-trinh-dao-tao-BIM-AGC-1.pdf"
+    ],
+    "cost": "10000000",
+    "topics": [
+      "BIM",
+      "nD BIM",
+      "Collaborative Workflows",
+      "Construction Management",
+      "Procurement & Contracts"
+    ],
+    "website": "https://kinhtexaydung.gov.vn",
+    "lat": 21.0138613,
+    "lon": 105.8473155,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "nD BIM",
+      "Collaborative Workflows"
+    ],
+    "domains": [
+      "Construction Management",
+      "Procurement & Contracts"
+    ]
+  },
+  {
+    "country": "Malaysia",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Part-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "MYR",
+    "name": "Universiti Malaysia Perlis (UniMAP)",
+    "city": "Arau",
+    "programs": [
+      "Professional Diploma in Building Information Modelling (BIM) & Industrialised Building System (IBS)"
+    ],
+    "programLinks": [
+      "https://pdce.unimap.edu.my/index.php/course/professionaldip/professional-diploma-in-building-information-modelling-bim-industrialised-building-system-ibs"
+    ],
+    "cost": "8800",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Prefabrication & Modular Construction"
+    ],
+    "website": "https://www.unimap.edu.my",
+    "lat": 6.4642829,
+    "lon": 100.3486249,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Prefabrication & Modular Construction"
+    ]
+  },
+  {
+    "country": "Vietnam",
+    "accreditation": [
+      "-"
+    ],
+    "language": "Vietnamese / English",
+    "mode": "Part-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "VND",
+    "name": "BSI Vietnam",
+    "city": "Ho Chi Minh City",
+    "programs": [
+      "BIM Fundamentals Training Course",
+      "BIM Project Information Practitioner / Professional (ISO 19650)"
+    ],
+    "programLinks": [
+      "https://bsigroup.com/vi-VN/dich-vu/cac-khoa-dao-tao/giai-phap-dao-tao-bim/BIM-fundamentals-training-course",
+      "https://www.bsigroup.com/vi-VN/training-courses/bim-project-information-practitioner-professional/"
+    ],
+    "cost": "8500000 - 15500000",
+    "topics": [
+      "BIM",
+      "ISO 19650",
+      "Data Management"
+    ],
+    "website": "https://www.bsigroup.com/vi-VN/",
+    "lat": 10.7737261,
+    "lon": 106.7166008,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "ISO 19650",
+      "Data Management"
+    ],
+    "domains": []
+  },
+  {
+    "country": "Malaysia",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Part-time",
+    "delivery": "Presential / Online",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "MYR",
+    "name": "CIDB myBIM Centre",
+    "city": "Kuala Lumpur",
+    "programs": [
+      "BIM Concept & Theory",
+      "BIM Concept & Theory (online)",
+      "BIM for Contractor",
+      "BIM for Contractor (online)",
+      "BIM Modelling of Architecture",
+      "BIM Modelling of Structure",
+      "BIM Modelling of Mechanical & Plumbing",
+      "BIM Modelling of Electrical",
+      "BIM Modelling of Infrastructure (Roads & Highways)",
+      "BIM of Project Quantification",
+      "BIM Coordinator Part 1: Setup",
+      "BIM Coordinator Part 2: Coordination",
+      "BIM Coordinator Facilities Management",
+      "BIM Manager Part 1 (BIM Implementation and Management)",
+      "BIM Manager Part 2 (Process, People and Organisation)"
+    ],
+    "programLinks": [
+      "https://smart.cidb.gov.my/product/training/bim-concept-and-theory-170",
+      "https://smart.cidb.gov.my/product/training/bim-concept-and-theory-online-course-171",
+      "https://smart.cidb.gov.my/product/training/bim-for-contractor-172",
+      "https://smart.cidb.gov.my/product/training/bim-for-contractor-online-course-454",
+      "https://smart.cidb.gov.my/product/training/bim-modelling-of-architecture-173",
+      "https://smart.cidb.gov.my/product/training/bim-modelling-of-structure-174",
+      "https://smart.cidb.gov.my/product/training/bim-modelling-of-mechanical-and-plumbing-system-175",
+      "https://smart.cidb.gov.my/product/training/bim-modelling-of-electrical-176",
+      "https://smart.cidb.gov.my/product/training/bim-modelling-of-infrastructure-180",
+      "https://smart.cidb.gov.my/product/training/bim-of-project-quantification-183",
+      "https://smart.cidb.gov.my/product/training/bim-coordinator-part-1-setup-177",
+      "https://smart.cidb.gov.my/product/training/bim-coordinator-part-2-coordination-178",
+      "https://smart.cidb.gov.my/product/training/bim-coordinator-facilities-management-182",
+      "https://smart.cidb.gov.my/product/training/bim-manager-part-1-179",
+      "https://smart.cidb.gov.my/product/training/bim-manager-part-2-181"
+    ],
+    "cost": "199 - 3200",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Infrastructure BIM",
+      "Collaborative Workflows",
+      "Construction Management",
+      "ISO 19650",
+      "nD BIM",
+      "Facility & Asset Management"
+    ],
+    "website": "https://mybim.cidb.gov.my",
+    "lat": 3.1807816,
+    "lon": 101.6647099,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Infrastructure BIM",
+      "Collaborative Workflows",
+      "ISO 19650",
+      "nD BIM"
+    ],
+    "domains": [
+      "Construction Management",
+      "Facility & Asset Management"
+    ]
+  },
+  {
+    "country": "Malaysia",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "MYR",
+    "name": "Politeknik Sultan Abdul Halim Mu'adzam Shah (POLIMAS)",
+    "city": "Jitra",
+    "programs": [
+      "Diploma in Civil Engineering"
+    ],
+    "programLinks": [
+      "https://polimas.mypolycc.edu.my/images/akademik/JKA/student-study-guide-DKA%20curriculum%202019.pdf"
+    ],
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Civil Engineering"
+    ],
+    "website": "https://polimas.mypolycc.edu.my",
+    "lat": 6.2497258,
+    "lon": 100.432122,
+    "geoSource": "nominatim:name",
+    "cost": "1200",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ]
+  },
+  {
+    "country": "Malaysia",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "MYR",
+    "name": "Politeknik Sultan Salahuddin Abdul Aziz Shah (PSA)",
+    "city": "Shah Alam",
+    "programs": [
+      "Diploma in Civil Engineering",
+      "Diploma in Building Services Engineering"
+    ],
+    "programLinks": [
+      "https://psa.mypolycc.edu.my/phocadownload/PELAJAR/STRUKTUR%20KURSUS/PS%20-%20DIPLOMA%20IN%20CIVIL%20ENGINEERING.pdf",
+      "https://psa.mypolycc.edu.my/phocadownload/PELAJAR/STRUKTUR%20KURSUS/PS%20-%20DIPLOMA%20IN%20BUILDING%20SERVICES%20ENGINEERING.pdf"
+    ],
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Civil Engineering"
+    ],
+    "website": "https://psa.mypolycc.edu.my",
+    "lat": 3.0874945,
+    "lon": 101.5572496,
+    "geoSource": "nominatim:name",
+    "cost": "1200",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ]
+  },
+  {
+    "country": "Malaysia",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "MYR",
+    "name": "Politeknik Kota Bharu (PKB)",
+    "city": "Kota Bharu",
+    "programs": [
+      "Diploma in Civil Engineering",
+      "Diploma in Quantity Surveying"
+    ],
+    "programLinks": [
+      "https://pkb.mypolycc.edu.my/index.php/ms/component/jdownloads/send/118-ka2023/645-blue-ocean-engineering-sdn-bhd-juara-design-build-single-store-house-competition-2023",
+      "https://pkb.mypolycc.edu.my/index.php/ms/component/jdownloads/send/118-ka2023/645-blue-ocean-engineering-sdn-bhd-juara-design-build-single-store-house-competition-2023"
+    ],
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Civil Engineering",
+      "Procurement & Contracts"
+    ],
+    "website": "https://pkb.mypolycc.edu.my",
+    "lat": 5.9228182,
+    "lon": 102.233845,
+    "geoSource": "nominatim:name",
+    "cost": "1200",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Procurement & Contracts"
+    ]
+  },
+  {
+    "country": "Malaysia",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "MYR",
+    "name": "Politeknik Tuanku Sultanah Bahiyah (PTSB)",
+    "city": "Kulim",
+    "programs": [
+      "Diploma in Civil Engineering"
+    ],
+    "programLinks": [
+      "https://ptsb.mypolycc.edu.my/index.php/ms/jabatan-unit/akademik1/20-jabatan-unit/akademik/27-jabatan-kejuruteraan-awam"
+    ],
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Civil Engineering"
+    ],
+    "website": "https://ptsb.mypolycc.edu.my",
+    "lat": 5.3824482,
+    "lon": 100.5784883,
+    "geoSource": "nominatim:name",
+    "cost": "1200",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ]
+  },
+  {
+    "country": "Malaysia",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "MYR",
+    "name": "Universiti Malaysia Pahang Al-Sultan Abdullah (UMPSA)",
+    "city": "Kuantan",
+    "programs": [
+      "Doctor of Philosophy (Civil Engineering)"
+    ],
+    "programLinks": [
+      "https://ips.umpsa.edu.my/index.php/en/ips-offer/admission-information/doctor-of-philosophy"
+    ],
+    "website": "https://www.umpsa.edu.my",
+    "lat": 3.7072428,
+    "lon": 103.0965017,
+    "geoSource": "nominatim:locality",
+    "cost": "4867 - 11192",
+    "lastChecked": "2026-11-17",
+    "topics": [
+      "BIM",
+      "nD BIM",
+      "Construction Management"
+    ],
+    "computingTopics": [
+      "BIM",
+      "nD BIM"
+    ],
+    "domains": [
+      "Construction Management"
+    ]
+  },
+  {
+    "country": "Malaysia",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "MYR",
+    "name": "Universiti Teknologi PETRONAS (UTP)",
+    "city": "Seri Iskandar",
+    "programs": [
+      "Doctor of Philosophy (Ph.D.) in Civil Engineering"
+    ],
+    "programLinks": [
+      "https://www.utp.edu.my/Pages/Admission/Postgraduate/PhD/PhD-in-Civil-Engineering.aspx"
+    ],
+    "cost": "14600 - 19000",
+    "topics": [
+      "BIM",
+      "Digital Construction",
+      "Digital Twins",
+      "IoT",
+      "AI & Machine Learning",
+      "GIS & BIM Integration",
+      "Construction Management"
+    ],
+    "website": "https://www.utp.edu.my",
+    "lat": 4.3827595,
+    "lon": 100.9701137,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "Digital Construction",
+      "Digital Twins",
+      "IoT",
+      "AI & Machine Learning",
+      "GIS & BIM Integration"
+    ],
+    "domains": [
+      "Construction Management"
+    ]
+  },
+  {
+    "country": "Malaysia",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "MYR",
+    "name": "Universiti Sains Malaysia (USM)",
+    "city": "George Town",
+    "programs": [
+      "PhD (Project Management) — School of Housing, Building and Planning"
+    ],
+    "programLinks": [
+      "https://admission.usm.my/postgraduatev1/applied-sciences-research/phd-project-management-school-of-housing-building-and-planning"
+    ],
+    "cost": "7100 - 10780",
+    "topics": [
+      "BIM",
+      "Prefabrication & Modular Construction",
+      "Construction Management",
+      "Project Management"
+    ],
+    "website": "https://www.usm.my",
+    "lat": 5.3574323,
+    "lon": 100.3035504,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM"
+    ],
+    "domains": [
+      "Prefabrication & Modular Construction",
+      "Construction Management",
+      "Project Management"
+    ]
+  },
+  {
+    "country": "Malaysia",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "MYR",
+    "name": "Universiti Tun Hussein Onn Malaysia (UTHM)",
+    "city": "Pagoh",
+    "programs": [
+      "Doctor of Philosophy in Engineering Technology (Civil Engineering Technology)"
+    ],
+    "programLinks": [
+      "https://ftk.uthm.edu.my/?p=2262"
+    ],
+    "cost": "2800 - 6320",
+    "topics": [
+      "BIM",
+      "Prefabrication & Modular Construction",
+      "Lean & Integrated Delivery",
+      "Construction Management"
+    ],
+    "website": "https://www.uthm.edu.my",
+    "lat": 2.148304,
+    "lon": 102.731202,
+    "geoSource": "institution:official",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM"
+    ],
+    "domains": [
+      "Prefabrication & Modular Construction",
+      "Lean & Integrated Delivery",
+      "Construction Management"
+    ]
+  },
+  {
+    "country": "Malaysia",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "MYR",
+    "name": "Sunway University",
+    "city": "Bandar Sunway",
+    "programs": [
+      "Bachelor of Arts (Honours) in Architecture",
+      "Bachelor of Civil Engineering (Honours)"
+    ],
+    "programLinks": [
+      "https://sunwayuniversity.edu.my/faculty-of-arts-and-social-sciences/courses/bachelor-of-arts-honours-architecture",
+      "https://sunwayuniversity.edu.my/faculty-of-engineering-and-technology/courses/bachelor-of-civil-engineering-honours"
+    ],
+    "cost": "39100 - 40000",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "AI & Machine Learning",
+      "Data Management",
+      "Programming",
+      "Digital Construction",
+      "Architecture",
+      "Civil Engineering"
+    ],
+    "website": "https://sunwayuniversity.edu.my",
+    "lat": 3.0671722,
+    "lon": 101.6038582,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "AI & Machine Learning",
+      "Data Management",
+      "Programming",
+      "Digital Construction"
+    ],
+    "domains": [
+      "Architecture",
+      "Civil Engineering"
+    ]
+  },
+  {
+    "country": "Malaysia",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "MYR",
+    "name": "Universiti Malaysia Sabah (UMS)",
+    "city": "Kota Kinabalu",
+    "programs": [
+      "Doctor of Philosophy (Civil Engineering)"
+    ],
+    "programLinks": [
+      "https://www.ums.edu.my/fkj/index.php/what-we-offer/postgraduate/doctor-of-philosophy-phd"
+    ],
+    "cost": "5021 - 11370",
+    "topics": [
+      "BIM",
+      "nD BIM",
+      "Infrastructure BIM",
+      "Energy Performance",
+      "IoT",
+      "Digital Construction"
+    ],
+    "website": "https://www.ums.edu.my",
+    "lat": 6.0371509,
+    "lon": 116.1201875,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "nD BIM",
+      "Infrastructure BIM",
+      "Energy Performance",
+      "IoT",
+      "Digital Construction"
+    ],
+    "domains": []
+  },
+  {
+    "country": "Malaysia",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "MYR",
+    "name": "Universiti Tenaga Nasional (UNITEN)",
+    "city": "Kajang",
+    "programs": [
+      "Bachelor of Civil Engineering (Hons)"
+    ],
+    "programLinks": [
+      "https://www.uniten.edu.my/programme/undergraduate/bachelor-of-civil-engineering-hons/"
+    ],
+    "cost": "23750 - 26125",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Programming",
+      "AI & Machine Learning",
+      "Data Management",
+      "Civil Engineering"
+    ],
+    "website": "https://www.uniten.edu.my",
+    "lat": 2.9699143,
+    "lon": 101.7287549,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Programming",
+      "AI & Machine Learning",
+      "Data Management"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ]
+  },
+  {
+    "country": "Malaysia",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "MYR",
+    "name": "Politeknik Sultan Idris Shah (PSIS)",
+    "city": "Sabak Bernam",
+    "programs": [
+      "Diploma in Civil Engineering"
+    ],
+    "programLinks": [
+      "https://psis.mypolycc.edu.my/index.php/jabatan-unit/akademik/jabatan-kejuruteraan-awam"
+    ],
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Civil Engineering"
+    ],
+    "website": "https://psis.mypolycc.edu.my",
+    "lat": 3.812283,
+    "lon": 100.8159916,
+    "geoSource": "nominatim:name",
+    "cost": "1200",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ]
+  },
+  {
+    "country": "Malaysia",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "MYR",
+    "name": "Politeknik Merlimau (PMM)",
+    "city": "Merlimau",
+    "programs": [
+      "Diploma in Civil Engineering"
+    ],
+    "programLinks": [
+      "https://pmm.mypolycc.edu.my/index.php/akademik/jabatan-kejuruteraan-awam"
+    ],
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Civil Engineering"
+    ],
+    "website": "https://pmm.mypolycc.edu.my",
+    "lat": 2.1680253,
+    "lon": 102.427251,
+    "geoSource": "nominatim:name",
+    "cost": "1200",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ]
+  },
+  {
+    "country": "Malaysia",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "MYR",
+    "name": "Politeknik Sultan Haji Ahmad Shah (POLISAS)",
+    "city": "Kuantan",
+    "programs": [
+      "Diploma in Civil Engineering",
+      "Diploma in Architecture"
+    ],
+    "programLinks": [
+      "https://polisas.mypolycc.edu.my/index.php/jabatan-unit/jabatan/jabatan-teknologi-maklumat-komunikasi",
+      "https://polisas.mypolycc.edu.my/index.php/jabatan-unit/jabatan/jabatan-teknologi-maklumat-komunikasi"
+    ],
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Civil Engineering",
+      "Architecture"
+    ],
+    "website": "https://polisas.mypolycc.edu.my",
+    "lat": 3.8628063,
+    "lon": 103.3161385,
+    "geoSource": "nominatim:name",
+    "cost": "1200",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Malaysia",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "MYR",
+    "name": "Politeknik Kuching Sarawak (PKS)",
+    "city": "Kuching",
+    "programs": [
+      "Diploma in Civil Engineering"
+    ],
+    "programLinks": [
+      "https://www.poliku.edu.my/jabatan-kejuruteraan-awam-jka/"
+    ],
+    "cost": "1200",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Civil Engineering"
+    ],
+    "website": "https://www.poliku.edu.my",
+    "lat": 1.6310861,
+    "lon": 110.1912855,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ]
+  },
+  {
+    "country": "Singapore",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "SGD",
+    "name": "Singapore Polytechnic (SP)",
+    "programs": [
+      "Diploma in Civil Engineering (S68)",
+      "Diploma in Architecture (S66)",
+      "Specialist Diploma in Building Information Modelling Management (part-time)",
+      "Diploma in Design (Interior Design) (part-time)",
+      "BIM Intermediate Essential Training (CPD)",
+      "Company and Workforce Transformation – Digital Build (CPD)"
+    ],
+    "programLinks": [
+      "https://www.sp.edu.sg/courses/schools/abe/civil-engineering",
+      "https://www.sp.edu.sg/courses/schools/abe/architecture",
+      "https://sp.edu.sg/pace/courses/all-courses/course-details/specialist-diploma-in-building-information-modelling-management",
+      "https://sp.edu.sg/pace/courses/all-courses/course-details/diploma-in-design-(interior-design)",
+      "https://sp.edu.sg/pace/courses/all-courses/course-details/bim-intermediate-essential-training",
+      "https://sp.edu.sg/pace/courses/all-courses/course-details/company-and-workforce-transformation---digital-build"
+    ],
+    "cost": "3178 - 13768",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "nD BIM",
+      "Collaborative Workflows",
+      "Digital Construction",
+      "Civil Engineering",
+      "Architecture"
+    ],
+    "website": "https://www.sp.edu.sg",
+    "lat": 1.3113489,
+    "lon": 103.7771814,
+    "geoSource": "nominatim:name",
+    "city": "Singapore",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "nD BIM",
+      "Collaborative Workflows",
+      "Digital Construction"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Singapore",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "SGD",
+    "name": "Temasek Polytechnic (TP)",
+    "programs": [
+      "Diploma in Architectural Technology & Building Services (T29)",
+      "Diploma in Integrated Facility Management",
+      "Specialist Diploma in BIM Construction & Asset Management (Work-Study Post-Diploma, with BCA Academy)"
+    ],
+    "programLinks": [
+      "https://www.tp.edu.sg/t29",
+      "https://www.tp.edu.sg/schools-and-courses/students/schools/eng/integrated-facility-management.html",
+      "https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/part-time-diploma-post-diploma-courses/specialist-diploma-in-building-information-modeling-bim-construction-and-asset-management.html"
+    ],
+    "cost": "3183 - 13768",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Parametric & Generative Design",
+      "Energy Performance",
+      "IoT",
+      "Data Management",
+      "Facility & Asset Management",
+      "Architecture"
+    ],
+    "website": "https://www.tp.edu.sg",
+    "lat": 1.3450223,
+    "lon": 103.9330556,
+    "geoSource": "nominatim:name",
+    "city": "Singapore",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Parametric & Generative Design",
+      "Energy Performance",
+      "IoT",
+      "Data Management"
+    ],
+    "domains": [
+      "Facility & Asset Management",
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Singapore",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "SGD",
+    "name": "Nanyang Polytechnic (NYP)",
+    "programs": [
+      "Diploma in Architecture"
+    ],
+    "programLinks": [
+      "https://www.nyp.edu.sg/student/study/schools/design-media/diploma-architecture"
+    ],
+    "cost": "3178 - 13768",
+    "topics": [
+      "BIM",
+      "Collaborative Workflows",
+      "Architecture"
+    ],
+    "website": "https://www.nyp.edu.sg",
+    "lat": 1.3804809,
+    "lon": 103.8486961,
+    "geoSource": "nominatim:name",
+    "city": "Singapore",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "Collaborative Workflows"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Singapore",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "SGD",
+    "name": "Republic Polytechnic (RP)",
+    "programs": [
+      "Diploma in Sustainable Built Environment (R61)"
+    ],
+    "programLinks": [
+      "https://www.rp.edu.sg/education/diplomas/diploma-in-sustainable-built-environment/"
+    ],
+    "cost": "3187 - 13768",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Energy Performance"
+    ],
+    "website": "https://www.rp.edu.sg",
+    "lat": 1.4443688,
+    "lon": 103.7853712,
+    "geoSource": "nominatim:name",
+    "city": "Singapore",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Energy Performance"
+    ],
+    "domains": []
+  },
+  {
+    "country": "Singapore",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time / Work-study",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "SGD",
+    "name": "ITE College East",
+    "programs": [
+      "Work-Study Diploma in Architectural BIM & Design",
+      "Higher Nitec in Civil & Structural Engineering Design (3 years)"
+    ],
+    "programLinks": [
+      "https://www.ite.edu.sg/course-finder/work-study-diploma-in-architectural-bim-design/",
+      "https://www.ite.edu.sg/course-finder/higher-nitec-in-civil-and-structural-engineering-design-3-year/"
+    ],
+    "cost": "566 - 21122",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "nD BIM",
+      "Architecture",
+      "Civil Engineering"
+    ],
+    "website": "https://www.ite.edu.sg",
+    "lat": 1.3348948,
+    "lon": 103.9546163,
+    "geoSource": "nominatim:name",
+    "city": "Singapore",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "nD BIM"
+    ],
+    "domains": [
+      "Architecture",
+      "Civil Engineering"
+    ]
+  },
+  {
+    "country": "Singapore",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time / Part-time / Work-study",
+    "delivery": "Presential / Online",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "SGD",
+    "name": "BCA Academy",
+    "city": "Singapore",
+    "programs": [
+      "Diploma in Digital Engineering (Integrated Work-Study)",
+      "Diploma in Construction Engineering (Digital)",
+      "Diploma in Construction Engineering (Part-Time) – Certificate in Construction Technology (BIM for Structure / Architecture)",
+      "Diploma (Conversion) in Integrated Digital Delivery",
+      "Specialist Diploma in Building Information Modelling (SDBIM)",
+      "Specialist Diploma in Computational BIM – Certificate in Computational Thinking and Programming",
+      "Certificate in Virtual Design & Construction Practices",
+      "Digital Design (BIM for Architecture and Building Science & Digital Design)",
+      "Introduction to Digital Building Design",
+      "Diploma in Digital and Sustainable Architecture (Integrated Work-Study)",
+      "Diploma in Digital and Smart Facilities Management (Integrated Work-Study)",
+      "Specialist Diploma in Architectural Technology – Certificate in Architectural BIM Submission"
+    ],
+    "programLinks": [
+      "https://www.bcaa.edu.sg/backend-pages/course/diploma-in-digital-engineering",
+      "https://www.bcaa.edu.sg/backend-pages/course/diploma-in-construction-engineering-(digital)",
+      "https://www.bcaa.edu.sg/what-we-offer/courses/Details/diploma-in-construction-engineering-(part-time)---77026d--77026e",
+      "https://www.bcaa.edu.sg/diploma-conversion-in-integrated-digital-delivery",
+      "https://www.bcaa.edu.sg/what-we-offer/courses/Details/specialist-diploma-in-building-information-modelling-(sdbim)",
+      "https://bcaa.edu.sg/what-we-offer/courses/Details/certificate-in-computational-thinking-and-programming",
+      "https://www.bcaa.edu.sg/backend-pages/course/certificate-in-virtual-design---construction-practices",
+      "https://www.bcaa.edu.sg/backend-pages/course/digital-design",
+      "https://www.bcaa.edu.sg/backend-pages/course/introduction-to-digital-building-design",
+      "https://www.bcaa.edu.sg/what-we-offer/academic-programmes/Details/diploma-in-digital-and-sustainable-architecture",
+      "https://www.bcaa.edu.sg/what-we-offer/academic-programmes/diploma/diploma-list/Details/diploma-in-digital-and-smart-facilities-management",
+      "https://www.bcaa.edu.sg/backend-pages/course/certificate-in-architectural-bim-submission"
+    ],
+    "cost": "3379 - 15260",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "nD BIM",
+      "Collaborative Workflows",
+      "Digital Twins",
+      "AI & Machine Learning",
+      "Data Management",
+      "Programming",
+      "Parametric & Generative Design",
+      "Digital Construction",
+      "Construction Management",
+      "IoT",
+      "Facility & Asset Management",
+      "Architecture"
+    ],
+    "website": "https://www.bcaa.edu.sg",
+    "lat": 1.3435702,
+    "lon": 103.8587112,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "nD BIM",
+      "Collaborative Workflows",
+      "Digital Twins",
+      "AI & Machine Learning",
+      "Data Management",
+      "Programming",
+      "Parametric & Generative Design",
+      "Digital Construction",
+      "IoT"
+    ],
+    "domains": [
+      "Construction Management",
+      "Facility & Asset Management",
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Singapore",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "SGD",
+    "name": "Ngee Ann Polytechnic (NP)",
+    "programs": [
+      "Diploma in Design (Architecture specialisation)",
+      "Building Information Modelling (MEP) (CET course)",
+      "Introduction to BIM for Facilities Management (CET course)"
+    ],
+    "programLinks": [
+      "https://www.np.edu.sg/schools-courses/academic-schools/school-of-design-environment/diploma-in-design",
+      "https://cet.np.edu.sg/?p=978",
+      "https://cet.np.edu.sg/courses/introduction-to-bim-building-information-modelling-for-fm-facilities-management"
+    ],
+    "cost": "3178 - 13768",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Facility & Asset Management",
+      "Architecture"
+    ],
+    "website": "https://www.np.edu.sg",
+    "lat": 1.3331884,
+    "lon": 103.7746123,
+    "geoSource": "nominatim:name",
+    "city": "Singapore",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Facility & Asset Management",
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Singapore",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "SGD",
+    "name": "National University of Singapore (NUS)",
+    "programs": [
+      "Bachelor of Engineering (Infrastructure and Project Management)",
+      "Graduate Certificate in Digitalization and Technology in Construction",
+      "PhD (Built Environment / Civil Engineering)"
+    ],
+    "programLinks": [
+      "https://cde.nus.edu.sg/dbe/news/pf3209-building-information-modelling-bim-pf4212-advanced-bim-received-tier-4-and-tier-2-ddm-accreditation/",
+      "https://cde.nus.edu.sg/cee/graduate/graduate-certificate-programmes/digitalization-and-technology-construction-digi",
+      "https://cde.nus.edu.sg/dbe/?p=6398"
+    ],
+    "cost": "8300 - 21900",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Digital Construction",
+      "Data Management",
+      "Collaborative Workflows",
+      "Construction Management",
+      "Project Management"
+    ],
+    "website": "https://www.nus.edu.sg",
+    "lat": 1.2959845,
+    "lon": 103.7766186,
+    "geoSource": "nominatim:name",
+    "city": "Singapore",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Digital Construction",
+      "Data Management",
+      "Collaborative Workflows"
+    ],
+    "domains": [
+      "Construction Management",
+      "Project Management"
+    ]
+  },
+  {
+    "country": "Singapore",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Part-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "SGD",
+    "name": "Singapore University of Social Sciences (SUSS)",
+    "programs": [
+      "Bachelor of Building and Project Management – BPM107 Construction IT & Building Information Modelling",
+      "BSc Facilities Management – FMT505 Integrated Digital Delivery in the Built Environment"
+    ],
+    "programLinks": [
+      "https://www.suss.edu.sg/courses/detail/bpm107",
+      "https://www.suss.edu.sg/courses/detail/fmt505"
+    ],
+    "cost": "482 - 1927",
+    "topics": [
+      "BIM",
+      "Construction Informatics",
+      "Collaborative Workflows",
+      "Facility & Asset Management",
+      "Project Management"
+    ],
+    "website": "https://www.suss.edu.sg",
+    "lat": 1.3292738,
+    "lon": 103.7762131,
+    "geoSource": "nominatim:name",
+    "city": "Singapore",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "Construction Informatics",
+      "Collaborative Workflows"
+    ],
+    "domains": [
+      "Facility & Asset Management",
+      "Project Management"
+    ]
+  },
+  {
+    "country": "Singapore",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "SGD",
+    "name": "Singapore Institute of Technology (SIT)",
+    "programs": [
+      "Bachelor of Engineering with Honours in Sustainable Built Environment (formerly Sustainable Infrastructure Engineering – Building Services)"
+    ],
+    "programLinks": [
+      "https://singaporetech.edu.sg/news/making-bimpact"
+    ],
+    "cost": "7860 - 22301",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "openBIM & IFC",
+      "GIS & BIM Integration",
+      "Energy Performance"
+    ],
+    "website": "https://www.singaporetech.edu.sg",
+    "lat": 1.4123197,
+    "lon": 103.9094621,
+    "geoSource": "nominatim:name",
+    "city": "Singapore",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "openBIM & IFC",
+      "GIS & BIM Integration",
+      "Energy Performance"
+    ],
+    "domains": []
+  },
+  {
+    "country": "Singapore",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "SGD",
+    "name": "Singapore University of Technology and Design (SUTD)",
+    "programs": [
+      "Bachelor of Science (Architecture and Sustainable Design)",
+      "Master of Architecture"
+    ],
+    "programLinks": [
+      "https://www.sutd.edu.sg/asd/",
+      "https://www.sutd.edu.sg/programme-listing/master-of-architecture-programme/financing/tuition-fees"
+    ],
+    "cost": "13500 - 30200",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Energy Performance",
+      "Parametric & Generative Design",
+      "Architecture"
+    ],
+    "website": "https://www.sutd.edu.sg",
+    "lat": 1.3417659,
+    "lon": 103.9645033,
+    "geoSource": "nominatim:name",
+    "city": "Singapore",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Energy Performance",
+      "Parametric & Generative Design"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Singapore",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "SGD",
+    "name": "Nanyang Technological University (NTU)",
+    "programs": [
+      "MSc International Construction Management – CV6217 Information Technology in Construction",
+      "Graduate Certificate / FlexiMasters in Construction Management – CET821–823 (ICT and BIM; BIM tools; BIM, Lean and IDD)"
+    ],
+    "programLinks": [
+      "https://www.ntu.edu.sg/pace/programmes/detail/cet823-information-technology-in-construction-bim-and-lean-construction-and-idd",
+      "https://www.ntu.edu.sg/pace/programmes/detail/cet823-information-technology-in-construction-bim-and-lean-construction-and-idd"
+    ],
+    "cost": "491 - 1635",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Lean & Integrated Delivery",
+      "Collaborative Workflows",
+      "Construction Management"
+    ],
+    "website": "https://www.ntu.edu.sg",
+    "lat": 1.3484104,
+    "lon": 103.6829332,
+    "geoSource": "nominatim:name",
+    "city": "Singapore",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Collaborative Workflows"
+    ],
+    "domains": [
+      "Lean & Integrated Delivery",
+      "Construction Management"
+    ]
+  },
+  {
+    "country": "Singapore",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Part-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "SGD",
+    "name": "University of Newcastle — Campus Singapore (BCA Academy)",
+    "city": "Singapore",
+    "programs": [
+      "Bachelor of Civil Engineering (Honours)"
+    ],
+    "programLinks": [
+      "https://www.newcastle.edu.au/course/CIVL3300"
+    ],
+    "cost": "13500 - 19250",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Collaborative Workflows",
+      "Civil Engineering"
+    ],
+    "website": "https://www.newcastle.edu.au",
+    "lat": 1.3435702,
+    "lon": 103.8587112,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Collaborative Workflows"
+    ],
+    "domains": [
+      "Civil Engineering"
     ]
   }
 ]
