@@ -13884,7 +13884,7 @@
     "language": "Spanish",
     "mode": "Part-time / Distance",
     "delivery": "Online",
-    "cost": "-",
+    "cost": "3000 - 4500",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
@@ -17178,7 +17178,7 @@
     "language": "Bosnian",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "-",
+    "cost": "800 - 3000",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
@@ -57311,7 +57311,7 @@
     "language": "Russian",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "-",
+    "cost": "266000 - 350000",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
@@ -57350,7 +57350,7 @@
     "language": "Russian",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "-",
+    "cost": "105000 - 340000",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
@@ -57389,7 +57389,7 @@
     "language": "Russian",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "-",
+    "cost": "140000 - 190000",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
@@ -57428,7 +57428,7 @@
     "language": "Russian",
     "mode": "Part-time",
     "delivery": "Presential",
-    "cost": "-",
+    "cost": "75000 - 84000",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
@@ -57951,7 +57951,7 @@
     "language": "English",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "-",
+    "cost": "120000 - 440000",
     "graduatesPerYear": "Not published",
     "topics": [
       "BIM",
@@ -64771,7 +64771,7 @@
     "language": "English",
     "mode": "Full-time",
     "delivery": "Presential",
-    "cost": "-",
+    "cost": "74000 - 80000",
     "graduatesPerYear": "Not published",
     "topics": [
       "AI & Machine Learning",
@@ -72493,6 +72493,2185 @@
     ],
     "domains": [
       "Civil Engineering"
+    ]
+  },
+  {
+    "country": "Philippines",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "PHP",
+    "name": "Adamson University",
+    "city": "Manila",
+    "programs": [
+      "BS Civil Engineering"
+    ],
+    "programLinks": [
+      "https://www.adamson.edu.ph/v1/?page=curriculum&cid=%20%20%20%20%20T&curryear=2026"
+    ],
+    "cost": "118708 - 127890",
+    "topics": [
+      "Construction Informatics",
+      "Data Management",
+      "Programming",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "website": "https://www.adamson.edu.ph",
+    "lat": 14.5862636,
+    "lon": 120.9863598,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "Construction Informatics",
+      "Data Management",
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ]
+  },
+  {
+    "country": "Philippines",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Part-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "PHP",
+    "name": "Batangas State University",
+    "city": "Batangas City",
+    "programs": [
+      "Microcredential: Building Information Modeling – Revit Architecture (28 h)",
+      "Microcredential: BIM Revit Structure Fundamentals (24 h)",
+      "BS Architecture"
+    ],
+    "programLinks": [
+      "https://batstateu.edu.ph/?p=295498",
+      "https://batstateu.edu.ph/?p=295498",
+      "https://batstateu.edu.ph/wp-content/uploads/2025/09/Bachelor-of-Science-in-Architecture.pdf"
+    ],
+    "cost": "0 - 210000",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Civil Engineering",
+      "Architecture"
+    ],
+    "website": "https://batstateu.edu.ph",
+    "lat": 13.7544563,
+    "lon": 121.0531305,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Philippines",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Part-time",
+    "delivery": "Presential / Online",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "PHP",
+    "name": "BSI Philippines",
+    "city": "Manila",
+    "programs": [
+      "BIM Awareness (on demand)",
+      "BIM Implementation Training Course",
+      "BIM ISO 19650 Part 2 Project Delivery Training Course"
+    ],
+    "programLinks": [
+      "https://www.bsigroup.com/en-PH/training-courses/bim-awareness-on-demand-training-course/",
+      "https://www.bsigroup.com/en-PH/training-courses/building-information-modelling-bim-implementation-training-course/",
+      "https://www.bsigroup.com/en-PH/training-courses/building-information-modelling-bim-iso-19650-part-2-project-delivery-training-course/"
+    ],
+    "cost": "4500 - 16500",
+    "topics": [
+      "BIM",
+      "ISO 19650",
+      "Collaborative Workflows"
+    ],
+    "website": "https://www.bsigroup.com/en-PH/",
+    "lat": 14.5904492,
+    "lon": 120.9803621,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "ISO 19650",
+      "Collaborative Workflows"
+    ],
+    "domains": []
+  },
+  {
+    "country": "Philippines",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Part-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "PHP",
+    "name": "ESCA Incorporated",
+    "city": "Mandaluyong",
+    "programs": [
+      "Building Information Modeling Training for Youth (ILO–Korea DigiGreen programme, free)"
+    ],
+    "programLinks": [
+      "https://www.ilo.org/resource/article/digital-construction-skills-training-opens-pathways-filipino-youth"
+    ],
+    "cost": "0",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Digital Construction"
+    ],
+    "website": "https://www.ilo.org",
+    "lat": 14.5774392,
+    "lon": 121.0338973,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Digital Construction"
+    ],
+    "domains": []
+  },
+  {
+    "country": "Philippines",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "PHP",
+    "name": "Technological Institute of the Philippines (TIP) — Campus Quezon City",
+    "city": "Quezon City",
+    "programs": [
+      "BS Civil Engineering (2023 curriculum, Construction Engineering and Management track)",
+      "BS Architecture (2018 curriculum)"
+    ],
+    "programLinks": [
+      "https://tip.edu.ph/assets/generic-pages/downloadables/BSCE-2023-Curriculum.pdf",
+      "https://tip.edu.ph/assets/generic-pages/downloadables/BS-Architecture.pdf"
+    ],
+    "topics": [
+      "Construction Informatics",
+      "Data Management",
+      "Programming",
+      "BIM",
+      "BIM Software",
+      "Civil Engineering",
+      "Construction Management",
+      "Architecture"
+    ],
+    "website": "https://tip.edu.ph",
+    "lat": 14.6256536,
+    "lon": 121.061989,
+    "geoSource": "nominatim:name",
+    "cost": "76000",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "Construction Informatics",
+      "Data Management",
+      "Programming",
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management",
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Philippines",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "PHP",
+    "name": "Technological Institute of the Philippines (TIP) — Campus Manila",
+    "city": "Manila",
+    "programs": [
+      "BS Civil Engineering (2023 curriculum, Construction Engineering and Management / Quantity Surveying tracks)"
+    ],
+    "programLinks": [
+      "https://tip.edu.ph/assets/generic-pages/downloadables/2023-CE-Curriculum.pdf"
+    ],
+    "topics": [
+      "Construction Informatics",
+      "Data Management",
+      "Programming",
+      "nD BIM",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "website": "https://tip.edu.ph",
+    "lat": 14.5971771,
+    "lon": 120.9851177,
+    "geoSource": "nominatim:road",
+    "cost": "76000",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "Construction Informatics",
+      "Data Management",
+      "Programming",
+      "nD BIM"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ]
+  },
+  {
+    "country": "Philippines",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "PHP",
+    "name": "Far Eastern University (FEU)",
+    "city": "Manila",
+    "programs": [
+      "BS Architecture (2021 curriculum)"
+    ],
+    "programLinks": [
+      "https://www.feu.edu.ph/wp-content/uploads/2023/03/BS-Architecture-2021-Curriculum-2.pdf"
+    ],
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture"
+    ],
+    "website": "https://www.feu.edu.ph",
+    "lat": 14.6037961,
+    "lon": 120.9864179,
+    "geoSource": "nominatim:name",
+    "cost": "107796 - 199860",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Philippines",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "PHP",
+    "name": "University of Santo Tomas (UST)",
+    "city": "Manila",
+    "programs": [
+      "BS Architecture"
+    ],
+    "programLinks": [
+      "https://www.ust.edu.ph/academics/programs/bachelor-of-science-in-architecture/"
+    ],
+    "cost": "150000 - 210000",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture"
+    ],
+    "website": "https://www.ust.edu.ph",
+    "lat": 14.6098426,
+    "lon": 120.9894646,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Philippines",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "PHP",
+    "name": "De La Salle University (DLSU)",
+    "city": "Manila",
+    "programs": [
+      "BS Civil Engineering (specialization in Construction Technology and Management)"
+    ],
+    "programLinks": [
+      "https://www.dlsu.edu.ph/program/bachelor-of-science-in-civil-engineering/"
+    ],
+    "cost": "255000 - 300000",
+    "topics": [
+      "Construction Informatics",
+      "Data Management",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "website": "https://www.dlsu.edu.ph",
+    "lat": 14.5650513,
+    "lon": 120.9941791,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "Construction Informatics",
+      "Data Management"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ]
+  },
+  {
+    "country": "Philippines",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "PHP",
+    "name": "Asia Pacific College (APC)",
+    "city": "Makati",
+    "programs": [
+      "BS Civil Engineering (Construction Engineering and Management track, 2024)"
+    ],
+    "programLinks": [
+      "https://apc.edu.ph/wp-content/uploads/2024/06/APC-SoE-BSCE-2024.pdf"
+    ],
+    "cost": "100000 - 160000",
+    "topics": [
+      "Construction Informatics",
+      "Data Management",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "website": "https://apc.edu.ph",
+    "lat": 14.5310513,
+    "lon": 121.0214278,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "Construction Informatics",
+      "Data Management"
+    ],
+    "domains": [
+      "Civil Engineering",
+      "Construction Management"
+    ]
+  },
+  {
+    "country": "Philippines",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "PHP",
+    "name": "Mapúa University",
+    "city": "Manila",
+    "programs": [
+      "BS Architecture"
+    ],
+    "programLinks": [
+      "https://www.mapua.edu.ph/program/bachelor-of-science-in-architecture/"
+    ],
+    "website": "https://www.mapua.edu.ph",
+    "lat": 14.5905004,
+    "lon": 120.9780808,
+    "geoSource": "nominatim:name",
+    "cost": "140000 - 280000",
+    "lastChecked": "2026-11-17",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Philippines",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "PHP",
+    "name": "De La Salle-College of Saint Benilde (DLS-CSB)",
+    "city": "Manila",
+    "programs": [
+      "BS Architecture"
+    ],
+    "programLinks": [
+      "https://arch.benilde.edu.ph/about/"
+    ],
+    "website": "https://www.benilde.edu.ph",
+    "lat": 14.5640603,
+    "lon": 120.9951226,
+    "geoSource": "nominatim:name",
+    "cost": "190000 - 300000",
+    "lastChecked": "2026-11-17",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Philippines",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "PHP",
+    "name": "Polytechnic University of the Philippines (PUP)",
+    "city": "Manila",
+    "programs": [
+      "BS Architecture"
+    ],
+    "programLinks": [
+      "https://www.pup.edu.ph/cadbe/bsarch"
+    ],
+    "website": "https://www.pup.edu.ph",
+    "lat": 14.5979593,
+    "lon": 121.0109304,
+    "geoSource": "nominatim:name",
+    "cost": "0 - 210000",
+    "lastChecked": "2026-11-17",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Philippines",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "PHP",
+    "name": "National University — Campus Fairview",
+    "city": "Quezon City",
+    "programs": [
+      "BS Architecture"
+    ],
+    "programLinks": [
+      "https://www.national-u.edu.ph/nu-fairview/architecture/bs-architecture/"
+    ],
+    "website": "https://www.national-u.edu.ph",
+    "lat": 14.7331374,
+    "lon": 121.0602848,
+    "geoSource": "nominatim:name",
+    "cost": "50000 - 60000",
+    "lastChecked": "2026-11-17",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Philippines",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "PHP",
+    "name": "Eulogio \"Amang\" Rodriguez Institute of Science and Technology (EARIST)",
+    "city": "Manila",
+    "programs": [
+      "BS Architecture"
+    ],
+    "programLinks": [
+      "https://earist.edu.ph/college-of-architecture-and-fine-arts/"
+    ],
+    "website": "https://earist.edu.ph",
+    "lat": 14.5989773,
+    "lon": 121.0013665,
+    "geoSource": "nominatim:name",
+    "cost": "0 - 210000",
+    "lastChecked": "2026-11-17",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Philippines",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "PHP",
+    "name": "Rizal Technological University (RTU)",
+    "city": "Mandaluyong",
+    "programs": [
+      "BS Architecture"
+    ],
+    "programLinks": [
+      "https://www.rtu.edu.ph/college/"
+    ],
+    "website": "https://www.rtu.edu.ph",
+    "lat": 14.5741427,
+    "lon": 121.0418257,
+    "geoSource": "nominatim:name",
+    "cost": "0 - 210000",
+    "lastChecked": "2026-11-17",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Philippines",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "PHP",
+    "name": "University of the East (UE) — Campus Manila",
+    "city": "Manila",
+    "programLinks": [
+      "https://www.ue.edu.ph/manila/main.html?page=courses&link=main"
+    ],
+    "cost": "116898",
+    "website": "https://www.ue.edu.ph",
+    "lat": 14.6021352,
+    "lon": 120.9896724,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture"
+    ],
+    "programs": [
+      "BS Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Philippines",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "PHP",
+    "name": "University of the East (UE) — Campus Caloocan",
+    "city": "Caloocan",
+    "programLinks": [
+      "https://www.ue.edu.ph/mla/wp-content/uploads/2025/03/COLLEGES-CALOOCAN-SY-2025-2026-COLLEGE-OF-FINE-ARTS.pdf"
+    ],
+    "cost": "116898",
+    "website": "https://www.ue.edu.ph",
+    "lat": 14.6576818,
+    "lon": 120.9760093,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture"
+    ],
+    "programs": [
+      "BS Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Philippines",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "PHP",
+    "name": "FEATI University",
+    "city": "Manila",
+    "programLinks": [
+      "https://www.featiu.edu.ph/bs_architecture-php/"
+    ],
+    "cost": "100000 - 150000",
+    "website": "https://www.featiu.edu.ph",
+    "lat": 14.5975289,
+    "lon": 120.981127,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture"
+    ],
+    "programs": [
+      "BS Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Philippines",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "PHP",
+    "name": "National University — Campus Laguna",
+    "city": "Calamba",
+    "programLinks": [
+      "https://www.national-u.edu.ph/nu-laguna/bachelor-of-science-in-architecture/"
+    ],
+    "cost": "50000 - 60000",
+    "website": "https://www.national-u.edu.ph",
+    "lat": 14.1778095,
+    "lon": 121.1363403,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture"
+    ],
+    "programs": [
+      "BS Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Philippines",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "PHP",
+    "name": "Mapúa Malayan Colleges Laguna (Mapúa MCL)",
+    "city": "Cabuyao",
+    "programLinks": [
+      "https://mcl.edu.ph/bs-architecture/"
+    ],
+    "cost": "147285 - 152640",
+    "website": "https://mcl.edu.ph",
+    "lat": 14.2440886,
+    "lon": 121.1122972,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture"
+    ],
+    "programs": [
+      "BS Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Philippines",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "PHP",
+    "name": "Bicol University (BU)",
+    "city": "Legazpi",
+    "programLinks": [
+      "https://bicol-u.edu.ph/category/institute-of-design-and-architecture/"
+    ],
+    "cost": "0 - 210000",
+    "website": "https://bicol-u.edu.ph",
+    "lat": 13.1440608,
+    "lon": 123.7228153,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture"
+    ],
+    "programs": [
+      "BS Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Philippines",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "PHP",
+    "name": "Holy Angel University (HAU)",
+    "city": "Angeles City",
+    "programLinks": [
+      "https://www.hau.edu.ph/programs/school-of-engineering-and-architecture/5"
+    ],
+    "cost": "106113 - 139055",
+    "website": "https://www.hau.edu.ph",
+    "lat": 15.1325231,
+    "lon": 120.5901905,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture"
+    ],
+    "programs": [
+      "BS Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Philippines",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "PHP",
+    "name": "Saint Louis University (SLU)",
+    "city": "Baguio",
+    "programLinks": [
+      "https://www.slu.edu.ph/sea/"
+    ],
+    "cost": "73970",
+    "website": "https://www.slu.edu.ph",
+    "lat": 16.4181142,
+    "lon": 120.5978301,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture"
+    ],
+    "programs": [
+      "BS Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Philippines",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "PHP",
+    "name": "Tarlac State University (TSU)",
+    "city": "Tarlac City",
+    "programLinks": [
+      "https://www.tsu.edu.ph/academics/colleges/college-of-architecture-and-fine-arts/"
+    ],
+    "cost": "0 - 210000",
+    "website": "https://www.tsu.edu.ph",
+    "lat": 15.4772246,
+    "lon": 120.585462,
+    "geoSource": "nominatim:road",
+    "lastChecked": "2026-11-17",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture"
+    ],
+    "programs": [
+      "BS Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Philippines",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "PHP",
+    "name": "Bulacan State University (BulSU)",
+    "city": "Malolos",
+    "programLinks": [
+      "https://www.bulsu.edu.ph/academics/colleges/CAFA"
+    ],
+    "cost": "0 - 210000",
+    "website": "https://www.bulsu.edu.ph",
+    "lat": 14.8549576,
+    "lon": 120.8134269,
+    "geoSource": "nominatim:locality",
+    "lastChecked": "2026-11-17",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture"
+    ],
+    "programs": [
+      "BS Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Philippines",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "PHP",
+    "name": "University of Baguio (UB)",
+    "city": "Baguio",
+    "programLinks": [
+      "https://sea.ubaguio.edu/bachelor-of-science-in-architecture/"
+    ],
+    "cost": "45000 - 100000",
+    "website": "https://www.ubaguio.edu",
+    "lat": 16.4155048,
+    "lon": 120.5975521,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture"
+    ],
+    "programs": [
+      "BS Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Philippines",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "PHP",
+    "name": "University of the Cordilleras (UC)",
+    "city": "Baguio",
+    "programLinks": [
+      "https://web.uc-bcf.edu.ph/2025/09/03/%F0%9D%90%94%F0%9D%90%82-%F0%9D%90%84%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9A%F0%9D%90%9B%F0%9D%90%A5%F0%9D%90%A2%F0%9D%90%AC%F0%9D%90%A1%F0%9D%90%9E%F0%9D%90%AC-%F0%9D%90%82%F0%9D%90%A8%F0%9D%90%A5/"
+    ],
+    "cost": "60000",
+    "website": "https://web.uc-bcf.edu.ph",
+    "lat": 16.4084547,
+    "lon": 120.5979282,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture"
+    ],
+    "programs": [
+      "BS Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Philippines",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "PHP",
+    "name": "Cebu Institute of Technology – University (CIT-U)",
+    "city": "Cebu City",
+    "programLinks": [
+      "https://cit.edu/cit-university-programs/cea/architecture/"
+    ],
+    "cost": "55000 - 158712",
+    "website": "https://cit.edu",
+    "lat": 10.2957503,
+    "lon": 123.8803769,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture"
+    ],
+    "programs": [
+      "BS Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Philippines",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "PHP",
+    "name": "University of San Carlos (USC)",
+    "city": "Cebu City",
+    "programLinks": [
+      "https://usc.edu.ph/wp-content/uploads/2025/11/Architecture-rev-1.pdf"
+    ],
+    "cost": "120000 - 200000",
+    "website": "https://usc.edu.ph",
+    "lat": 10.3004111,
+    "lon": 123.8985801,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture"
+    ],
+    "programs": [
+      "BS Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Philippines",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "PHP",
+    "name": "Silliman University",
+    "city": "Dumaguete",
+    "programLinks": [
+      "https://su.edu.ph/408-bs-architecture-degree-opens-in-june/"
+    ],
+    "cost": "70000 - 110000",
+    "website": "https://su.edu.ph",
+    "lat": 9.3131921,
+    "lon": 123.3058842,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture"
+    ],
+    "programs": [
+      "BS Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Philippines",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "PHP",
+    "name": "University of San Agustin (USA)",
+    "city": "Iloilo City",
+    "programLinks": [
+      "https://usa.edu.ph/cot/bachelor-of-science-in-architecture/"
+    ],
+    "cost": "50000",
+    "website": "https://usa.edu.ph",
+    "lat": 10.6993797,
+    "lon": 122.5630026,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture"
+    ],
+    "programs": [
+      "BS Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Philippines",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "PHP",
+    "name": "Ateneo de Davao University (AdDU)",
+    "city": "Davao City",
+    "programLinks": [
+      "http://sea.addu.edu.ph/programs/architecture/"
+    ],
+    "cost": "156000",
+    "website": "https://www.addu.edu.ph",
+    "lat": 7.0718147,
+    "lon": 125.613416,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture"
+    ],
+    "programs": [
+      "BS Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Philippines",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "PHP",
+    "name": "Eastern Visayas State University (EVSU)",
+    "city": "Tacloban",
+    "programLinks": [
+      "https://www.evsu.edu.ph/university-news/evsu-eyes-partnership-with-university-of-mindanao-to-enhance-bs-architecture-program/"
+    ],
+    "cost": "0 - 210000",
+    "website": "https://www.evsu.edu.ph",
+    "lat": 11.2391486,
+    "lon": 124.9972009,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture"
+    ],
+    "programs": [
+      "BS Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Philippines",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "PHP",
+    "name": "Mapúa Malayan Colleges Mindanao (Mapúa MCM)",
+    "city": "Davao City",
+    "programLinks": [
+      "https://mcm.edu.ph/programs/college/college-of-engineering-and-architecture/"
+    ],
+    "cost": "102000 - 135000",
+    "website": "https://mcm.edu.ph",
+    "lat": 7.0638955,
+    "lon": 125.5956756,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture"
+    ],
+    "programs": [
+      "BS Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Philippines",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "PHP",
+    "name": "Bohol Island State University (BISU)",
+    "city": "Tagbilaran",
+    "programLinks": [
+      "https://bisu.edu.ph/program-offerings/"
+    ],
+    "cost": "0 - 210000",
+    "website": "https://bisu.edu.ph",
+    "lat": 9.647163,
+    "lon": 123.8556888,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture"
+    ],
+    "programs": [
+      "BS Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Philippines",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "PHP",
+    "name": "Samar State University (SSU)",
+    "city": "Catbalogan",
+    "programLinks": [
+      "https://www.ssu.edu.ph/2025/07/30/ched-visits-ssu-for-copc-validation-of-architecture-phd-tm-program/"
+    ],
+    "cost": "0 - 210000",
+    "website": "https://www.ssu.edu.ph",
+    "lat": 11.7753356,
+    "lon": 124.8831147,
+    "geoSource": "nominatim:locality",
+    "lastChecked": "2026-11-17",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture"
+    ],
+    "programs": [
+      "BS Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Philippines",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "PHP",
+    "name": "Sorsogon State University (SorSU)",
+    "city": "Sorsogon City",
+    "programLinks": [
+      "https://sorsu.edu.ph/sorsu-produces-29-newly-licensed-architects-records-92-first-time-passing-rate-in-june-2026-ale"
+    ],
+    "cost": "0 - 210000",
+    "website": "https://sorsu.edu.ph",
+    "lat": 12.9949237,
+    "lon": 124.0259566,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture"
+    ],
+    "programs": [
+      "BS Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Philippines",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "PHP",
+    "name": "University of Antique",
+    "city": "Sibalom",
+    "programLinks": [
+      "https://www.antiquespride.edu.ph/college-of-engineering-architecture-2/"
+    ],
+    "cost": "0 - 210000",
+    "website": "https://www.antiquespride.edu.ph",
+    "lat": 10.7930176,
+    "lon": 122.009128,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture"
+    ],
+    "programs": [
+      "BS Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Philippines",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "PHP",
+    "name": "University of Mindanao (UM)",
+    "city": "Davao City",
+    "programLinks": [
+      "https://umindanao.edu.ph/colleges/cafae/bsarch"
+    ],
+    "cost": "34000 - 50000",
+    "website": "https://umindanao.edu.ph",
+    "lat": 7.0670223,
+    "lon": 125.6094991,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture"
+    ],
+    "programs": [
+      "BS Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Philippines",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "PHP",
+    "name": "Saint Mary's University (SMU)",
+    "city": "Bayombong",
+    "programLinks": [
+      "https://smu.edu.ph/academics/school-of-engineering-architecture-and-information-technology/"
+    ],
+    "cost": "158712",
+    "website": "https://smu.edu.ph",
+    "lat": 16.4829252,
+    "lon": 121.1505219,
+    "geoSource": "nominatim:locality",
+    "lastChecked": "2026-11-17",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture"
+    ],
+    "programs": [
+      "BS Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Philippines",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "PHP",
+    "name": "Catanduanes State University (CatSU)",
+    "city": "Virac",
+    "programLinks": [
+      "https://catsu.edu.ph/eng"
+    ],
+    "cost": "0 - 210000",
+    "website": "https://catsu.edu.ph",
+    "lat": 13.5854701,
+    "lon": 124.211562,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture"
+    ],
+    "programs": [
+      "BS Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Philippines",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "PHP",
+    "name": "Bicol State College of Applied Sciences and Technology (BISCAST)",
+    "city": "Naga",
+    "programLinks": [
+      "https://biscast.edu.ph/Colleges/architecture-design"
+    ],
+    "cost": "0 - 210000",
+    "website": "https://biscast.edu.ph",
+    "lat": 13.6320302,
+    "lon": 123.1919515,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture"
+    ],
+    "programs": [
+      "BS Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Philippines",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "PHP",
+    "name": "Technological University of the Philippines (TUP)",
+    "city": "Manila",
+    "programLinks": [
+      "https://tup.edu.ph/undergraduate/admission/undergraduate-programs"
+    ],
+    "cost": "0 - 210000",
+    "website": "https://tup.edu.ph",
+    "lat": 14.5873574,
+    "lon": 120.9844621,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture"
+    ],
+    "programs": [
+      "BS Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Philippines",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "PHP",
+    "name": "Don Honorio Ventura State University (DHVSU)",
+    "city": "Bacolor",
+    "programLinks": [
+      "https://dhvsu.edu.ph/academics/dhvsu-campuses/main-campus/college-of-engineering-and-architecture-college-details"
+    ],
+    "cost": "0 - 210000",
+    "website": "https://dhvsu.edu.ph",
+    "lat": 14.9978927,
+    "lon": 120.6548431,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture"
+    ],
+    "programs": [
+      "BS Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Philippines",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "PHP",
+    "name": "De La Salle University–Dasmariñas (DLSU-D)",
+    "city": "Dasmariñas",
+    "programLinks": [
+      "https://www.dlsud.edu.ph/academics/degree/undergraduate/bachelor-of-science-in-architecture"
+    ],
+    "cost": "90000 - 190000",
+    "website": "https://www.dlsud.edu.ph",
+    "lat": 14.3241795,
+    "lon": 120.958555,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture"
+    ],
+    "programs": [
+      "BS Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Philippines",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "PHP",
+    "name": "Pangasinan State University (PSU) — Campus Urdaneta",
+    "city": "Urdaneta",
+    "programLinks": [
+      "https://urdaneta.psu.edu.ph/college-of-engineering-and-architecture-2/"
+    ],
+    "cost": "0 - 210000",
+    "website": "https://psu.edu.ph",
+    "lat": 15.9879093,
+    "lon": 120.5733296,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture"
+    ],
+    "programs": [
+      "BS Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Philippines",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "PHP",
+    "name": "Cavite State University (CvSU)",
+    "city": "Indang",
+    "programLinks": [
+      "https://cvsu.edu.ph/2018/01/courses-offered-old/"
+    ],
+    "cost": "0 - 210000",
+    "website": "https://cvsu.edu.ph",
+    "lat": 14.2017127,
+    "lon": 120.8824673,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture"
+    ],
+    "programs": [
+      "BS Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Philippines",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "PHP",
+    "name": "University of Northern Philippines (UNP)",
+    "city": "Vigan",
+    "programLinks": [
+      "https://unp.edu.ph/program-offering/"
+    ],
+    "cost": "0 - 210000",
+    "website": "https://unp.edu.ph",
+    "lat": 17.5610725,
+    "lon": 120.3830415,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture"
+    ],
+    "programs": [
+      "BS Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Philippines",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "PHP",
+    "name": "University of the Visayas (UV)",
+    "city": "Cebu City",
+    "programLinks": [
+      "http://uv.edu.ph/colleges/ceta/"
+    ],
+    "cost": "100000 - 150000",
+    "website": "https://uv.edu.ph",
+    "lat": 10.2992325,
+    "lon": 123.901194,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture"
+    ],
+    "programs": [
+      "BS Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Philippines",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "PHP",
+    "name": "University of Science and Technology of Southern Philippines (USTP)",
+    "city": "Cagayan de Oro",
+    "programLinks": [
+      "https://www.ustp.edu.ph/academics/undergraduate-programs/"
+    ],
+    "cost": "0 - 210000",
+    "website": "https://www.ustp.edu.ph",
+    "lat": 8.4860705,
+    "lon": 124.656805,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture"
+    ],
+    "programs": [
+      "BS Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Philippines",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "PHP",
+    "name": "Lyceum of the Philippines University (LPU) — Campus Cavite",
+    "city": "General Trias",
+    "programLinks": [
+      "https://apply.lpu.edu.ph/applicationlandingpage/index/LPUCavite"
+    ],
+    "cost": "74000 - 200000",
+    "website": "https://lpu.edu.ph",
+    "lat": 14.2902034,
+    "lon": 120.9160136,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture"
+    ],
+    "programs": [
+      "BS Architecture"
+    ],
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Philippines",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "PHP",
+    "name": "Iloilo Science and Technology University (ISAT U)",
+    "city": "Iloilo City",
+    "programLinks": [
+      "https://ss7.isatu.edu.ph/cea/curricular-programs/"
+    ],
+    "website": "https://www.isatu.edu.ph",
+    "lat": 10.7153741,
+    "lon": 122.5659361,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture"
+    ],
+    "programs": [
+      "BS Architecture"
+    ],
+    "cost": "0 - 210000",
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Philippines",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "PHP",
+    "name": "Western Mindanao State University (WMSU)",
+    "city": "Zamboanga City",
+    "programLinks": [
+      "https://wmsu.edu.ph/?page_id=1247"
+    ],
+    "website": "https://wmsu.edu.ph",
+    "lat": 6.9135459,
+    "lon": 122.0614676,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture"
+    ],
+    "programs": [
+      "BS Architecture"
+    ],
+    "cost": "0 - 210000",
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Philippines",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "South-eastern Asia",
+    "costCurrency": "PHP",
+    "name": "Nueva Ecija University of Science and Technology (NEUST)",
+    "city": "Cabanatuan",
+    "programLinks": [
+      "https://neust.edu.ph/2025/09/26/neust-wraps-up-level-4-phase-2-aaccup-accreditation-for-four-programs/"
+    ],
+    "website": "https://neust.edu.ph",
+    "lat": 15.5644176,
+    "lon": 121.1023301,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture"
+    ],
+    "programs": [
+      "BS Architecture"
+    ],
+    "cost": "0 - 210000",
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture"
     ]
   }
 ]
