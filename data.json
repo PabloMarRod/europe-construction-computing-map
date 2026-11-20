@@ -2510,7 +2510,7 @@
       "https://www.metropolia.fi/en/academics/bachelors-degrees/construction-information-technology"
     ],
     "accreditation": [
-      "-"
+      "FINEEC"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -2743,7 +2743,7 @@
       "https://www.jamk.fi/fi/hae-opiskelemaan/yamk-tutkinto/tahtaa-vaativiin-rakennusalan-tehtaviin"
     ],
     "accreditation": [
-      "-"
+      "FINEEC"
     ],
     "language": "Finnish",
     "mode": "Full-time / Part-time",
@@ -2790,7 +2790,7 @@
       "https://www.xamk.fi/koulutukset/insinoori-amk-rakennustekniikka/"
     ],
     "accreditation": [
-      "-"
+      "FINEEC"
     ],
     "language": "Finnish",
     "mode": "Full-time / Part-time",
@@ -2833,7 +2833,7 @@
       "https://tamk-study-guide.tuni.fi/167/fi/50/187064?lang=en"
     ],
     "accreditation": [
-      "-"
+      "FINEEC"
     ],
     "language": "Finnish",
     "mode": "Full-time",
@@ -2876,7 +2876,7 @@
       "https://opinto-opas.turkuamk.fi/21632/fi/21680/21685?lang=en"
     ],
     "accreditation": [
-      "-"
+      "FINEEC"
     ],
     "language": "Finnish",
     "mode": "Full-time",
@@ -2917,7 +2917,7 @@
       "https://www.hamk.fi/en/degree/construction-engineering/"
     ],
     "accreditation": [
-      "-"
+      "FINEEC"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -3044,7 +3044,7 @@
       "https://lab.fi/en/study/bachelor-engineering-sustainable-construction-technology"
     ],
     "accreditation": [
-      "-"
+      "FINEEC"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -3085,7 +3085,7 @@
       "https://opintoopas.karelia.fi/48/fi/92/110/463"
     ],
     "accreditation": [
-      "-"
+      "FINEEC"
     ],
     "language": "Finnish",
     "mode": "Full-time / Part-time",
@@ -3130,7 +3130,7 @@
       "https://opinto-opas.seamk.fi/21/fi/48/67"
     ],
     "accreditation": [
-      "-"
+      "FINEEC"
     ],
     "language": "Finnish",
     "mode": "Full-time / Part-time",
@@ -6171,7 +6171,7 @@
       "https://www.postgraduate.study.cam.ac.uk/courses/directory/egegpdpeg"
     ],
     "accreditation": [
-      "-"
+      "JBM"
     ],
     "language": "English",
     "mode": "Full-time / Part-time",
@@ -7649,7 +7649,7 @@
       "https://www.aston.ac.uk/study/courses/civil-infrastructure-engineering-msc"
     ],
     "accreditation": [
-      "-"
+      "JBM"
     ],
     "language": "English",
     "mode": "Full-time / Part-time",
@@ -12360,7 +12360,7 @@
       "https://www.upv.es/entidades/edoctorado/en/program-access-information-phd-in-construction-engineering/"
     ],
     "accreditation": [
-      "ANECA"
+      "-"
     ],
     "language": "Spanish",
     "mode": "Full-time / Part-time",
@@ -12424,7 +12424,7 @@
       "https://doctoradoarquitectura.us.es/"
     ],
     "accreditation": [
-      "ANECA"
+      "DEVA"
     ],
     "language": "Spanish",
     "mode": "Full-time / Part-time",
@@ -12595,7 +12595,7 @@
       "https://www.salleurl.edu/en/education/online-postgraduate-bim-management"
     ],
     "accreditation": [
-      "ANECA"
+      "-"
     ],
     "language": "Spanish",
     "mode": "Full-time / Part-time",
@@ -13089,7 +13089,7 @@
       "https://universidadeuropea.com/en/master-degree-architecture-madrid/"
     ],
     "accreditation": [
-      "ANECA",
+      "Fundación madri+d",
       "NAAB International Certification",
       "RIBA Validation"
     ],
@@ -13448,7 +13448,8 @@
       "https://masteres.ugr.es/informacion/titulaciones/proximo/master-doble-master-universitario-ingenieria-caminos-canales-puertos-master-universitario-hidraulica-ambiental/guia-docente/MA9/56/3/46"
     ],
     "accreditation": [
-      "-"
+      "DEVA",
+      "EUR-ACE"
     ],
     "language": "Spanish",
     "mode": "Full-time / Part-time",
@@ -13504,7 +13505,7 @@
       "https://www.ehu.eus/es/web/master/master-ingenieria-construccion"
     ],
     "accreditation": [
-      "-"
+      "Unibasq"
     ],
     "language": "Spanish / Basque",
     "mode": "Full-time / Part-time",
@@ -13612,7 +13613,7 @@
       "https://www.ubu.es/estudios/oferta-de-estudios/masteres-universitarios-oficiales/masteres-de-ingenieria-y-arquitectura"
     ],
     "accreditation": [
-      "-"
+      "ACSUCYL"
     ],
     "language": "Spanish",
     "mode": "Full-time / Part-time",
@@ -13714,7 +13715,7 @@
       "https://www.ull.es/apps/guias/guias/view_degree/M%C3%A1ster%20Universitario%20en%20Gesti%C3%B3n%20e%20Innovaci%C3%B3n%20Tecnol%C3%B3gica%20en%20la%20Construcci%C3%B3n/"
     ],
     "accreditation": [
-      "-"
+      "ACCUEE"
     ],
     "language": "Spanish",
     "mode": "Full-time / Part-time",
@@ -13763,7 +13764,7 @@
       "https://www.uma.es/master-en-proyectos-arquitectonicos-diseno-ambiental-y-nuevas-tecnologias/"
     ],
     "accreditation": [
-      "-"
+      "DEVA"
     ],
     "language": "Spanish",
     "mode": "Full-time / Part-time",
@@ -18924,7 +18925,8 @@
     ],
     "accreditation": [
       "MÜDEK",
-      "EUR-ACE"
+      "EUR-ACE",
+      "ABET"
     ],
     "language": "Turkish / English",
     "mode": "Full-time",
@@ -19049,7 +19051,8 @@
     ],
     "accreditation": [
       "MÜDEK",
-      "EUR-ACE"
+      "EUR-ACE",
+      "MİAK"
     ],
     "language": "Turkish / English",
     "mode": "Full-time",
@@ -19101,7 +19104,7 @@
       "https://sem.metu.edu.tr/egitim/yapi-bilgi-modelleme-uzmani-sertifika-programi-online1.html"
     ],
     "accreditation": [
-      "-"
+      "ABET"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -19191,7 +19194,8 @@
       "https://ce.ozyegin.edu.tr/en"
     ],
     "accreditation": [
-      "-"
+      "MÜDEK",
+      "EUR-ACE"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -19234,7 +19238,8 @@
       "https://im.tau.edu.tr/tr"
     ],
     "accreditation": [
-      "-"
+      "MÜDEK",
+      "EUR-ACE"
     ],
     "language": "German / Turkish",
     "mode": "Full-time",
@@ -19324,7 +19329,7 @@
       "https://architecture.iyte.edu.tr/en/phd/"
     ],
     "accreditation": [
-      "-"
+      "MİAK"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -19375,7 +19380,7 @@
       "https://arch.yasar.edu.tr/en/"
     ],
     "accreditation": [
-      "-"
+      "MİAK"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -19420,7 +19425,7 @@
       "https://mmr.ieu.edu.tr/en"
     ],
     "accreditation": [
-      "-"
+      "MİAK"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -19563,7 +19568,8 @@
       "https://www.atilim.edu.tr/en/ce/page/2240/curriculum"
     ],
     "accreditation": [
-      "-"
+      "MÜDEK",
+      "EUR-ACE"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -19616,7 +19622,7 @@
       "https://www.etu.edu.tr/tr/bolum/mimarlik/ders-mufredati"
     ],
     "accreditation": [
-      "-"
+      "MİAK"
     ],
     "language": "Turkish",
     "mode": "Full-time",
@@ -19753,7 +19759,8 @@
       "https://ce.gantep.edu.tr/"
     ],
     "accreditation": [
-      "-"
+      "MÜDEK",
+      "EUR-ACE"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -19848,7 +19855,7 @@
       "https://nyuad.nyu.edu/en/academics/graduate-and-phd/phd-programs/global-phd-student-fellowship-in-civil-engineering.html"
     ],
     "accreditation": [
-      "-"
+      "CAA"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -20269,7 +20276,7 @@
       "https://usj.edu.lb/fr/esib/formations"
     ],
     "accreditation": [
-      "-"
+      "ABET"
     ],
     "language": "French",
     "mode": "Full-time",
@@ -20698,7 +20705,7 @@
       "https://www.ammanu.edu.jo/admission/undergraduate-programs/civil-engineering/"
     ],
     "accreditation": [
-      "-"
+      "ABET"
     ],
     "language": "English / Arabic",
     "mode": "Full-time",
@@ -20808,7 +20815,7 @@
       "https://obrasciviles.usach.cl/diplomado-ingenieria-vial/"
     ],
     "accreditation": [
-      "-"
+      "CNA-Chile"
     ],
     "language": "Spanish",
     "mode": "Part-time",
@@ -20961,7 +20968,7 @@
       "https://postgrados.uv.cl/diplomados-uv/facultad-de-ingenieria/bim-construccion"
     ],
     "accreditation": [
-      "-"
+      "CNA-Chile"
     ],
     "language": "Spanish",
     "mode": "Part-time",
@@ -21118,7 +21125,7 @@
       "http://faug.udec.cl/?g1_work=inscripciones-abiertas-diplomado-modelacion-y-coordinacion-bim-2"
     ],
     "accreditation": [
-      "-"
+      "CNA-Chile"
     ],
     "language": "Spanish",
     "mode": "Part-time",
@@ -21163,7 +21170,7 @@
       "https://educacioncontinua2.usm.cl/diplomas-y-capacitacion/program/363"
     ],
     "accreditation": [
-      "-"
+      "CNA-Chile"
     ],
     "language": "Spanish",
     "mode": "Part-time",
@@ -21212,7 +21219,7 @@
       "https://postgrado.ucn.cl/diplomados/diplomado-coordinacion-y-gestion-para-proyectos-bim/"
     ],
     "accreditation": [
-      "-"
+      "CNA-Chile"
     ],
     "language": "Spanish",
     "mode": "Part-time",
@@ -21259,7 +21266,7 @@
       "https://formacioncontinua.ucsc.cl/carreras/diplomado-en-tecnologias-bim-aplicadas-a-proyectos-de-construccion/"
     ],
     "accreditation": [
-      "-"
+      "CNA-Chile"
     ],
     "language": "Spanish",
     "mode": "Part-time",
@@ -21343,7 +21350,7 @@
       "https://posgrados.udp.cl/programas/diplomado-diseno-y-certificacion-bim-udp-graphisoft/"
     ],
     "accreditation": [
-      "-"
+      "CNA-Chile"
     ],
     "language": "Spanish",
     "mode": "Part-time",
@@ -21384,7 +21391,7 @@
       "https://postgrados.udd.cl/programas/diplomado-bim-modelacion-coordinacion-y-gestion-de-datos-241143/"
     ],
     "accreditation": [
-      "-"
+      "CNA-Chile"
     ],
     "language": "Spanish",
     "mode": "Part-time",
@@ -21519,7 +21526,7 @@
       "https://econtinua.udla.cl/programas/diplomado-en-bim-en-integracion-del-diseno-coordinacion-y-revision-para-proyectos-aec/"
     ],
     "accreditation": [
-      "-"
+      "CNA-Chile"
     ],
     "language": "Spanish",
     "mode": "Part-time",
@@ -21573,7 +21580,9 @@
       "https://www.bcit.ca/programs/building-design-and-architectural-cad-associate-certificate-part-time-515hacert/",
       "https://www.bcit.ca/programs/architectural-and-building-technology-diploma-full-time-7140dipma/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "Technology Accreditation Canada"
+    ],
     "language": "English",
     "mode": "Full-time / Part-time",
     "delivery": "Presential",
@@ -21626,7 +21635,9 @@
       "https://civil.ubc.ca/undergraduate/",
       "https://civil.ubc.ca/graduate/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CEAB"
+    ],
     "language": "English",
     "mode": "Full-time",
     "delivery": "Presential",
@@ -21962,7 +21973,9 @@
     "programLinks": [
       "https://cnc.bc.ca/programs-courses/programs/detail/civil-engineering-technology"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "Technology Accreditation Canada"
+    ],
     "language": "English",
     "mode": "Full-time",
     "delivery": "Presential",
@@ -22007,7 +22020,9 @@
       "https://www.sait.ca/programs-and-courses/diplomas/architectural-technologies",
       "https://www.sait.ca/programs-and-courses/diplomas/geomatics-engineering-technology"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "Technology Accreditation Canada"
+    ],
     "language": "English",
     "mode": "Full-time",
     "delivery": "Presential",
@@ -22064,7 +22079,9 @@
       "https://www.nait.ca/programs/engineering-design-technology",
       "https://www.nait.ca/programs/surveying-and-geospatial-engineering-technology"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "Technology Accreditation Canada"
+    ],
     "language": "English",
     "mode": "Full-time",
     "delivery": "Presential",
@@ -22125,7 +22142,10 @@
       "https://grad.ucalgary.ca/future-students/graduate/discover-opportunities/explore-programs/geomatics-engineering-phd",
       "https://grad.ucalgary.ca/future-students/graduate/discover-opportunities/explore-programs/environmental-design-phd"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CEAB",
+      "CACB"
+    ],
     "language": "English",
     "mode": "Full-time",
     "delivery": "Presential",
@@ -22182,7 +22202,9 @@
       "https://www.ualberta.ca/en/engineering/civil-environmental-engineering/graduate-programs/index.html",
       "https://www.ualberta.ca/en/engineering/civil-environmental-engineering/graduate-programs/index.html"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CEAB"
+    ],
     "language": "English",
     "mode": "Full-time",
     "delivery": "Presential / Online",
@@ -22231,7 +22253,9 @@
       "https://lethpolytech.ca/programs-and-courses/civil-engineering-technology",
       "https://lethbridgecollege.ca/programs/engineering-design-technology"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "Technology Accreditation Canada"
+    ],
     "language": "English",
     "mode": "Full-time",
     "delivery": "Presential",
@@ -22278,7 +22302,9 @@
       "https://saskpolytech.ca/programs-and-courses/programs/Engineering-Design-and-Drafting-Technology.aspx",
       "https://saskpolytech.ca/programs-and-courses/programs/Civil-Engineering-Technologies.aspx"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "Technology Accreditation Canada"
+    ],
     "language": "English",
     "mode": "Full-time",
     "delivery": "Presential",
@@ -22327,7 +22353,9 @@
       "https://engineering.usask.ca/programs/Academic/Degrees/civil-engineering.php",
       "https://grad.usask.ca/programs/civil-engineering.php"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CEAB"
+    ],
     "language": "English",
     "mode": "Full-time",
     "delivery": "Presential",
@@ -22431,7 +22459,9 @@
       "https://umanitoba.ca/engineering/civil",
       "https://umanitoba.ca/architecture/programs-study"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CEAB"
+    ],
     "language": "English",
     "mode": "Full-time",
     "delivery": "Presential",
@@ -22490,7 +22520,9 @@
       "https://civmin.utoronto.ca/home/programs/graduate-programs/meng/",
       "https://civmin.utoronto.ca/home/programs/graduate-programs/research-programs/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CACB"
+    ],
     "language": "English",
     "mode": "Full-time",
     "delivery": "Presential",
@@ -22545,7 +22577,9 @@
       "https://uwaterloo.ca/architectural-engineering/",
       "https://uwaterloo.ca/future-graduate-students/programs/by-faculty/engineering/civil-engineering-doctor-philosophy-phd"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CEAB"
+    ],
     "language": "English",
     "mode": "Full-time",
     "delivery": "Presential",
@@ -22649,7 +22683,9 @@
       "https://admissions.carleton.ca/programs/civil-engineering/",
       "https://carleton.ca/cee/graduate-studies/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CEAB"
+    ],
     "language": "English",
     "mode": "Full-time",
     "delivery": "Presential",
@@ -22800,7 +22836,9 @@
       "https://laurentian.ca/program/architecture",
       "https://laurentian.ca/faculty/mcewen-school-of-architecture"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CACB"
+    ],
     "language": "English",
     "mode": "Full-time",
     "delivery": "Presential",
@@ -22845,7 +22883,9 @@
       "https://lassonde.yorku.ca/academics/graduate-program-in-civil-engineering",
       "https://lassonde.yorku.ca/academics/graduate-program-in-civil-engineering"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CEAB"
+    ],
     "language": "English",
     "mode": "Full-time",
     "delivery": "Presential",
@@ -22892,7 +22932,9 @@
       "https://catalogue.uottawa.ca/en/undergrad/basc-civil-engineering/",
       "https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-civil-engineering/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CEAB"
+    ],
     "language": "English / French",
     "mode": "Full-time",
     "delivery": "Presential",
@@ -22939,7 +22981,9 @@
       "https://www.uwindsor.ca/engineering/1634/civil-engineering-graduate-courses",
       "https://www.uwindsor.ca/engineering/1634/civil-engineering-graduate-courses"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CEAB"
+    ],
     "language": "English",
     "mode": "Full-time",
     "delivery": "Presential",
@@ -22990,7 +23034,9 @@
       "https://www.lakeheadu.ca/programs/undergraduate-programs/engineering-civil",
       "https://www.lakeheadu.ca/programs/faculties/engineering/graduate-programs/phd-in-civil-engineering"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CEAB"
+    ],
     "language": "English",
     "mode": "Full-time",
     "delivery": "Presential",
@@ -23329,7 +23375,9 @@
       "https://www.fanshawec.ca/programs/aty1-architectural-technology",
       "https://www.fanshawec.ca/programs/cey2-civil-engineering-technology"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "Technology Accreditation Canada"
+    ],
     "language": "English",
     "mode": "Full-time",
     "delivery": "Presential",
@@ -23423,7 +23471,9 @@
       "https://www.centennialcollege.ca/programs-courses/full-time/architectural-technology",
       "https://www.centennialcollege.ca/programs-courses/full-time/architectural-technician"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "Technology Accreditation Canada"
+    ],
     "language": "English",
     "mode": "Full-time",
     "delivery": "Presential",
@@ -23466,7 +23516,9 @@
     "programLinks": [
       "https://www.senecapolytechnic.ca/programs/fulltime/CVT.html"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "Technology Accreditation Canada"
+    ],
     "language": "English",
     "mode": "Full-time",
     "delivery": "Presential / Online",
@@ -23738,7 +23790,9 @@
     "programLinks": [
       "https://cambriancollege.ca/programs/civil-engineering-technology"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "Technology Accreditation Canada"
+    ],
     "language": "English",
     "mode": "Full-time",
     "delivery": "Presential",
@@ -23918,7 +23972,9 @@
       "https://www.concordia.ca/ginacody/building-civil-environmental-eng/programs/civil-eng.html",
       "https://www.concordia.ca/ginacody/building-civil-environmental-eng/programs/civil-eng.html"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CEAB"
+    ],
     "language": "English",
     "mode": "Full-time",
     "delivery": "Presential",
@@ -23975,7 +24031,9 @@
       "https://coursecatalogue.mcgill.ca/en/graduate/engineering/architecture/",
       "https://www.mcgill.ca/civil/grad"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CACB"
+    ],
     "language": "English",
     "mode": "Full-time",
     "delivery": "Presential",
@@ -24020,7 +24078,9 @@
       "https://www.etsmtl.ca/etudes/deuxieme-cycle/dess-BIM-innovations-numeriques",
       "https://www.etsmtl.ca/etudes/troisieme-cycle"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CEAB"
+    ],
     "language": "French",
     "mode": "Full-time",
     "delivery": "Presential",
@@ -24073,7 +24133,9 @@
       "https://www.ulaval.ca/etudes/programmes/maitrise-en-architecture",
       "https://www.ulaval.ca/etudes/programmes/doctorat-en-genie-civil"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CACB"
+    ],
     "language": "French",
     "mode": "Full-time",
     "delivery": "Presential",
@@ -24118,7 +24180,9 @@
       "https://www.polymtl.ca/programmes/programmes/maitrise-en-genie-civil",
       "https://www.polymtl.ca/programmes/programmes/maitrise-en-genie-civil"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CEAB"
+    ],
     "language": "French",
     "mode": "Full-time",
     "delivery": "Presential",
@@ -24169,7 +24233,9 @@
       "https://www.usherbrooke.ca/admission/programme/213/baccalaureat-en-genie-civil/",
       "https://www.usherbrooke.ca/admission/programme/709/doctorat-en-genie-civil/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CEAB"
+    ],
     "language": "French",
     "mode": "Full-time",
     "delivery": "Presential",
@@ -25030,7 +25096,9 @@
       "https://www.unb.ca/fredericton/engineering/depts/gge/index.html",
       "https://www.unb.ca/fredericton/engineering/depts/civil/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CEAB"
+    ],
     "language": "English",
     "mode": "Full-time",
     "delivery": "Presential",
@@ -25134,7 +25202,9 @@
       "https://www.cna.nl.ca/program/civil-engineering-technology",
       "https://www.cna.nl.ca/program/geographic-information-systems-gis-applications-specialist"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "Technology Accreditation Canada"
+    ],
     "language": "English",
     "mode": "Full-time",
     "delivery": "Presential",
@@ -25226,7 +25296,9 @@
     "programLinks": [
       "https://nbcc.ca/programs-courses/program-details?baseCurriculumId=eb31fbc0-e4a0-43b9-a843-c3097a69fc0e"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "Technology Accreditation Canada"
+    ],
     "language": "English",
     "mode": "Full-time",
     "delivery": "Presential",
@@ -25269,7 +25341,9 @@
     "programLinks": [
       "https://ccnb.ca/programmes/technologie-du-genie-civil-general-coop/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "Technology Accreditation Canada"
+    ],
     "language": "French",
     "mode": "Full-time",
     "delivery": "Presential",
@@ -25522,7 +25596,8 @@
     ],
     "accreditation": [
       "SUNEDU",
-      "CIP"
+      "CIP",
+      "ABET"
     ],
     "language": "Spanish",
     "mode": "Full-time",
@@ -25665,7 +25740,8 @@
     ],
     "accreditation": [
       "SUNEDU",
-      "CIP"
+      "CIP",
+      "ABET"
     ],
     "language": "Spanish",
     "mode": "Full-time",
@@ -25956,7 +26032,8 @@
       "https://www.fict.espol.edu.ec/en/undergraduate-programs/civil-engineering"
     ],
     "accreditation": [
-      "CACES"
+      "CACES",
+      "ABET"
     ],
     "language": "Spanish",
     "mode": "Full-time",
@@ -26336,7 +26413,8 @@
     "accreditation": [
       "MEN",
       "COPNIA",
-      "CNA Colombia"
+      "CNA Colombia",
+      "ABET"
     ],
     "language": "Spanish",
     "mode": "Full-time",
@@ -26774,7 +26852,8 @@
     "accreditation": [
       "MEN",
       "COPNIA",
-      "CNA Colombia"
+      "CNA Colombia",
+      "ABET"
     ],
     "language": "Spanish",
     "mode": "Full-time",
@@ -28342,7 +28421,9 @@
       "https://architecture.umontreal.ca/programmes-et-cours/maitrise-en-architecture/",
       "https://admission.umontreal.ca/programmes/doctorat-en-amenagement/"
     ],
-    "accreditation": [],
+    "accreditation": [
+      "CACB"
+    ],
     "language": "French",
     "mode": "Full-time",
     "delivery": "Presential",
@@ -28428,7 +28509,8 @@
       "https://catalog.csuchico.edu/colleges-departments/college-engineering-computer-science-construction-management/construction-management/"
     ],
     "accreditation": [
-      "ACCE"
+      "ACCE",
+      "ABET"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -28471,7 +28553,8 @@
       "https://catalog.csus.edu/colleges/engineering-computer-science/engineering-construction-management/"
     ],
     "accreditation": [
-      "ACCE"
+      "ACCE",
+      "ABET"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -28634,7 +28717,8 @@
       "https://catalog.csun.edu/academics/ce/programs/bs-civil-engineering/"
     ],
     "accreditation": [
-      "-"
+      "ABET",
+      "ACCE"
     ],
     "language": "English",
     "mode": "Full-time / Part-time",
@@ -28683,7 +28767,7 @@
       "https://catalog.csueastbay.edu/preview_program.php?catoid=44&poid=20474"
     ],
     "accreditation": [
-      "-"
+      "ABET"
     ],
     "language": "English",
     "mode": "Full-time / Part-time",
@@ -28785,7 +28869,7 @@
       "https://www.engineering.sdsu.edu/admissions/joint-doctoral"
     ],
     "accreditation": [
-      "-"
+      "ABET"
     ],
     "language": "English",
     "mode": "Full-time / Part-time",
@@ -28838,7 +28922,8 @@
       "https://www.csulb.edu/college-of-engineering/master-of-science-construction-management"
     ],
     "accreditation": [
-      "ACCE"
+      "ACCE",
+      "ABET"
     ],
     "language": "English",
     "mode": "Full-time / Part-time",
@@ -28881,7 +28966,8 @@
       "https://engineering.fresnostate.edu/cmas/programs/index.html"
     ],
     "accreditation": [
-      "-"
+      "ABET",
+      "ACCE"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -28973,7 +29059,7 @@
       "https://www.cee.ucla.edu/graduate-programs/"
     ],
     "accreditation": [
-      "-"
+      "ABET"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -29026,7 +29112,7 @@
       "https://catalog.ucdavis.edu/departments-programs-degrees/mechanical-aerospace-engineering/mechanical-aerospace-engineering-phd/"
     ],
     "accreditation": [
-      "-"
+      "ABET"
     ],
     "language": "English",
     "mode": "Full-time / Part-time",
@@ -29073,7 +29159,7 @@
       "https://catalog.cpp.edu/preview_program.php?catoid=5&poid=1120"
     ],
     "accreditation": [
-      "-"
+      "ABET"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -29581,7 +29667,7 @@
       "https://catalog.mtsac.edu/programs/programsaz/construction-management/construction-management-as-degree/"
     ],
     "accreditation": [
-      "-"
+      "ACCE"
     ],
     "language": "English",
     "mode": "Full-time / Part-time",
@@ -29837,7 +29923,7 @@
       "https://catalog.citruscollege.edu/disciplines/construction-management/construction-management-as/"
     ],
     "accreditation": [
-      "-"
+      "ACCE"
     ],
     "language": "English",
     "mode": "Full-time / Part-time",
@@ -30009,7 +30095,8 @@
       "https://cce.oregonstate.edu/graduate"
     ],
     "accreditation": [
-      "-"
+      "ABET",
+      "ACCE"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -30060,7 +30147,7 @@
       "https://catalog.uoregon.edu/design/arch-env/architecture/march-arch/"
     ],
     "accreditation": [
-      "-"
+      "NAAB"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -30140,7 +30227,7 @@
       "https://www.pdx.edu/academics/programs/undergraduate/civil-engineering"
     ],
     "accreditation": [
-      "-"
+      "ABET"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -30226,7 +30313,8 @@
       "https://be.uw.edu/programs/phd/"
     ],
     "accreditation": [
-      "-"
+      "ABET",
+      "ACCE"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -30320,7 +30408,8 @@
       "https://ce.wsu.edu/graduate/doctor-of-philosophy/"
     ],
     "accreditation": [
-      "-"
+      "ABET",
+      "ACCE"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -30502,7 +30591,8 @@
       "https://uaa.alaska.edu/academics/community-and-technical-college/departments/construction-design-and-safety/construction-management"
     ],
     "accreditation": [
-      "ACCE"
+      "ACCE",
+      "ABET"
     ],
     "language": "English",
     "mode": "Full-time / Part-time",
@@ -30631,7 +30721,8 @@
       "https://catalog.uidaho.edu/colleges-related-units/graduate-studies/doctoral-degrees/#phdtext"
     ],
     "accreditation": [
-      "-"
+      "ABET",
+      "NAAB"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -30811,7 +30902,8 @@
       "https://www.boisestate.edu/coen-cm/four-year-plan-2024-2025/"
     ],
     "accreditation": [
-      "-"
+      "ABET",
+      "ACCE"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -31024,7 +31116,7 @@
       "https://catalog.mtech.edu/preview_program.php?catoid=17&poid=3474"
     ],
     "accreditation": [
-      "-"
+      "ABET"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -31067,7 +31159,8 @@
       "https://www.uwyo.edu/uw/degree-programs/civil-engineering-phd.html"
     ],
     "accreditation": [
-      "ACCE"
+      "ACCE",
+      "ABET"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -31430,7 +31523,8 @@
       "https://www.engr.colostate.edu/ce/construction-engineering-and-management/"
     ],
     "accreditation": [
-      "-"
+      "ABET",
+      "ACCE"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -31481,7 +31575,7 @@
       "https://catalog.ucdenver.edu/cu-denver/graduate/schools-colleges-departments/college-engineering-design-computing/civil-engineering/civil-engineering-phd/"
     ],
     "accreditation": [
-      "-"
+      "ABET"
     ],
     "language": "English",
     "mode": "Full-time / Part-time",
@@ -31747,7 +31841,7 @@
       "https://www.mines.edu/academics/undergraduate-academics/majors/construction-engineering-major/"
     ],
     "accreditation": [
-      "-"
+      "ABET"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -31790,7 +31884,8 @@
       "https://degrees.apps.asu.edu/masters-phd/major/ASU00/ESCONPHD/construction-management-and-technology-phd"
     ],
     "accreditation": [
-      "-"
+      "ABET",
+      "ACCE"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -31927,7 +32022,7 @@
       "https://civil.unm.edu/programs-and-degrees/graduate/phd-in-engineering-phd-eng.html"
     ],
     "accreditation": [
-      "-"
+      "ABET"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -32021,7 +32116,7 @@
       "https://catalog.ndsu.edu/curriculum/undergraduate/civil-engineering-major/"
     ],
     "accreditation": [
-      "-"
+      "ABET"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -32150,7 +32245,7 @@
       "https://ecatalog.sdsmt.edu/preview_program.php?catoid=39&poid=5126"
     ],
     "accreditation": [
-      "-"
+      "ABET"
     ],
     "language": "English",
     "mode": "Full-time / Part-time",
@@ -32195,7 +32290,7 @@
       "https://engineering.unl.edu/durhamschool/cons-phd/"
     ],
     "accreditation": [
-      "-"
+      "ABET"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -32248,7 +32343,7 @@
       "https://engineering.unl.edu/durhamschool/cons-phd/"
     ],
     "accreditation": [
-      "-"
+      "ABET"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -32303,7 +32398,8 @@
       "https://catalog.ku.edu/engineering/civil-environmental-architectural-engineering/phd/"
     ],
     "accreditation": [
-      "-"
+      "ABET",
+      "NAAB"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -32391,7 +32487,7 @@
       "https://catalog.jccc.edu/degreecertificates/constructionmanagement/construction-management-technology-aas/"
     ],
     "accreditation": [
-      "-"
+      "ACCE"
     ],
     "language": "English",
     "mode": "Full-time / Part-time",
@@ -32434,7 +32530,7 @@
       "https://catalog.k-state.edu/programs/MARE/program-requirements-TCjHU"
     ],
     "accreditation": [
-      "-"
+      "ABET"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -32479,7 +32575,8 @@
       "https://www.ou.edu/content/gibbs/academics/graduate/planning-design-and-construction-phd"
     ],
     "accreditation": [
-      "ACCE"
+      "ACCE",
+      "ABET"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -32530,7 +32627,7 @@
       "https://catalog.okstate.edu/engineering-architecture-technology/civil-environmental-engineering/civil-engineering-bscv/"
     ],
     "accreditation": [
-      "-"
+      "ABET"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -32583,7 +32680,7 @@
       "https://www.caee.utexas.edu/graduate/programs"
     ],
     "accreditation": [
-      "-"
+      "ABET"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -32634,7 +32731,8 @@
       "https://catalog.tamu.edu/graduate/colleges-schools-interdisciplinary/architecture/construction-science/construction-science-phd/"
     ],
     "accreditation": [
-      "-"
+      "ABET",
+      "ACCE"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -32687,7 +32785,7 @@
       "https://catalog.uta.edu/engineering/civil/graduate/civil-engr-construction-phd/"
     ],
     "accreditation": [
-      "-"
+      "ABET"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -32742,7 +32840,8 @@
       "https://future.utsa.edu/programs/doctoral/civil-engineering/"
     ],
     "accreditation": [
-      "-"
+      "ABET",
+      "ACCE"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -32793,7 +32892,8 @@
       "https://catalog.tarleton.edu/grad/engineering/engineeringtechnology/"
     ],
     "accreditation": [
-      "-"
+      "ABET",
+      "ACCE"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -32838,7 +32938,7 @@
       "https://catalog.shsu.edu/undergraduate/colleges-academic-departments/science-and-engineering-technology/engineering-technology/bs-construction-management/"
     ],
     "accreditation": [
-      "-"
+      "ABET"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -32877,7 +32977,7 @@
       "https://cee.egr.uh.edu/construction-management/programs/master-science-construction-management"
     ],
     "accreditation": [
-      "-"
+      "ACCE"
     ],
     "language": "English",
     "mode": "Full-time / Part-time",
@@ -32924,7 +33024,8 @@
       "https://catalog.pvamu.edu/academicprogramsanddegreeplans/schoolofarchitecture/undergrad/constructionsci/"
     ],
     "accreditation": [
-      "-"
+      "ABET",
+      "ACCE"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -32963,7 +33064,7 @@
       "https://catalog.tamuk.edu/undergraduate/engineering/civil-architectural/architectural-engineering-bs/"
     ],
     "accreditation": [
-      "-"
+      "ABET"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -33135,7 +33236,7 @@
       "https://catalog.dunwoody.edu/catalog-student-handbook/academic-programs/construction-sciences-building-technology/construction-electrical-drafting-estimating-ecde-certificate/"
     ],
     "accreditation": [
-      "-"
+      "ACCE"
     ],
     "language": "English",
     "mode": "Full-time / Part-time",
@@ -33409,7 +33510,7 @@
       "https://catalog.uark.edu/graduatecatalog/programsofstudy/civilengineeringcveg/"
     ],
     "accreditation": [
-      "-"
+      "ABET"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -33450,7 +33551,8 @@
       "https://ualr.edu/constructionmanagement/bs-construction-management/"
     ],
     "accreditation": [
-      "-"
+      "ABET",
+      "ACCE"
     ],
     "language": "English",
     "mode": "Full-time / Part-time",
@@ -33489,7 +33591,7 @@
       "https://www.astate.edu/programs/bs-in-construction-management.html"
     ],
     "accreditation": [
-      "-"
+      "ABET"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -33534,7 +33636,7 @@
       "https://www.lsu.edu/eng/cm/academics/phd/phd-cm.php"
     ],
     "accreditation": [
-      "-"
+      "ACCE"
     ],
     "language": "English",
     "mode": "Full-time / Part-time",
@@ -33591,7 +33693,7 @@
       "https://engineeringtech.louisiana.edu/node/150"
     ],
     "accreditation": [
-      "-"
+      "ABET"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -33673,7 +33775,7 @@
       "https://www.up.edu/academics/degrees-programs/civil-engineering-bsce.html"
     ],
     "accreditation": [
-      "-"
+      "ABET"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -33763,7 +33865,7 @@
       "https://guide.wisc.edu/graduate/civil-environmental-engineering/civil-environmental-engineering-phd/"
     ],
     "accreditation": [
-      "-"
+      "ABET"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -33814,7 +33916,7 @@
       "https://www.uwstout.edu/programs/bs-construction-management"
     ],
     "accreditation": [
-      "-"
+      "ACCE"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -33857,7 +33959,7 @@
       "https://www.msoe.edu/academics/undergraduate-degrees/engineering/architectural-engineering/"
     ],
     "accreditation": [
-      "-"
+      "ABET"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -34209,7 +34311,8 @@
       "https://catalog.bradley.edu/graduate/programs/bachelor-science-constructionmaster-science-civil-engineering-bscmsce-41-program/"
     ],
     "accreditation": [
-      "-"
+      "ABET",
+      "ACCE"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -34379,7 +34482,7 @@
       "https://cee.engin.umich.edu/graduate-studies/"
     ],
     "accreditation": [
-      "-"
+      "ABET"
     ],
     "language": "English",
     "mode": "Full-time / Part-time",
@@ -34428,7 +34531,7 @@
       "https://bulletins.wayne.edu/graduate/college-engineering/civil-environmental-engineering/civil-engineering-phd/"
     ],
     "accreditation": [
-      "-"
+      "ABET"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -34475,7 +34578,8 @@
       "https://www.canr.msu.edu/spdc/programs/pdc-doctorate-program"
     ],
     "accreditation": [
-      "-"
+      "ABET",
+      "ACCE"
     ],
     "language": "English",
     "mode": "Full-time / Part-time",
@@ -34534,7 +34638,8 @@
       "https://www.mtu.edu/cege/graduate/"
     ],
     "accreditation": [
-      "-"
+      "ABET",
+      "ACCE"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -34626,7 +34731,8 @@
       "https://polytechnic.purdue.edu/degrees/phd-technology"
     ],
     "accreditation": [
-      "-"
+      "ABET",
+      "ACCE"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -34763,7 +34869,7 @@
       "https://trine.smartcatalogiq.com/en/current/trine-course-catalog/engineering-and-computing/reiners-department-of-civil-and-environmental-engineering/bachelor-of-applied-science-in-construction-management-95-hrs"
     ],
     "accreditation": [
-      "-"
+      "ABET"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -34927,7 +35033,7 @@
       "https://engineering.nd.edu/departments-programs/undergraduate-programs/minors-in-engineering/minor-in-construction-management/"
     ],
     "accreditation": [
-      "-"
+      "ABET"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -34966,7 +35072,7 @@
       "https://www.rose-hulman.edu/academics/course-catalog/2023-2024/programs/Civil%20Engineering/index.html"
     ],
     "accreditation": [
-      "-"
+      "ABET"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -35011,7 +35117,8 @@
       "https://www.indianastate.edu/academics/academic-program-finder/construction-management-bs"
     ],
     "accreditation": [
-      "ACCE"
+      "ACCE",
+      "ABET"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -35052,7 +35159,7 @@
       "https://catalog.pfw.edu/preview_program.php?catoid=73&poid=22484"
     ],
     "accreditation": [
-      "-"
+      "ABET"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -35095,7 +35202,7 @@
       "https://catalog.wku.edu/undergraduate/science-engineering/engineering-applied-sciences/construction-management-bs/"
     ],
     "accreditation": [
-      "-"
+      "ABET"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -35501,7 +35608,7 @@
       "https://www.utc.edu/engineering-and-computer-science/academic-programs/engineering-management-and-technology"
     ],
     "accreditation": [
-      "-"
+      "ABET"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -35639,7 +35746,8 @@
       "https://www.cee.msstate.edu/graduate/"
     ],
     "accreditation": [
-      "-"
+      "ABET",
+      "ACCE"
     ],
     "language": "English",
     "mode": "Full-time / Part-time",
@@ -35692,7 +35800,7 @@
       "https://www.depts.ttu.edu/ceweb/grad/phd/index.php"
     ],
     "accreditation": [
-      "-"
+      "ABET"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -35741,7 +35849,8 @@
       "https://cadc.auburn.edu/construction/degrees-programs/phd-in-building-construction/"
     ],
     "accreditation": [
-      "-"
+      "ABET",
+      "ACCE"
     ],
     "language": "English",
     "mode": "Full-time / Part-time",
@@ -35792,7 +35901,7 @@
       "https://www.uab.edu/engineering/civil/graduate/phd"
     ],
     "accreditation": [
-      "-"
+      "ABET"
     ],
     "language": "English",
     "mode": "Full-time / Part-time",
@@ -35929,7 +36038,7 @@
       "https://catalog.ua.edu/graduate/engineering/civil-construction-environmental/civil-phd/"
     ],
     "accreditation": [
-      "-"
+      "ABET"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -35982,7 +36091,7 @@
       "https://catalog.kent.edu/colleges/ae/construction-management-ms/"
     ],
     "accreditation": [
-      "-"
+      "ACCE"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -36211,7 +36320,7 @@
       "https://ati.osu.edu/construction-management-construction-systems-management"
     ],
     "accreditation": [
-      "-"
+      "ACCE"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -36250,7 +36359,7 @@
       "https://www.uakron.edu/academic/programs/construction-engineering-technology-bs"
     ],
     "accreditation": [
-      "-"
+      "ABET"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -36417,7 +36526,8 @@
       "https://catalog.gatech.edu/programs/architecture-phd"
     ],
     "accreditation": [
-      "-"
+      "ABET",
+      "ACCE"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -36482,7 +36592,8 @@
       "https://www.kennesaw.edu/degrees-programs/master-degrees/construction-management.php"
     ],
     "accreditation": [
-      "-"
+      "ABET",
+      "ACCE"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -36525,7 +36636,8 @@
       "https://www.georgiasouthern.edu/cec/cengc/?p=4373"
     ],
     "accreditation": [
-      "ACCE"
+      "ACCE",
+      "ABET"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -36570,7 +36682,7 @@
       "https://engineering.uga.edu/degree/phd-engineering"
     ],
     "accreditation": [
-      "-"
+      "ABET"
     ],
     "language": "English",
     "mode": "Part-time",
@@ -36666,7 +36778,8 @@
       "https://essie.ufl.edu/cce/undergraduate/"
     ],
     "accreditation": [
-      "ACCE"
+      "ACCE",
+      "ABET"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -36729,7 +36842,8 @@
       "https://cee.fiu.edu/degrees-programs/graduate/phd-in-civil-engineering/index.html"
     ],
     "accreditation": [
-      "ACCE"
+      "ACCE",
+      "ABET"
     ],
     "language": "English",
     "mode": "Full-time / Part-time",
@@ -36817,7 +36931,8 @@
       "https://www.unf.edu/graduateschool/academics/programs/construction-management.html"
     ],
     "accreditation": [
-      "ACCE"
+      "ACCE",
+      "ABET"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -36938,7 +37053,8 @@
       "https://fgcu.edu/eng/constructionmanagement/constructionmanagement-bs"
     ],
     "accreditation": [
-      "-"
+      "ABET",
+      "ACCE"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -36981,7 +37097,8 @@
       "https://www.fit.edu/programs/construction-management-bs/"
     ],
     "accreditation": [
-      "-"
+      "ABET",
+      "ACCE"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -37020,7 +37137,7 @@
       "https://seminolestate.edu/catalog/programs/bldcn-cc"
     ],
     "accreditation": [
-      "-"
+      "ACCE"
     ],
     "language": "English",
     "mode": "Full-time / Part-time",
@@ -37259,7 +37376,8 @@
       "https://www.wcu.edu/learn/programs/construction-management-mcm/index.aspx"
     ],
     "accreditation": [
-      "ACCE"
+      "ACCE",
+      "ABET"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -37349,7 +37467,6 @@
       "https://www.ncat.edu/cost/departments/built-environment/academic-programs/construction-management/index.php"
     ],
     "accreditation": [
-      "ACCE",
       "ABET"
     ],
     "language": "English",
@@ -37393,7 +37510,8 @@
       "https://www.clemson.edu/degrees/planning-design-and-the-built-environment-phd"
     ],
     "accreditation": [
-      "ACCE"
+      "ACCE",
+      "ABET"
     ],
     "language": "English",
     "mode": "Full-time / Part-time",
@@ -37442,7 +37560,7 @@
       "https://www.cpcc.edu/programs/construction-management-technology"
     ],
     "accreditation": [
-      "-"
+      "ABET"
     ],
     "language": "English",
     "mode": "Full-time / Part-time",
@@ -37485,7 +37603,7 @@
       "https://catalog.gvltec.edu/school-engineering-technology-professional-studies/architectural-engineering-technology/"
     ],
     "accreditation": [
-      "-"
+      "ABET"
     ],
     "language": "English",
     "mode": "Full-time / Part-time",
@@ -37658,7 +37776,7 @@
       "https://www.citadel.edu/civil-environmental/degree-completion/bs-construction-engineering/"
     ],
     "accreditation": [
-      "-"
+      "ABET"
     ],
     "language": "English",
     "mode": "Full-time / Part-time",
@@ -37939,7 +38057,7 @@
       "https://engineering.virginia.edu/engineering-systems-and-environment/civil-engineering-graduate-program/phd-civil-engineering"
     ],
     "accreditation": [
-      "-"
+      "ABET"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -38483,7 +38601,7 @@
       "https://cee.engineering.cmu.edu/education/graduate/phd-programs/index.html"
     ],
     "accreditation": [
-      "-"
+      "ABET"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -38538,7 +38656,8 @@
       "https://catalog.drexel.edu/2027-2028/graduate/media-arts-design/construction-mgmt/"
     ],
     "accreditation": [
-      "ACCE"
+      "ACCE",
+      "ABET"
     ],
     "language": "English",
     "mode": "Full-time / Part-time",
@@ -38943,7 +39062,7 @@
       "https://gradschool.princeton.edu/academics/degrees-requirements/fields-study/architecture"
     ],
     "accreditation": [
-      "-"
+      "ABET"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -38996,7 +39115,7 @@
       "https://engineering.lehigh.edu/cee/graduate/structural-engineering-ms-phd"
     ],
     "accreditation": [
-      "-"
+      "ABET"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -39043,7 +39162,7 @@
       "https://online.txst.edu/degrees/graduate/phd/construction-mgmt-masters/"
     ],
     "accreditation": [
-      "-"
+      "ACCE"
     ],
     "language": "English",
     "mode": "Part-time",
@@ -39594,7 +39713,7 @@
       "https://www.pratt.edu/architecture/graduate-architecture/master-of-architecture-m-arch-first-professional/"
     ],
     "accreditation": [
-      "-"
+      "NAAB"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -39680,7 +39799,8 @@
       "https://www.alfredstate.edu/academics/majors-and-programs/construction-engineering-technology"
     ],
     "accreditation": [
-      "-"
+      "ABET",
+      "ACCE"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -39770,7 +39890,8 @@
       "https://catalog.wit.edu/management/construction-management/foundations-construction-management-certificate/"
     ],
     "accreditation": [
-      "ACCE"
+      "ACCE",
+      "ABET"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -39811,7 +39932,7 @@
       "https://www.umass.edu/environmental-conservation/academics/undergraduate-programs/building-and-construction-technology"
     ],
     "accreditation": [
-      "-"
+      "ABET"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -39862,7 +39983,7 @@
       "https://architecture.mit.edu/building-technology"
     ],
     "accreditation": [
-      "-"
+      "ABET"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -39911,7 +40032,7 @@
       "https://www.khoury.northeastern.edu/programs/bs-combined-major-for-computer-science-and-civil-engineering/"
     ],
     "accreditation": [
-      "-"
+      "ABET"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -39954,7 +40075,7 @@
       "https://massart.edu/program/architecture/march/"
     ],
     "accreditation": [
-      "-"
+      "NAAB"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -39995,7 +40116,7 @@
       "https://www.gsd.harvard.edu/offices-and-facilities/advanced-studies-programs/programs/doctor-of-design/"
     ],
     "accreditation": [
-      "-"
+      "NAAB"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -40043,7 +40164,8 @@
       "https://www.ccsu.edu/programs/construction-management-bs"
     ],
     "accreditation": [
-      "ACCE"
+      "ACCE",
+      "ABET"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -40086,7 +40208,7 @@
       "https://vermontstate.edu/academic-programs/architectural-engineering-technology-bs/"
     ],
     "accreditation": [
-      "-"
+      "ABET"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -40132,7 +40254,7 @@
       "https://home.norwich.edu/on/academics/programs/civil-engineering"
     ],
     "accreditation": [
-      "-"
+      "ABET"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -52471,7 +52593,7 @@
       "https://tec.mx/es/arquitectura-arte-y-diseno/arquitectura"
     ],
     "accreditation": [
-      "-"
+      "CACEI"
     ],
     "language": "Spanish",
     "mode": "Full-time",
@@ -53016,7 +53138,8 @@
       "https://www.udlap.mx/ofertaacademica/default.aspx?cveCarrera=LIC"
     ],
     "accreditation": [
-      "-"
+      "CACEI",
+      "ABET"
     ],
     "language": "Spanish",
     "mode": "Full-time",
@@ -53063,7 +53186,7 @@
       "https://www.just.edu.jo/FacultiesandDepartments/FacultyofArchitectureandDesign/Departments/Architecture/Pages/Programs.aspx"
     ],
     "accreditation": [
-      "-"
+      "ABET"
     ],
     "language": "English / Arabic",
     "mode": "Full-time",
@@ -53402,7 +53525,7 @@
       "https://zuj.edu.jo/?p=8161"
     ],
     "accreditation": [
-      "-"
+      "ABET"
     ],
     "language": "English / Arabic",
     "mode": "Full-time",
@@ -54083,7 +54206,7 @@
       "https://www.usek.edu.lb/university-catalogue"
     ],
     "accreditation": [
-      "-"
+      "ABET"
     ],
     "language": "English / French",
     "mode": "Full-time",
@@ -54189,7 +54312,9 @@
       "https://www.aud.edu/aud-school/school-of-architecture-art-design/departments/department-of-architecture/department-programs/master-of-urban-design-and-digital-environments-mudde/"
     ],
     "accreditation": [
-      "-"
+      "CAA",
+      "ABET",
+      "NAAB"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -54352,7 +54477,8 @@
       "https://www.ajman.ac.ae/en/admissions/undergraduate/undergraduate-student-catalog"
     ],
     "accreditation": [
-      "-"
+      "CAA",
+      "ABET"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -54516,7 +54642,8 @@
       "https://www.uowdubai.ac.ae/degrees/bachelors/engineering/bachelor-engineering-civil"
     ],
     "accreditation": [
-      "-"
+      "CAA",
+      "Engineers Australia"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -54559,7 +54686,7 @@
       "https://www.bits-pilani.ac.in/dubai/civil-engineering/programscourses/"
     ],
     "accreditation": [
-      "-"
+      "CAA"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -54644,7 +54771,8 @@
       "https://aurak.ac.ae/academics/programs-departments/architecture-and-civil-engineering"
     ],
     "accreditation": [
-      "-"
+      "CAA",
+      "ABET"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -54687,7 +54815,8 @@
       "https://www.uaeu.ac.ae/en/catalog/undergraduate/programs/bachelor-of-science-in-architectural-engineering.shtml"
     ],
     "accreditation": [
-      "-"
+      "CAA",
+      "ABET"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -55092,7 +55221,7 @@
       "https://info.psu.edu.sa/UniversityBulletin/files/basic-html/page215.html"
     ],
     "accreditation": [
-      "-"
+      "ABET"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -55141,7 +55270,7 @@
       "https://www.squ.edu.om/engineering/Academic/Postgraduate-Programs/MSc/Construction-Engineering-and-Management"
     ],
     "accreditation": [
-      "-"
+      "ABET"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -55444,7 +55573,7 @@
       "https://www.aum.edu.kw/english/academics/undergraduate-programs/architectural-engineering"
     ],
     "accreditation": [
-      "-"
+      "ABET"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -55568,7 +55697,8 @@
       "https://civil.hku.edu.tr/"
     ],
     "accreditation": [
-      "-"
+      "MÜDEK",
+      "EUR-ACE"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -55648,7 +55778,7 @@
       "https://akts.bau.edu.tr/"
     ],
     "accreditation": [
-      "-"
+      "MİAK"
     ],
     "language": "Turkish / English",
     "mode": "Full-time",
@@ -58768,7 +58898,7 @@
       "https://www.sgvssatc.com/department/civil/vision-mission"
     ],
     "accreditation": [
-      "-"
+      "NBA"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -60378,7 +60508,7 @@
       "https://abmspcoerpune.org/civil-engineering/"
     ],
     "accreditation": [
-      "-"
+      "NBA"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -61650,7 +61780,7 @@
       "https://www.coeptech.ac.in/academics/schools/school-of-engineering-and-technology/school-of-civil-engineering-and-planning/civil-engineering-department/"
     ],
     "accreditation": [
-      "-"
+      "NBA"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -62294,7 +62424,7 @@
       "https://www.pccoer.com/civil/civil.php"
     ],
     "accreditation": [
-      "-"
+      "NBA"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -62470,7 +62600,7 @@
       "https://tgpcet.com/Civil-dept.php"
     ],
     "accreditation": [
-      "-"
+      "NBA"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -62558,7 +62688,7 @@
       "https://ycce.edu/departments/department-of-civil-engineering/"
     ],
     "accreditation": [
-      "-"
+      "NBA"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -62603,7 +62733,7 @@
       "https://www.dkte.ac.in/under-graduate/engineering-department/b-tech-civil-engineering/b-tech-civil-overview"
     ],
     "accreditation": [
-      "-"
+      "NBA"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -62892,7 +63022,7 @@
       "https://smvdu.ac.in/academics/faculty-of-engineering/school-of-architecture-landscape-design/"
     ],
     "accreditation": [
-      "-"
+      "COA"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -63063,7 +63193,8 @@
       "https://ced.thapar.edu/programmes"
     ],
     "accreditation": [
-      "-"
+      "NBA",
+      "ABET"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -63106,7 +63237,7 @@
       "https://ce.gndec.ac.in"
     ],
     "accreditation": [
-      "-"
+      "NBA"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -63147,7 +63278,7 @@
       "https://nitkkr.ac.in/about-us-doap/"
     ],
     "accreditation": [
-      "-"
+      "COA"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -63278,7 +63409,7 @@
       "https://dtu.ac.in/Web/Departments/Civil/about/"
     ],
     "accreditation": [
-      "-"
+      "NBA"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -63452,7 +63583,7 @@
       "https://mnnit.ac.in/index.php/department/engineering/ce/cecourses"
     ],
     "accreditation": [
-      "-"
+      "NBA"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -63800,7 +63931,7 @@
       "https://svnit.ac.in/web/department/civil/"
     ],
     "accreditation": [
-      "-"
+      "NBA"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -63948,7 +64079,7 @@
       "https://architecture.nirmauni.ac.in/academics/academic-programmes/b-arch/"
     ],
     "accreditation": [
-      "-"
+      "COA"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -64044,7 +64175,7 @@
       "https://www.iul.ac.in/CE/"
     ],
     "accreditation": [
-      "-"
+      "COA"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -64103,7 +64234,7 @@
       "https://www.amu.ac.in/department/architecture"
     ],
     "accreditation": [
-      "-"
+      "COA"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -64192,7 +64323,7 @@
       "https://foaaktu.ac.in/add/Home.aspx"
     ],
     "accreditation": [
-      "-"
+      "COA"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -64424,7 +64555,7 @@
       "https://www.marwadiuniversity.ac.in/civil-engineering-m-tech/"
     ],
     "accreditation": [
-      "-"
+      "NBA"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -64555,7 +64686,7 @@
       "https://www.bem.spab.ac.in/"
     ],
     "accreditation": [
-      "-"
+      "COA"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -64604,7 +64735,8 @@
       "https://www.mitsgwalior.in/department.php?id=arch"
     ],
     "accreditation": [
-      "-"
+      "COA",
+      "NBA"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -65046,7 +65178,7 @@
       "https://iitr.ac.in/Departments/Architecture%20and%20Planning%20Department/index.html"
     ],
     "accreditation": [
-      "-"
+      "COA"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -65093,7 +65225,7 @@
       "https://iitbhu.ac.in/dept/apd"
     ],
     "accreditation": [
-      "-"
+      "COA"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -65133,7 +65265,7 @@
       "https://geu.ac.in/course/btech-in-civil-engineering-with-specialization-construction-management-gis-and-rs"
     ],
     "accreditation": [
-      "-"
+      "NBA"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -65217,7 +65349,7 @@
       "https://bbdu.ac.in/?p=122229"
     ],
     "accreditation": [
-      "-"
+      "COA"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -65307,7 +65439,7 @@
       "https://www.skit.ac.in/departments/ce-menu.html"
     ],
     "accreditation": [
-      "-"
+      "NBA"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -65395,7 +65527,7 @@
       "https://www.poornima.edu.in/academics/faculty-of-planning-architecture/barch/vision-mission-learning-outcomes"
     ],
     "accreditation": [
-      "-"
+      "COA"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -65526,7 +65658,7 @@
       "https://vitbhopal.ac.in/architecture/"
     ],
     "accreditation": [
-      "-"
+      "COA"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -65612,7 +65744,7 @@
       "https://www.manit.ac.in/architecture-planning"
     ],
     "accreditation": [
-      "-"
+      "COA"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -65659,7 +65791,7 @@
       "https://www.siu.edu.in/research-innovations/phd-admissions"
     ],
     "accreditation": [
-      "-"
+      "NBA"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -65767,7 +65899,7 @@
       "https://www.nitrkl.ac.in/docs/Workshop/CE/21092025115506149B.pdf"
     ],
     "accreditation": [
-      "-"
+      "COA"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -65824,7 +65956,8 @@
       "https://civil.kiit.ac.in/master-of-technology-in-construction-engineering-management/"
     ],
     "accreditation": [
-      "-"
+      "NBA",
+      "ABET"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -65949,7 +66082,7 @@
       "https://cgu-odisha.ac.in/b-tech-civil-environmental-engineering/"
     ],
     "accreditation": [
-      "-"
+      "NBA"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -65988,7 +66121,8 @@
       "https://www.outr.ac.in/school-of-infrastructure-and-planning-1/ug-15/barchitecture"
     ],
     "accreditation": [
-      "-"
+      "COA",
+      "NBA"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -66027,7 +66161,8 @@
       "https://www.vssut.ac.in/department/architecture/"
     ],
     "accreditation": [
-      "-"
+      "COA",
+      "NBA"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -66066,7 +66201,7 @@
       "https://bitmesra.ac.in/course/details/1/UG/5"
     ],
     "accreditation": [
-      "-"
+      "COA"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -66234,7 +66369,7 @@
       "https://arc.snuniv.ac.in"
     ],
     "accreditation": [
-      "-"
+      "COA"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -66275,7 +66410,7 @@
       "https://jadavpuruniversity.in/courses/"
     ],
     "accreditation": [
-      "-"
+      "COA"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -66563,7 +66698,7 @@
       "https://nehu.ac.in/course/display/72"
     ],
     "accreditation": [
-      "-"
+      "COA"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -66723,7 +66858,7 @@
   {
     "country": "India",
     "accreditation": [
-      "-"
+      "COA"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -66764,7 +66899,7 @@
   {
     "country": "India",
     "accreditation": [
-      "-"
+      "NBA"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -66813,7 +66948,7 @@
   {
     "country": "India",
     "accreditation": [
-      "-"
+      "COA"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -66934,7 +67069,7 @@
   {
     "country": "India",
     "accreditation": [
-      "-"
+      "COA"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -67182,7 +67317,7 @@
   {
     "country": "India",
     "accreditation": [
-      "-"
+      "NBA"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -67227,7 +67362,7 @@
   {
     "country": "India",
     "accreditation": [
-      "-"
+      "NBA"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -67317,7 +67452,7 @@
   {
     "country": "India",
     "accreditation": [
-      "-"
+      "COA"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -67356,7 +67491,7 @@
   {
     "country": "India",
     "accreditation": [
-      "-"
+      "NBA"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -67395,7 +67530,8 @@
   {
     "country": "India",
     "accreditation": [
-      "-"
+      "COA",
+      "NBA"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -67635,7 +67771,7 @@
   {
     "country": "India",
     "accreditation": [
-      "-"
+      "COA"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -67682,7 +67818,7 @@
   {
     "country": "India",
     "accreditation": [
-      "-"
+      "COA"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -67839,7 +67975,7 @@
   {
     "country": "India",
     "accreditation": [
-      "-"
+      "NBA"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -67878,7 +68014,7 @@
   {
     "country": "India",
     "accreditation": [
-      "-"
+      "NBA"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -67917,7 +68053,7 @@
   {
     "country": "India",
     "accreditation": [
-      "-"
+      "COA"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -68161,7 +68297,8 @@
   {
     "country": "India",
     "accreditation": [
-      "-"
+      "NBA",
+      "ABET"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -68288,7 +68425,9 @@
   {
     "country": "Sri Lanka",
     "accreditation": [
-      "-"
+      "RICS",
+      "CICES",
+      "PAQS"
     ],
     "language": "English",
     "mode": "Full-time / Part-time",
@@ -68466,7 +68605,7 @@
   {
     "country": "Sri Lanka",
     "accreditation": [
-      "-"
+      "RICS"
     ],
     "language": "English",
     "mode": "Full-time / Part-time",
@@ -68648,7 +68787,7 @@
   {
     "country": "Bangladesh",
     "accreditation": [
-      "-"
+      "IAB"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -68875,7 +69014,8 @@
   {
     "country": "Thailand",
     "accreditation": [
-      "-"
+      "TABEE",
+      "Architect Council of Thailand"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -68926,7 +69066,8 @@
   {
     "country": "Thailand",
     "accreditation": [
-      "-"
+      "ABET",
+      "TABEE"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -69047,7 +69188,7 @@
   {
     "country": "India",
     "accreditation": [
-      "-"
+      "NBA"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -69084,7 +69225,7 @@
   {
     "country": "India",
     "accreditation": [
-      "-"
+      "NBA"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -69160,7 +69301,7 @@
   {
     "country": "India",
     "accreditation": [
-      "-"
+      "COA"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -69197,7 +69338,7 @@
   {
     "country": "India",
     "accreditation": [
-      "-"
+      "NBA"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -69312,7 +69453,7 @@
   {
     "country": "Bangladesh",
     "accreditation": [
-      "-"
+      "IAB"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -69351,7 +69492,7 @@
   {
     "country": "Bangladesh",
     "accreditation": [
-      "-"
+      "IAB"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -69474,7 +69615,7 @@
   {
     "country": "Thailand",
     "accreditation": [
-      "-"
+      "Architect Council of Thailand"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -69562,7 +69703,8 @@
   {
     "country": "Thailand",
     "accreditation": [
-      "-"
+      "TABEE",
+      "ABET"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -69654,7 +69796,7 @@
   {
     "country": "Thailand",
     "accreditation": [
-      "-"
+      "Architect Council of Thailand"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -69699,7 +69841,7 @@
   {
     "country": "Thailand",
     "accreditation": [
-      "-"
+      "TABEE"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -69740,7 +69882,7 @@
   {
     "country": "Thailand",
     "accreditation": [
-      "-"
+      "Architect Council of Thailand"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -69779,7 +69921,7 @@
   {
     "country": "Thailand",
     "accreditation": [
-      "-"
+      "Architect Council of Thailand"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -70537,7 +70679,8 @@
   {
     "country": "Malaysia",
     "accreditation": [
-      "-"
+      "RICS",
+      "BQSM"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -70576,7 +70719,10 @@
   {
     "country": "Malaysia",
     "accreditation": [
-      "-"
+      "LAM",
+      "BQSM",
+      "CIOB",
+      "RICS"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -70635,7 +70781,7 @@
   {
     "country": "Malaysia",
     "accreditation": [
-      "-"
+      "EAC"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -70721,7 +70867,9 @@
   {
     "country": "Malaysia",
     "accreditation": [
-      "-"
+      "BQSM",
+      "RICS",
+      "PAQS"
     ],
     "language": "English",
     "mode": "Full-time / Part-time / Online",
@@ -70776,7 +70924,8 @@
   {
     "country": "Malaysia",
     "accreditation": [
-      "-"
+      "EAC",
+      "BQSM"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -70872,7 +71021,7 @@
   {
     "country": "Malaysia",
     "accreditation": [
-      "-"
+      "EAC"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -70915,7 +71064,7 @@
   {
     "country": "Malaysia",
     "accreditation": [
-      "-"
+      "EAC"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -70999,7 +71148,7 @@
   {
     "country": "Malaysia",
     "accreditation": [
-      "-"
+      "EAC"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -71239,7 +71388,7 @@
   {
     "country": "Malaysia",
     "accreditation": [
-      "-"
+      "ETAC"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -71278,7 +71427,7 @@
   {
     "country": "Malaysia",
     "accreditation": [
-      "-"
+      "ETAC"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -71319,7 +71468,8 @@
   {
     "country": "Malaysia",
     "accreditation": [
-      "-"
+      "ETAC",
+      "BQSM"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -71362,7 +71512,7 @@
   {
     "country": "Malaysia",
     "accreditation": [
-      "-"
+      "ETAC"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -71664,7 +71814,8 @@
   {
     "country": "Malaysia",
     "accreditation": [
-      "-"
+      "EAC",
+      "ICE"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -71709,7 +71860,7 @@
   {
     "country": "Malaysia",
     "accreditation": [
-      "-"
+      "ETAC"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -71748,7 +71899,7 @@
   {
     "country": "Malaysia",
     "accreditation": [
-      "-"
+      "ETAC"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -71787,7 +71938,7 @@
   {
     "country": "Malaysia",
     "accreditation": [
-      "-"
+      "ETAC"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -71830,7 +71981,7 @@
   {
     "country": "Malaysia",
     "accreditation": [
-      "-"
+      "ETAC"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -71869,7 +72020,7 @@
   {
     "country": "Singapore",
     "accreditation": [
-      "-"
+      "buildingSMART Singapore DDM"
     ],
     "language": "English",
     "mode": "Full-time / Part-time",
@@ -71926,7 +72077,7 @@
   {
     "country": "Singapore",
     "accreditation": [
-      "-"
+      "buildingSMART Singapore DDM"
     ],
     "language": "English",
     "mode": "Full-time / Part-time",
@@ -71979,7 +72130,7 @@
   {
     "country": "Singapore",
     "accreditation": [
-      "-"
+      "buildingSMART Singapore DDM"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -72018,7 +72169,7 @@
   {
     "country": "Singapore",
     "accreditation": [
-      "-"
+      "buildingSMART Singapore DDM"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -72056,7 +72207,7 @@
   {
     "country": "Singapore",
     "accreditation": [
-      "-"
+      "buildingSMART Singapore DDM"
     ],
     "language": "English",
     "mode": "Full-time / Work-study",
@@ -72101,7 +72252,7 @@
   {
     "country": "Singapore",
     "accreditation": [
-      "-"
+      "buildingSMART Singapore DDM"
     ],
     "language": "English",
     "mode": "Full-time / Part-time / Work-study",
@@ -72184,7 +72335,7 @@
   {
     "country": "Singapore",
     "accreditation": [
-      "-"
+      "buildingSMART Singapore DDM"
     ],
     "language": "English",
     "mode": "Full-time / Part-time",
@@ -72229,7 +72380,7 @@
   {
     "country": "Singapore",
     "accreditation": [
-      "-"
+      "buildingSMART Singapore DDM"
     ],
     "language": "English",
     "mode": "Full-time / Part-time",
@@ -72280,7 +72431,8 @@
   {
     "country": "Singapore",
     "accreditation": [
-      "-"
+      "buildingSMART Singapore DDM",
+      "RICS"
     ],
     "language": "English",
     "mode": "Part-time",
@@ -72325,7 +72477,7 @@
   {
     "country": "Singapore",
     "accreditation": [
-      "-"
+      "EAB (IES)"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -72367,7 +72519,8 @@
   {
     "country": "Singapore",
     "accreditation": [
-      "-"
+      "Board of Architects Singapore",
+      "buildingSMART Singapore DDM"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -72457,7 +72610,7 @@
   {
     "country": "Singapore",
     "accreditation": [
-      "-"
+      "Engineers Australia"
     ],
     "language": "English",
     "mode": "Part-time",
@@ -72498,7 +72651,8 @@
   {
     "country": "Philippines",
     "accreditation": [
-      "-"
+      "PTC-ACBET",
+      "PACUCOA Level III"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -72666,7 +72820,9 @@
   {
     "country": "Philippines",
     "accreditation": [
-      "-"
+      "ABET",
+      "PTC-ACBET",
+      "PACUCOA Level IV"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -72717,7 +72873,8 @@
   {
     "country": "Philippines",
     "accreditation": [
-      "-"
+      "ABET",
+      "PTC-ACBET"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -72801,7 +72958,7 @@
   {
     "country": "Philippines",
     "accreditation": [
-      "-"
+      "PACUCOA Level II"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -72840,7 +72997,9 @@
   {
     "country": "Philippines",
     "accreditation": [
-      "-"
+      "ABET",
+      "PAASCU Level IV",
+      "CHED Center of Excellence"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -72922,7 +73081,7 @@
   {
     "country": "Philippines",
     "accreditation": [
-      "-"
+      "PACUCOA Level II"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -72961,7 +73120,7 @@
   {
     "country": "Philippines",
     "accreditation": [
-      "-"
+      "PAASCU Level I"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -73546,7 +73705,7 @@
   {
     "country": "Philippines",
     "accreditation": [
-      "-"
+      "PACUCOA Level II"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -73585,7 +73744,7 @@
   {
     "country": "Philippines",
     "accreditation": [
-      "-"
+      "PACUCOA Level IV"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -74053,7 +74212,7 @@
   {
     "country": "Philippines",
     "accreditation": [
-      "-"
+      "PACUCOA Level IV"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -74287,7 +74446,7 @@
   {
     "country": "Philippines",
     "accreditation": [
-      "-"
+      "PAASCU Level II"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -74443,7 +74602,7 @@
   {
     "country": "Philippines",
     "accreditation": [
-      "-"
+      "PACUCOA Level I"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -74850,7 +75009,7 @@
   {
     "country": "Indonesia",
     "accreditation": [
-      "-"
+      "IABEE"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -75051,7 +75210,7 @@
   {
     "country": "Indonesia",
     "accreditation": [
-      "-"
+      "IABEE"
     ],
     "language": "English",
     "mode": "Full-time",
@@ -75251,6 +75410,211 @@
     "lastChecked": "2026-11-17",
     "computingTopics": [
       "BIM"
+    ],
+    "domains": [
+      "Construction Management",
+      "Civil Engineering"
+    ]
+  },
+  {
+    "country": "Réunion",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Africa",
+    "costCurrency": "EUR",
+    "name": "Université de La Réunion",
+    "city": "Saint-Pierre",
+    "programs": [
+      "BUT Génie Civil – Construction Durable (parcours Bureaux d’Études Conception / Travaux Bâtiment)",
+      "Certificat Universitaire de Qualification Professionnelle « Concept et pratique de la maquette numérique » (formation continue)",
+      "Génie climatique avec REVIT (formation continue)"
+    ],
+    "programLinks": [
+      "https://www.univ-reunion.fr/fiche-formation/but-genie-civil-construction-durable-bureaux-detudes-conception/",
+      "https://iut.univ-reunion.fr/formations/formation-continue/genie-civil",
+      "https://iut.univ-reunion.fr/formations/formation-continue/genie-civil"
+    ],
+    "cost": "283 - 2902",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Collaborative Workflows",
+      "Civil Engineering"
+    ],
+    "website": "https://www.univ-reunion.fr",
+    "lat": -21.3424097,
+    "lon": 55.4903105,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Collaborative Workflows"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ]
+  },
+  {
+    "country": "Réunion",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Part-time",
+    "delivery": "Hybrid",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Africa",
+    "costCurrency": "EUR",
+    "name": "Conservatoire national des arts et métiers (Cnam) — La Réunion",
+    "city": "Saint-Denis",
+    "programs": [
+      "Licence Professionnelle Métiers du BTP parcours Bureau d'études BIM"
+    ],
+    "programLinks": [
+      "https://www.cnam.fr/formation/btp-batiment-travaux-publics/licence-professionnelle-metiers-du-btp-genie-civil-et-construction-parcours-bureau-detudes-bim-en-formation-continue-hors-temps-de-travail-1"
+    ],
+    "cost": "7800",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Collaborative Workflows",
+      "Construction Management"
+    ],
+    "website": "https://www.cnam.fr",
+    "lat": -20.8799889,
+    "lon": 55.448137,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Collaborative Workflows"
+    ],
+    "domains": [
+      "Construction Management"
+    ]
+  },
+  {
+    "country": "French Polynesia",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Part-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Oceania",
+    "costCurrency": "XPF",
+    "name": "Université de la Polynésie française (UPF)",
+    "city": "Faa'a",
+    "programs": [
+      "Diplôme d’Université « Modélisation des données du bâtiment » (BIM)"
+    ],
+    "programLinks": [
+      "https://www.upf.pf/sites/default/files/du_bim_2017-2018.pdf"
+    ],
+    "cost": "150000 - 250000",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture"
+    ],
+    "website": "https://www.upf.pf",
+    "lat": -17.5769934,
+    "lon": -149.6086618,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Puerto Rico",
+    "accreditation": [
+      "NAAB"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Caribbean",
+    "costCurrency": "USD",
+    "name": "Polytechnic University of Puerto Rico (PUPR)",
+    "city": "San Juan",
+    "programs": [
+      "Bachelor of Architecture"
+    ],
+    "programLinks": [
+      "https://pupr.edu/architecture-undergraduate/"
+    ],
+    "cost": "9612 - 14082",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture"
+    ],
+    "website": "https://www.pupr.edu",
+    "lat": 18.422432,
+    "lon": -66.0558892,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "New Caledonia",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Work-study",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Oceania",
+    "costCurrency": "EUR",
+    "name": "Conservatoire national des arts et métiers (Cnam) — Nouvelle-Calédonie",
+    "city": "Nouméa",
+    "programs": [
+      "Licence Professionnelle Génie Civil (alternance) – UE Management de projet BIM"
+    ],
+    "programLinks": [
+      "https://www.acestecnam.nc/formation/licence-management-et-de-travaux/"
+    ],
+    "cost": "0 - 2902",
+    "topics": [
+      "BIM",
+      "Collaborative Workflows",
+      "Construction Management",
+      "Civil Engineering"
+    ],
+    "website": "https://www.acestecnam.nc",
+    "lat": -22.2703179,
+    "lon": 166.4415054,
+    "geoSource": "nominatim:address",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "Collaborative Workflows"
     ],
     "domains": [
       "Construction Management",
