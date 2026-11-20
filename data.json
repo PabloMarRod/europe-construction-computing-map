@@ -119,7 +119,7 @@
     "country": "Iceland",
     "city": "Reykjavík",
     "programs": [
-      "BSc Civil and Environmental Engineering (with BIM module)",
+      "BSc Civil and Environmental Engineering",
       "MSc Civil and Environmental Engineering",
       "PhD Engineering and Natural Sciences"
     ],
@@ -273,7 +273,7 @@
     "city": "Belfast",
     "programs": [
       "FdEng Civil Engineering",
-      "FdEng Architectural Technology (BIM Applications module)",
+      "FdEng Architectural Technology",
       "OCN NI Level 3 Award in Digital Construction with BIM",
       "OCN NI Level 4 qualifications in Digital Construction"
     ],
@@ -1295,7 +1295,7 @@
     "country": "Norway",
     "city": "Stavanger",
     "programs": [
-      "BSc Civil Engineering (Bachelor in Engineering) — includes BYG230 'Construction Management' (BIM with Revit)",
+      "BSc Civil Engineering",
       "MSc Structural and Mechanical Engineering"
     ],
     "programLinks": [
@@ -2146,8 +2146,8 @@
     "country": "Sweden",
     "city": "Luleå",
     "programs": [
-      "BSc Architectural Engineering (with Construction Technology focus)",
-      "BSc Civil Engineering (with Construction Technology focus)",
+      "BSc Architectural Engineering",
+      "BSc Civil Engineering",
       "PhD Construction Management and Building Technology"
     ],
     "programLinks": [
@@ -3382,7 +3382,7 @@
     "country": "Lithuania",
     "city": "Kaunas",
     "programs": [
-      "MSc Construction Management (with BIM focus)",
+      "MSc Construction Management",
       "PhD (Civil Engineering)"
     ],
     "programLinks": [
@@ -4340,7 +4340,7 @@
     "country": "Netherlands",
     "city": "Delft",
     "programs": [
-      "MSc Construction Management and Engineering (4TU joint program)",
+      "MSc Construction Management and Engineering",
       "MSc Architecture, Urbanism & Building Sciences",
       "PhD Built Environment"
     ],
@@ -4408,7 +4408,7 @@
     "country": "Netherlands",
     "city": "Eindhoven",
     "programs": [
-      "MSc Construction Management and Engineering (4TU joint program)",
+      "MSc Construction Management and Engineering",
       "PhD in Built Environment"
     ],
     "programLinks": [
@@ -4465,7 +4465,7 @@
     "country": "Netherlands",
     "city": "Enschede",
     "programs": [
-      "MSc Construction Management & Engineering (4TU joint program)",
+      "MSc Construction Management & Engineering",
       "MSc Civil Engineering & Management (with CME specialisation)",
       "PhD in Engineering"
     ],
@@ -5335,8 +5335,8 @@
     "country": "Belgium",
     "city": "Mons",
     "programs": [
-      "Certificate DATA4BIM (English)",
-      "Certificat UX4BIM (French)",
+      "Certificate DATA4BIM",
+      "Certificat UX4BIM",
       "Master Architecte et Ingénieur"
     ],
     "programLinks": [
@@ -6163,7 +6163,7 @@
     "country": "United Kingdom",
     "city": "Cambridge",
     "programs": [
-      "MSt Construction Engineering (2-year part-time leadership program)",
+      "MSt Construction Engineering",
       "PhD in Engineering (Civil Engineering Division)"
     ],
     "programLinks": [
@@ -6495,12 +6495,10 @@
     "country": "Denmark",
     "city": "Næstved",
     "programs": [
-      "Professionsbachelor Bygningskonstruktør",
-      "Professionsbachelor Bygningskonstruktør (Blended Learning)"
+      "Professionsbachelor Bygningskonstruktør"
     ],
     "programLinks": [
-      "https://www.zealand.dk/fuldtid/bygningskonstruktoer/",
-      "https://www.zealand.dk/fuldtid/bygningskonstruktor-blended-learning/"
+      "https://www.zealand.dk/fuldtid/bygningskonstruktoer/"
     ],
     "accreditation": [
       "-"
@@ -6710,13 +6708,11 @@
     "city": "Edinburgh",
     "programs": [
       "MSc Construction Project Management",
-      "MSc Civil Engineering and Construction Management",
-      "MSc Construction Project Management (Online)"
+      "MSc Civil Engineering and Construction Management"
     ],
     "programLinks": [
       "https://www.hw.ac.uk/study/postgraduate/construction-project-management",
-      "https://www.hw.ac.uk/online/postgraduate/civil-engineering-construction-msc.htm",
-      "https://www.hw.ac.uk/online/study/postgraduate/construction-project-management"
+      "https://www.hw.ac.uk/online/postgraduate/civil-engineering-construction-msc.htm"
     ],
     "accreditation": [
       "RICS",
@@ -7057,7 +7053,7 @@
     "country": "United Kingdom",
     "city": "Sheffield",
     "programs": [
-      "MSc Construction Project Management (Full-time)",
+      "MSc Construction Project Management",
       "MSc Construction Project Management (Work Experience)",
       "MSc Quantity Surveying"
     ],
@@ -8588,7 +8584,7 @@
     "city": "Graz",
     "programs": [
       "MSc Civil Engineering",
-      "Lean Management in Civil Engineering (part-time master's programme)",
+      "Lean Management in Civil Engineering",
       "PhD Civil Engineering"
     ],
     "programLinks": [
@@ -9411,7 +9407,7 @@
     "country": "Switzerland",
     "city": "Rapperswil-Jona",
     "programs": [
-      "BSc Architecture (St.Gallen campus)",
+      "BSc Architecture",
       "BSc Civil Engineering",
       "BSc Landscape Architecture",
       "BIM Basic Education (Continuing Education)"
@@ -11704,7 +11700,7 @@
     "country": "Portugal",
     "city": "Lisbon",
     "programs": [
-      "MSc Civil Engineering (5 specializations: Construction, Structures, Geotechnics, Hydraulics, Urbanism/Transport)",
+      "MSc Civil Engineering",
       "PhD in Civil Engineering (CERIS)"
     ],
     "programLinks": [
@@ -12126,7 +12122,7 @@
     "country": "Portugal",
     "city": "Porto",
     "programs": [
-      "Mestrado em Engenharia Civil (4 ramos: Gestão da Construção, Estruturas, Construções, Infraestruturas)",
+      "Mestrado em Engenharia Civil",
       "Licenciatura em Engenharia Civil",
       "Programa Doutoral em Engenharia Civil",
       "Pós-graduação em Coordenação BIM"
@@ -12288,7 +12284,7 @@
     "country": "Spain",
     "city": "Barcelona",
     "programs": [
-      "Professional Master (P.MSc) BIM Management - Digital Transformation and New Business Models (4 specializations: Building, Structures, Facilities, Civil Works)",
+      "Professional Master (P.MSc) BIM Management - Digital Transformation and New Business Models",
       "MSc Building Construction Management (Geographic Information Systems Applied to Urbanism and Building Construction - GIS and BIM)",
       "PhD Construction Engineering"
     ],
@@ -12478,7 +12474,7 @@
     "country": "Spain",
     "city": "Cáceres",
     "programs": [
-      "Máster Universitario en Metodología BIM en el Desarrollo Colaborativo de Proyectos (3 specializations: Edificación, Ingeniería Civil, Captura e Integración de la Realidad Construida)",
+      "Máster Universitario en Metodología BIM en el Desarrollo Colaborativo de Proyectos",
       "PhD Desarrollo Territorial Sostenible (Sustainable Territorial Development)"
     ],
     "programLinks": [
@@ -13927,7 +13923,7 @@
     "country": "Spain",
     "city": "Málaga",
     "programs": [
-      "Máster BIM Manager + IA (delivered by The Factory School)"
+      "Máster BIM Manager + IA"
     ],
     "programLinks": [
       "https://thefactoryschool.com/cursos-master/master-bim-manager/"
@@ -14710,7 +14706,7 @@
     "city": "Lyon",
     "programs": [
       "Diplôme d'Ingénieur Génie Civil et Urbanisme",
-      "PhD (MEGA Doctoral School – Civil Engineering)"
+      "PhD Civil Engineering"
     ],
     "programLinks": [
       "https://www.insa-lyon.fr/fr/formation/catalogue",
@@ -14761,7 +14757,7 @@
       "Diplôme d'Ingénieur Génie Civil",
       "Diplôme d'Ingénieur Topographie",
       "Double Degree Architecture-Engineering",
-      "PhD (INSA Doctoral School)"
+      "PhD Engineering"
     ],
     "programLinks": [
       "https://www.insa-strasbourg.fr/fr/genie-civil-par-alternance/",
@@ -14814,7 +14810,7 @@
     "city": "Toulouse",
     "programs": [
       "Diplôme d'Ingénieur Génie Civil",
-      "PhD (Doctoral School – Civil Engineering)"
+      "PhD Civil Engineering"
     ],
     "programLinks": [
       "https://geniecivil.insa-toulouse.fr/fr/formation/formation-initiale.html",
@@ -14864,7 +14860,7 @@
     "programs": [
       "Diplôme d'Ingénieur Génie Civil et Urbain",
       "Double Degree Architecture-Engineering (with ENSAB)",
-      "PhD (INSA Doctoral School)"
+      "PhD Engineering"
     ],
     "programLinks": [
       "https://www.insa-rennes.fr/gcu.html",
@@ -14912,7 +14908,7 @@
       "Diplôme d'Ingénieur Génie Civil et Constructions Durables",
       "Diplôme d'Ingénieur Performance Énergétique - apprenticeship",
       "Master Génie Civil - Génie Portuaire et Côtier",
-      "PhD (INSA Doctoral School)"
+      "PhD Engineering"
     ],
     "programLinks": [
       "https://www.insa-rouen.fr/formation/specialites-ingenieurses/performance-en-genie-civil-et-urbain",
@@ -14961,7 +14957,7 @@
       "Diplôme d'Ingénieur Génie Civil et Bâtiment",
       "Master Génie Civil - Ingénierie Numérique Collaborative pour la Construction (IN2C-BIM)",
       "Licence Génie Civil Architectural et Urbain",
-      "PhD (INSA Doctoral School)"
+      "PhD Engineering"
     ],
     "programLinks": [
       "https://www.groupe-insa.fr/preparer/nos-formations/ingenieur/genie-civil-et-batiment",
@@ -15014,7 +15010,7 @@
       "Licence Professionnelle Projeteur.euse BIM - Corps d'État Techniques",
       "EIVP - Diplôme d'Ingénieur Génie Urbain",
       "Mastère Spécialisé URBANTIC (BIM and ICT in urban management)",
-      "Master Génie Urbain - IMOAU (digital transition focus)",
+      "Master Génie Urbain - IMOAU",
       "Master Ingénierie de Projet en Génie Civil (IPGC)",
       "PhD in Civil Engineering / Geomatics / Urban Engineering"
     ],
@@ -15069,7 +15065,7 @@
     "programs": [
       "Diplôme d'Ingénieur Génie Civil",
       "M2 Civil Engineering - Materials and Structures for Sustainable Construction",
-      "PhD (Doctoral School – Engineering Sciences)"
+      "PhD Engineering Sciences"
     ],
     "programLinks": [
       "https://www.enise.fr/formations/formations-ingenieurs/ingenieur-genie-civil",
@@ -15118,7 +15114,7 @@
     "programs": [
       "Lean Modular Construction 4.0 (institutional diploma - BIM, digitalization, robotics, AI)",
       "Diplôme d'Ingénieur - Civil Engineering option",
-      "PhD (Doctoral School – Engineering Sciences)"
+      "PhD Engineering Sciences"
     ],
     "programLinks": [
       "https://centralelille.fr/en/formation/les-diplomes-etablissement/lean-modular-construction-4-0/",
@@ -15737,7 +15733,7 @@
     "country": "Romania",
     "city": "Cluj-Napoca",
     "programs": [
-      "MSc AI in Civil Engineering and Construction Management (English)",
+      "MSc AI in Civil Engineering and Construction Management",
       "BSc Civil, Industrial and Agricultural Constructions (RO/EN)",
       "MSc Green Buildings (Romanian)",
       "MSc Sustainable Concrete Constructions (Romanian)"
@@ -15785,10 +15781,10 @@
     "country": "Romania",
     "city": "Iași",
     "programs": [
-      "MSc Structural Engineering (English)",
-      "BSc Civil Engineering (English)",
+      "MSc Structural Engineering",
+      "BSc Civil Engineering",
       "MSc Buildings Engineering",
-      "MArch Architecture (6-year integrated, G.M. Cantacuzino Faculty)"
+      "MArch Architecture"
     ],
     "programLinks": [
       "https://study.tuiasi.ro/study-programs/structural-engineering/",
@@ -16176,7 +16172,7 @@
       "BSc Technologies of Building Information Modelling in Industrial & Civil Construction",
       "MSc Building-Architectural Information Modelling & BIM Process Management",
       "BSc Information Systems and Technologies",
-      "BSc Industrial & Civil Construction (ПЦБ)"
+      "BSc Industrial & Civil Construction"
     ],
     "programLinks": [
       "https://www.knuba.edu.ua/192-budivnycztvo-ta-czyvilna-inzheneriya/",
@@ -16239,7 +16235,7 @@
       "BSc/MSc Construction & Civil Engineering",
       "BSc/MSc Architecture & Urban Planning",
       "BSc/MSc Geodesy & Land Management / GIS Engineering",
-      "Магістр Інформаційне моделювання в будівництві (ВІМ-технології)"
+      "Магістр Інформаційне моделювання в будівництві"
     ],
     "programLinks": [
       "https://lpnu.ua/ibis/oznaiomcha-informatsiia-pro-instytut",
@@ -17325,7 +17321,7 @@
     "country": "Croatia",
     "city": "Split",
     "programs": [
-      "MSc Architecture and Urban Planning (English)",
+      "MSc Architecture and Urban Planning",
       "MSc Civil Engineering",
       "BSc Civil Engineering",
       "BSc Geodesy"
@@ -18347,7 +18343,7 @@
     "city": "Rome",
     "programs": [
       "Master Digitalizzazione BIM-based",
-      "Master BIM-M (department news)"
+      "Master BIM-M"
     ],
     "programLinks": [
       "https://ing.uniroma2.it/2017/09/04/digitalizzazione-bim-based-della-filiera-delle-costruzioni/",
@@ -18710,7 +18706,7 @@
     "country": "Russia",
     "city": "Nizhny Novgorod",
     "programs": [
-      "BSc/MSc Construction (Строительство)",
+      "BSc/MSc Construction",
       "BSc/MSc Architecture and Architectural Environment Design"
     ],
     "programLinks": [
@@ -18804,9 +18800,9 @@
     "country": "Cyprus",
     "city": "Nicosia",
     "programs": [
-      "MSc Civil Engineering (4 specializations)",
+      "MSc Civil Engineering",
       "MEng Civil Engineering",
-      "MSc — Construction and Transport Infrastructure Management (CTIM, BIM focus)",
+      "MSc Construction and Transport Infrastructure Management",
       "BSc Civil Engineering"
     ],
     "programLinks": [
@@ -51046,7 +51042,7 @@
     "name": "TAFE NSW",
     "city": "Sydney",
     "programs": [
-      "CPP50921 Diploma of Building Design"
+      "Diploma of Building Design"
     ],
     "programLinks": [
       "https://www.tafensw.edu.au/course-areas/art-and-design/courses/diploma-of-building-design--CPP50921-01"
@@ -51087,7 +51083,7 @@
     "name": "TAFE Queensland",
     "city": "Brisbane",
     "programs": [
-      "CPP50921 Diploma of Building Design"
+      "Diploma of Building Design"
     ],
     "programLinks": [
       "https://tafeqld.edu.au/course/17/17752/diploma-of-building-design"
@@ -51130,7 +51126,7 @@
     "name": "TAFE SA",
     "city": "Adelaide",
     "programs": [
-      "CPP50921 Diploma of Building Design"
+      "Diploma of Building Design"
     ],
     "programLinks": [
       "https://www.tafesa.edu.au/xml/course/aw/aw_TP01364.aspx"
@@ -51212,7 +51208,7 @@
     "name": "Holmesglen Institute",
     "city": "Melbourne",
     "programs": [
-      "CPC50220 Diploma of Building and Construction (Building)",
+      "Diploma of Building and Construction (Building)",
       "Advanced Diploma of Building Design (Architectural)"
     ],
     "programLinks": [
@@ -51263,7 +51259,7 @@
     "name": "South Metropolitan TAFE",
     "city": "Perth",
     "programs": [
-      "RII50520 Diploma of Civil Construction Design",
+      "Diploma of Civil Construction Design",
       "Construction Model and Drafting skill set"
     ],
     "programLinks": [
@@ -51310,8 +51306,8 @@
     "name": "Canberra Institute of Technology (CIT)",
     "city": "Canberra",
     "programs": [
-      "CPC50220 Diploma of Building and Construction (Building)",
-      "CPC40120 Certificate IV in Building and Construction"
+      "Diploma of Building and Construction (Building)",
+      "Certificate IV in Building and Construction"
     ],
     "programLinks": [
       "https://cit.edu.au/courses/professional/building-management/DP-TS37",
@@ -51348,8 +51344,8 @@
     "mode": "Full-time",
     "delivery": "Presential",
     "programs": [
-      "CPC40120 Certificate IV in Building and Construction",
-      "CPP50921 Diploma of Building Design"
+      "Certificate IV in Building and Construction",
+      "Diploma of Building Design"
     ],
     "programLinks": [
       "https://www.tastafe.tas.edu.au/courses/course/cpc40120",
@@ -55733,7 +55729,7 @@
     "country": "Turkey",
     "city": "Istanbul",
     "programs": [
-      "BArch Architecture (English)"
+      "BArch Architecture"
     ],
     "programLinks": [
       "https://akademikpaket.iku.edu.tr/TR/ects_bolum.php?m=1&p=94"
@@ -56019,7 +56015,7 @@
     "country": "Turkey",
     "city": "Istanbul",
     "programs": [
-      "MSc Architecture (English, with thesis)"
+      "MSc Architecture"
     ],
     "programLinks": [
       "https://gbs.gelisim.edu.tr/bolum-genel-bilgiler-16-377-2"
@@ -56101,8 +56097,8 @@
     "country": "Kazakhstan",
     "city": "Almaty",
     "programs": [
-      "Bachelor 6B07311 BIM Design and Construction Management",
-      "PhD 8D07302 Architecture and Urban Planning"
+      "Bachelor BIM Design and Construction Management",
+      "PhD Architecture and Urban Planning"
     ],
     "programLinks": [
       "https://satbayev.university/en/specialties/bim-proektirovanie-i-upravlenie-stroitelstvom",
@@ -56146,7 +56142,7 @@
     "country": "Kazakhstan",
     "city": "Astana",
     "programs": [
-      "Bachelor 6B07330 Digital Design in Construction"
+      "Bachelor Digital Design in Construction"
     ],
     "programLinks": [
       "https://fac.enu.kz/en/page/departments/department-of-construction-1/educational-programmes"
@@ -56187,7 +56183,7 @@
     "country": "Kazakhstan",
     "city": "Almaty",
     "programs": [
-      "Bachelor 6B07347 Digital Construction in BIM Technology"
+      "Bachelor Digital Construction in BIM Technology"
     ],
     "programLinks": [
       "https://alt.edu.kz/institutes/transport-engineering/department-structural-engineering/6b07347-digital-construction-in-bim-technology/"
@@ -56226,7 +56222,7 @@
     "country": "Kazakhstan",
     "city": "Kokshetau",
     "programs": [
-      "Bachelor 6B07301 BIM Design of Buildings and Structures"
+      "Bachelor BIM Design of Buildings and Structures"
     ],
     "programLinks": [
       "https://shokan.edu.kz/en/educational-programs/proektirovanie-zdanij-i-sooruzhenij"
@@ -56269,8 +56265,8 @@
     "country": "Kazakhstan",
     "city": "Almaty",
     "programs": [
-      "Bachelor 6B07321 Calculation and Design of Buildings and Structures",
-      "Bachelor 6B07327 Information Technology in Construction"
+      "Bachelor Calculation and Design of Buildings and Structures",
+      "Bachelor Information Technology in Construction"
     ],
     "programLinks": [
       "https://kazgasa.kz/en/fakultet-obshhego-stroitelstva-en/",
@@ -56314,7 +56310,7 @@
     "country": "Kazakhstan",
     "city": "Almaty",
     "programs": [
-      "Bachelor 6B07325 Architecture"
+      "Bachelor Architecture"
     ],
     "programLinks": [
       "https://cu.edu.kz/educational-programs/"
@@ -56431,7 +56427,7 @@
     "country": "Kazakhstan",
     "city": "Ust-Kamenogorsk",
     "programs": [
-      "Bachelor 6B07305 Construction (BIM Technologies in Design track)"
+      "Bachelor Construction"
     ],
     "programLinks": [
       "https://ektu.kz/departments/as_dep/eduproglist/undergraduate/building/directions/bim-technologies-in-design.aspx?lang=en"
@@ -56472,7 +56468,7 @@
     "country": "Kazakhstan",
     "city": "Kyzylorda",
     "programs": [
-      "Bachelor 6B07365 Construction (Minor: BIM technologies in construction)"
+      "Bachelor Construction"
     ],
     "programLinks": [
       "https://korkyt.edu.kz/en/staticpages/233"
@@ -56511,7 +56507,7 @@
     "country": "Kazakhstan",
     "city": "Aktau",
     "programs": [
-      "Bachelor 6B07305 BIM Technologies in Construction"
+      "Bachelor BIM Technologies in Construction"
     ],
     "programLinks": [
       "https://engineering.yu.edu.kz/en/6b07305/"
@@ -56554,7 +56550,7 @@
     "country": "Kazakhstan",
     "city": "Temirtau",
     "programs": [
-      "Bachelor 6B07301 Industrial and Civil Construction"
+      "Bachelor Industrial and Civil Construction"
     ],
     "programLinks": [
       "https://tttu.edu.kz/page/6b07301-promyshlennoe-i-grazhdanskoe-stroitelstvo?lang=en"
@@ -56595,8 +56591,8 @@
     "country": "Kazakhstan",
     "city": "Uralsk",
     "programs": [
-      "Bachelor 6B07302 Civil Engineering",
-      "Bachelor 6B07301 Architecture"
+      "Bachelor Civil Engineering",
+      "Bachelor Architecture"
     ],
     "programLinks": [
       "https://wkitu.kz/en/department-of-architecture-and-civil-engineering/",
@@ -56679,8 +56675,8 @@
     "country": "Russia",
     "city": "Kazan",
     "programs": [
-      "Bachelor 09.03.02 Information Systems and Technologies (profile: Information Systems and Technologies in Construction)",
-      "Master 08.04.01 Civil Engineering: Informational Modeling in Civil Engineering"
+      "Bachelor Information Systems and Technologies: Information Systems and Technologies in Construction",
+      "Master Civil Engineering: Informational Modeling in Civil Engineering"
     ],
     "programLinks": [
       "https://www.kgasu.ru/sveden/education/op.php",
@@ -56728,7 +56724,7 @@
     "country": "Russia",
     "city": "Moscow",
     "programs": [
-      "Master 09.04.01 Informatics and Computer Engineering: BIM Technologies in Design and Construction"
+      "Master Informatics and Computer Engineering: BIM Technologies in Design and Construction"
     ],
     "programLinks": [
       "https://misis.ru/applicants/admission/magistracy/faculties/informatikaivtmag/bim-teh/"
@@ -56771,7 +56767,7 @@
     "country": "Russia",
     "city": "Irkutsk",
     "programs": [
-      "Master 08.04.01 Construction: New Technologies in Design, Construction and Pricing"
+      "Master Construction: New Technologies in Design, Construction and Pricing"
     ],
     "programLinks": [
       "https://www.istu.edu/sveden/education/"
@@ -56816,9 +56812,9 @@
     "country": "Russia",
     "city": "Moscow",
     "programs": [
-      "Master 08.04.01 Construction: Design of Buildings and Special Structures",
-      "Master 07.04.01 Architecture: Architecture of Residential, Public and Industrial Buildings",
-      "Bachelor 08.03.01 Construction"
+      "Master Construction: Design of Buildings and Special Structures",
+      "Master Architecture: Architecture of Residential, Public and Industrial Buildings",
+      "Bachelor Construction"
     ],
     "programLinks": [
       "https://www.rudn.ru/sveden/education/",
@@ -56865,7 +56861,7 @@
     "country": "Russia",
     "city": "Saint Petersburg",
     "programs": [
-      "Master 08.04.01 Construction: Design of Construction and Reconstruction of Industrial and Civil Buildings and Structures"
+      "Master Construction: Design of Construction and Reconstruction of Industrial and Civil Buildings and Structures"
     ],
     "programLinks": [
       "https://spmi.ru/sveden/education/"
@@ -56906,7 +56902,7 @@
     "country": "Russia",
     "city": "Nizhny Novgorod",
     "programs": [
-      "Bachelor 09.03.02 Information Systems and Technologies: Information Technologies in Design"
+      "Bachelor Information Systems and Technologies: Information Technologies in Design"
     ],
     "programLinks": [
       "https://www.nntu.ru/sveden/education/"
@@ -56947,7 +56943,7 @@
     "country": "Russia",
     "city": "Cheboksary",
     "programs": [
-      "Bachelor 08.03.01 Construction: Industrial and Civil Construction"
+      "Bachelor Construction: Industrial and Civil Construction"
     ],
     "programLinks": [
       "https://polytech21.ru/sveden/education/"
@@ -56993,7 +56989,7 @@
     "country": "Russia",
     "city": "Chelyabinsk",
     "programs": [
-      "Master 08.04.01 Construction: Information Modelling and Calculation of Building Structures, Buildings and Facilities"
+      "Master Construction: Information Modelling and Calculation of Building Structures, Buildings and Facilities"
     ],
     "programLinks": [
       "https://www.susu.ru/sveden/education/"
@@ -57034,7 +57030,7 @@
     "country": "Russia",
     "city": "Voronezh",
     "programs": [
-      "Bachelor 08.03.01 Construction (profiles incl. Urban Construction and Management; Industrial and Civil Construction; Highways)"
+      "Bachelor Construction"
     ],
     "programLinks": [
       "https://cchgeu.ru/sveden/education/"
@@ -57081,7 +57077,7 @@
     "country": "Russia",
     "city": "Krasnoyarsk",
     "programs": [
-      "Bachelor 08.03.01 Construction (profiles 08.03.01.32 Industrial and Civil Construction; 08.03.01.36 Organisation of Investment and Construction Activity)"
+      "Bachelor Construction"
     ],
     "programLinks": [
       "https://www.sfu-kras.ru/sveden/education/"
@@ -57124,7 +57120,7 @@
     "country": "Russia",
     "city": "Surgut",
     "programs": [
-      "Bachelor 08.03.01 Construction: Industrial and Civil Construction"
+      "Bachelor Construction: Industrial and Civil Construction"
     ],
     "programLinks": [
       "https://www.surgu.ru/sveden/education/"
@@ -57163,8 +57159,8 @@
     "country": "Russia",
     "city": "Rostov-on-Don",
     "programs": [
-      "Bachelor 08.03.01 Construction: Information Modelling in Urban Construction",
-      "Master 08.04.01 Construction: Information Modelling and Artificial Intelligence in Construction and Urban Management"
+      "Bachelor Construction: Information Modelling in Urban Construction",
+      "Master Construction: Information Modelling and Artificial Intelligence in Construction and Urban Management"
     ],
     "programLinks": [
       "https://donstu.ru/sveden/education/programs/informacionnoe-modelirovanie-v-gorodskom-stroitelystve-08.03.01.html",
@@ -57206,8 +57202,8 @@
     "country": "Russia",
     "city": "Tyumen",
     "programs": [
-      "Bachelor 08.03.01 Construction: Industrial and Civil Construction",
-      "Bachelor 07.03.01 Architecture: Architectural Design"
+      "Bachelor Construction: Industrial and Civil Construction",
+      "Bachelor Architecture: Architectural Design"
     ],
     "programLinks": [
       "https://www.tyuiu.ru/sveden/education/",
@@ -57249,7 +57245,7 @@
     "country": "Russia",
     "city": "Moscow",
     "programs": [
-      "Master 08.04.01 Construction: Information Modelling of Transport Infrastructure Objects"
+      "Master Construction: Information Modelling of Transport Infrastructure Objects"
     ],
     "programLinks": [
       "https://www.miit.ru/sveden/education/"
@@ -57290,7 +57286,7 @@
     "country": "Russia",
     "city": "Barnaul",
     "programs": [
-      "Master 08.04.01 Construction: Organisation of Information Modelling in Construction"
+      "Master Construction: Organisation of Information Modelling in Construction"
     ],
     "programLinks": [
       "https://www.altstu.ru/sveden/education/"
@@ -57333,9 +57329,9 @@
     "country": "Russia",
     "city": "Belgorod",
     "programs": [
-      "Bachelor Construction Management (English-taught)",
-      "Master 08.04.01 BIM Management (English-taught)",
-      "Master 08.04.01 Construction (part-time)"
+      "Bachelor Construction Management",
+      "Master BIM Management",
+      "Master Construction"
     ],
     "programLinks": [
       "https://eiun_en.bstu.ru/study",
@@ -57386,7 +57382,7 @@
     "country": "Russia",
     "city": "Naberezhnye Chelny",
     "programs": [
-      "Bachelor 08.03.01 Construction: Industrial and Civil Construction"
+      "Bachelor Construction: Industrial and Civil Construction"
     ],
     "programLinks": [
       "https://kpfu.ru/chelny"
@@ -57430,7 +57426,7 @@
     "country": "Russia",
     "city": "Vladivostok",
     "programs": [
-      "Master 08.04.01 Construction: BIM Design Technology (Технологии информационного моделирования в строительстве)"
+      "Master Construction: BIM Design Technology"
     ],
     "programLinks": [
       "https://www.dvfu.ru"
@@ -57469,7 +57465,7 @@
     "country": "Russia",
     "city": "Perm",
     "programs": [
-      "Master 08.04.01 Construction"
+      "Master Construction"
     ],
     "programLinks": [
       "https://pstu.ru"
@@ -57508,7 +57504,7 @@
     "country": "Russia",
     "city": "Ufa",
     "programs": [
-      "Master 08.04.01 Construction"
+      "Master Construction"
     ],
     "programLinks": [
       "https://rusoil.net/files/sveden/eduop/rpd13476855.pdf"
@@ -57547,7 +57543,7 @@
     "country": "Russia",
     "city": "Saint Petersburg",
     "programs": [
-      "Bachelor 08.03.01 Construction: Industrial and Civil Construction (part-time)"
+      "Bachelor Construction: Industrial and Civil Construction"
     ],
     "programLinks": [
       "https://spbti.ru/sveden/files/08.03.01_2019_ZFO_RPD_Informacionnoe_modelirovanie_v_stroitelystve_(BIM-texnologii).pdf"
@@ -57586,7 +57582,7 @@
     "country": "Mongolia",
     "city": "Ulaanbaatar",
     "programs": [
-      "Bachelor Structural Engineering (School of Civil Engineering and Architecture)"
+      "Bachelor Structural Engineering"
     ],
     "programLinks": [
       "https://www.must.edu.mn/en/page/1050"
@@ -57629,7 +57625,7 @@
     "country": "Afghanistan",
     "city": "Kabul",
     "programs": [
-      "Bachelor of Architecture (Faculty of Construction)"
+      "Bachelor of Architecture"
     ],
     "programLinks": [
       "https://kpu.edu.af/en/node/396"
@@ -65386,7 +65382,7 @@
     "country": "India",
     "city": "Jaipur",
     "programs": [
-      "B.Tech Civil Engineering with Honours (Industrial Track)"
+      "B.Tech Civil Engineering with Honours"
     ],
     "programLinks": [
       "https://mnit.ac.in/dept_civil/academics"
@@ -69029,7 +69025,7 @@
     "programs": [
       "Bachelor of Architecture",
       "B.Eng Civil Engineering (International Program)",
-      "B.Eng Civil Engineering (Thai programme)"
+      "B.Eng Civil Engineering"
     ],
     "programLinks": [
       "https://soad.kmutt.ac.th/program/architecture-undergraduate-degree/",
@@ -69628,7 +69624,7 @@
     "city": "Bangkok",
     "programs": [
       "Bachelor of Architecture (Architecture)",
-      "Bachelor of Architecture (Thai Architecture)"
+      "Bachelor of Architecture in Thai Architecture"
     ],
     "programLinks": [
       "https://arch.su.ac.th/index.php/programs/p-bachelor?view=article&id=127:b-arch&catid=16",
@@ -70140,7 +70136,7 @@
     "name": "Hanoi University of Civil Engineering (HUCE)",
     "city": "Hanoi",
     "programs": [
-      "Engineer in Civil Engineering – Construction Informatics",
+      "Engineer in Construction Informatics",
       "Doctoral Programme (Civil Engineering)"
     ],
     "programLinks": [
@@ -70191,7 +70187,7 @@
     "name": "Lac Hong University",
     "city": "Bien Hoa",
     "programs": [
-      "Construction Engineering Technology – Construction Informatics (BIM Construction)",
+      "Bachelor of Construction Informatics",
       "Master of Civil Engineering"
     ],
     "programLinks": [
@@ -70451,7 +70447,7 @@
     "city": "Da Nang",
     "programs": [
       "Building Information Modelling and Artificial Intelligence in Construction",
-      "Civil Engineering – Smart City Construction Engineering and Management",
+      "Bachelor of Smart City Construction Engineering and Management",
       "PhD in Construction Management"
     ],
     "programLinks": [
@@ -71201,7 +71197,7 @@
     "name": "Institute of Construction Economics",
     "city": "Hanoi",
     "programs": [
-      "BIM Management Training Programme (AGC curriculum, 32 hours)"
+      "BIM Management Training Programme"
     ],
     "programLinks": [
       "https://kinhtexaydung.gov.vn/wp-content/uploads/2026/02/Thong-bao-chuong-trinh-dao-tao-BIM-AGC-1.pdf"
@@ -71324,9 +71320,7 @@
     "city": "Kuala Lumpur",
     "programs": [
       "BIM Concept & Theory",
-      "BIM Concept & Theory (online)",
       "BIM for Contractor",
-      "BIM for Contractor (online)",
       "BIM Modelling of Architecture",
       "BIM Modelling of Structure",
       "BIM Modelling of Mechanical & Plumbing",
@@ -71341,9 +71335,7 @@
     ],
     "programLinks": [
       "https://smart.cidb.gov.my/product/training/bim-concept-and-theory-170",
-      "https://smart.cidb.gov.my/product/training/bim-concept-and-theory-online-course-171",
       "https://smart.cidb.gov.my/product/training/bim-for-contractor-172",
-      "https://smart.cidb.gov.my/product/training/bim-for-contractor-online-course-454",
       "https://smart.cidb.gov.my/product/training/bim-modelling-of-architecture-173",
       "https://smart.cidb.gov.my/product/training/bim-modelling-of-structure-174",
       "https://smart.cidb.gov.my/product/training/bim-modelling-of-mechanical-and-plumbing-system-175",
@@ -71649,7 +71641,7 @@
     "name": "Universiti Sains Malaysia (USM)",
     "city": "George Town",
     "programs": [
-      "PhD (Project Management) — School of Housing, Building and Planning"
+      "PhD Project Management"
     ],
     "programLinks": [
       "https://admission.usm.my/postgraduatev1/applied-sciences-research/phd-project-management-school-of-housing-building-and-planning"
@@ -72033,10 +72025,10 @@
     "programs": [
       "Diploma in Civil Engineering (S68)",
       "Diploma in Architecture (S66)",
-      "Specialist Diploma in Building Information Modelling Management (part-time)",
-      "Diploma in Design (Interior Design) (part-time)",
-      "BIM Intermediate Essential Training (CPD)",
-      "Company and Workforce Transformation – Digital Build (CPD)"
+      "Specialist Diploma in Building Information Modelling Management",
+      "Diploma in Design (Interior Design)",
+      "BIM Intermediate Essential Training",
+      "Company and Workforce Transformation – Digital Build"
     ],
     "programLinks": [
       "https://www.sp.edu.sg/courses/schools/abe/civil-engineering",
@@ -72266,16 +72258,16 @@
     "programs": [
       "Diploma in Digital Engineering (Integrated Work-Study)",
       "Diploma in Construction Engineering (Digital)",
-      "Diploma in Construction Engineering (Part-Time) – Certificate in Construction Technology (BIM for Structure / Architecture)",
+      "Diploma in Construction Engineering",
       "Diploma (Conversion) in Integrated Digital Delivery",
       "Specialist Diploma in Building Information Modelling (SDBIM)",
-      "Specialist Diploma in Computational BIM – Certificate in Computational Thinking and Programming",
+      "Specialist Diploma in Computational BIM",
       "Certificate in Virtual Design & Construction Practices",
       "Digital Design (BIM for Architecture and Building Science & Digital Design)",
       "Introduction to Digital Building Design",
       "Diploma in Digital and Sustainable Architecture (Integrated Work-Study)",
       "Diploma in Digital and Smart Facilities Management (Integrated Work-Study)",
-      "Specialist Diploma in Architectural Technology – Certificate in Architectural BIM Submission"
+      "Specialist Diploma in Architectural Technology"
     ],
     "programLinks": [
       "https://www.bcaa.edu.sg/backend-pages/course/diploma-in-digital-engineering",
@@ -72346,9 +72338,9 @@
     "costCurrency": "SGD",
     "name": "Ngee Ann Polytechnic (NP)",
     "programs": [
-      "Diploma in Design (Architecture specialisation)",
-      "Building Information Modelling (MEP) (CET course)",
-      "Introduction to BIM for Facilities Management (CET course)"
+      "Diploma in Design (Architecture)",
+      "Building Information Modelling (MEP)",
+      "Introduction to BIM for Facilities Management"
     ],
     "programLinks": [
       "https://www.np.edu.sg/schools-courses/academic-schools/school-of-design-environment/diploma-in-design",
@@ -72443,8 +72435,8 @@
     "costCurrency": "SGD",
     "name": "Singapore University of Social Sciences (SUSS)",
     "programs": [
-      "Bachelor of Building and Project Management – BPM107 Construction IT & Building Information Modelling",
-      "BSc Facilities Management – FMT505 Integrated Digital Delivery in the Built Environment"
+      "Bachelor of Building and Project Management",
+      "BSc Facilities Management"
     ],
     "programLinks": [
       "https://www.suss.edu.sg/courses/detail/bpm107",
@@ -72488,7 +72480,7 @@
     "costCurrency": "SGD",
     "name": "Singapore Institute of Technology (SIT)",
     "programs": [
-      "Bachelor of Engineering with Honours in Sustainable Built Environment (formerly Sustainable Infrastructure Engineering – Building Services)"
+      "Bachelor of Engineering with Honours in Sustainable Built Environment"
     ],
     "programLinks": [
       "https://singaporetech.edu.sg/news/making-bimpact"
@@ -72576,8 +72568,8 @@
     "costCurrency": "SGD",
     "name": "Nanyang Technological University (NTU)",
     "programs": [
-      "MSc International Construction Management – CV6217 Information Technology in Construction",
-      "Graduate Certificate / FlexiMasters in Construction Management – CET821–823 (ICT and BIM; BIM tools; BIM, Lean and IDD)"
+      "MSc International Construction Management",
+      "FlexiMasters in Construction Management"
     ],
     "programLinks": [
       "https://www.ntu.edu.sg/pace/programmes/detail/cet823-information-technology-in-construction-bim-and-lean-construction-and-idd",
@@ -72707,8 +72699,8 @@
     "name": "Batangas State University",
     "city": "Batangas City",
     "programs": [
-      "Microcredential: Building Information Modeling – Revit Architecture (28 h)",
-      "Microcredential: BIM Revit Structure Fundamentals (24 h)",
+      "Building Information Modeling: Revit Architecture (Microcredential)",
+      "BIM Revit Structure Fundamentals (Microcredential)",
       "BS Architecture"
     ],
     "programLinks": [
@@ -72794,7 +72786,7 @@
     "name": "ESCA Incorporated",
     "city": "Mandaluyong",
     "programs": [
-      "Building Information Modeling Training for Youth (ILO–Korea DigiGreen programme, free)"
+      "Building Information Modeling Training for Youth"
     ],
     "programLinks": [
       "https://www.ilo.org/resource/article/digital-construction-skills-training-opens-pathways-filipino-youth"
@@ -72834,8 +72826,8 @@
     "name": "Technological Institute of the Philippines (TIP) — Campus Quezon City",
     "city": "Quezon City",
     "programs": [
-      "BS Civil Engineering (2023 curriculum, Construction Engineering and Management track)",
-      "BS Architecture (2018 curriculum)"
+      "BS Civil Engineering",
+      "BS Architecture"
     ],
     "programLinks": [
       "https://tip.edu.ph/assets/generic-pages/downloadables/BSCE-2023-Curriculum.pdf",
@@ -72886,7 +72878,7 @@
     "name": "Technological Institute of the Philippines (TIP) — Campus Manila",
     "city": "Manila",
     "programs": [
-      "BS Civil Engineering (2023 curriculum, Construction Engineering and Management / Quantity Surveying tracks)"
+      "BS Civil Engineering"
     ],
     "programLinks": [
       "https://tip.edu.ph/assets/generic-pages/downloadables/2023-CE-Curriculum.pdf"
@@ -72931,7 +72923,7 @@
     "name": "Far Eastern University (FEU)",
     "city": "Manila",
     "programs": [
-      "BS Architecture (2021 curriculum)"
+      "BS Architecture"
     ],
     "programLinks": [
       "https://www.feu.edu.ph/wp-content/uploads/2023/03/BS-Architecture-2021-Curriculum-2.pdf"
@@ -73011,7 +73003,7 @@
     "name": "De La Salle University (DLSU)",
     "city": "Manila",
     "programs": [
-      "BS Civil Engineering (specialization in Construction Technology and Management)"
+      "BS Civil Engineering"
     ],
     "programLinks": [
       "https://www.dlsu.edu.ph/program/bachelor-of-science-in-civil-engineering/"
@@ -73052,7 +73044,7 @@
     "name": "Asia Pacific College (APC)",
     "city": "Makati",
     "programs": [
-      "BS Civil Engineering (Construction Engineering and Management track, 2024)"
+      "BS Civil Engineering"
     ],
     "programLinks": [
       "https://apc.edu.ph/wp-content/uploads/2024/06/APC-SoE-BSCE-2024.pdf"
@@ -74851,7 +74843,7 @@
       "Sarjana Arsitektur (S1)",
       "Magister Arsitektur (S2)",
       "Magister Teknik Sipil (S2)",
-      "Open Course: Pengantar BIM untuk Arsitektur (ICE Center, CPD)"
+      "Pengantar BIM untuk Arsitektur"
     ],
     "programLinks": [
       "https://six.itb.ac.id/pub/kur2024/152",
@@ -74902,7 +74894,7 @@
     "name": "Universitas Islam Indonesia (UII)",
     "city": "Sleman",
     "programs": [
-      "Sarjana Arsitektur / Pendidikan Profesi Arsitek – BIM untuk Desain Arsitektur (4 SKS)"
+      "Sarjana Arsitektur"
     ],
     "programLinks": [
       "https://sakapari.uii.ac.id/kurikulum-prodi-sarjana/"
@@ -75306,8 +75298,8 @@
     "name": "BPSDM Kementerian Pekerjaan Umum",
     "city": "Jakarta",
     "programs": [
-      "TK203B Penyelenggaraan Proyek Infrastruktur PUPR dengan Metodologi BIM (61 JP, blended)",
-      "TA1201K Bimbingan Teknis BIM untuk Proyek Strategis Nasional Sumber Daya Air"
+      "Penyelenggaraan Proyek Infrastruktur PUPR dengan Metodologi BIM",
+      "Bimbingan Teknis BIM untuk Proyek Strategis Nasional Sumber Daya Air"
     ],
     "programLinks": [
       "https://bpsdm.pu.go.id/center/pelatihan/diklat-detail-view?id_diklat=598",
@@ -75349,7 +75341,7 @@
     "name": "Powerindo Training",
     "city": "Semarang",
     "programs": [
-      "Building Information Modeling (BIM) – online class (4 sessions)",
+      "Building Information Modeling (BIM)",
       "Pemodelan BIM Konstruksi Jalan"
     ],
     "programLinks": [
@@ -75431,7 +75423,7 @@
     "name": "Université de La Réunion",
     "city": "Saint-Pierre",
     "programs": [
-      "BUT Génie Civil – Construction Durable (parcours Bureaux d’Études Conception / Travaux Bâtiment)",
+      "BUT Génie Civil – Construction Durable",
       "Certificat Universitaire de Qualification Professionnelle « Concept et pratique de la maquette numérique » (formation continue)",
       "Génie climatique avec REVIT (formation continue)"
     ],
@@ -75595,7 +75587,7 @@
     "name": "Conservatoire national des arts et métiers (Cnam) — Nouvelle-Calédonie",
     "city": "Nouméa",
     "programs": [
-      "Licence Professionnelle Génie Civil (alternance) – UE Management de projet BIM"
+      "Licence Professionnelle Génie Civil"
     ],
     "programLinks": [
       "https://www.acestecnam.nc/formation/licence-management-et-de-travaux/"
@@ -75618,6 +75610,619 @@
     ],
     "domains": [
       "Construction Management",
+      "Civil Engineering"
+    ]
+  },
+  {
+    "country": "Taiwan",
+    "accreditation": [
+      "IEET EAC"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "TWD",
+    "name": "National Taiwan University of Science and Technology (NTUST)",
+    "city": "Taipei",
+    "programs": [
+      "Bachelor of Civil and Construction Engineering",
+      "BIM Credit Program",
+      "PhD Civil and Construction Engineering"
+    ],
+    "programLinks": [
+      "https://www.ct.ntust.edu.tw/ct/articles/view/37?itemid=51",
+      "https://academic.ntust.edu.tw/var/file/48/1048/img/2550/417313221.pdf",
+      "https://www.ct.ntust.edu.tw/"
+    ],
+    "cost": "56780 - 116620",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "nD BIM",
+      "Energy Performance",
+      "Parametric & Generative Design",
+      "AI & Machine Learning",
+      "Facility & Asset Management",
+      "Construction Management",
+      "Civil Engineering"
+    ],
+    "website": "https://www.ntust.edu.tw",
+    "lat": 25.013411,
+    "lon": 121.5416198,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "nD BIM",
+      "Energy Performance",
+      "Parametric & Generative Design",
+      "AI & Machine Learning"
+    ],
+    "domains": [
+      "Facility & Asset Management",
+      "Construction Management",
+      "Civil Engineering"
+    ]
+  },
+  {
+    "country": "Taiwan",
+    "accreditation": [
+      "IEET EAC",
+      "IEET AAC"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "TWD",
+    "name": "Feng Chia University (FCU)",
+    "city": "Taichung",
+    "programs": [
+      "Bachelor of Construction Engineering and Management",
+      "Bachelor of Architecture"
+    ],
+    "programLinks": [
+      "https://s3.ap-southeast-1.amazonaws.com/web-content.fcu.edu.tw/wp-content/uploads/sites/118/2025/08/28204025/1.%E5%9C%9F%E6%9C%A8%E7%B3%BB_%E9%80%B2%E4%BF%AE%E5%AD%B8%E5%A3%AB_%E5%BF%85%E9%81%B8%E4%BF%AE%E7%A7%91%E7%9B%AE%E8%A1%A8.pdf",
+      "https://s3.ap-southeast-1.amazonaws.com/web-content.fcu.edu.tw/wp-content/uploads/sites/118/2022/09/07154015/CE03%E5%BB%BA%E7%AF%89%E5%AD%B8%E5%A3%AB%E5%AD%B8%E4%BD%8D%E5%AD%B8%E7%A8%8B.pdf"
+    ],
+    "cost": "109940",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Facility & Asset Management",
+      "Construction Management",
+      "Civil Engineering",
+      "Architecture"
+    ],
+    "website": "https://www.fcu.edu.tw",
+    "lat": 24.1800576,
+    "lon": 120.6483389,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Facility & Asset Management",
+      "Construction Management",
+      "Civil Engineering",
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Taiwan",
+    "accreditation": [
+      "IEET EAC"
+    ],
+    "language": "English",
+    "mode": "Full-time / Online",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "TWD",
+    "name": "National Taiwan University (NTU)",
+    "city": "Taipei",
+    "programs": [
+      "Bachelor of Civil Engineering",
+      "MS Civil Engineering",
+      "PhD Civil Engineering",
+      "Learning BIM Modelling through Case Exercises"
+    ],
+    "programLinks": [
+      "https://course.ntu.edu.tw/courses/113-1/86987",
+      "https://course.ntu.edu.tw/courses/112-2/47034",
+      "https://course.ntu.edu.tw/courses/112-2/47034",
+      "https://ocw.aca.ntu.edu.tw/courses/102S209"
+    ],
+    "cost": "58940 - 60720",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "openBIM & IFC",
+      "Data Management",
+      "Programming",
+      "Civil Engineering"
+    ],
+    "website": "https://www.ntu.edu.tw",
+    "lat": 25.0168175,
+    "lon": 121.5384571,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "openBIM & IFC",
+      "Data Management",
+      "Programming"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ]
+  },
+  {
+    "country": "Taiwan",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "TWD",
+    "name": "National Cheng Kung University (NCKU)",
+    "city": "Tainan",
+    "programs": [
+      "Bachelor of Architecture",
+      "PhD Architecture"
+    ],
+    "programLinks": [
+      "https://class-qry.acad.ncku.edu.tw/syllabus/online_display.php?class_code=&co_no=E721600&sem=2&syear=0108",
+      "https://www.arch.ncku.edu.tw/"
+    ],
+    "cost": "90142 - 143782",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Digital Twins",
+      "AI & Machine Learning",
+      "Energy Performance",
+      "Architecture"
+    ],
+    "website": "https://www.ncku.edu.tw",
+    "lat": 22.9990116,
+    "lon": 120.2162155,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Digital Twins",
+      "AI & Machine Learning",
+      "Energy Performance"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Taiwan",
+    "accreditation": [
+      "IEET TAC"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "TWD",
+    "name": "China University of Technology (CUTe)",
+    "city": "Taipei",
+    "programs": [
+      "Bachelor of Civil and Disaster Prevention Engineering"
+    ],
+    "programLinks": [
+      "https://www.cute.edu.tw/civil/p14AA/intro.pdf"
+    ],
+    "cost": "90050 - 103316",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Infrastructure BIM",
+      "Civil Engineering"
+    ],
+    "website": "https://www.cute.edu.tw",
+    "lat": 24.9981756,
+    "lon": 121.5547884,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Infrastructure BIM"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ]
+  },
+  {
+    "country": "Taiwan",
+    "accreditation": [
+      "IEET EAC"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "TWD",
+    "name": "Chaoyang University of Technology (CYUT)",
+    "city": "Taichung",
+    "programs": [
+      "Bachelor of Construction Engineering"
+    ],
+    "programLinks": [
+      "http://admin3.cyut.edu.tw/course/104/10421634.html"
+    ],
+    "cost": "96800 - 116100",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "nD BIM",
+      "Collaborative Workflows",
+      "Construction Management"
+    ],
+    "website": "https://www.cyut.edu.tw",
+    "lat": 24.0687658,
+    "lon": 120.714492,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "nD BIM",
+      "Collaborative Workflows"
+    ],
+    "domains": [
+      "Construction Management"
+    ]
+  },
+  {
+    "country": "Taiwan",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "TWD",
+    "name": "National Yunlin University of Science and Technology (YunTech)",
+    "city": "Douliu",
+    "programs": [
+      "Bachelor of Architecture and Interior Design"
+    ],
+    "programLinks": [
+      "https://aid.yuntech.edu.tw/download/class_20250821062604.pdf"
+    ],
+    "cost": "55690",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture"
+    ],
+    "website": "https://www.yuntech.edu.tw",
+    "lat": 23.6962805,
+    "lon": 120.5334886,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Taiwan",
+    "accreditation": [
+      "IEET EAC"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "TWD",
+    "name": "National Taipei University of Technology (Taipei Tech)",
+    "city": "Taipei",
+    "programs": [
+      "PhD Civil and Disaster Prevention Engineering"
+    ],
+    "programLinks": [
+      "https://coeng.ntut.edu.tw/p/16-1017-107787.php?Lang=zh-tw"
+    ],
+    "cost": "130954",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Construction Informatics",
+      "Civil Engineering"
+    ],
+    "website": "https://www.ntut.edu.tw",
+    "lat": 25.0430636,
+    "lon": 121.5346877,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Construction Informatics"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ]
+  },
+  {
+    "country": "Taiwan",
+    "accreditation": [
+      "IEET EAC"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "TWD",
+    "name": "National Yang Ming Chiao Tung University (NYCU)",
+    "city": "Hsinchu",
+    "programs": [
+      "PhD Civil Engineering"
+    ],
+    "programLinks": [
+      "https://ce.nycu.edu.tw/storage/civil_all/department/regulations/rule/2024/114-17284743634YGU8.pdf"
+    ],
+    "cost": "46020 - 82500",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Energy Performance",
+      "Construction Management",
+      "Civil Engineering"
+    ],
+    "website": "https://www.nycu.edu.tw",
+    "lat": 24.792661,
+    "lon": 121.0024604,
+    "geoSource": "nominatim:road",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "Energy Performance"
+    ],
+    "domains": [
+      "Construction Management",
+      "Civil Engineering"
+    ]
+  },
+  {
+    "country": "Taiwan",
+    "accreditation": [
+      "IEET EAC"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "TWD",
+    "name": "National Central University (NCU)",
+    "city": "Taoyuan",
+    "programs": [
+      "MS Construction Engineering and Management"
+    ],
+    "programLinks": [
+      "http://www.cem.ncu.edu.tw/Courese/Courese.aspx"
+    ],
+    "cost": "53240",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Construction Management"
+    ],
+    "website": "https://www.ncu.edu.tw",
+    "lat": 24.9684403,
+    "lon": 121.1915503,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Construction Management"
+    ]
+  },
+  {
+    "country": "Taiwan",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Part-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "TWD",
+    "name": "Kun Shan University (KSU)",
+    "city": "Tainan",
+    "programs": [
+      "Green BIM-Revit Building Information Model and Design Credit Course"
+    ],
+    "programLinks": [
+      "https://cee.ksu.edu.tw/CourseInfo.aspx?id=2041"
+    ],
+    "cost": "10000",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture"
+    ],
+    "website": "https://www.ksu.edu.tw",
+    "lat": 22.99827,
+    "lon": 120.25339,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Taiwan",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "TWD",
+    "name": "National Kaohsiung University of Science and Technology (NKUST)",
+    "city": "Kaohsiung",
+    "programs": [
+      "Bachelor of Construction Engineering",
+      "MS Construction Engineering",
+      "BIM Technology Application in Architectural Environment Planning Credit Course"
+    ],
+    "programLinks": [
+      "https://ce1.nkust.edu.tw/var/file/96/1096/img/2002/180531093.pdf",
+      "https://ce1.nkust.edu.tw/var/file/96/1096/img/2002/674267114.pdf",
+      "https://cee.nkust.edu.tw/var/file/24/1024/img/220538125.pdf"
+    ],
+    "cost": "8280 - 118000",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "nD BIM",
+      "Construction Management",
+      "Civil Engineering"
+    ],
+    "website": "https://www.nkust.edu.tw",
+    "lat": 22.6514211,
+    "lon": 120.3277365,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "nD BIM"
+    ],
+    "domains": [
+      "Construction Management",
+      "Civil Engineering"
+    ]
+  },
+  {
+    "country": "Taiwan",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "TWD",
+    "name": "Tunghai University (THU)",
+    "city": "Taichung",
+    "programs": [
+      "Bachelor of Architecture"
+    ],
+    "programLinks": [
+      "https://national.service.thu.edu.tw/view/108/2/2520"
+    ],
+    "cost": "135094",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "VR/AR",
+      "Architecture"
+    ],
+    "website": "https://www.thu.edu.tw",
+    "lat": 24.1788982,
+    "lon": 120.6045034,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "VR/AR"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Taiwan",
+    "accreditation": [
+      "IEET EAC"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "TWD",
+    "name": "National Pingtung University of Science and Technology (NPUST)",
+    "city": "Pingtung",
+    "programs": [
+      "Bachelor of Civil Engineering"
+    ],
+    "programLinks": [
+      "https://moodle.npust.edu.tw/moodleset/testfile/Outline.php?id=30449"
+    ],
+    "cost": "97080",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Civil Engineering"
+    ],
+    "website": "https://www.npust.edu.tw",
+    "lat": 22.6430237,
+    "lon": 120.6100056,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
       "Civil Engineering"
     ]
   }
