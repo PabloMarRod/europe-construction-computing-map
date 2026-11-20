@@ -76225,5 +76225,810 @@
     "domains": [
       "Civil Engineering"
     ]
+  },
+  {
+    "country": "Japan",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "JPY",
+    "name": "Shibaura Institute of Technology (SIT)",
+    "city": "Tokyo",
+    "programs": [
+      "Bachelor of Architecture",
+      "PhD Civil Engineering",
+      "PhD Architecture"
+    ],
+    "programLinks": [
+      "https://syllabus.sic.shibaura-it.ac.jp/syllabus/2026/arc/154479.html",
+      "https://www.shibaura-it.ac.jp/en/academics/engineering_past/civil.html",
+      "https://syllabus.sic.shibaura-it.ac.jp/syllabus/2025/arc/150091.html"
+    ],
+    "cost": "1482000",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Collaborative Workflows",
+      "nD BIM",
+      "Programming",
+      "3D Modeling & Scanning",
+      "GIS & BIM Integration",
+      "Infrastructure BIM",
+      "Architecture",
+      "Civil Engineering"
+    ],
+    "website": "https://www.shibaura-it.ac.jp",
+    "lat": 35.660548,
+    "lon": 139.7950539,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Collaborative Workflows",
+      "nD BIM",
+      "Programming",
+      "3D Modeling & Scanning",
+      "GIS & BIM Integration",
+      "Infrastructure BIM"
+    ],
+    "domains": [
+      "Architecture",
+      "Civil Engineering"
+    ]
+  },
+  {
+    "country": "Japan",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "JPY",
+    "name": "Nihon Kogakuin College (NEEC)",
+    "city": "Tokyo",
+    "programs": [
+      "Diploma in Architecture"
+    ],
+    "programLinks": [
+      "https://neec.ac.jp/tuitionfree/kmt/syllabus2024/tec_arc4"
+    ],
+    "cost": "1280000 - 1336010",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Digital Design",
+      "Architecture"
+    ],
+    "website": "https://www.neec.ac.jp",
+    "lat": 35.5657823,
+    "lon": 139.7152604,
+    "geoSource": "nominatim:locality",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Digital Design"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Japan",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "JPY",
+    "name": "Hiroshima Institute of Technology (HIT)",
+    "city": "Hiroshima",
+    "programs": [
+      "Bachelor of Architectural Design"
+    ],
+    "programLinks": [
+      "https://www.it-hiroshima.ac.jp/faculty/environment/architectural/"
+    ],
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Parametric & Generative Design",
+      "Digital Fabrication",
+      "Architecture"
+    ],
+    "website": "https://www.it-hiroshima.ac.jp",
+    "lat": 34.37101,
+    "lon": 132.343313,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "cost": "520000 - 1500000",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Parametric & Generative Design",
+      "Digital Fabrication"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Japan",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "JPY",
+    "name": "Kogakuin University",
+    "city": "Tokyo",
+    "programs": [
+      "Bachelor of Architecture"
+    ],
+    "programLinks": [
+      "https://www.kogakuin.ac.jp/news/2020/080391.html"
+    ],
+    "topics": [
+      "BIM",
+      "Architecture"
+    ],
+    "website": "https://www.kogakuin.ac.jp",
+    "lat": 35.6902784,
+    "lon": 139.695401,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "cost": "1431160 - 1681160",
+    "computingTopics": [
+      "BIM"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Japan",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time / Part-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "JPY",
+    "name": "Tokyo City University (TCU)",
+    "city": "Tokyo",
+    "programs": [
+      "BIM/CIM Juku (Basic)",
+      "PhD Architecture and Urban Design"
+    ],
+    "programLinks": [
+      "https://www.tcu.ac.jp/tcucms/wp-content/uploads/2026/04/20260409-69d708fe3cf7a.pdf",
+      "https://www.tcu.ac.jp/"
+    ],
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Infrastructure BIM",
+      "AI & Machine Learning",
+      "VR/AR",
+      "Civil Engineering"
+    ],
+    "website": "https://www.tcu.ac.jp",
+    "lat": 35.5981143,
+    "lon": 139.6509948,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "cost": "180000 - 1122000",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Infrastructure BIM",
+      "AI & Machine Learning",
+      "VR/AR"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ]
+  },
+  {
+    "country": "Japan",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "JPY",
+    "name": "Osaka College of Technology (OCT)",
+    "city": "Osaka",
+    "programs": [
+      "Diploma in Architecture"
+    ],
+    "programLinks": [
+      "https://www.oct.ac.jp/views/uploads/2024/04/pamphleta__2025.pdf"
+    ],
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture"
+    ],
+    "website": "https://www.oct.ac.jp",
+    "lat": 34.712209,
+    "lon": 135.50565,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-17",
+    "cost": "526000 - 1404000",
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Japan",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "JPY",
+    "name": "The University of Osaka",
+    "city": "Suita",
+    "programs": [
+      "Bachelor of Environmental and Energy Engineering",
+      "PhD Sustainable Energy and Environmental Engineering"
+    ],
+    "programLinks": [
+      "https://www-mmds.sigmath.es.osaka-u.ac.jp/faculty/certification_program/ouyoukiso-level/outline/pdf/09.数理・DS・AI教育プログラム(応用基礎レベル）変更届（工学部）_2023.pdf",
+      "https://see.eng.osaka-u.ac.jp/en/outline/"
+    ],
+    "cost": "535800",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "VR/AR",
+      "Digital Twins",
+      "3D Modeling & Scanning",
+      "IoT",
+      "Architecture"
+    ],
+    "website": "https://www.osaka-u.ac.jp",
+    "lat": 34.8211067,
+    "lon": 135.5249256,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "VR/AR",
+      "Digital Twins",
+      "3D Modeling & Scanning",
+      "IoT"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Japan",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Part-time",
+    "delivery": "Online",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "JPY",
+    "name": "BSI Japan",
+    "city": "Yokohama",
+    "programs": [
+      "BIM ISO 19650 Part 1: Concepts and Principles",
+      "BIM ISO 19650 Part 2: Project Delivery",
+      "BIM ISO 19650 Part 4: Information Exchange",
+      "BIM ISO 19650 Part 5: Security and BIM"
+    ],
+    "programLinks": [
+      "https://www.bsigroup.com/ja-JP/training-courses/bim-iso-19650-part-1-fundamentals-training-course/",
+      "https://www.bsigroup.com/ja-JP/training-courses/iso-19650-part-2-project-delivery-training-course/",
+      "https://www.bsigroup.com/ja-JP/training-courses/bim-iso-19650-part-4-information-exchange-training-course/",
+      "https://www.bsigroup.com/ja-JP/training-courses/bim-pas-19650-part-5-security-and-bim-training/"
+    ],
+    "cost": "11000 - 44000",
+    "topics": [
+      "BIM",
+      "ISO 19650",
+      "Collaborative Workflows",
+      "Data Management"
+    ],
+    "website": "https://www.bsigroup.com/ja-JP/",
+    "lat": 35.4503381,
+    "lon": 139.6343802,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "ISO 19650",
+      "Collaborative Workflows",
+      "Data Management"
+    ],
+    "domains": []
+  },
+  {
+    "country": "Japan",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "JPY",
+    "name": "Nihon Kogakuin Hachioji College",
+    "city": "Hachioji",
+    "programs": [
+      "Diploma in Architecture",
+      "Diploma in Architectural Design"
+    ],
+    "programLinks": [
+      "https://www.neec.ac.jp/tuitionfreedat/syllabusdat/pdf/2024/hac/24X4051.pdf",
+      "https://www.neec.ac.jp/tuitionfreedat/syllabusdat/pdf/2024/hac/24X2049.pdf"
+    ],
+    "cost": "1336010 - 1349770",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Digital Design",
+      "Collaborative Workflows",
+      "Architecture"
+    ],
+    "website": "https://www.neec.ac.jp",
+    "lat": 35.6251554,
+    "lon": 139.342143,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Digital Design",
+      "Collaborative Workflows"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Japan",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "JPY",
+    "name": "The University of Tokyo",
+    "city": "Tokyo",
+    "programs": [
+      "Bachelor of Architecture",
+      "MS Civil Engineering",
+      "PhD Civil Engineering",
+      "PhD Architecture"
+    ],
+    "programLinks": [
+      "https://catalog.he.u-tokyo.ac.jp/detail?code=FEN-AR3v05L1&year=2026",
+      "https://catalog.he.u-tokyo.ac.jp/detail?code=3713-124&year=2026",
+      "https://www.i-con.t.u-tokyo.ac.jp/en/",
+      "https://www.iis.u-tokyo.ac.jp/PosterG/2026/pdf/f_5_ishizawa_j_2026.pdf"
+    ],
+    "cost": "535800",
+    "topics": [
+      "Infrastructure BIM",
+      "Digital Construction",
+      "IoT",
+      "Robotics & Automation",
+      "BIM",
+      "Collaborative Workflows",
+      "Data Management",
+      "Heritage BIM",
+      "Digital Design",
+      "Construction Management",
+      "Civil Engineering",
+      "Architecture"
+    ],
+    "website": "https://www.u-tokyo.ac.jp",
+    "lat": 35.7117157,
+    "lon": 139.7637457,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "Infrastructure BIM",
+      "Digital Construction",
+      "IoT",
+      "Robotics & Automation",
+      "BIM",
+      "Collaborative Workflows",
+      "Data Management",
+      "Heritage BIM",
+      "Digital Design"
+    ],
+    "domains": [
+      "Construction Management",
+      "Civil Engineering",
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Japan",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "JPY",
+    "name": "Kyoto University",
+    "city": "Kyoto",
+    "programs": [
+      "PhD Architecture and Architectural Engineering"
+    ],
+    "programLinks": [
+      "https://www.ar.t.kyoto-u.ac.jp/en/information/laboratory/production/index.html"
+    ],
+    "cost": "535800",
+    "topics": [
+      "BIM",
+      "Collaborative Workflows",
+      "Construction Management",
+      "Architecture"
+    ],
+    "website": "https://www.kyoto-u.ac.jp",
+    "lat": 34.9832082,
+    "lon": 135.6776535,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "Collaborative Workflows"
+    ],
+    "domains": [
+      "Construction Management",
+      "Architecture"
+    ]
+  },
+  {
+    "country": "India",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Southern Asia",
+    "costCurrency": "INR",
+    "name": "Bhrighu Academy",
+    "city": "Bengaluru",
+    "programs": [
+      "Advanced Professional Program in BIM (APPBIM Japan)"
+    ],
+    "programLinks": [
+      "https://bhrighu.in/appbim"
+    ],
+    "cost": "-",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Digital Construction",
+      "Collaborative Workflows"
+    ],
+    "website": "https://bhrighu.in",
+    "lat": 12.8903178,
+    "lon": 77.6389484,
+    "geoSource": "nominatim:locality",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Digital Construction",
+      "Collaborative Workflows"
+    ],
+    "domains": []
+  },
+  {
+    "country": "Japan",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "JPY",
+    "name": "Miyagi University",
+    "city": "Taiwa",
+    "programs": [
+      "PhD Project Design"
+    ],
+    "programLinks": [
+      "https://www.myu.ac.jp/"
+    ],
+    "cost": "535800",
+    "topics": [
+      "Infrastructure BIM",
+      "Construction Informatics",
+      "Civil Engineering"
+    ],
+    "website": "https://www.myu.ac.jp",
+    "lat": 38.3500495,
+    "lon": 140.841258,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "Infrastructure BIM",
+      "Construction Informatics",
+      "Data Management"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ]
+  },
+  {
+    "country": "Japan",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "JPY",
+    "name": "Waseda University",
+    "city": "Tokyo",
+    "programs": [
+      "PhD Architecture"
+    ],
+    "programLinks": [
+      "https://www.waseda.jp/fsci/wise/assets/uploads/2023/04/23P05_2025_Ishida.pdf"
+    ],
+    "cost": "630500 - 830500",
+    "topics": [
+      "BIM",
+      "nD BIM",
+      "VR/AR",
+      "3D Modeling & Scanning",
+      "Facility & Asset Management",
+      "Construction Management",
+      "Architecture"
+    ],
+    "website": "https://www.waseda.jp",
+    "lat": 35.7060685,
+    "lon": 139.7067865,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "nD BIM",
+      "VR/AR",
+      "3D Modeling & Scanning"
+    ],
+    "domains": [
+      "Facility & Asset Management",
+      "Construction Management",
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Japan",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "JPY",
+    "name": "Tokyo Denki University (TDU)",
+    "city": "Tokyo",
+    "programs": [
+      "PhD Architecture"
+    ],
+    "programLinks": [
+      "https://www.dendai.ac.jp/"
+    ],
+    "cost": "1016000 - 1269620",
+    "topics": [
+      "BIM",
+      "Collaborative Workflows",
+      "Prefabrication & Modular Construction",
+      "Construction Management",
+      "Architecture"
+    ],
+    "website": "https://www.dendai.ac.jp",
+    "lat": 35.7478536,
+    "lon": 139.8066188,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "Collaborative Workflows"
+    ],
+    "domains": [
+      "Prefabrication & Modular Construction",
+      "Construction Management",
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Japan",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "JPY",
+    "name": "Kumamoto University",
+    "city": "Kumamoto",
+    "programs": [
+      "PhD Architecture"
+    ],
+    "programLinks": [
+      "https://www.kumamoto-u.ac.jp/"
+    ],
+    "cost": "535800",
+    "topics": [
+      "BIM",
+      "VR/AR",
+      "IoT",
+      "Facility & Asset Management",
+      "Architecture"
+    ],
+    "website": "https://www.kumamoto-u.ac.jp",
+    "lat": 32.8164178,
+    "lon": 130.7270397,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "VR/AR",
+      "IoT"
+    ],
+    "domains": [
+      "Facility & Asset Management",
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Japan",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "JPY",
+    "name": "Niigata Architecture, Interior and Monozukuri College (NIT)",
+    "city": "Niigata",
+    "programs": [
+      "Diploma in Architectural Design"
+    ],
+    "programLinks": [
+      "https://www.nit-web.net/kenchiku_design.html"
+    ],
+    "cost": "1110000 - 1330000",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture"
+    ],
+    "website": "https://www.nit-web.net",
+    "lat": 37.8917595,
+    "lon": 139.069304,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Japan",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "JPY",
+    "name": "Kansai University",
+    "city": "Suita",
+    "programs": [
+      "PhD Environmental and Urban Engineering"
+    ],
+    "programLinks": [
+      "https://www.kansai-u.ac.jp/ordist/staff/data/id015287.html"
+    ],
+    "cost": "776000",
+    "topics": [
+      "Infrastructure BIM",
+      "3D Modeling & Scanning",
+      "Digital Twins",
+      "GIS & BIM Integration",
+      "Construction Informatics",
+      "Civil Engineering"
+    ],
+    "website": "https://www.kansai-u.ac.jp",
+    "lat": 34.7727832,
+    "lon": 135.5104521,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "Infrastructure BIM",
+      "3D Modeling & Scanning",
+      "Digital Twins",
+      "GIS & BIM Integration",
+      "Construction Informatics"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ]
   }
 ]
