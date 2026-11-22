@@ -77030,5 +77030,876 @@
     "domains": [
       "Civil Engineering"
     ]
+  },
+  {
+    "country": "South Korea",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "KRW",
+    "name": "Inha University",
+    "city": "Incheon",
+    "programs": [
+      "Bachelor of Architecture"
+    ],
+    "programLinks": [
+      "https://arch.inha.ac.kr/arch/2176/subview.do"
+    ],
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "nD BIM",
+      "VR/AR",
+      "Collaborative Workflows",
+      "Energy Performance",
+      "Architecture"
+    ],
+    "website": "https://www.inha.ac.kr",
+    "lat": 37.4494431,
+    "lon": 126.6534446,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "cost": "10924000",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "nD BIM",
+      "VR/AR",
+      "Collaborative Workflows",
+      "Energy Performance"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "South Korea",
+    "accreditation": [
+      "ABEEK"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "KRW",
+    "name": "Hanyang University — Campus Seoul",
+    "city": "Seoul",
+    "programs": [
+      "Bachelor of Architectural Engineering",
+      "PhD Civil and Environmental Engineering"
+    ],
+    "programLinks": [
+      "https://site.hanyang.ac.kr/web/icee/-13",
+      "https://hy-ciclab.github.io/cem/advisor.html"
+    ],
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "VR/AR",
+      "Digital Twins",
+      "Construction Informatics",
+      "Construction Engineering",
+      "Civil Engineering"
+    ],
+    "website": "https://www.hanyang.ac.kr",
+    "lat": 37.5569876,
+    "lon": 127.0470893,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "cost": "13920000",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "VR/AR",
+      "Digital Twins",
+      "Construction Informatics"
+    ],
+    "domains": [
+      "Construction Engineering",
+      "Civil Engineering"
+    ]
+  },
+  {
+    "country": "South Korea",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "KRW",
+    "name": "Hanyang University — Campus ERICA",
+    "city": "Ansan",
+    "programs": [
+      "Bachelor of Architecture IT Convergence"
+    ],
+    "programLinks": [
+      "http://goerica.hanyang.ac.kr/upload/GUIDES/2025/2025_%EA%B3%B5%ED%95%99%EB%8C%80%ED%95%99.pdf"
+    ],
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Facility & Asset Management",
+      "Digital Fabrication",
+      "VR/AR",
+      "Programming",
+      "Construction Management"
+    ],
+    "website": "https://www.hanyang.ac.kr",
+    "lat": 37.2966682,
+    "lon": 126.8350067,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "cost": "13920000",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Digital Fabrication",
+      "VR/AR",
+      "Programming"
+    ],
+    "domains": [
+      "Facility & Asset Management",
+      "Construction Management"
+    ]
+  },
+  {
+    "country": "South Korea",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Part-time",
+    "delivery": "Online",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "KRW",
+    "name": "Hanyang Cyber University (HYCU)",
+    "city": "Seoul",
+    "programs": [
+      "Bachelor of Digital Architecture and Urban Engineering"
+    ],
+    "programLinks": [
+      "https://www.hycu.ac.kr/user/maSnEx/goMain/30047/loadMap.do"
+    ],
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "GIS & BIM Integration",
+      "Smart Cities & Buildings",
+      "Architecture"
+    ],
+    "website": "https://www.hycu.ac.kr",
+    "lat": 37.5571828,
+    "lon": 127.0474977,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "cost": "2016000 - 3024000",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "GIS & BIM Integration",
+      "Smart Cities & Buildings"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "South Korea",
+    "accreditation": [
+      "ABEEK"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "KRW",
+    "name": "Kwangwoon University",
+    "city": "Seoul",
+    "programs": [
+      "Bachelor of Architectural Engineering"
+    ],
+    "programLinks": [
+      "http://archi.kw.ac.kr/faculty/curriculum.php"
+    ],
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "AI & Machine Learning",
+      "Construction Engineering"
+    ],
+    "website": "https://www.kw.ac.kr",
+    "lat": 37.620582,
+    "lon": 127.0571714,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "cost": "8532000",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "AI & Machine Learning"
+    ],
+    "domains": [
+      "Construction Engineering"
+    ]
+  },
+  {
+    "country": "South Korea",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "KRW",
+    "name": "Korea University of Technology and Education (KOREATECH)",
+    "city": "Cheonan",
+    "programs": [
+      "Bachelor of Architectural Engineering"
+    ],
+    "programLinks": [
+      "https://www.koreatech.ac.kr/menu.es?mid=b30203000000"
+    ],
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Data Management",
+      "Construction Engineering"
+    ],
+    "website": "https://www.koreatech.ac.kr",
+    "lat": 36.7635507,
+    "lon": 127.281751,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "cost": "4774000",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Data Management"
+    ],
+    "domains": [
+      "Construction Engineering"
+    ]
+  },
+  {
+    "country": "South Korea",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "KRW",
+    "name": "Kyung Hee University — Campus Global",
+    "city": "Yongin",
+    "programs": [
+      "Bachelor of Architectural Engineering",
+      "MS Smart Architecture",
+      "PhD Smart Architecture"
+    ],
+    "programLinks": [
+      "https://archieng.khu.ac.kr/archieng/user/contents/view.do?menuNo=17900011",
+      "https://gskh.khu.ac.kr/gskh_kor/user/contents/view.do?menuNo=13100445",
+      "https://gskh.khu.ac.kr/gskh_kor/user/contents/view.do?menuNo=13100445"
+    ],
+    "topics": [
+      "BIM",
+      "Energy Performance",
+      "Digital Twins",
+      "AI & Machine Learning",
+      "IoT",
+      "Robotics & Automation",
+      "Prefabrication & Modular Construction",
+      "Construction Engineering"
+    ],
+    "website": "https://www.khu.ac.kr",
+    "lat": 37.2424001,
+    "lon": 127.0813337,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "cost": "9000000 - 15800000",
+    "computingTopics": [
+      "BIM",
+      "Energy Performance",
+      "Digital Twins",
+      "AI & Machine Learning",
+      "IoT",
+      "Robotics & Automation"
+    ],
+    "domains": [
+      "Prefabrication & Modular Construction",
+      "Construction Engineering"
+    ]
+  },
+  {
+    "country": "South Korea",
+    "accreditation": [
+      "ABEEK"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "KRW",
+    "name": "Seoul National University of Science and Technology (SeoulTech)",
+    "city": "Seoul",
+    "programs": [
+      "Bachelor of Architectural Engineering",
+      "PhD Civil Engineering"
+    ],
+    "programLinks": [
+      "https://architecture.seoultech.ac.kr/info/department",
+      "https://civil.seoultech.ac.kr/"
+    ],
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "VR/AR",
+      "Programming",
+      "AI & Machine Learning",
+      "openBIM & IFC",
+      "Construction Engineering",
+      "Civil Engineering"
+    ],
+    "website": "https://www.seoultech.ac.kr",
+    "lat": 37.6324414,
+    "lon": 127.0794648,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "cost": "6194560",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "VR/AR",
+      "Programming",
+      "AI & Machine Learning",
+      "openBIM & IFC"
+    ],
+    "domains": [
+      "Construction Engineering",
+      "Civil Engineering"
+    ]
+  },
+  {
+    "country": "South Korea",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "KRW",
+    "name": "Chung-Ang University (CAU)",
+    "city": "Seoul",
+    "programs": [
+      "MS Architectural Engineering",
+      "PhD Architectural Engineering"
+    ],
+    "programLinks": [
+      "https://graduate.cau.ac.kr/graduate/department/archi-engin/curriculum.do",
+      "https://graduate.cau.ac.kr/graduate/department/archi-engin/curriculum.do"
+    ],
+    "topics": [
+      "BIM",
+      "nD BIM",
+      "Construction Management",
+      "Construction Engineering"
+    ],
+    "website": "https://www.cau.ac.kr",
+    "lat": 37.5043446,
+    "lon": 126.9562823,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "cost": "18318000 - 20188000",
+    "computingTopics": [
+      "BIM",
+      "nD BIM"
+    ],
+    "domains": [
+      "Construction Management",
+      "Construction Engineering"
+    ]
+  },
+  {
+    "country": "South Korea",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "KRW",
+    "name": "Yonsei University",
+    "city": "Seoul",
+    "programs": [
+      "MS Architecture and Architectural Engineering",
+      "PhD Architecture and Architectural Engineering"
+    ],
+    "programLinks": [
+      "https://big.yonsei.ac.kr/",
+      "https://big.yonsei.ac.kr/"
+    ],
+    "cost": "15422000",
+    "topics": [
+      "BIM",
+      "openBIM & IFC",
+      "AI & Machine Learning",
+      "3D Modeling & Scanning",
+      "Data Management",
+      "Construction Informatics",
+      "Construction Engineering"
+    ],
+    "website": "https://www.yonsei.ac.kr",
+    "lat": 37.567836,
+    "lon": 126.9393747,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "openBIM & IFC",
+      "AI & Machine Learning",
+      "3D Modeling & Scanning",
+      "Data Management",
+      "Construction Informatics"
+    ],
+    "domains": [
+      "Construction Engineering"
+    ]
+  },
+  {
+    "country": "South Korea",
+    "accreditation": [
+      "ABEEK"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "KRW",
+    "name": "Seoul National University (SNU)",
+    "city": "Seoul",
+    "programs": [
+      "Bachelor of Architectural Engineering",
+      "PhD Architecture and Architectural Engineering"
+    ],
+    "programLinks": [
+      "https://architecture.snu.ac.kr/academics/%ea%b1%b4%ec%b6%95%ec%a0%84%ec%82%b0",
+      "https://snu.elsevierpure.com/en/organisations/department-of-architecture-and-architectural-engineering"
+    ],
+    "topics": [
+      "AI & Machine Learning",
+      "Robotics & Automation",
+      "Construction Informatics",
+      "Digital Construction",
+      "BIM",
+      "BIM Software",
+      "Programming",
+      "Construction Management"
+    ],
+    "website": "https://www.snu.ac.kr",
+    "lat": 37.458115,
+    "lon": 126.9521607,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "cost": "7994000",
+    "computingTopics": [
+      "AI & Machine Learning",
+      "Robotics & Automation",
+      "Construction Informatics",
+      "Digital Construction",
+      "BIM",
+      "BIM Software",
+      "Programming"
+    ],
+    "domains": [
+      "Construction Management"
+    ]
+  },
+  {
+    "country": "South Korea",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "KRW",
+    "name": "Sungkyunkwan University (SKKU)",
+    "city": "Suwon",
+    "programs": [
+      "PhD Architecture",
+      "PhD Civil Engineering"
+    ],
+    "programLinks": [
+      "https://enc.skku.edu/eng_enc/faculty_arch.do?mode=view&perId=LZStrLYCw5gEgnAXgggFQG4GYBWAPKBFAngWQFcBhQgVQCEB3AXhqA+&jojik1Cd=3163&jojik2Cd=316307",
+      "https://sites.google.com/view/skkuscit/people/professor"
+    ],
+    "topics": [
+      "BIM",
+      "Digital Twins",
+      "VR/AR",
+      "GIS & BIM Integration",
+      "AI & Machine Learning",
+      "Prefabrication & Modular Construction",
+      "Architecture",
+      "Civil Engineering"
+    ],
+    "website": "https://www.skku.edu",
+    "lat": 37.2940821,
+    "lon": 126.9745702,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "cost": "13500000 - 21200000",
+    "computingTopics": [
+      "BIM",
+      "Digital Twins",
+      "VR/AR",
+      "GIS & BIM Integration",
+      "AI & Machine Learning"
+    ],
+    "domains": [
+      "Prefabrication & Modular Construction",
+      "Architecture",
+      "Civil Engineering"
+    ]
+  },
+  {
+    "country": "South Korea",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "KRW",
+    "name": "Incheon National University (INU)",
+    "city": "Incheon",
+    "programs": [
+      "PhD Architecture and Urban Design"
+    ],
+    "programLinks": [
+      "https://www.inu.ac.kr/"
+    ],
+    "cost": "8406000",
+    "topics": [
+      "BIM",
+      "Parametric & Generative Design",
+      "Programming",
+      "Architecture"
+    ],
+    "website": "https://www.inu.ac.kr",
+    "lat": 37.3751446,
+    "lon": 126.6323415,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "Parametric & Generative Design",
+      "Programming"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "South Korea",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "KRW",
+    "name": "University of Science and Technology (UST) — Campus KICT",
+    "city": "Goyang",
+    "programs": [
+      "MS Civil and Environmental Engineering",
+      "PhD Civil and Environmental Engineering"
+    ],
+    "programLinks": [
+      "https://www.ust.ac.kr/prog/major/eng/sub03_03_02/FE/curriculum.do?majorNo=55",
+      "https://www.ust.ac.kr/prog/major/eng/sub03_03_02/FE/curriculum.do?majorNo=55"
+    ],
+    "cost": "5000000",
+    "topics": [
+      "BIM",
+      "openBIM & IFC",
+      "GIS & BIM Integration",
+      "Digital Twins",
+      "AI & Machine Learning",
+      "3D Modeling & Scanning",
+      "Digital Construction",
+      "Civil Engineering"
+    ],
+    "website": "https://www.ust.ac.kr",
+    "lat": 37.6686143,
+    "lon": 126.7378997,
+    "geoSource": "nominatim:address",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "openBIM & IFC",
+      "GIS & BIM Integration",
+      "Digital Twins",
+      "AI & Machine Learning",
+      "3D Modeling & Scanning",
+      "Digital Construction"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ]
+  },
+  {
+    "country": "South Korea",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Part-time",
+    "delivery": "Online",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "KRW",
+    "name": "Korea Polytechnics",
+    "city": "Incheon",
+    "programs": [
+      "Smart Building Information Method"
+    ],
+    "programLinks": [
+      "https://e-poly.kopo.ac.kr/course/course_view.jsp?id=647"
+    ],
+    "cost": "0",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture"
+    ],
+    "website": "https://www.kopo.ac.kr",
+    "lat": 37.4788501,
+    "lon": 126.7549751,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "South Korea",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "KRW",
+    "name": "Korea University",
+    "city": "Seoul",
+    "programs": [
+      "PhD Civil, Environmental and Architectural Engineering"
+    ],
+    "programLinks": [
+      "https://www.kucem.korea.ac.kr/about0"
+    ],
+    "cost": "14784000",
+    "topics": [
+      "BIM",
+      "Digital Twins",
+      "AI & Machine Learning",
+      "IoT",
+      "Robotics & Automation",
+      "Construction Management"
+    ],
+    "website": "https://www.korea.ac.kr",
+    "lat": 37.5880378,
+    "lon": 127.0323927,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "Digital Twins",
+      "AI & Machine Learning",
+      "IoT",
+      "Robotics & Automation"
+    ],
+    "domains": [
+      "Construction Management"
+    ]
+  },
+  {
+    "country": "Dominican Republic",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Part-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Caribbean",
+    "costCurrency": "DOP",
+    "name": "Universidad Iberoamericana (UNIBE)",
+    "city": "Santo Domingo",
+    "programs": [
+      "Curso Especializado en Programación Visual Aplicada al Diseño Paramétrico con Dynamo-Revit"
+    ],
+    "programLinks": [
+      "https://educacioncontinua.unibe.edu.do/wp-content/uploads/2026/04/Curso-Programacion-Visual-Aplicada-al-Diseno-Parametrico-con-Dynamo-Revit.pdf"
+    ],
+    "cost": "18800",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Programming",
+      "Parametric & Generative Design",
+      "Data Management",
+      "Architecture"
+    ],
+    "website": "https://www.unibe.edu.do",
+    "lat": 18.4684193,
+    "lon": -69.9055901,
+    "geoSource": "nominatim:locality",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Programming",
+      "Parametric & Generative Design",
+      "Data Management"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Puerto Rico",
+    "accreditation": [
+      "NAAB"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Caribbean",
+    "costCurrency": "USD",
+    "name": "Universidad de Puerto Rico — Campus Río Piedras",
+    "city": "San Juan",
+    "programs": [
+      "Bachelor of Environmental Design",
+      "Master of Architecture"
+    ],
+    "programLinks": [
+      "https://earq.uprrp.edu/wp-content/uploads/2023/12/Electivas_promocion-2023.pdf",
+      "https://earq.uprrp.edu/wp-content/uploads/2023/12/Electivas_promocion-2023.pdf"
+    ],
+    "cost": "3870 - 5181",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Programming",
+      "Architecture"
+    ],
+    "website": "https://www.uprrp.edu",
+    "lat": 18.4046351,
+    "lon": -66.0478486,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Programming"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "Mayotte",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Work-study",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Africa",
+    "costCurrency": "EUR",
+    "name": "Conservatoire national des arts et métiers (Cnam) — Mayotte",
+    "city": "Mamoudzou",
+    "programs": [
+      "Licence Professionnelle Métiers du BTP : Génie Civil et Construction – Management et Conduite de Travaux"
+    ],
+    "programLinks": [
+      "https://www.cnam.fr/formation/management-de-projet-bim"
+    ],
+    "cost": "7800",
+    "topics": [
+      "BIM",
+      "Collaborative Workflows",
+      "Construction Management",
+      "Civil Engineering"
+    ],
+    "website": "https://www.cnam.fr",
+    "lat": -12.7804136,
+    "lon": 45.2279761,
+    "geoSource": "nominatim:city",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "Collaborative Workflows"
+    ],
+    "domains": [
+      "Construction Management",
+      "Civil Engineering"
+    ]
   }
 ]
