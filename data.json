@@ -78584,12 +78584,16 @@
     "programs": [
       "Master of Science in Building Engineering",
       "PhD Management Science and Engineering",
-      "PhD Architecture"
+      "PhD Architecture",
+      "MS Management Science and Engineering",
+      "Master of Engineering Management"
     ],
     "programLinks": [
       "https://tiei.tju.edu.cn/info/1366/1963.htm",
       "https://come.tju.edu.cn/info/1624/6948.htm",
-      "https://arch.tju.edu.cn/info/1165/7501.htm"
+      "https://arch.tju.edu.cn/info/1165/7501.htm",
+      "https://come.tju.edu.cn/kxyj/yxsz/gcglx.htm",
+      "https://come.tju.edu.cn/kxyj/yxsz/gcglx.htm"
     ],
     "cost": "10000",
     "topics": [
@@ -79347,15 +79351,20 @@
     "name": "Hohai University",
     "city": "Nanjing",
     "programs": [
-      "Bachelor of Intelligent Construction"
+      "Bachelor of Intelligent Construction",
+      "Master of Engineering Management",
+      "PhD Management Science and Engineering"
     ],
     "programLinks": [
-      "http://ccte.hhu.edu.cn/6223/list.htm"
+      "http://ccte.hhu.edu.cn/6223/list.htm",
+      "https://hhbs.hhu.edu.cn/",
+      "https://hhbs.hhu.edu.cn/"
     ],
     "cost": "5200 - 6380",
     "topics": [
       "BIM",
       "Digital Construction",
+      "Construction Management",
       "Civil Engineering"
     ],
     "website": "https://www.hhu.edu.cn",
@@ -79368,6 +79377,7 @@
       "Digital Construction"
     ],
     "domains": [
+      "Construction Management",
       "Civil Engineering"
     ]
   },
@@ -80047,6 +80057,1511 @@
       "nD BIM"
     ],
     "domains": [
+      "Construction Management"
+    ]
+  },
+  {
+    "country": "China",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "CNY",
+    "lastChecked": "2026-11-17",
+    "name": "Zhejiang University of Technology (ZJUT)",
+    "city": "Hangzhou",
+    "programs": [
+      "Bachelor of Intelligent Construction"
+    ],
+    "programLinks": [
+      "http://www.tmxy.zjut.edu.cn/2304/list.htm"
+    ],
+    "cost": "6900",
+    "topics": [
+      "BIM",
+      "Digital Construction",
+      "Civil Engineering"
+    ],
+    "website": "https://www.zjut.edu.cn",
+    "lat": 30.2310846,
+    "lon": 120.036163,
+    "geoSource": "nominatim:name",
+    "computingTopics": [
+      "BIM",
+      "Digital Construction"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ]
+  },
+  {
+    "country": "China",
+    "accreditation": [
+      "CEEAA"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "CNY",
+    "lastChecked": "2026-11-17",
+    "name": "Ningbo University (NBU)",
+    "city": "Ningbo",
+    "programs": [
+      "Bachelor of Civil Engineering"
+    ],
+    "programLinks": [
+      "https://jgxy.nbu.edu.cn/info/1030/16489.htm"
+    ],
+    "cost": "6000",
+    "topics": [
+      "BIM",
+      "Digital Construction",
+      "Facility & Asset Management",
+      "Prefabrication & Modular Construction",
+      "Civil Engineering"
+    ],
+    "website": "https://www.nbu.edu.cn",
+    "lat": 29.9095694,
+    "lon": 121.6350569,
+    "geoSource": "nominatim:name",
+    "computingTopics": [
+      "Digital Construction"
+    ],
+    "domains": [
+      "Facility & Asset Management",
+      "Prefabrication & Modular Construction",
+      "Civil Engineering"
+    ]
+  },
+  {
+    "country": "China",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "CNY",
+    "name": "Zhejiang University (ZJU)",
+    "city": "Hangzhou",
+    "programs": [
+      "Bachelor of Civil Engineering",
+      "PhD Civil Engineering"
+    ],
+    "programLinks": [
+      "http://www.ccea.zju.edu.cn/cceaenglish/2017/0124/c5974a430722/page.htm",
+      "https://person.zju.edu.cn/caojixing"
+    ],
+    "cost": "6000 - 10000",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Programming",
+      "Digital Twins",
+      "AI & Machine Learning",
+      "IoT",
+      "VR/AR",
+      "Civil Engineering"
+    ],
+    "website": "https://www.zju.edu.cn",
+    "lat": 30.305078,
+    "lon": 120.0753432,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Programming",
+      "Digital Twins",
+      "AI & Machine Learning",
+      "IoT",
+      "VR/AR"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ]
+  },
+  {
+    "country": "China",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "CNY",
+    "city": "Hangzhou",
+    "lastChecked": "2026-11-17",
+    "name": "Zhejiang A&F University (ZAFU)",
+    "programs": [
+      "Bachelor of Civil Engineering"
+    ],
+    "programLinks": [
+      "https://laas.zafu.edu.cn/info/1172/5322.htm"
+    ],
+    "cost": "6900",
+    "topics": [
+      "Digital Construction",
+      "Civil Engineering"
+    ],
+    "website": "https://www.zafu.edu.cn",
+    "lat": 30.2588962,
+    "lon": 119.7237543,
+    "geoSource": "nominatim:name",
+    "computingTopics": [
+      "Digital Construction"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ]
+  },
+  {
+    "country": "China",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Part-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "CNY",
+    "city": "Hangzhou",
+    "lastChecked": "2026-11-17",
+    "name": "Zhejiang University of Science and Technology (ZUST)",
+    "programs": [
+      "Digital Construction Technology Micro-major"
+    ],
+    "programLinks": [
+      "https://jgxy.zust.edu.cn/info/1091/5916.htm"
+    ],
+    "cost": "-",
+    "topics": [
+      "BIM",
+      "Digital Twins",
+      "GIS & BIM Integration",
+      "Digital Construction",
+      "Civil Engineering"
+    ],
+    "website": "https://www.zust.edu.cn",
+    "lat": 30.220999,
+    "lon": 120.0190999,
+    "geoSource": "nominatim:name",
+    "computingTopics": [
+      "BIM",
+      "Digital Twins",
+      "GIS & BIM Integration",
+      "Digital Construction"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ]
+  },
+  {
+    "country": "China",
+    "accreditation": [
+      "CEEAA"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "CNY",
+    "name": "Wenzhou University",
+    "city": "Wenzhou",
+    "programs": [
+      "Bachelor of Civil Engineering"
+    ],
+    "programLinks": [
+      "http://cace.wzu.edu.cn/rcpy/bkspy/zyjs.htm"
+    ],
+    "cost": "6325",
+    "topics": [
+      "Digital Construction",
+      "Civil Engineering"
+    ],
+    "website": "https://www.wzu.edu.cn",
+    "lat": 27.9301214,
+    "lon": 120.6998825,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "Digital Construction"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ]
+  },
+  {
+    "country": "China",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "CNY",
+    "lastChecked": "2026-11-17",
+    "name": "Taizhou University",
+    "city": "Taizhou",
+    "programs": [
+      "Bachelor of Intelligent Construction"
+    ],
+    "programLinks": [
+      "https://jzgc.tzc.edu.cn/rcpy1/bkspy/zyjs.htm"
+    ],
+    "cost": "5500",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "nD BIM",
+      "Parametric & Generative Design",
+      "Robotics & Automation",
+      "IoT",
+      "Data Management",
+      "Prefabrication & Modular Construction",
+      "Digital Construction"
+    ],
+    "website": "https://www.tzc.edu.cn",
+    "lat": 28.6558214,
+    "lon": 121.385114,
+    "geoSource": "nominatim:name",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "nD BIM",
+      "Parametric & Generative Design",
+      "Robotics & Automation",
+      "IoT",
+      "Data Management",
+      "Digital Construction"
+    ],
+    "domains": [
+      "Prefabrication & Modular Construction"
+    ]
+  },
+  {
+    "country": "China",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "CNY",
+    "lastChecked": "2026-11-17",
+    "name": "Shaoxing University",
+    "city": "Shaoxing",
+    "programs": [
+      "Bachelor of Intelligent Construction"
+    ],
+    "programLinks": [
+      "https://tmgcxy.usx.edu.cn/rcpy/bksjy1/zyjs.htm"
+    ],
+    "cost": "5500",
+    "topics": [
+      "BIM",
+      "Digital Construction",
+      "Civil Engineering"
+    ],
+    "website": "https://www.usx.edu.cn",
+    "lat": 29.9815292,
+    "lon": 120.5664365,
+    "geoSource": "nominatim:name",
+    "computingTopics": [
+      "BIM",
+      "Digital Construction"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ]
+  },
+  {
+    "country": "China",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "CNY",
+    "name": "Quzhou University",
+    "city": "Quzhou",
+    "programs": [
+      "Bachelor of Civil Engineering",
+      "Bachelor of Engineering Management",
+      "Bachelor of Intelligent Construction"
+    ],
+    "programLinks": [
+      "https://jgxy.qzc.edu.cn/2025/1226/c3301a81352/page.htm",
+      "https://jgxy.qzc.edu.cn/2025/1203/c3300a80996/page.htm",
+      "https://jgxy.qzc.edu.cn/2024/0607/c732a72002/page.htm"
+    ],
+    "cost": "4800 - 6325",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Programming",
+      "AI & Machine Learning",
+      "Robotics & Automation",
+      "IoT",
+      "Digital Fabrication",
+      "Digital Construction",
+      "Construction Management",
+      "Civil Engineering"
+    ],
+    "website": "https://www.qzc.edu.cn",
+    "lat": 28.9856629,
+    "lon": 118.8645301,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Programming",
+      "AI & Machine Learning",
+      "Robotics & Automation",
+      "IoT",
+      "Digital Fabrication",
+      "Digital Construction"
+    ],
+    "domains": [
+      "Construction Management",
+      "Civil Engineering"
+    ]
+  },
+  {
+    "country": "China",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "CNY",
+    "name": "Wenzhou University of Technology",
+    "city": "Wenzhou",
+    "programs": [
+      "Bachelor of Intelligent Construction"
+    ],
+    "programLinks": [
+      "https://civil.wzut.edu.cn/col/col1714/index.html"
+    ],
+    "cost": "5500",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "AI & Machine Learning",
+      "Programming",
+      "Data Management",
+      "Prefabrication & Modular Construction",
+      "Digital Construction"
+    ],
+    "website": "https://www.wzut.edu.cn",
+    "lat": 27.8046929,
+    "lon": 120.7901079,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "AI & Machine Learning",
+      "Programming",
+      "Data Management",
+      "Digital Construction"
+    ],
+    "domains": [
+      "Prefabrication & Modular Construction"
+    ]
+  },
+  {
+    "country": "China",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "CNY",
+    "name": "Shaoxing University of Technology",
+    "city": "Shaoxing",
+    "programs": [
+      "Bachelor of Civil Engineering",
+      "Bachelor of Engineering Management",
+      "Bachelor of Construction Cost",
+      "Bachelor of Intelligent Construction"
+    ],
+    "programLinks": [
+      "http://jgfy.zsit.edu.cn/info/1007/1014.htm",
+      "http://jgfy.zsit.edu.cn/info/1007/1009.htm",
+      "http://jgfy.zsit.edu.cn/info/1007/2473.htm",
+      "http://jgfy.zsit.edu.cn/info/1007/2126.htm"
+    ],
+    "cost": "4800 - 5500",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "nD BIM",
+      "Programming",
+      "Digital Construction",
+      "Construction Management",
+      "Civil Engineering"
+    ],
+    "website": "https://www.zsit.edu.cn",
+    "lat": 30.0900086,
+    "lon": 120.4754742,
+    "geoSource": "nominatim:street",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "nD BIM",
+      "Programming",
+      "Digital Construction"
+    ],
+    "domains": [
+      "Construction Management",
+      "Civil Engineering"
+    ]
+  },
+  {
+    "country": "China",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "CNY",
+    "name": "Zhejiang Shuren University",
+    "city": "Hangzhou",
+    "programs": [
+      "Bachelor of Architecture"
+    ],
+    "programLinks": [
+      "https://english.zjsru.edu.cn/Academics1/School_of_Urban_Construction/Majors.htm"
+    ],
+    "cost": "33000 - 35000",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Architecture"
+    ],
+    "website": "https://www.zjsru.edu.cn",
+    "lat": 30.3175024,
+    "lon": 120.1500018,
+    "geoSource": "nominatim:street",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software"
+    ],
+    "domains": [
+      "Architecture"
+    ]
+  },
+  {
+    "country": "China",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "CNY",
+    "name": "Zhejiang University of Water Resources and Electric Power",
+    "city": "Hangzhou",
+    "programs": [
+      "Bachelor of Intelligent Construction"
+    ],
+    "programLinks": [
+      "https://jg.zuwe.edu.cn/2274/list.htm"
+    ],
+    "cost": "5500",
+    "topics": [
+      "BIM",
+      "Digital Construction",
+      "Civil Engineering"
+    ],
+    "website": "https://www.zuwe.edu.cn",
+    "lat": 30.3131979,
+    "lon": 120.3664731,
+    "geoSource": "nominatim",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "Digital Construction"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ]
+  },
+  {
+    "country": "China",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "CNY",
+    "name": "Zhejiang Guangsha Vocational and Technical University of Construction",
+    "city": "Dongyang",
+    "programs": [
+      "Bachelor of Intelligent Construction Engineering",
+      "Bachelor of Building Engineering"
+    ],
+    "programLinks": [
+      "https://jzgcxy.zjgsdx.edu.cn/zyjs5/zyjs6/content_69699",
+      "https://jzgcxy.zjgsdx.edu.cn/zyjs5/zyjs6/content_69655"
+    ],
+    "cost": "33000",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Digital Construction",
+      "Prefabrication & Modular Construction",
+      "Construction Management"
+    ],
+    "website": "https://www.zjgsdx.edu.cn",
+    "lat": 29.3007377,
+    "lon": 120.239564,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Digital Construction"
+    ],
+    "domains": [
+      "Prefabrication & Modular Construction",
+      "Construction Management"
+    ]
+  },
+  {
+    "country": "China",
+    "accreditation": [
+      "JBM"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "CNY",
+    "name": "University of Nottingham Ningbo China (UNNC)",
+    "city": "Ningbo",
+    "programs": [
+      "BEng Civil Engineering"
+    ],
+    "programLinks": [
+      "https://www.nottingham.edu.cn/en/course/BEng-Civil"
+    ],
+    "cost": "110000 - 120000",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Collaborative Workflows",
+      "Civil Engineering"
+    ],
+    "website": "https://www.nottingham.edu.cn",
+    "lat": 29.8022792,
+    "lon": 121.5593543,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Collaborative Workflows"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ]
+  },
+  {
+    "country": "China",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "CNY",
+    "name": "Zhejiang College of Construction",
+    "city": "Shaoxing",
+    "programs": [
+      "Diploma in Intelligent Construction Technology",
+      "Diploma in Building Engineering Technology"
+    ],
+    "programLinks": [
+      "http://jgx.zjjs.edu.cn/content.jsp?id=ff8080817339cc0c01759964d5882e04&classid=c28ccc1a8ade4cb0a267a72ff8de4b46",
+      "http://jgx.zjjs.edu.cn/content.jsp?id=ff8080817339cc0c0175995cec152df4&classid=c28ccc1a8ade4cb0a267a72ff8de4b46"
+    ],
+    "cost": "6000 - 7500",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "GIS & BIM Integration",
+      "IoT",
+      "Robotics & Automation",
+      "Digital Construction",
+      "Construction Management"
+    ],
+    "website": "https://www.zjjs.edu.cn",
+    "lat": 30.0390277,
+    "lon": 120.808345,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "GIS & BIM Integration",
+      "IoT",
+      "Robotics & Automation",
+      "Digital Construction"
+    ],
+    "domains": [
+      "Construction Management"
+    ]
+  },
+  {
+    "country": "China",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "CNY",
+    "name": "Ningbo Polytechnic University",
+    "city": "Ningbo",
+    "programs": [
+      "Diploma in Building Engineering Technology",
+      "Diploma in Construction Engineering Management",
+      "Diploma in Prefabricated Building Engineering Technology"
+    ],
+    "programLinks": [
+      "https://jyxy.webs.nbpu.edu.cn/2023/0914/c2410a111261/page.htm",
+      "https://jyxy.webs.nbpu.edu.cn/2023/0914/c2410a111261/page.htm",
+      "https://jyxy.webs.nbpu.edu.cn/2023/0914/c2410a111261/page.htm"
+    ],
+    "cost": "6000 - 7500",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "VR/AR",
+      "Prefabrication & Modular Construction",
+      "Construction Management"
+    ],
+    "website": "https://www.nbpu.edu.cn",
+    "lat": 29.8944989,
+    "lon": 121.8168843,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "VR/AR"
+    ],
+    "domains": [
+      "Prefabrication & Modular Construction",
+      "Construction Management"
+    ]
+  },
+  {
+    "country": "China",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "CNY",
+    "name": "Sun Yat-sen University (SYSU)",
+    "city": "Zhuhai",
+    "programs": [
+      "Bachelor of Civil Engineering"
+    ],
+    "programLinks": [
+      "https://civil.sysu.edu.cn/article/1459"
+    ],
+    "cost": "6850",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "IoT",
+      "AI & Machine Learning",
+      "Digital Construction",
+      "Civil Engineering"
+    ],
+    "website": "https://www.sysu.edu.cn",
+    "lat": 22.351008,
+    "lon": 113.5864644,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "IoT",
+      "AI & Machine Learning",
+      "Digital Construction"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ]
+  },
+  {
+    "country": "China",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "CNY",
+    "name": "South China University of Technology (SCUT)",
+    "city": "Guangzhou",
+    "programs": [
+      "Bachelor of Intelligent Construction"
+    ],
+    "programLinks": [
+      "https://www2.scut.edu.cn/_upload/article/files/cd/11/a46689da46acb216accb73b60b29/b859561b-ade3-441c-a8a4-ba0e8f3c5724.pdf"
+    ],
+    "cost": "6850",
+    "topics": [
+      "BIM",
+      "Programming",
+      "Digital Twins",
+      "AI & Machine Learning",
+      "Robotics & Automation",
+      "Digital Fabrication",
+      "Data Management",
+      "Digital Construction",
+      "Civil Engineering"
+    ],
+    "website": "https://www.scut.edu.cn",
+    "lat": 23.160342,
+    "lon": 113.3372426,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "Programming",
+      "Digital Twins",
+      "AI & Machine Learning",
+      "Robotics & Automation",
+      "Digital Fabrication",
+      "Data Management",
+      "Digital Construction"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ]
+  },
+  {
+    "country": "China",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "CNY",
+    "name": "Shenzhen University (SZU)",
+    "city": "Shenzhen",
+    "programs": [
+      "MS Civil Engineering",
+      "PhD Management Science and Engineering"
+    ],
+    "programLinks": [
+      "https://ce.szu.edu.cn/info/1030/6972.htm",
+      "https://bim.szu.edu.cn/yjly/jyBIMdzhjz.htm"
+    ],
+    "cost": "8000 - 28000",
+    "topics": [
+      "BIM",
+      "Digital Twins",
+      "3D Modeling & Scanning",
+      "AI & Machine Learning",
+      "Sustainability",
+      "Construction Management",
+      "Civil Engineering"
+    ],
+    "website": "https://www.szu.edu.cn",
+    "lat": 22.5359023,
+    "lon": 113.9314749,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "Digital Twins",
+      "3D Modeling & Scanning",
+      "AI & Machine Learning"
+    ],
+    "domains": [
+      "Sustainability",
+      "Construction Management",
+      "Civil Engineering"
+    ]
+  },
+  {
+    "country": "China",
+    "accreditation": [
+      "IEET"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "CNY",
+    "name": "South China Agricultural University (SCAU)",
+    "city": "Guangzhou",
+    "programs": [
+      "Bachelor of Civil Engineering"
+    ],
+    "programLinks": [
+      "https://wcce.scau.edu.cn/2024/0918/c13547a385695/page.htm"
+    ],
+    "cost": "6853",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Programming",
+      "Digital Construction",
+      "Civil Engineering"
+    ],
+    "website": "https://www.scau.edu.cn",
+    "lat": 23.1612069,
+    "lon": 113.3481027,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Programming",
+      "Digital Construction"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ]
+  },
+  {
+    "country": "China",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "CNY",
+    "name": "Foshan University (FOSU)",
+    "city": "Foshan",
+    "programs": [
+      "Bachelor of Civil Engineering",
+      "Bachelor of Intelligent Construction"
+    ],
+    "programLinks": [
+      "https://www.fosu.edu.cn/tca/benkesheng/28861.html",
+      "https://www.fosu.edu.cn/tca/benkesheng/zyssss/28837.html"
+    ],
+    "cost": "6230",
+    "topics": [
+      "BIM",
+      "AI & Machine Learning",
+      "IoT",
+      "Robotics & Automation",
+      "Data Management",
+      "Digital Construction",
+      "Civil Engineering"
+    ],
+    "website": "https://www.fosu.edu.cn",
+    "lat": 23.1425996,
+    "lon": 113.0485761,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "AI & Machine Learning",
+      "IoT",
+      "Robotics & Automation",
+      "Data Management",
+      "Digital Construction"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ]
+  },
+  {
+    "country": "China",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "CNY",
+    "name": "Shantou University (STU)",
+    "city": "Shantou",
+    "programs": [
+      "Bachelor of Civil Engineering",
+      "Bachelor of Intelligent Construction"
+    ],
+    "programLinks": [
+      "https://eng.stu.edu.cn/info/1051/3227.htm",
+      "https://eng.stu.edu.cn/xyjs/xygk/xyjs.htm"
+    ],
+    "cost": "-",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Programming",
+      "Digital Construction",
+      "Smart Cities & Buildings",
+      "Civil Engineering"
+    ],
+    "website": "https://www.stu.edu.cn",
+    "lat": 23.4163248,
+    "lon": 116.6290685,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Programming",
+      "Digital Construction",
+      "Smart Cities & Buildings"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ]
+  },
+  {
+    "country": "China",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "CNY",
+    "name": "Guangzhou Maritime University",
+    "city": "Guangzhou",
+    "programs": [
+      "Bachelor of Civil Engineering",
+      "Bachelor of Engineering Management",
+      "Bachelor of Road, Bridge and River-crossing Engineering",
+      "Bachelor of Port, Waterway and Coastal Engineering"
+    ],
+    "programLinks": [
+      "http://tmygcgl.gzmtu.edu.cn/info/1175/2923.htm",
+      "http://tmygcgl.gzmtu.edu.cn/info/1175/2925.htm",
+      "http://tmygcgl.gzmtu.edu.cn/info/1175/2924.htm",
+      "http://tmygcgl.gzmtu.edu.cn/info/1175/2922.htm"
+    ],
+    "cost": "4590 - 5190",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Programming",
+      "AI & Machine Learning",
+      "IoT",
+      "Robotics & Automation",
+      "Data Management",
+      "VR/AR",
+      "Digital Construction",
+      "Construction Management",
+      "Civil Engineering"
+    ],
+    "website": "https://www.gzmtu.edu.cn",
+    "lat": 23.1045135,
+    "lon": 113.4715646,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Programming",
+      "AI & Machine Learning",
+      "IoT",
+      "Robotics & Automation",
+      "Data Management",
+      "VR/AR",
+      "Digital Construction"
+    ],
+    "domains": [
+      "Construction Management",
+      "Civil Engineering"
+    ]
+  },
+  {
+    "country": "China",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "CNY",
+    "name": "Wuyi University",
+    "city": "Jiangmen",
+    "programs": [
+      "Master of Civil and Hydraulic Engineering"
+    ],
+    "programLinks": [
+      "https://www.wyu.edu.cn/english/info/1101/1321.htm"
+    ],
+    "cost": "-",
+    "topics": [
+      "BIM",
+      "Digital Construction",
+      "Construction Management",
+      "Civil Engineering"
+    ],
+    "website": "https://www.wyu.edu.cn",
+    "lat": 22.5976303,
+    "lon": 113.0786777,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "Digital Construction"
+    ],
+    "domains": [
+      "Construction Management",
+      "Civil Engineering"
+    ]
+  },
+  {
+    "country": "China",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "CNY",
+    "name": "Shanghai Normal University (SHNU)",
+    "city": "Shanghai",
+    "programs": [
+      "Master of Engineering Management"
+    ],
+    "programLinks": [
+      "https://mem.shnu.edu.cn/1c/9f/c32928a859295/page.htm"
+    ],
+    "cost": "32000",
+    "topics": [
+      "Digital Construction",
+      "Energy Performance",
+      "Sustainability",
+      "Construction Management"
+    ],
+    "website": "https://www.shnu.edu.cn",
+    "lat": 30.8397368,
+    "lon": 121.5128521,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "Digital Construction",
+      "Energy Performance"
+    ],
+    "domains": [
+      "Sustainability",
+      "Construction Management"
+    ]
+  },
+  {
+    "country": "China",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "CNY",
+    "name": "Guangdong University of Petrochemical Technology",
+    "city": "Maoming",
+    "programs": [
+      "Bachelor of Civil Engineering",
+      "Bachelor of Intelligent Construction"
+    ],
+    "programLinks": [
+      "http://site.gdupt.edu.cn/jiangong/info/1101/2355.htm",
+      "http://site.gdupt.edu.cn/jiangong/info/1101/5564.htm"
+    ],
+    "cost": "5710",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Programming",
+      "Prefabrication & Modular Construction",
+      "Digital Construction",
+      "Civil Engineering"
+    ],
+    "website": "https://www.gdupt.edu.cn",
+    "lat": 21.6820637,
+    "lon": 110.9177644,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Programming",
+      "Digital Construction"
+    ],
+    "domains": [
+      "Prefabrication & Modular Construction",
+      "Civil Engineering"
+    ]
+  },
+  {
+    "country": "China",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "CNY",
+    "name": "Guangdong Baiyun University",
+    "city": "Guangzhou",
+    "programs": [
+      "Bachelor of Civil Engineering",
+      "Bachelor of Construction Cost",
+      "Bachelor of Intelligent Construction"
+    ],
+    "programLinks": [
+      "https://jzgc.baiyunu.edu.cn/zszy/zszyjs/tmgc.htm",
+      "https://jzgc.baiyunu.edu.cn/zszy/zszyjs/gczj.htm",
+      "https://jzgc.baiyunu.edu.cn/zszy/zszyjs/znjz.htm"
+    ],
+    "cost": "-",
+    "topics": [
+      "BIM",
+      "nD BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "Robotics & Automation",
+      "Digital Construction",
+      "Prefabrication & Modular Construction",
+      "Construction Management",
+      "Civil Engineering"
+    ],
+    "website": "https://www.baiyunu.edu.cn",
+    "lat": 23.2749288,
+    "lon": 113.20214,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "nD BIM",
+      "AI & Machine Learning",
+      "Data Management",
+      "Robotics & Automation",
+      "Digital Construction"
+    ],
+    "domains": [
+      "Prefabrication & Modular Construction",
+      "Construction Management",
+      "Civil Engineering"
+    ]
+  },
+  {
+    "country": "China",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "CNY",
+    "name": "Guangzhou City University of Technology (GCU)",
+    "city": "Guangzhou",
+    "programs": [
+      "Bachelor of Intelligent Construction"
+    ],
+    "programLinks": [
+      "https://tmjt.gcut.edu.cn/2025/0307/c5201a182601/page.htm"
+    ],
+    "cost": "30000 - 33000",
+    "topics": [
+      "BIM",
+      "Digital Construction",
+      "Civil Engineering"
+    ],
+    "website": "https://www.gcu.edu.cn",
+    "lat": 23.4365563,
+    "lon": 113.1678396,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "Digital Construction"
+    ],
+    "domains": [
+      "Civil Engineering"
+    ]
+  },
+  {
+    "country": "China",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "CNY",
+    "name": "Guangzhou Huali College",
+    "city": "Guangzhou",
+    "programs": [
+      "Bachelor of Engineering Management"
+    ],
+    "programLinks": [
+      "https://www.hualixy.edu.cn/upload/history/UpFile/20211117/16371133648738737.pdf"
+    ],
+    "cost": "-",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "nD BIM",
+      "VR/AR",
+      "Construction Management"
+    ],
+    "website": "https://www.hualixy.edu.cn",
+    "lat": 23.2407654,
+    "lon": 113.8595557,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "nD BIM",
+      "VR/AR"
+    ],
+    "domains": [
+      "Construction Management"
+    ]
+  },
+  {
+    "country": "China",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "CNY",
+    "name": "Maoming Polytechnic",
+    "city": "Maoming",
+    "programs": [
+      "Diploma in Building Engineering Technology"
+    ],
+    "programLinks": [
+      "https://www.mmpt.edu.cn/__local/5/30/C1/2A1A5F1202D38E7F7EB86F26151_D3847214_15A673.pdf"
+    ],
+    "cost": "6410",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "nD BIM",
+      "Construction Management"
+    ],
+    "website": "https://www.mmpt.edu.cn",
+    "lat": 21.4682788,
+    "lon": 110.9735549,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "nD BIM"
+    ],
+    "domains": [
+      "Construction Management"
+    ]
+  },
+  {
+    "country": "China",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "CNY",
+    "name": "Guangdong Country Garden Polytechnic",
+    "city": "Qingyuan",
+    "programs": [
+      "Diploma in Intelligent Construction Technology"
+    ],
+    "programLinks": [
+      "https://jwc.bgypt.edu.cn/upload/history/d/file/xingz/jiaoxue/rencaipeiyang/2024-12-02/9c3df55b4cbb27085e6337159733fafa.pdf"
+    ],
+    "cost": "14800 - 20800",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Programming",
+      "AI & Machine Learning",
+      "IoT",
+      "Robotics & Automation",
+      "VR/AR",
+      "Digital Construction"
+    ],
+    "website": "https://www.bgypt.edu.cn",
+    "lat": 23.724666,
+    "lon": 113.1053635,
+    "geoSource": "nominatim:name",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Programming",
+      "AI & Machine Learning",
+      "IoT",
+      "Robotics & Automation",
+      "VR/AR",
+      "Digital Construction"
+    ],
+    "domains": []
+  },
+  {
+    "country": "China",
+    "accreditation": [
+      "-"
+    ],
+    "language": "English",
+    "mode": "Full-time",
+    "delivery": "Presential",
+    "graduatesPerYear": "Not published",
+    "verificationLevel": 2,
+    "region": "Eastern Asia",
+    "costCurrency": "CNY",
+    "name": "Guangdong Engineering Polytechnic",
+    "city": "Qingyuan",
+    "programs": [
+      "Diploma in Intelligent Construction Technology",
+      "Diploma in Building Engineering Technology",
+      "Diploma in Building Equipment Engineering Technology"
+    ],
+    "programLinks": [
+      "http://www.gpc.net.cn/jzgcxy/xygk.htm",
+      "http://www.gpc.net.cn/jzgcxy/xygk.htm",
+      "http://www.gpc.net.cn/jzgcxy/xygk.htm"
+    ],
+    "cost": "6410",
+    "topics": [
+      "BIM",
+      "BIM Software",
+      "Robotics & Automation",
+      "Prefabrication & Modular Construction",
+      "Digital Construction",
+      "Construction Management"
+    ],
+    "website": "https://www.gdep.edu.cn",
+    "lat": 23.7512677,
+    "lon": 113.1220913,
+    "geoSource": "nominatim:street",
+    "lastChecked": "2026-11-17",
+    "computingTopics": [
+      "BIM",
+      "BIM Software",
+      "Robotics & Automation",
+      "Digital Construction"
+    ],
+    "domains": [
+      "Prefabrication & Modular Construction",
       "Construction Management"
     ]
   }

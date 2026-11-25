@@ -1,6 +1,6 @@
 {
   "name": "Construction-Computing Education Map",
-  "description": "Dataset of higher-education institutions offering programmes in digital construction, BIM, and construction informatics, with programme, cost, accreditation, delivery, and geographic detail. 1689 institutions in 108 countries: Europe (385), North America (341), South America (285), Southern Asia (265), South-eastern Asia (142), Eastern Asia (93), Western Asia (90), Oceania (44), Central America (21), Central Asia (15), Caribbean (5), Eastern Africa (3).",
+  "description": "Dataset of higher-education institutions offering programmes in digital construction, BIM, and construction informatics, with programme, cost, accreditation, delivery, and geographic detail. 1722 institutions in 108 countries: Europe (385), North America (341), South America (285), Southern Asia (265), South-eastern Asia (142), Eastern Asia (126), Western Asia (90), Oceania (44), Central America (21), Central Asia (15), Caribbean (5), Eastern Africa (3).",
   "version": "1.6.0",
   "generated": "2026-11-17",
   "license": "CC BY 4.0",
@@ -9,7 +9,7 @@
   "maintainerContact": "<add maintainer email or ORCID>",
   "repository": "https://github.com/PabloMarRod/europe-construction-computing-map",
   "coverage": {
-    "institutions": 1689,
+    "institutions": 1722,
     "countries": 108,
     "countryList": [
       "Afghanistan",
@@ -128,7 +128,7 @@
       "South America": 285,
       "Southern Asia": 265,
       "South-eastern Asia": 142,
-      "Eastern Asia": 93,
+      "Eastern Asia": 126,
       "Western Asia": 90,
       "Oceania": 44,
       "Central America": 21,
@@ -170,13 +170,13 @@
       "nature": "Values are annual-graduate estimates, expressed as ranges. They are indicative, not official institutional statistics.",
       "imputation": "Records originally lacking a figure were imputed from the median of peer institutions in this dataset (same country and institution type where n>=3, widening to type, then to all). Imputed records carry `graduatesEstimated: true`.",
       "imputedCount": 296,
-      "notPublishedCount": 1373
+      "notPublishedCount": 1406
     },
     "cost": {
       "unit": "indicative tuition in each record's costCurrency (local currency; per year unless the record states otherwise in its sources).",
       "note": "Ranges run from the lowest to the highest published yearly fee (e.g. home to international, or across the record's programmes), taken from the institution's own pages or, where the institution publishes none, an official national source (e.g. Türkiye's ÖSYM programme guide, Oman's Ministry of Higher Education guide). Per-credit or whole-programme fees are converted to a yearly figure (standard full-time load, or total divided by stated duration). '0' = no tuition charged (e.g. state-university places for citizens, funded places). '-' = fee not published.",
-      "numericRecords": 1634,
-      "notPublishedRecords": 55
+      "numericRecords": 1662,
+      "notPublishedRecords": 60
     },
     "verificationLevel": {
       "legend": {
@@ -236,7 +236,7 @@
     "overTagged": 0,
     "underTaggedRate": "52% of verified (100% of single-tag records)",
     "mostCommonlyOmitted": "AI & Machine Learning",
-    "recordsVerifiedToDate": 1689,
+    "recordsVerifiedToDate": 1722,
     "censusStatus": "In progress (38/309 verified). Sample rate (>50% under-tagged) warrants full verification; CESI campuses corrected via shared national-programme evidence. Priority: <=2-tag population. Records verified under the rubric carry lastChecked."
   }
 }
